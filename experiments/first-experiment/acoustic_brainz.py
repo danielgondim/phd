@@ -8,7 +8,18 @@ def mood_translator(value):
 	return 1
 
 def retrieveHighLevelFeatures(mbid):
-	response = requests.get('https://acousticbrainz.org/api/v1/' + mbid + '/high-level?n=0')
+	try:
+		response = requests.get('https://acousticbrainz.org/api/v1/' + mbid + '/high-level?n=0')
+		data = response.json()
+	except:
+		return {}
+	try:
+		if data['message'].lower() == "not found":
+			return {}
+	except KeyError:
+		return data
+
+	'''response = requests.get('https://acousticbrainz.org/api/v1/' + mbid + '/high-level?n=0')
 	data = response.json()
 	try:
 		highlevel_content = data['highlevel']
@@ -16,7 +27,7 @@ def retrieveHighLevelFeatures(mbid):
 		for mood in moods_list:
 			features[mood] = mood_translator(highlevel_content[mood]['value'])
 		return features
-		'''print "VOICE AND GENDER"
+		print "VOICE AND GENDER"
 		print "Voice: " + highlevel_content['voice_instrumental']['value']
 		print "Gender: " + highlevel_content['gender']['value'] + '\n'
 
@@ -28,15 +39,18 @@ def retrieveHighLevelFeatures(mbid):
 		print "Happy: " + highlevel_content['mood_happy']['value']
 		print "Sad: " + highlevel_content['mood_sad']['value']
 		print "Relaxed: " + highlevel_content['mood_relaxed']['value'] + '\n'
-		#return data['highlevel']'''
+		#return data['highlevel']
 	except KeyError:
-		return {}
+		return {}'''
 
 def retrieveLowLevelFeatures(mbid):
-	#recuperar informacoes low-level
-	#https://acousticbrainz.org/api/v1/MUSIC-MBID/low-level?n=0
-	response = requests.get('https://acousticbrainz.org/api/v1/' + mbid + '/low-level?n=0')
-	data = response.json()
-
-	#verificar moods e a probabilidade
-	data['high-level']['mood_aggressive']
+	try:
+		response = requests.get('https://acousticbrainz.org/api/v1/' + mbid + '/low-level?n=0')
+		data = response.json()
+	except:
+		return {}
+	try:
+		if data['message'].lower() == "not found":
+			return {}
+	except KeyError:
+		return data

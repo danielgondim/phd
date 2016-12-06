@@ -1,13 +1,19 @@
-import requests, sys, acoustic_brainz, music_brainz, charts
+import requests, sys, acoustic_brainz, music_brainz, charts, time
 
 from unidecode import unidecode
 
 API_KEY = sys.argv[1]
-LASTFM_USERNAME = "sleoterio" 
-LIMIT_OF_MUSICS = "50"
-API_REST_LASTFM = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + LASTFM_USERNAME + "&api_key=" + API_KEY + "&format=json&limit=" + LIMIT_OF_MUSICS
+LASTFM_USERNAME = "danielgem" 
+LIMIT_OF_MUSICS = "30"
+INITIAL_TIME = str(int(time.time()) - 3600)
+FINAL_TIME = str(int(time.time()))
+API_REST_LASTFM = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + \
+	LASTFM_USERNAME + "&api_key=" + API_KEY + "&format=json&limit=" + LIMIT_OF_MUSICS
+#API_REST_LASTFM = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + \
+	#LASTFM_USERNAME + "&api_key=" + API_KEY + "&format=json&limit=" + LIMIT_OF_MUSICS + "&from=" + \
+	#INITIAL_TIME + "&to=" + FINAL_TIME
 
-def sum_features(current_features):
+def sum_high_level_features(current_features):
 	global music_features
 	for feature in music_features.keys():
 		music_features[feature] = music_features[feature] + current_features[feature]
@@ -31,12 +37,19 @@ for track in data['recenttracks']['track']:
 	else:
 		MBIDs.append(songMBID)
 	if len(MBIDs) > 0:
-		features = acoustic_brainz.retrieveHighLevelFeatures(MBIDs[0])
-		if features != {}:
-			sum_features(features)
+		print "MBID retrieved: " + MBIDs[0]
+		high_level_features = acoustic_brainz.retrieveHighLevelFeatures(MBIDs[0])
+		if high_level_features != {}:
+			print "High level features retrieved"
+		else:
+			print "High level features not retrieved"
+		low_level_features = acoustic_brainz.retrieveLowLevelFeatures(MBIDs[0])
+		if low_level_features != {}:
+			print "Low level features retrieved"
+		else:
+			print "Low level features not retrieved"
+		#	sum_high_level_features(features)
+	print "###########################################"
 
-print music_features
-charts.pie_chart(music_features)
-
-#TODO: Retrieve AcousticBrainz informations of a certain MBID
-#To retrieve low-level informations: https://acousticbrainz.org/api/v1/MUSIC-MBID/low-level?n=0
+#print music_features
+#charts.pie_chart(music_features)
