@@ -1,11 +1,19 @@
+#chamada python testingAcousticBrainz.py 5eb8bc10d65cbdda3cd096f50081ae3c 2017-01-02 2017-01-31
+# -*- coding: utf-8 -*-
 import requests, sys, acoustic_brainz, music_brainz, time, datetime, calendar
-
 from unidecode import unidecode
+from spotipy.oauth2 import SpotifyClientCredentials
+import json
+import spotipy
+import string
+import re
 
+#UTILIZANDO MUSICBRAINZ + ACOUSTICBRAINZ
+'''
 API_KEY = sys.argv[1]
-LASTFM_USERNAME = "felipevf" 
+LASTFM_USERNAME = "amaurymedeiros" 
 LIMIT_OF_MUSICS = "10"
-TIMESTAMP_DIFFERENCE = 14400
+TIMESTAMP_DIFFERENCE = 10800 #3 horas
 INITIAL_TIME = str(int(time.time()) - 3600)
 FINAL_TIME = str(int(time.time()))
 API_REST_LASTFM = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + \
@@ -26,38 +34,234 @@ def api_rest_with_timestamp(date_time):
 	str(timestamp + TIMESTAMP_DIFFERENCE)
 
 current_date = convert_to_datetime(sys.argv[2])
-current_date += datetime.timedelta(hours=11)
+current_date += datetime.timedelta(hours=10)
 final_date = convert_to_datetime(sys.argv[3])
-final_date += datetime.timedelta(hours=11)
+final_date += datetime.timedelta(hours=10)
+
+musics_with_mbid = 0
+musics_without_mbid = 0
+number_musics = 0
+music_with_analysis = 0
+music_without_analysis = 0
 
 while (current_date <= final_date):
 	if (current_date.weekday() < 5):
 		#pegar musicas pela manha
 		print "Musicas da manha do dia: " + str(current_date)
-		print api_rest_with_timestamp(current_date)
 		response = requests.get(api_rest_with_timestamp(current_date))
 		data = response.json()
-		print data
-
+		for track in data['recenttracks']['track']:
+			number_musics += 1
+			MBIDs = []
+			artist = unidecode(track['artist']['#text'])
+			song = unidecode(track['name'])
+			print "Musica: " + track['name']
+			print "Artista: " + track['artist']['#text']
+			if track['mbid'] == '':
+				print "Tentando buscar MBID"
+				MBIDs = music_brainz.retrieveMBID(song, artist)
+				if len(MBIDs) > 0:
+					musics_with_mbid += 1
+					print "MBID: " + MBIDs[0]
+					if acoustic_brainz.retrieveHighLevelFeatures(MBIDs[0]) != {}:
+						music_with_analysis += 1
+					else:
+						music_without_analysis += 1
+				else:
+					print "MBID: " + track['mbid']
+					musics_without_mbid += 1
+			else:
+				musics_with_mbid += 1
+				print "MBID: " + track['mbid']
+				if acoustic_brainz.retrieveHighLevelFeatures(track['mbid']) != {}:
+					music_with_analysis += 1
+				else:
+					music_without_analysis += 1
+			print
 		print "################################"
 
 		#musicas da tarde
-		current_date += datetime.timedelta(hours=6)
-		print api_rest_with_timestamp(current_date)
+		current_date += datetime.timedelta(hours=4)
 		print "Musicas da tarde do dia: " + str(current_date)
 		response = requests.get(api_rest_with_timestamp(current_date))
 		data = response.json()
-		print data
-
+		for track in data['recenttracks']['track']:
+			number_musics += 1
+			MBIDs = []
+			artist = unidecode(track['artist']['#text'])
+			song = unidecode(track['name'])
+			print "Musica: " + track['name']
+			print "Artista: " + track['artist']['#text']
+			if track['mbid'] == '':
+				print "Tentando buscar MBID"
+				MBIDs = music_brainz.retrieveMBID(song, artist)
+				if len(MBIDs) > 0:
+					musics_with_mbid += 1
+					print "MBID: " + MBIDs[0]
+					if acoustic_brainz.retrieveHighLevelFeatures(MBIDs[0]) != {}:
+						music_with_analysis += 1
+					else:
+						music_without_analysis += 1
+				else:
+					print "MBID: " + track['mbid']
+					musics_without_mbid += 1
+			else:
+				musics_with_mbid += 1
+				print "MBID: " + track['mbid']
+				if acoustic_brainz.retrieveHighLevelFeatures(track['mbid']) != {}:
+					music_with_analysis += 1
+				else:
+					music_without_analysis += 1
+			print
 		print "################################"
 
 		#passando para o inicio do expediente do outro dia
-		current_date += datetime.timedelta(hours=18)
+		current_date += datetime.timedelta(hours=20)
 	else:
 		#se for fds passa o dia
 		print "Hoje eh fim de semana, nao teve trabalho!!!!"
 		print "################################"
 		current_date += datetime.timedelta(days=1)
+
+print "Total de musicas com analise acustica: " + str(music_with_analysis)
+print "Total de musicas sem analise acustica: " + str(music_without_analysis)
+print "Total de musicas com MBID: " + str(musics_with_mbid)
+print "Total de musicas sem MBID: " + str(musics_without_mbid)
+print "Total de musicas: " + str(number_musics)
+'''
+
+
+API_KEY = sys.argv[1]
+LASTFM_USERNAME = "amaurymedeiros" 
+LIMIT_OF_MUSICS = "10"
+TIMESTAMP_DIFFERENCE = 10800 #3 horas
+INITIAL_TIME = str(int(time.time()) - 3600)
+FINAL_TIME = str(int(time.time()))
+API_REST_LASTFM = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + \
+	LASTFM_USERNAME + "&api_key=" + API_KEY + "&format=json&limit=" + LIMIT_OF_MUSICS
+API_REST_LASTFM_TIME = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + \
+	LASTFM_USERNAME + "&api_key=" + API_KEY + "&format=json&from=" + INITIAL_TIME + "&to=" + FINAL_TIME
+CLIENT_ID = '1a6f2ba5f65645729c3f1f035d745c77'
+CLIENT_SECRET = '75d10aafa6d142a9a888085f1a29ab32'
+
+def is_weekend(date):
+	return date.weekday() >= 5 
+
+def convert_to_datetime(date):
+	return datetime.datetime.strptime(date + " 00:00:00", "%Y-%m-%d %H:%M:%S")
+
+def api_rest_with_timestamp(date_time):
+	timestamp = calendar.timegm(date_time.utctimetuple())
+	return "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + \
+	LASTFM_USERNAME + "&api_key=" + API_KEY + "&format=json&from=" + str(timestamp) + "&to=" + \
+	str(timestamp + TIMESTAMP_DIFFERENCE)
+
+client_credentials_manager = SpotifyClientCredentials(CLIENT_ID,CLIENT_SECRET)
+sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
+
+current_date = convert_to_datetime(sys.argv[2])
+current_date += datetime.timedelta(hours=10)
+final_date = convert_to_datetime(sys.argv[3])
+final_date += datetime.timedelta(hours=10)
+
+musics_with_spotifyid = 0
+musics_without_spotifyid = 0
+number_musics = 0
+music_with_spotify_analysis = 0
+music_without_spotify_analysis = 0
+
+while (current_date <= final_date):
+	if (current_date.weekday() < 5):
+		#pegar musicas pela manha
+		print "Musicas da manha do dia: " + str(current_date)
+		response = requests.get(api_rest_with_timestamp(current_date))
+		data = response.json()
+		for track in data['recenttracks']['track']:
+			number_musics += 1
+			print "Musica: " + track['name']
+			print "Artista: " + track['artist']['#text']
+			string_search = track['name']
+			string_search = re.sub('/', ' ', string_search)
+			string_search = " ".join(string_search.split())
+			#print string_search
+
+			try:
+				results = sp.search(q=string_search, type='track')
+				if len(results["tracks"]["items"]) > 0:
+					track_id = results["tracks"]["items"][0]["id"]
+					if track_id != '':
+						print "Spotify ID: " + track_id
+						musics_with_spotifyid += 1
+						if sp.audio_features([track_id]) != {}:
+							music_with_spotify_analysis += 1
+						else:
+							music_without_spotify_analysis += 1
+					else:
+						print "Spotify ID: "
+						musics_without_spotifyid += 1
+					print
+				else:
+					print "Spotify ID: "
+					musics_without_spotifyid += 1
+			except:
+				print "Deu erro mas continuei. Sem Spotify ID!"
+				musics_without_spotifyid += 1
+				continue
+		print "################################"
+
+		#musicas da tarde
+		current_date += datetime.timedelta(hours=4)
+		print "Musicas da tarde do dia: " + str(current_date)
+		response = requests.get(api_rest_with_timestamp(current_date))
+		data = response.json()
+		for track in data['recenttracks']['track']:
+			number_musics += 1
+			print "Musica: " + track['name']
+			print "Artista: " + track['artist']['#text']
+			string_search = track['name']
+			string_search = re.sub('/', ' ', string_search)
+			string_search = " ".join(string_search.split())
+			#print string_search
+
+			try:
+				results = sp.search(q=string_search, type='track')
+				if len(results["tracks"]["items"]) > 0:
+					track_id = results["tracks"]["items"][0]["id"]
+					if track_id != '':
+						print "Spotify ID: " + track_id
+						musics_with_spotifyid += 1
+						if sp.audio_features([track_id]) != {}:
+							music_with_spotify_analysis += 1
+						else:
+							music_without_spotify_analysis += 1
+					else:
+						print "Spotify ID: "
+						musics_without_spotifyid += 1
+					print
+				else:
+					print "Spotify ID: "
+					musics_without_spotifyid += 1
+			except:
+				print "Deu erro mas continuei. Sem Spotify ID!"
+				musics_without_spotifyid += 1
+				continue
+
+		print "################################"
+
+		#passando para o inicio do expediente do outro dia
+		current_date += datetime.timedelta(hours=20)
+	else:
+		#se for fds passa o dia
+		print "Hoje eh fim de semana, nao teve trabalho!!!!"
+		print "################################"
+		current_date += datetime.timedelta(days=1)
+
+print "Total de musicas com analise acustica do Spotify: " + str(music_with_spotify_analysis)
+print "Total de musicas sem analise acustica do Spotify: " + str(music_without_spotify_analysis)
+print "Total de musicas com ID do Spotify: " + str(musics_with_spotifyid)
+print "Total de musicas sem ID do Spotify: " + str(musics_without_spotifyid)
+print "Total de musicas: " + str(number_musics)
+
 
 '''
 response = requests.get(API_REST_LASTFM)
