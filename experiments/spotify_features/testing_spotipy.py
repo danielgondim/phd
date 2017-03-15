@@ -8,34 +8,34 @@ import sys
 import string
 import re
 
-
-try:
-	x = 12/0
-except:
-	y = 10
-	pass
-print y
-
-
 CLIENT_ID = '1a6f2ba5f65645729c3f1f035d745c77'
 CLIENT_SECRET = '75d10aafa6d142a9a888085f1a29ab32'
 
 client_credentials_manager = SpotifyClientCredentials(CLIENT_ID,CLIENT_SECRET)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
-string_search = '1979'
+string_search = 'Mascarada'
 string_search = re.sub('/', ' ', string_search)
-print string_search
 string_search = " ".join(string_search.split())
-print
+
+print string_search
+
+artista = 'Joyce'
 
 try:
-	results = sp.search(q=string_search, type='track')
+	results = sp.search(q=string_search, limit=50, type='track')
+	#print results
+	music_count = 0
+	if len(results["tracks"]["items"]) > 0:
+		for item in results["tracks"]["items"]:
+			music_count += 1
+			if item["name"] == string_search:
+				for artist in item["artists"]:
+					#print artist["name"]
+					if artist["name"] == artista:
+						print 'Musica numero: ' + str(music_count)
+	print str(music_count)
 except:
+	print "deu merda"
 	pass
-
-print
-
-track_id = results["tracks"]["items"][0]["id"]
-
-print sp.audio_features([track_id])
+					

@@ -62,7 +62,7 @@ def retrieveMBID(songName, artistName):
       if MBID_found:
         break    
     return listOfMBIDs
-  except urllib2.HTTPError:
+  except:
     return []
 
 '''

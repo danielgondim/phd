@@ -11,7 +11,7 @@ import re
 #UTILIZANDO MUSICBRAINZ + ACOUSTICBRAINZ
 '''
 API_KEY = sys.argv[1]
-LASTFM_USERNAME = "amaurymedeiros" 
+LASTFM_USERNAME = "felipevf" 
 LIMIT_OF_MUSICS = "10"
 TIMESTAMP_DIFFERENCE = 10800 #3 horas
 INITIAL_TIME = str(int(time.time()) - 3600)
@@ -34,9 +34,9 @@ def api_rest_with_timestamp(date_time):
 	str(timestamp + TIMESTAMP_DIFFERENCE)
 
 current_date = convert_to_datetime(sys.argv[2])
-current_date += datetime.timedelta(hours=10)
+current_date += datetime.timedelta(hours=11)
 final_date = convert_to_datetime(sys.argv[3])
-final_date += datetime.timedelta(hours=10)
+final_date += datetime.timedelta(hours=11)
 
 musics_with_mbid = 0
 musics_without_mbid = 0
@@ -81,7 +81,7 @@ while (current_date <= final_date):
 		print "################################"
 
 		#musicas da tarde
-		current_date += datetime.timedelta(hours=4)
+		current_date += datetime.timedelta(hours=6)
 		print "Musicas da tarde do dia: " + str(current_date)
 		response = requests.get(api_rest_with_timestamp(current_date))
 		data = response.json()
@@ -116,7 +116,7 @@ while (current_date <= final_date):
 		print "################################"
 
 		#passando para o inicio do expediente do outro dia
-		current_date += datetime.timedelta(hours=20)
+		current_date += datetime.timedelta(hours=18)
 	else:
 		#se for fds passa o dia
 		print "Hoje eh fim de semana, nao teve trabalho!!!!"
@@ -132,7 +132,7 @@ print "Total de musicas: " + str(number_musics)
 
 
 API_KEY = sys.argv[1]
-LASTFM_USERNAME = "amaurymedeiros" 
+LASTFM_USERNAME = "felipevf" 
 LIMIT_OF_MUSICS = "10"
 TIMESTAMP_DIFFERENCE = 10800 #3 horas
 INITIAL_TIME = str(int(time.time()) - 3600)
@@ -160,9 +160,9 @@ client_credentials_manager = SpotifyClientCredentials(CLIENT_ID,CLIENT_SECRET)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 current_date = convert_to_datetime(sys.argv[2])
-current_date += datetime.timedelta(hours=10)
+current_date += datetime.timedelta(hours=12)
 final_date = convert_to_datetime(sys.argv[3])
-final_date += datetime.timedelta(hours=10)
+final_date += datetime.timedelta(hours=12)
 
 musics_with_spotifyid = 0
 musics_without_spotifyid = 0
@@ -177,6 +177,8 @@ while (current_date <= final_date):
 		response = requests.get(api_rest_with_timestamp(current_date))
 		data = response.json()
 		for track in data['recenttracks']['track']:
+			music_found = False
+			track_id = ""
 			number_musics += 1
 			print "Musica: " + track['name']
 			print "Artista: " + track['artist']['#text']
@@ -186,35 +188,42 @@ while (current_date <= final_date):
 			#print string_search
 
 			try:
-				results = sp.search(q=string_search, type='track')
+				results = sp.search(q=string_search, limit=50, type='track')
 				if len(results["tracks"]["items"]) > 0:
-					track_id = results["tracks"]["items"][0]["id"]
-					if track_id != '':
-						print "Spotify ID: " + track_id
-						musics_with_spotifyid += 1
-						if sp.audio_features([track_id]) != {}:
-							music_with_spotify_analysis += 1
-						else:
-							music_without_spotify_analysis += 1
-					else:
-						print "Spotify ID: "
-						musics_without_spotifyid += 1
-					print
-				else:
-					print "Spotify ID: "
+					for item in results["tracks"]["items"]:
+						if music_found:
+							break
+						if item["name"] == string_search:
+							for artist in item["artists"]:
+								if artist["name"].lower() == track["artist"]["#text"].lower():
+									track_id = item["id"]
+									print "Spotify ID: " + track_id
+									musics_with_spotifyid += 1
+									music_found = True
+									if sp.audio_features([track_id]) != {}:
+										music_with_spotify_analysis += 1
+									else:
+										music_without_spotify_analysis += 1
+									break
+				if track_id == "":
+					print "Spotify ID:"
 					musics_without_spotifyid += 1
 			except:
 				print "Deu erro mas continuei. Sem Spotify ID!"
 				musics_without_spotifyid += 1
+				print
 				continue
+			print
 		print "################################"
 
 		#musicas da tarde
-		current_date += datetime.timedelta(hours=4)
+		current_date += datetime.timedelta(hours=6)
 		print "Musicas da tarde do dia: " + str(current_date)
 		response = requests.get(api_rest_with_timestamp(current_date))
 		data = response.json()
 		for track in data['recenttracks']['track']:
+			music_found = False
+			track_id = ""
 			number_musics += 1
 			print "Musica: " + track['name']
 			print "Artista: " + track['artist']['#text']
@@ -224,32 +233,36 @@ while (current_date <= final_date):
 			#print string_search
 
 			try:
-				results = sp.search(q=string_search, type='track')
+				results = sp.search(q=string_search, limit=50, type='track')
 				if len(results["tracks"]["items"]) > 0:
-					track_id = results["tracks"]["items"][0]["id"]
-					if track_id != '':
-						print "Spotify ID: " + track_id
-						musics_with_spotifyid += 1
-						if sp.audio_features([track_id]) != {}:
-							music_with_spotify_analysis += 1
-						else:
-							music_without_spotify_analysis += 1
-					else:
-						print "Spotify ID: "
-						musics_without_spotifyid += 1
-					print
-				else:
-					print "Spotify ID: "
+					for item in results["tracks"]["items"]:
+						if music_found:
+							break
+						if item["name"] == string_search:
+							for artist in item["artists"]:
+								if artist["name"].lower() == track["artist"]["#text"].lower():
+									track_id = item["id"]
+									print "Spotify ID: " + track_id
+									musics_with_spotifyid += 1
+									music_found = True
+									if sp.audio_features([track_id]) != {}:
+										music_with_spotify_analysis += 1
+									else:
+										music_without_spotify_analysis += 1
+									break
+				if track_id == "":
+					print "Spotify ID:"
 					musics_without_spotifyid += 1
 			except:
 				print "Deu erro mas continuei. Sem Spotify ID!"
 				musics_without_spotifyid += 1
+				print
 				continue
-
+			print
 		print "################################"
 
 		#passando para o inicio do expediente do outro dia
-		current_date += datetime.timedelta(hours=20)
+		current_date += datetime.timedelta(hours=18)
 	else:
 		#se for fds passa o dia
 		print "Hoje eh fim de semana, nao teve trabalho!!!!"
