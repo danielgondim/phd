@@ -170,6 +170,8 @@ number_musics = 0
 music_with_spotify_analysis = 0
 music_without_spotify_analysis = 0
 
+tempo = {}
+
 while (current_date <= final_date):
 	if (current_date.weekday() < 5):
 		#pegar musicas pela manha
@@ -200,8 +202,10 @@ while (current_date <= final_date):
 									print "Spotify ID: " + track_id
 									musics_with_spotifyid += 1
 									music_found = True
-									if sp.audio_features([track_id]) != {}:
+									music_features = sp.audio_features([track_id])
+									if music_features != {}:
 										music_with_spotify_analysis += 1
+										tempo[track_id] = music_features[0]["tempo"]
 									else:
 										music_without_spotify_analysis += 1
 									break
@@ -245,8 +249,10 @@ while (current_date <= final_date):
 									print "Spotify ID: " + track_id
 									musics_with_spotifyid += 1
 									music_found = True
-									if sp.audio_features([track_id]) != {}:
+									music_features = sp.audio_features([track_id])
+									if music_features != {}:
 										music_with_spotify_analysis += 1
+										tempo[track_id] = music_features[0]["tempo"]
 									else:
 										music_without_spotify_analysis += 1
 									break
@@ -274,6 +280,9 @@ print "Total de musicas sem analise acustica do Spotify: " + str(music_without_s
 print "Total de musicas com ID do Spotify: " + str(musics_with_spotifyid)
 print "Total de musicas sem ID do Spotify: " + str(musics_without_spotifyid)
 print "Total de musicas: " + str(number_musics)
+
+print len(tempo)
+print tempo
 
 
 '''

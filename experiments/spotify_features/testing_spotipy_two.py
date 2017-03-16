@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-from __future__ import print_function    # (at top of module)
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
 import spotipy
@@ -21,3 +20,5 @@ track_id = results["tracks"]["items"][0]["id"]
 print track_id
 
 x = sp.audio_features([track_id])
+
+print type(x[0]['tempo'])
