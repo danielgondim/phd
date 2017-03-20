@@ -1,4 +1,4 @@
-#chamada python testingAcousticBrainz.py 5eb8bc10d65cbdda3cd096f50081ae3c 2017-01-02 2017-01-31
+#chamada python spotify_features_not_working.py 5eb8bc10d65cbdda3cd096f50081ae3c 2017-01-09 2017-01-31
 # -*- coding: utf-8 -*-
 import requests, sys, acoustic_brainz, music_brainz, time, datetime, calendar
 from unidecode import unidecode
@@ -9,9 +9,10 @@ import string
 import re
 
 API_KEY = sys.argv[1]
-LASTFM_USERS_DETAILS = {"ourixilva":[21,50400,36000], "dcmaia":[21,50400,36000], "amaurymedeiros":[10,4,10800,20], "felipevf":[12,6,10800,18]} 
+LASTFM_USERS_DETAILS = {"ourixilva":[21,50400,36000], "dcmaia":[21,50400,36000], "amaurymedeiros":[18,57600,28800], "felipevf":[21,54000,32400]} 
 LIMIT_OF_MUSICS = "10"
 TIMESTAMP_DIFFERENCE = 14400 #4 horas
+WEEKEND = 172800
 INITIAL_TIME = str(int(time.time()) - 3600)
 FINAL_TIME = str(int(time.time()))
 #API_REST_LASTFM = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + \
@@ -89,12 +90,11 @@ for current_user in LASTFM_USERS_DETAILS:
 											music_with_spotify_analysis += 1
 											for feature in features:
 												features[feature][track_id] = music_features[0][feature]
-										else:
-											music_without_spotify_analysis += 1
 										break
 					if track_id == "":
 						#print "Spotify ID:"
 						musics_without_spotifyid += 1
+						music_without_spotify_analysis += 1
 				except:
 					#print "Deu erro mas continuei. Sem Spotify ID!"
 					musics_without_spotifyid += 1
@@ -104,16 +104,56 @@ for current_user in LASTFM_USERS_DETAILS:
 			#print "################################"
 
 			#passando para o inicio do expediente do outro dia
-			current_date += datetime.timedelta(hours=LASTFM_USERS_DETAILS[current_user][2])
-		else:
-			response = requests.get(api_rest_with_timestamp(current_date, current_user, LASTFM_USERS_DETAILS[current_user][1]))
-			data = response.json()
-			#se for fds passa o dia
-			#print "Hoje eh fim de semana, nao teve trabalho!!!!"
-			#print "################################"
 			current_date += datetime.timedelta(days=1)
+		else:
+			current_date -= datetime.timedelta(hours=LASTFM_USERS_DETAILS[current_user][2])
+			response = requests.get(api_rest_with_timestamp(current_date, current_user, WEEKEND))
+			data = response.json()
+			for track in data['recenttracks']['track']:
+				music_found = False
+				track_id = ""
+				number_musics += 1
+				#print "Musica: " + track['name']
+				#print "Artista: " + track['artist']['#text']
+				string_search = track['name']
+				string_search = re.sub('/', ' ', string_search)
+				string_search = " ".join(string_search.split())
+				#print string_search
+
+				try:
+					results = sp.search(q=string_search, limit=50, type='track')
+					if len(results["tracks"]["items"]) > 0:
+						for item in results["tracks"]["items"]:
+							if music_found:
+								break
+							if item["name"] == string_search:
+								for artist in item["artists"]:
+									if artist["name"].lower() == track["artist"]["#text"].lower():
+										track_id = item["id"]
+										#print "Spotify ID: " + track_id
+										musics_with_spotifyid += 1
+										music_found = True
+										music_features = sp.audio_features([track_id])
+										#music_analysis = sp.audio_analysis(track_id)
+										if music_features != {}:
+											music_with_spotify_analysis += 1
+											for feature in features:
+												features[feature][track_id] = music_features[0][feature]
+										break
+					if track_id == "":
+						#print "Spotify ID:"
+						musics_without_spotifyid += 1
+						music_without_spotify_analysis += 1
+				except:
+					#print "Deu erro mas continuei. Sem Spotify ID!"
+					musics_without_spotifyid += 1
+					#print
+					continue
+			current_date += datetime.timedelta(hours=WEEKEND+LASTFM_USERS_DETAILS[current_user][2])
+
 	json_file_data[current_user] = features
 	print "Features of the musics from the user " + current_user + " retrieved\n"
+
 print "Features from all the users retrieved"
 print
 print "Total de musicas com analise acustica do Spotify: " + str(music_with_spotify_analysis)

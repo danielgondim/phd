@@ -1,4 +1,4 @@
-#chamada python testingAcousticBrainz.py 5eb8bc10d65cbdda3cd096f50081ae3c 2017-01-02 2017-01-31
+#chamada python testingAcousticBrainz.py 5eb8bc10d65cbdda3cd096f50081ae3c 2017-01-09 2017-01-31
 # -*- coding: utf-8 -*-
 import requests, sys, acoustic_brainz, music_brainz, time, datetime, calendar
 from unidecode import unidecode
@@ -132,9 +132,9 @@ print "Total de musicas: " + str(number_musics)
 
 
 API_KEY = sys.argv[1]
-LASTFM_USERS_DETAILS = {"ourixilva":[11,6,14400,18], "dcmaia":[11,6,14400,18], "amaurymedeiros":[10,4,10800,20], "felipevf":[12,6,10800,18]} 
-LIMIT_OF_MUSICS = "10"
-TIMESTAMP_DIFFERENCE = 14400 #4 horas
+LASTFM_USERS_DETAILS = {"ourixilva":[11,6,14400,18],"dcmaia":[11,6,14400,18],"amaurymedeiros":[10,4,10800,20],"felipevf":[12,6,10800,18]} 
+#LIMIT_OF_MUSICS = "10"
+#TIMESTAMP_DIFFERENCE = 14400 #4 horas
 INITIAL_TIME = str(int(time.time()) - 3600)
 FINAL_TIME = str(int(time.time()))
 #API_REST_LASTFM = "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=" + \
@@ -143,9 +143,6 @@ FINAL_TIME = str(int(time.time()))
 #	LASTFM_USERNAME + "&api_key=" + API_KEY + "&format=json&from=" + INITIAL_TIME + "&to=" + FINAL_TIME
 CLIENT_ID = '1a6f2ba5f65645729c3f1f035d745c77'
 CLIENT_SECRET = '75d10aafa6d142a9a888085f1a29ab32'
-
-def is_weekend(date):
-	return date.weekday() >= 5 
 
 def convert_to_datetime(date):
 	return datetime.datetime.strptime(date + " 00:00:00", "%Y-%m-%d %H:%M:%S")
@@ -212,12 +209,11 @@ for current_user in LASTFM_USERS_DETAILS:
 											music_with_spotify_analysis += 1
 											for feature in features:
 												features[feature][track_id] = music_features[0][feature]
-										else:
-											music_without_spotify_analysis += 1
 										break
 					if track_id == "":
 						#print "Spotify ID:"
 						musics_without_spotifyid += 1
+						music_without_spotify_analysis += 1
 				except:
 					#print "Deu erro mas continuei. Sem Spotify ID!"
 					musics_without_spotifyid += 1
@@ -261,12 +257,11 @@ for current_user in LASTFM_USERS_DETAILS:
 											music_with_spotify_analysis += 1
 											for feature in features:
 												features[feature][track_id] = music_features[0][feature]
-										else:
-											music_without_spotify_analysis += 1
 										break
 					if track_id == "":
 						#print "Spotify ID:"
 						musics_without_spotifyid += 1
+						music_without_spotify_analysis += 1
 				except:
 					#print "Deu erro mas continuei. Sem Spotify ID!"
 					musics_without_spotifyid += 1
