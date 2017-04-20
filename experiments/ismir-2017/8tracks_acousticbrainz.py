@@ -21,14 +21,14 @@ def retrieve_mbid_and_tags(song_name, artist_name):
 
 db = MySQLdb.connect(host="localhost",    
                      user="root",         
-                     passwd="yourPassword",  
+                     passwd="98914866Corrente",  
                      db="8_tracks",       
                      charset="utf8",
                      use_unicode=True)     
 
 cur = db.cursor()
 
-query = "SELECT M.user_id, MT.mix_id, M.name, M.tag_list_cache, M.mixes_tracks_count, MT.track_id, T.name, T.performer FROM 8_tracks.mixes AS M, 8_tracks.mixes_tracks AS MT, 8_tracks.tracks AS T WHERE (M.id = MT.mix_id AND MT.track_id = T.id) ORDER BY MT.mix_id LIMIT 0,10;"
+query = "SELECT M.user_id, MT.mix_id, M.name, M.tag_list_cache, M.mixes_tracks_count, MT.track_id, T.name, T.performer FROM 8_tracks.mixes AS M, 8_tracks.mixes_tracks AS MT, 8_tracks.tracks AS T WHERE (M.id = MT.mix_id AND MT.track_id = T.id) ORDER BY MT.mix_id LIMIT 0,258726;"
 
 cur.execute(query)
 
@@ -38,7 +38,6 @@ playlists_count = 0
 
 current_row = cur.fetchmany()
 while current_row != ():
-	print 'Nova Playlist:'
 	current_playlist = {'user_id':current_row[0][0]}
 	current_playlist['playlist_id'] = current_row[0][1]
 	current_playlist_id = current_row[0][1]
@@ -47,7 +46,6 @@ while current_row != ():
 	current_playlist['number_of_tracks'] = current_row[0][4]
 	current_playlist['tracks'] = []
 	while (current_row[0][1] == current_playlist_id):
-		print current_row
 		current_track = {'8tracks_id':current_row[0][5]}
 		current_track['track_name'] = current_row[0][6]
 		current_track['artist_name'] = current_row[0][7]
