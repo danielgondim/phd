@@ -1,0 +1,22 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6397489,Crescendolls,Daft Punk,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6397506,I Stand Alone,Theophilus London,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6397769,Chonkyfire- Outkast,FAMisLOVEisFAM,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6401605,are you there,Anathema,1,instrumental,0.999999940395,97.3185501099,not_danceable,1,minor
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6402268,Got This Money,Childish Gambino,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6402623,What You Need,The Weeknd,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6402969,Digital Love,Daft Punk,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6403029,Black Winter Day,Jedi Mind Tricks,1,voice,0.806261539459,95.0987701416,not_danceable,1,major
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6414835,electricity,Anathema,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6414864,Vesuvius,Sufjan Stevens,1,instrumental,0.676615834236,113.883659363,danceable,0.507424414158,minor
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6414883,Futile Devices,Sufjan Stevens,1,instrumental,0.996279716492,139.952651978,not_danceable,0.996477305889,minor
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6414914,Kiara,Bonobo,1,instrumental,0.971542298794,97.0155410767,danceable,0.982712447643,minor
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6414934,Flutter,Bonobo,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6414947,Sail,Awolnation,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6414992,People,Awolnation,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6415073,Electronic Dream,Araabmuzik,1,instrumental,0.999998450279,132.941253662,danceable,0.990111410618,minor
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6415119,Rapp Snitch Knishes Feat. Mr Fantastik,MF Doom,1,instrumental,0.996735215187,95.1022338867,not_danceable,1,major
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6415139,Rain,Kid Cudi,1
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6415173,Survive It,Ghostpoet,1,instrumental,0.927029848099,99.5591506958,not_danceable,0.903366863728,major
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6415323,We Can Make The World Stop,The Glitch Mob,1,voice,0.797601222992,104.836105347,not_danceable,0.999999523163,major
+974128,623857,Digital/Analogue Love,"mixed genre, chill, progressive, study, focus",6415329,Fortune Days,The Glitch Mob,1

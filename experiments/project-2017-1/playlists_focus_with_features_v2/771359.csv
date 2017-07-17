@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",4386582,To Build a Home,sugrefmartrab,1
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548218,Thank God For Hometowns,Carrie Underwood,1,voice,0.911538481712,99.8161087036,not_danceable,0.86921197176,major
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548232,Song For The Suburbs  Ben Rector,,1
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548245,The House That Built Me  Miranda Lambert Lyrics,,1
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548258,Whenever You Remember Carrie Underwood,,1
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548271,I Hope You Dance Lyrics  Lee Ann Womack,,1
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548287,Carrie Underwood   See You Again (Lyric Video),,1
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548304,Coastin',Zion I,1,instrumental,0.999999821186,92.0246810913,not_danceable,1,minor
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548312,Zone (KillaGraham Remix),Cudi Zone ,1
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548319,The Funeral (Butch Clancy Remix),Band Of Horses,1
+565293,771359,"""No, I can't go out tonight, I have to study...""","senior year, study, focus",7548323,Loud Pipes,Ratatat,1,instrumental,0.992305994034,87.9633636475,not_danceable,1,major

@@ -1,0 +1,3 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+281,330,Action Packed Adventure,,3665,Mongoloid,Dozer,0,voice,0.995958507061,150.357666016,not_danceable,0.889698266983,minor
+281,330,Action Packed Adventure,,3666,I Don't Need No Doctor,The Muggs,0

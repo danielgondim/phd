@@ -1,0 +1,21 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",43310,Informer,Snow
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",297477,Oops!...I Did It Again,Britney Spears
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",285343,Stronger,Britney Spears
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",93669,Fighter,Christina Aguilera
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",387632,Candyman,Aqua
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",283123,Total Eclipse Of The Heart,Bonnie Tyler
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",249,That Smell,Lynyrd Skynyrd,instrumental,0.826178908348,120.941116333,not_danceable,0.566638827324,minor
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",259217,Boom Boom Boom (Techno Trance Dance Mix),Venga Boys
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",370037,Stop,Spice Girls
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",358253,You Sexy Thing (I Believe in Miracles),Hot Chocolate
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",30768,Bonafied Lovin,Chromeo
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",430474,Everybody (Backstreet's Back),Backstreet Boys
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",445144,Mirror Mirror,M2M
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",62348,Doo Wop (That Thing),Lauryn Hill,instrumental,0.995664298534,102.227073669,danceable,0.996762752533,major
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",5776,I Believe In A Thing Called Love,Darkness
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",283318,miracle (radio 2007 mix),Cascada
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",339271,Whistling Dave,Scooter,voice,0.647417843342,144.752868652,danceable,0.999595105648,minor
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",152583,All the Things She Said,T.A.T.U.
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",370532,Bad Boy,Cascada
+57212,86832,commteccccccccccccccccccccccccccccccccccccccch,"pop, party",28205,Je Veux te Voir,Yelle,instrumental,0.628745257854,132.661605835,danceable,0.999917685986,minor

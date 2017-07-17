@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5701884,Color/Dance,George Winston
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5702038,The Only Moment We Were Alone,Explosions In The Sky,instrumental,1,117.32219696,not_danceable,1,minor
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5702549,Kiara,Bonobo,instrumental,0.971542298794,97.0155410767,danceable,0.982712447643,minor
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5701860,A Walk,Tycho,voice,0.671568512917,139.998535156,danceable,0.872536718845,major
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5702515,"Poco Sostenuto, Vivace",Ludwig van Beethoven
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5701994,No Return,God Is An Astronaut
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5702562,La Femme D'argent,AIR,instrumental,1,161.622711182,not_danceable,1,minor
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5702647,Dive,Tycho
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5702812,Couleurs,M83,instrumental,0.930408656597,120.009735107,danceable,0.999997258186,minor
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5702879,First Snow,emancipator,instrumental,0.974725782871,94.9696807861,not_danceable,0.853699624538,minor
+266078,263779,Study Speechlessly,"electronic, instrumental, study, classical, focus",5702924,Monday - Paracetemal,Ulrich Schnauss

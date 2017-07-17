@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501414,Sunset [Bird Of Prey],Fatboy Slim
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501417, Funk (The Bloody Beetroots Remix),Etienne De Crecy,instrumental,0.996283054352,120.081359863,danceable,0.999788284302,minor
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501418,Dudun Dun,Para-One,instrumental,0.98875027895,129.718688965,not_danceable,1,major
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501531,Planisphère (Part 1),Justice
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501452,Dangerseekers (Shinichi Osawa Edit),Kap10Kurt
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501468,Fragile Tension (Laidback Luke Remix),Depeche Mode,instrumental,0.994710147381,129.822631836,danceable,0.99984651804,minor
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501478,Death Suite,Erol Alkan & Boys Noize,instrumental,0.792428076267,128.964691162,danceable,0.999591588974,minor
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501495,Dr Frenchy Bernard,The Japanese Popstars
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501511,Steamworks,The Presets,instrumental,1,117.998283386,not_danceable,1,minor
+43251,67067,No Brain ,"beats, electronic, house, electro, party",501501,Remind Me,Röyksopp

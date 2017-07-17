@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+536544,393660,The Devil. (XV.),"experiencing bondage, focusing on the material, staying in ignorance, feeling hopeless, major arcana",4920788,Poor Unfortunate Souls [The Little Mermaid],Pat Carroll
+536544,393660,The Devil. (XV.),"experiencing bondage, focusing on the material, staying in ignorance, feeling hopeless, major arcana",4229922,Gimme More Who (Britney Spears VS. The Who),Audiotarot
+536544,393660,The Devil. (XV.),"experiencing bondage, focusing on the material, staying in ignorance, feeling hopeless, major arcana",4230113,Against The Floor,"Jennifer Lopez, Rihanna & Britney Spears"
+536544,393660,The Devil. (XV.),"experiencing bondage, focusing on the material, staying in ignorance, feeling hopeless, major arcana",4230053,Time to Pretend,MGMT
+536544,393660,The Devil. (XV.),"experiencing bondage, focusing on the material, staying in ignorance, feeling hopeless, major arcana",4230226,Lover I Don't Have To Love,Bright Eyes,voice,0.983335971832,80.5400314331,danceable,0.997235238552,minor
+536544,393660,The Devil. (XV.),"experiencing bondage, focusing on the material, staying in ignorance, feeling hopeless, major arcana",4230018,After Every Party I Die,IAMX,instrumental,0.610759556293,119.95136261,not_danceable,0.631177842617,minor
+536544,393660,The Devil. (XV.),"experiencing bondage, focusing on the material, staying in ignorance, feeling hopeless, major arcana",4230024,Zombie (N.E.Z Radio Remix),The Cranberries
+536544,393660,The Devil. (XV.),"experiencing bondage, focusing on the material, staying in ignorance, feeling hopeless, major arcana",4229877,Deluxed (Delerium Remix),Clint Mansell
+536544,393660,The Devil. (XV.),"experiencing bondage, focusing on the material, staying in ignorance, feeling hopeless, major arcana",4229952,Love Out Of Lust,Lykke Li

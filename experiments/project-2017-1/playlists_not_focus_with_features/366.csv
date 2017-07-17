@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+451,366,Dusty old country songs,"bluegrass, country, southern rock",4083,Mama Tried,Merle Haggard,0
+451,366,Dusty old country songs,"bluegrass, country, southern rock",4084,Harbor Of Love,Bill Monroe & The Bluegrass Boys,0
+451,366,Dusty old country songs,"bluegrass, country, southern rock",4085,I Still Miss Someone,Emmylou Harris,0
+451,366,Dusty old country songs,"bluegrass, country, southern rock",4086,Cannonball Blues,June Carter Cash,0,instrumental,0.90801858902,178.2056427,not_danceable,0.968155741692,major
+451,366,Dusty old country songs,"bluegrass, country, southern rock",4087,Hillbilly Band,THe Marshall Tucker Band,0
+451,366,Dusty old country songs,"bluegrass, country, southern rock",4088,Yes I Guess They Oughta Name A Drink After You,John Prine,0
+451,366,Dusty old country songs,"bluegrass, country, southern rock",4089,Unwed Fathers,John Prine,0,voice,0.997667610645,118.087661743,not_danceable,0.95730137825,major
+451,366,Dusty old country songs,"bluegrass, country, southern rock",4090,Take These Chains from My Heart,Hank Williams,0

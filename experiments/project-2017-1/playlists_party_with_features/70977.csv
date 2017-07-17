@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+46561,70977,COCAINE,"dance, club, party",510844,The Simple Life,The Juan MacLean,instrumental,0.975526571274,124.984725952,danceable,0.99347358942,minor
+46561,70977,COCAINE,"dance, club, party",376068,Kittin Is High,Miss Kittin,instrumental,0.730999827385,126.922470093,danceable,0.999495446682,minor
+46561,70977,COCAINE,"dance, club, party",528348,All Out of Order,Nite Jewel
+46561,70977,COCAINE,"dance, club, party",308311,Favourite Things,The Golden Filter,voice,0.970549821854,106.996299744,danceable,0.999889194965,major
+46561,70977,COCAINE,"dance, club, party",85758,Etheric Device,Glass Candy,instrumental,0.995980203152,127.028335571,not_danceable,1,minor
+46561,70977,COCAINE,"dance, club, party",215888,I Feel Cream,Peaches,instrumental,0.96980381012,121.257049561,danceable,0.999999701977,minor
+46561,70977,COCAINE,"dance, club, party",113459,Drugs In My Body,Thieves Like Us
+46561,70977,COCAINE,"dance, club, party",528392,Cry Baby,Róisín Murphy
+46561,70977,COCAINE,"dance, club, party",56858,Got To Give It Up (Part 1),Marvin Gaye
+46561,70977,COCAINE,"dance, club, party",519276,Stay,David Bowie
+46561,70977,COCAINE,"dance, club, party",448669,Kiss Me,Stephen Duffy
+46561,70977,COCAINE,"dance, club, party",528422,Tonight,The Juan MacLean
+46561,70977,COCAINE,"dance, club, party",134816,I Feel Love,Donna Summer,instrumental,0.918804168701,125.708404541,danceable,0.953496396542,major

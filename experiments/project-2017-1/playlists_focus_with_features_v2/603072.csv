@@ -1,0 +1,21 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6245978,Cats and Dogs,The Head and the Heart,1
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6245983,Of Angels and Angles,The Decemberists,1,voice,0.554749488831,93.7809295654,not_danceable,0.914136230946,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6245986,Fire,Jesse Thomas,1
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6245988,The Horizon Is a Beltway,The Low Anthem,1,voice,0.827426075935,132.661743164,not_danceable,0.905905306339,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6245990,Camilo (The Magician),Said the Whale,1
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6245997,Tonight We Fly,The Divine Comedy,1
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246002,Cuba / Peru,Rah Rah,1
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246014,Sounds Like Hallelujah,The Head and the Heart,1,voice,0.996615469456,92.9201431274,not_danceable,0.611218750477,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246034,Somebody That I Used To Know,Pentatonix,1,voice,0.985939562321,128.993560791,danceable,0.926596224308,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246042,Everybody Knows (Except You),The Divine Comedy,1
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246045,Easy Bake Ovens,Girlyman,1,instrumental,0.64110738039,106.731437683,not_danceable,0.946128129959,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246056,Basket,Dan Mangan,1,voice,0.999466240406,111.006370544,not_danceable,0.958550751209,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246059,Tentacles,Rah Rah,1
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246068,Furr,Blitzen Trapper,1,voice,0.999698936939,91.0714035034,danceable,0.666850745678,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246080,"Leaves, Trees, Forest",Dan Mangan,1,voice,0.794107735157,114.983940125,not_danceable,0.9111764431,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246087,Someone Like You,Walk Off the Earth,1
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246088,Vanderlyle Crybaby Geeks,The National,1,instrumental,0.999999880791,117.856735229,not_danceable,1,minor
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246089,Ghosting,Mother Mother,1,voice,0.671096622944,91.9740447998,danceable,0.679322302341,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246091,Champion Angel,The Low Anthem,1,instrumental,0.626738131046,90.9038238525,not_danceable,0.619640529156,major
+107117,603072,Focus You Maddening Fool,"work, homework, study, focus",6246094,Braille,Regina Spektor,1,instrumental,0.999987125397,117.848831177,not_danceable,1,major

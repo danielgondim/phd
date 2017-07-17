@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+2721,8816,Electro Beat,"electronic, electro, killer, party, fun",78065,Price Of Love,Client,voice,0.912048459053,124.997123718,not_danceable,1,minor
+2721,8816,Electro Beat,"electronic, electro, killer, party, fun",78067,Static,Planet Funk
+2721,8816,Electro Beat,"electronic, electro, killer, party, fun",78068,talk like that,The Presets
+2721,8816,Electro Beat,"electronic, electro, killer, party, fun",78069,Here And Now,Client,instrumental,0.653611063957,126.029052734,danceable,0.999999880791,minor
+2721,8816,Electro Beat,"electronic, electro, killer, party, fun",78070,Hands Around My Throat,Death In Vegas,instrumental,0.991927862167,128.012161255,danceable,0.613498449326,major
+2721,8816,Electro Beat,"electronic, electro, killer, party, fun",78071,  Morning Rage,  Unkle ,instrumental,1,139.090606689,not_danceable,1,minor
+2721,8816,Electro Beat,"electronic, electro, killer, party, fun",78072,What Else Is There,Royksopp
+2721,8816,Electro Beat,"electronic, electro, killer, party, fun",78073,Feel The Same,Groove Armada
+2721,8816,Electro Beat,"electronic, electro, killer, party, fun",78066,Be my Friend,Clan of Xymox,instrumental,0.799445927143,128.007492065,danceable,0.99470025301,minor

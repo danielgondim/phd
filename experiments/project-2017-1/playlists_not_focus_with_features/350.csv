@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+451,350,Joe Miller's July 2008 mix,,3892,I'm Your Late Night Evening Prostitute,Tom Waits,0,instrumental,0.963507950306,143.314331055,not_danceable,0.975037395954,minor
+451,350,Joe Miller's July 2008 mix,,3893,We're All Mad Here,Tom Waits,0,instrumental,1,172.265960693,not_danceable,1,minor
+451,350,Joe Miller's July 2008 mix,,3894,Martha,Tom Waits,0
+451,350,Joe Miller's July 2008 mix,,3896,Tango Till They're Sore,Tom Waits,0
+451,350,Joe Miller's July 2008 mix,,3897,Hang on St. Christopher,Tom Waits,0
+451,350,Joe Miller's July 2008 mix,,3898,'Til the Money Runs Out,Tom Waits,0,instrumental,0.99999666214,122.46207428,not_danceable,1,minor
+451,350,Joe Miller's July 2008 mix,,3899,Gin Soaked Boy,Tom Waits,0,instrumental,0.984241008759,115.293457031,not_danceable,1,major
+451,350,Joe Miller's July 2008 mix,,3900,I Can't Wait to Get off Work,Tom ,0

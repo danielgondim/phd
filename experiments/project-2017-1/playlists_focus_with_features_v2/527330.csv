@@ -1,0 +1,30 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723897,Crystalised,The xx,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723898,Chicago ,Sufjan Stevens,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723901,Perth,Bon Iver,1,instrumental,0.880041480064,119.775016785,not_danceable,0.971265733242,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723905,Holocene,Bon Iver,1,voice,0.735519051552,147.901626587,not_danceable,0.982921004295,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723906,We Found Each Other In The Dark,City and Colour,1,instrumental,1,110.835243225,not_danceable,1,minor
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723915,The Suburbs (Continued),Arcade Fire,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723920,Crown Of Love,Arcade Fire,1,voice,0.9345946908,103.584991455,danceable,0.998094677925,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723922,I Hope There's Love,Dr. Dog,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723924,I Will Follow You Into The Dark,Death Cab For Cutie,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723925,Blue Ridge Mountains,Fleet Foxes,1,voice,0.858718812466,97.6411590576,not_danceable,0.954757392406,minor
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723926,Such Great Heights,Iron & Wine,1,instrumental,0.841593444347,94.2524642944,not_danceable,0.974000990391,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723927,Pumped Up Kicks (Acoustic) [Live on 89.3 The Current],Foster the People,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723928,I Don't Trust Myself (With Loving You),John Mayer,1,instrumental,0.89776802063,83.8552703857,danceable,0.63502407074,minor
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723929,Old Gowns,Mount Moriah,1,voice,0.879420638084,70.9976043701,not_danceable,0.972476243973,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723930,Rivers And Roads,The Head And The Heart,1,voice,0.909080266953,129.977172852,not_danceable,0.955553948879,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723932,Sounds Like Hallelujah ,The Head And The Heart,1,voice,0.996615469456,92.9201431274,not_danceable,0.611218750477,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723933,White Blank Page,Mumford & Sons,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723935,Paperweight,Joshua Radin and Schuyler Fisk,1,voice,0.890516638756,178.206100464,danceable,0.999999880791,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723936,River (acoustic),Lights,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723938,Tiger Mountain Peasant Song (Fleet Foxes cover),First Aid Kit,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723939,A Girl A Boy And A Graveyard,Jeremy Messersmith,1,voice,0.999343693256,89.3373413086,not_danceable,0.984886527061,minor
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5723940,Toxic (Britney Spears Cover),Yael Naïm,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5726866,Someone Like You (Live Acoustic),Adele,1,voice,0.967002391815,126.024734497,not_danceable,0.980585217476,minor
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5732320,Wagon Wheel Cover,Mumford & Sons,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",5732360,Infinity,The xx,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",7057107,Poison & Wine,The Civil Wars,1,instrumental,0.552870631218,152.667236328,not_danceable,0.863047778606,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",7057111,Trouble,Coldplay,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",7057112,Skinny Love,Birdy,1
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",7057114,Slow Dancing In a Burning Room,John Mayer,1,voice,0.950392782688,133.777603149,danceable,0.512750208378,minor

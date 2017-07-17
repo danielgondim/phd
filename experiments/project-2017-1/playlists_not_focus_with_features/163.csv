@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+2,163,New faves -- January 2008,alternative rock,1913,My,Okay,0
+2,163,New faves -- January 2008,alternative rock,1901,She's Lost Control,Joy Division,0,instrumental,0.999984383583,155.802963257,not_danceable,1,minor
+2,163,New faves -- January 2008,alternative rock,1928,Haifischflugel,Dominik Eulberg,0
+2,163,New faves -- January 2008,alternative rock,1927,Polaroid-Roman-Photo,Ruth,0,instrumental,0.999998748302,113.787559509,not_danceable,1,major
+2,163,New faves -- January 2008,alternative rock,1676,Where is Home,Bloc Party,0,instrumental,0.623189032078,146.835128784,danceable,0.951933324337,minor
+2,163,New faves -- January 2008,alternative rock,2307,Ready For The Floor (Soulwax Dub),Hot Chip,0,voice,0.995626747608,129.17364502,danceable,0.981269061565,minor
+2,163,New faves -- January 2008,alternative rock,2000,Gary,Alter Ego,0

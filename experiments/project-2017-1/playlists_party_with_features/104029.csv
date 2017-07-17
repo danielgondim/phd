@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+56845,104029,dance! dance! dance! dance!,"dance, dance party, crazy",734125,I'm Not Gonna Teach Your Boyfriend How To Dance With You,Black Kids
+56845,104029,dance! dance! dance! dance!,"dance, dance party, crazy",707578,Electric Feel,MGMT
+56845,104029,dance! dance! dance! dance!,"dance, dance party, crazy",734082,Love Me Already,Black Kids
+56845,104029,dance! dance! dance! dance!,"dance, dance party, crazy",734109,A-Punk,Vampire Weekend,instrumental,0.999997794628,172.26574707,not_danceable,1,minor
+56845,104029,dance! dance! dance! dance!,"dance, dance party, crazy",734138,Flash Delirium,MGMT
+56845,104029,dance! dance! dance! dance!,"dance, dance party, crazy",734115,Fluorescent Adoledscent,Arctic Monkeys
+56845,104029,dance! dance! dance! dance!,"dance, dance party, crazy",734085,Take On Me,A-Ha,instrumental,0.559905707836,166.350875854,not_danceable,1,major
+56845,104029,dance! dance! dance! dance!,"dance, dance party, crazy",734147,Energy,The Apples In Stereo

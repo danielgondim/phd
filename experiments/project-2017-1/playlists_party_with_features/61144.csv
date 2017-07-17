@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+42769,61144,This is Techno as I know it,"techno, electronica, party",460059,Death By House,Len Faki,voice,0.715418577194,122.039077759,danceable,0.999999880791,major
+42769,61144,This is Techno as I know it,"techno, electronica, party",460079,Trashbindance,Sven Vath,instrumental,0.966580212116,128.135681152,danceable,0.999999165535,major
+42769,61144,This is Techno as I know it,"techno, electronica, party",461196,Jamaica [Dubfire Remix],Minilogue,instrumental,0.911084115505,129.938873291,danceable,0.99999910593,minor
+42769,61144,This is Techno as I know it,"techno, electronica, party",459974,X Speaks To X,Planetary Assault Systems
+42769,61144,This is Techno as I know it,"techno, electronica, party",460124,Space Bird (Dubfire Remix),System 7
+42769,61144,This is Techno as I know it,"techno, electronica, party",2376,Shudder/King of Snake,Underworld,instrumental,0.741682767868,139.884750366,danceable,0.94834446907,minor
+42769,61144,This is Techno as I know it,"techno, electronica, party",2377,Push Upstairs,Underworld
+42769,61144,This is Techno as I know it,"techno, electronica, party",114422,F 9,Steve Bug

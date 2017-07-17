@@ -1,0 +1,6 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+94,91,benrigbys mix 1,,1348,Endorphin,Burial,0,instrumental,0.839489638805,138.938690186,not_danceable,0.64068543911,minor
+94,91,benrigbys mix 1,,1342,Near Dark,Burial,0,instrumental,0.586697041988,67.5806732178,danceable,0.997016906738,minor
+94,91,benrigbys mix 1,,138,Blinded by the Light,Manfred Mann's Earth Band,0,voice,0.799051523209,144.334335327,danceable,0.566015660763,major
+94,91,benrigbys mix 1,,1190,Salt Of The Earth,The Rolling Stones,0
+94,91,benrigbys mix 1,,1385,Somebody's Baby Tonight,Jackson Browne,0

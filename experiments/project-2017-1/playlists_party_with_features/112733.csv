@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+69135,112733,do the d.a.n.c.e.,"electronic, dance, party",787778,The Party (LA Riots Remix) ,Justice feat. Uffie
+69135,112733,do the d.a.n.c.e.,"electronic, dance, party",789778,Pon De Floor,Major Lazer
+69135,112733,do the d.a.n.c.e.,"electronic, dance, party",789779,Crimewave (Crystal Castles VS Health),Crystal Castles,instrumental,1,120.176353455,not_danceable,1,major
+69135,112733,do the d.a.n.c.e.,"electronic, dance, party",130135, Lights And Music,Cut Copy,instrumental,0.655084192753,125.965835571,danceable,0.97736543417,minor
+69135,112733,do the d.a.n.c.e.,"electronic, dance, party",789791,"D.A.N.C.E. (MSTRKRFT Remix, With Justice)",Steve Aoki
+69135,112733,do the d.a.n.c.e.,"electronic, dance, party",789787,Warp 1.9 (feat. Steve Aoki),The Bloody Beetroots,instrumental,0.782908499241,129.97958374,danceable,0.999479591846,major
+69135,112733,do the d.a.n.c.e.,"electronic, dance, party",289481,Little Bit [Gigamesh / DiscoTech Remix],Lykke Li
+69135,112733,do the d.a.n.c.e.,"electronic, dance, party",441657,Heads Will Roll (A-Trak Remix) Club Edit,Yeah Yeah Yeahs,instrumental,0.871563315392,130.234710693,danceable,0.994143426418,minor
+69135,112733,do the d.a.n.c.e.,"electronic, dance, party",789803,Da Funk (Casino Inc. Remix),Daft Punk

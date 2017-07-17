@@ -1,0 +1,24 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",1954719,De Ushuaia A La Quiaca,Gustavo A. Santaolalla,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",711623,Samba da Bahia,Various Artists,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697414,Andalucia,Pink Martini,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",713234,Tango Del Eco,Salgan And De Lio,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697476,Chac Mool,Rodrigo Y Gabriela,1,instrumental,0.931746423244,93.995475769,not_danceable,0.989596843719,minor
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697474,Triveni,Rodrigo Y Gabriela,1,instrumental,0.991908192635,143.09425354,not_danceable,0.582882106304,major
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697403,Davno,Sasa Bulic,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697411,Era (Originally from 'The Rough Guide To The Music of Madagascar'),Vakoka,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",181074,Tanto Tempo,Bebel Gilberto,1,voice,0.997410535812,116.934555054,danceable,0.595052838326,major
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",140066,Who Needs Forever  (Thievery Corporation remix),Astrud Gilberto,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",1808890,Deja,Sidestepper,1,instrumental,0.669165492058,97.0036773682,danceable,0.950093209743,minor
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",305032,Flutter,Bonobo,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697406,Piya,Midival Punditz,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",1689188,Got A Pulse,Hint,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697391,Asazi,Jika,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",1689151,Los Olvidados,Quantic Soul Orchestra,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",1808876,Ne'oul Aih,Amr Diab,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697396,It's Life,Niraj Chag,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",1689093,Laila O Laila,Chorus,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697398,Noorie,Bally Sagoo,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",1689118,Do Pyaar,Sonu Nigham,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",713269,Mal De Mer,Rupa & The April Fishes,1
+32485,98118,study music - globetrotting,"study, study music, concentration, writing, focus",697409,The Music of the O'Spey,Ian Melrose,1

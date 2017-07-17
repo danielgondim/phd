@@ -1,0 +1,3 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+208,159,drrons mix 1,,1850,Numbers (DJ-KICKS) (Extended V,Booka Shade,0
+208,159,drrons mix 1,,1849,Numbers (DJ-KICKS) (Club Mix),Booka Shade,0,instrumental,0.999997794628,123.907417297,not_danceable,1,minor

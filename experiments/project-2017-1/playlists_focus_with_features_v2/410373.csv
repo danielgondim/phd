@@ -1,0 +1,4 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+604885,410373,Silent Study - Quick Study,"study, calm, focus, focused, electronic",4465957,Caribou - Bowls,Wuhu,1
+604885,410373,Silent Study - Quick Study,"study, calm, focus, focused, electronic",4465962,Gorillaz - Stylo,Posh Magazine,1
+604885,410373,Silent Study - Quick Study,"study, calm, focus, focused, electronic",4466026,deadmau5 - Cthulhu Sleeps,Deadmau5',1,instrumental,0.991706609726,128.084106445,danceable,0.999999880791,minor

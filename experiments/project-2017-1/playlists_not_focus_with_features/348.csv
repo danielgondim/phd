@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+433,348,Parade on Thursday,"alternative rock, rap",3732,Read My Mind,The Killers,0
+433,348,Parade on Thursday,"alternative rock, rap",3581,Code Monkey,Jonathan Coulton,0,instrumental,0.612798571587,161.545791626,danceable,0.614256262779,major
+433,348,Parade on Thursday,"alternative rock, rap",3749,Highway Star,Deep Purple,0,instrumental,0.987581908703,87.6595458984,not_danceable,1,major
+433,348,Parade on Thursday,"alternative rock, rap",3721,Let's Make Love and Listen to Death From Above,CSS,0,instrumental,0.578513860703,120.018127441,danceable,0.924873292446,minor
+433,348,Parade on Thursday,"alternative rock, rap",3566,Time to Pretend,MGMT,0,voice,0.849888265133,100.956443787,danceable,0.772075533867,major
+433,348,Parade on Thursday,"alternative rock, rap",3715,Pork and Beans,Weezer,0,instrumental,0.959582567215,119.361412048,not_danceable,1,major
+433,348,Parade on Thursday,"alternative rock, rap",3568,Ocean Spray,Manic Street Preachers,0
+433,348,Parade on Thursday,"alternative rock, rap",3583,Fight For Your Right,Beastie Boys,0
+433,348,Parade on Thursday,"alternative rock, rap",3712,Handshakes,Metric,0
+433,348,Parade on Thursday,"alternative rock, rap",3580,Take Me Out,Franz Ferdinand,0

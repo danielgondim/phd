@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+2,262,Now It's Dark,,189,Koyaanisqatsi,Philip Glass,0,instrumental,0.99283272028,131.420761108,not_danceable,0.984943687916,minor
+2,262,Now It's Dark,,904,Stripped,Depeche Mode,0
+2,262,Now It's Dark,,3029,Something I Can Never Have,Nine Inch Nails,0
+2,262,Now It's Dark,,3031,Daisy Chain For Satan,Thrill Kill Cult,0
+2,262,Now It's Dark,,31,Darko,Booka Shade,0
+2,262,Now It's Dark,,102,Black Celebration,Depeche Mode,0
+2,262,Now It's Dark,,3119,The Angel,Ministry,0,voice,0.828076601028,105.878471375,danceable,0.938763856888,major
+2,262,Now It's Dark,,649,Poney Part 1,Vitalic,0,voice,0.5,135.897216797,danceable,0.999715685844,minor

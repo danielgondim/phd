@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518674,Why You Wanna ,T.I.
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518676,"The Seed(2,0)",The Roots
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518677,I Gotta Story to Tell,Notorious B.I.G.
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518678,I'm a Star (everywhere we are),Jeremih
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518680,In My Head,Jason Derülo
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518686,Spotlight  Ft. Usher,Gucci Mane
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518687,Fu-Gee-La,The Fugees
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518690,Gasolina (Remix),Daddy Yankee
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518692,I Can Transform Ya,Chris Brown,voice,0.907078206539,165.241210938,danceable,0.998520076275,major
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518694,Carry Out (Feat. Justin Timberlake),Timbaland,voice,0.967453122139,99.0136489868,danceable,0.999582529068,minor
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518698,All Night (ft. Stephen Marley),"Damian ""Jr. Gong"" Marley"
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518699,More Bottles feat Wyclef Jean,Timbaland
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518700,I'm So Paid,Akon,voice,0.975318789482,91.9837036133,danceable,0.999897837639,major
+47103,69547,PartyGirls,"hip hop, rap, regueton, party, dance",518702,Go Getta ft. R.Kelly,Young Jeezy,voice,0.924584805965,86.9071426392,danceable,0.999998450279,minor

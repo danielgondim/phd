@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+230553,797186,phase out,"hip hop, electronic, drum and bass, study, focus",7750553,Spinning Into Place,Younger Brother,1,instrumental,0.999988555908,129.972579956,not_danceable,0.852859437466,minor
+230553,797186,phase out,"hip hop, electronic, drum and bass, study, focus",7750579,Gone (Original Mix),Imprintz And Xilent and Kloe,1
+230553,797186,phase out,"hip hop, electronic, drum and bass, study, focus",7750600,"What You Do To Me (feat. Billy Danze, Jim Jones & Nicole Wray)",Blakroc,1
+230553,797186,phase out,"hip hop, electronic, drum and bass, study, focus",7750608,Breathe,The Prodigy,1
+230553,797186,phase out,"hip hop, electronic, drum and bass, study, focus",7750618,Aruarian Dance,Nujabes,1,instrumental,1,99.2483215332,not_danceable,1,minor
+230553,797186,phase out,"hip hop, electronic, drum and bass, study, focus",7750627,2 Birds,Mugison,1
+230553,797186,phase out,"hip hop, electronic, drum and bass, study, focus",7750635,Static On The Wire (RAC Remix),Holy Ghost!,1,instrumental,0.990240097046,117.981987,danceable,0.958391547203,minor
+230553,797186,phase out,"hip hop, electronic, drum and bass, study, focus",7750930,Song For Jo,Scarlett Johansson,1,instrumental,0.638100326061,130.282592773,not_danceable,0.834606409073,major

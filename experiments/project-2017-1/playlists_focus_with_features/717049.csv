@@ -1,0 +1,4 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+700321,717049,the ultimate relaxation mix,"indie, focus, bon iver, jack johnson, study",7185199,Banana Pancakes,Jack Johnson
+700321,717049,the ultimate relaxation mix,"indie, focus, bon iver, jack johnson, study",7185210,I'm Yours,Jason Mraz,voice,0.986438512802,151.047744751,danceable,0.551489651203,major
+700321,717049,the ultimate relaxation mix,"indie, focus, bon iver, jack johnson, study",7185215,Roll Away Your Stone,Mumford & Sons,voice,0.984337687492,137.317733765,not_danceable,0.671729207039,major

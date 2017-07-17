@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+29,256,Ali Farka Toure With Ry Cooder,,2966,Amandrai,Ali Farka Toure With Ry Cooder,0
+29,256,Ali Farka Toure With Ry Cooder,,2968,Lasidan,Ali Farka Toure With Ry Cooder,0,instrumental,0.999994695187,99.8529968262,not_danceable,1,major
+29,256,Ali Farka Toure With Ry Cooder,,2972,Bonde,Ali Farka Toure With Ry Cooder,0,instrumental,1,113.702590942,not_danceable,1,minor
+29,256,Ali Farka Toure With Ry Cooder,,2973,Banga,Ali Farka Toure With Ry Cooder,0,instrumental,0.99068903923,98.3386230469,not_danceable,1,major
+29,256,Ali Farka Toure With Ry Cooder,,2974,Gomni,Ali Farka Toure With Ry Cooder,0,instrumental,1,163.105529785,not_danceable,0.93215572834,minor
+29,256,Ali Farka Toure With Ry Cooder,,2975,Diaraby,Ali Farka Toure With Ry Cooder,0,instrumental,1,142.317489624,not_danceable,1,minor

@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+706128,803184,ripples in motion,"minimal, minimal techno, chill, focus, electronic",7782254,And That Was The Way,Kaito,1,instrumental,0.979084908962,104.873695374,not_danceable,0.999998986721,major
+706128,803184,ripples in motion,"minimal, minimal techno, chill, focus, electronic",7782274,Frei (Original Mix),Jonas Mantey,1
+706128,803184,ripples in motion,"minimal, minimal techno, chill, focus, electronic",7782309,a2 (Max Cooper Remix),Ólafur Arnalds & Nils Frahm,1,instrumental,0.960536658764,123.921150208,not_danceable,0.626962780952,major
+706128,803184,ripples in motion,"minimal, minimal techno, chill, focus, electronic",7782314,la somme,saschienne,1
+706128,803184,ripples in motion,"minimal, minimal techno, chill, focus, electronic",7782317,Kramnik,Pawel,1
+706128,803184,ripples in motion,"minimal, minimal techno, chill, focus, electronic",7782329,Thrown,Kiasmos,1,instrumental,0.995678544044,119.992698669,danceable,0.898299098015,minor
+706128,803184,ripples in motion,"minimal, minimal techno, chill, focus, electronic",7782339,Schaukel Duo,SCSI-9,1
+706128,803184,ripples in motion,"minimal, minimal techno, chill, focus, electronic",7782343,Unland,Triola,1,instrumental,1,120.025985718,not_danceable,0.745937943459,minor

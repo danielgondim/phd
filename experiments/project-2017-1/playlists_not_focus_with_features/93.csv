@@ -1,0 +1,4 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+82,93,minimal blend,,1348,Endorphin,Burial,0,instrumental,0.839489638805,138.938690186,not_danceable,0.64068543911,minor
+82,93,minimal blend,,1337,Ghost Hardware,Burial,0,voice,0.665569067001,135.88734436,danceable,0.746503949165,minor
+82,93,minimal blend,,730,Pyramid Song,Radiohead,0

@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",454450,Bad Romance,Lady Gaga
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",13237,Shut Up And Let Me Go [Chris Lake U.K. Vocal],The Ting Tings
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",474427,Dance In The Dark,Lady GaGa,voice,0.946033239365,120.962936401,danceable,0.999999880791,major
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",126699,Slide In (Dfa Remix Edit),Goldfrapp
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",61650,Cry for You,September,voice,0.928496718407,129.963760376,danceable,0.999933540821,major
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",168816,Let's Be Mates,Lady Sovereign,voice,0.992748916149,129.715957642,danceable,0.999992251396,major
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",295856,Je veux te voir (Club-Club Version),Yelle,instrumental,0.960387885571,126.921569824,danceable,0.999999821186,major
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",68582,Give It To Me,Madonna
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",276588,Heater,Samim,instrumental,0.999992728233,126.63306427,not_danceable,1,major
+39007,63100,Let's Dance... Woohoo! ^_^,"dance, party, pop",111411,Geremia,Bonde Do Role,instrumental,0.88106495142,129.878616333,danceable,0.99630099535,minor

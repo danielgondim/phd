@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+272,310,Songs that make you feel better,"alternative rock, rock, indie rock",3565,On the Bus Mall,The Decemberists,0
+272,310,Songs that make you feel better,"alternative rock, rock, indie rock",3568,Ocean Spray,Manic Street Preachers,0
+272,310,Songs that make you feel better,"alternative rock, rock, indie rock",3566,Time to Pretend,MGMT,0,voice,0.849888265133,100.956443787,danceable,0.772075533867,major
+272,310,Songs that make you feel better,"alternative rock, rock, indie rock",3567,Shed Your Love,The Helio Sequence,0,voice,0.614901542664,98.8260879517,not_danceable,0.865339517593,minor
+272,310,Songs that make you feel better,"alternative rock, rock, indie rock",3569,Police And The Private,Metric,0,voice,0.99183344841,127.980186462,not_danceable,0.718331456184,major
+272,310,Songs that make you feel better,"alternative rock, rock, indie rock",3570,Dreamworld,Rilo Kiley,0,instrumental,0.956675171852,120.021408081,danceable,0.717610478401,major
+272,310,Songs that make you feel better,"alternative rock, rock, indie rock",3572,You Don't Gotta Run,Pop Levi,0,voice,0.79189068079,99.9274749756,danceable,0.989114403725,minor
+272,310,Songs that make you feel better,"alternative rock, rock, indie rock",3571,My Little Japanese Cigarette Case,Spoon,0,voice,0.998864233494,117.97354126,danceable,0.955249786377,minor

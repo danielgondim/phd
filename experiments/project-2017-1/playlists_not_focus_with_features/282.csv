@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3237,American Angel,Josh Dodes Band,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3239,Free Fallin',Tom Petty,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3254,Stranded On Easy Street,Bruce Hornsby,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3238,Omaha,Counting Crows,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3249,Get Off This,Cracker,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3245,Texarkana,R.E.M.,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3240,Santa Monica,Everclear,0,voice,0.998033165932,100.93939209,danceable,0.863822817802,major
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3241,Ants Marching,Dave Matthews Band,0

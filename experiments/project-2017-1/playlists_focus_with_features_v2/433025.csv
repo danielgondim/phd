@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788560,Eye of the Tiger (Dirty Disco Remix),Foreigner,1
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788565,Feeling Good DOSVEC Mashup,DOSVEC,1
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788548,Bright Lit Blue Skies (Two Fresh Remix),Ariel Pink's Haunted Graffiti,1,voice,0.987290382385,165.828643799,not_danceable,0.53325432539,minor
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788575,Breakn' a Sweat ,Skrillex Ft. The Doors,1,voice,0.517857134342,139.949691772,not_danceable,1,minor
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788583,#BASSMOB,5 & A Dime,1
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788585,Mash Together [Faroff],The Beatles vs. Joan Jett & The Blackhearts vs. Cypress Hill vs. House of Pain vs. Rage Against The ,1
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788590,Back in Black (Samples Remix),AC/DC,1,voice,0.984164714813,92.8061752319,danceable,0.892078876495,minor
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788594,James Franco,Hoodie Allen,1
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788599,Journey Of A Lifetime (Zeds Dead Remix),Zeds Dead,1
+231427,433025,It's Cram Time,"mashup, study, dubstep, upbeat, focus",4788607,Rolling Stones -You Can't Always Get What You Want (Glitch Hop Remix),Blunt Instrument,1

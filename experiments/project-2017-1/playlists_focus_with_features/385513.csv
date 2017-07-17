@@ -1,0 +1,18 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111333,A Familiar Taste,Trent Reznor & Atticus Ross,instrumental,1,147.791671753,not_danceable,1,minor
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111317,Psycho Boy Jack,The Dust Brothers,instrumental,0.994309604168,145.998733521,danceable,0.933122217655,major
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4298068,DLZ,TV On the Radio,instrumental,0.883981823921,88.007194519,danceable,0.976439476013,minor
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111306,Ants,edIT,instrumental,0.996382176876,139.384735107,not_danceable,1,minor
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111274,Creep,Scala & Kolacny Brothers,voice,0.930705964565,154.435791016,not_danceable,0.988003492355,major
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111267,Pi r^2,Clint Mansell
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111321,End of Line,Daft Punk,instrumental,0.69626480341,97.9165420532,danceable,0.999999880791,major
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111252,We Got The Gun,Clint Mansell,instrumental,0.99413383007,124.968795776,not_danceable,1,minor
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111298,Strobe,Deadmau5
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111310,What Is Fight Club?,The Dust Brothers,instrumental,0.989869356155,95.733757019,not_danceable,1,minor
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111338,Seventeen Years,Ratatat,instrumental,0.867637097836,115.492591858,danceable,0.982713937759,major
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111244,Screening Phone Calls,edIT,instrumental,0.975310087204,90.1047515869,not_danceable,1,major
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111328,Pieces Form the Whole,Trent Reznor & Atticus Ross,instrumental,1,155.611572266,not_danceable,1,minor
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111356,Starting Over,The Crystal Method,instrumental,0.999986290932,127.95602417,not_danceable,1,minor
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111345,Disorganized Fun,Ronald Jenkees,instrumental,0.87162733078,97.9512939453,not_danceable,1,minor
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111374,Luv Deluxe,Cinnamon Chasers,instrumental,0.848334670067,161.499862671,danceable,0.997493684292,minor
+429955,385513,Alpha Brain - Code Focus,"instrumental, electronic, soundtrack, coding, focus",4111529,Who Am I?,Peace Orchestra

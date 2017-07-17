@@ -1,0 +1,18 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133196,The Zephyr Song,Red Hot Chili Peppers
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133199,Gin & Juice,The Gourds
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133202,"Hey, Soul Sister",Train
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133204,Santeria,Sublime
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133206,Sirens,String Cheese Incident,instrumental,0.637347400188,86.084526062,danceable,0.869391441345,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133208,Hold On To What You Believe,Mumford & Sons
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133210,Road To Nowhere,Talking Heads,voice,0.865286052227,110.187599182,not_danceable,0.723525941372,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133215,Walls of Jericho,ALO (Animal Liberation Orchestra)
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133217,The Garden Part 3,Tea Leaf Green
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133220,Empty Vessel (A Pledge Of No Allegiance),ALO (Animal Liberation Orchestra)
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133223,Easy Come High,Barefoot Truth
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133224,Honor & Harmony,G Love and Special Sauce
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133226,Run-Around,Blues Traveler
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133228,Buffalo Soldier,Bob Marley
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133231,Rent,Pepper,voice,0.997914791107,89.6606216431,danceable,0.899955689907,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133232,Shores of Waiamu,Maui Regae Jam 2007
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133234,Her Diamonds,Rob Thomas,voice,0.527377128601,172.265304565,danceable,0.999999344349,major

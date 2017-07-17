@@ -1,0 +1,5 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+262271,689413,Study-GoT,"game of thrones, study, upbeat, focus, epic",6908942,The Assassin's Dagger,Ramin Djawadi,voice,0.831155836582,79.7964782715,danceable,0.830751001835,minor
+262271,689413,Study-GoT,"game of thrones, study, upbeat, focus, epic",6908943,To Vaes Dothrak,Ramin Djawadi,instrumental,0.999995708466,106.555839539,danceable,0.847746968269,minor
+262271,689413,Study-GoT,"game of thrones, study, upbeat, focus, epic",6908948,Jon's Honor,Ramin Djawadi,instrumental,0.94266295433,111.658493042,not_danceable,0.962934672832,major
+262271,689413,Study-GoT,"game of thrones, study, upbeat, focus, epic",6908952,Black of Hair,Ramin Djawadi,instrumental,1,64.9510345459,not_danceable,1,major

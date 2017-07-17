@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+709671,672385,Untitled mix,"study, chill, productive, focus",6040668,Strobe,Deadmau5,1,instrumental,0.999998748302,129.965774536,danceable,0.99473631382,major
+709671,672385,Untitled mix,"study, chill, productive, focus",6774516,Nightdrive with you (Fear of Tigers Remix),Anoraak,1,instrumental,0.948093056679,128.002166748,danceable,0.999167978764,major
+709671,672385,Untitled mix,"study, chill, productive, focus",6774551,The Listening,Lights,1,instrumental,0.574706792831,95.9214477539,danceable,0.976789951324,major
+709671,672385,Untitled mix,"study, chill, productive, focus",6774562,With Or Without You,U2,1,voice,0.806358277798,109.872512817,danceable,0.809269309044,major
+709671,672385,Untitled mix,"study, chill, productive, focus",6774565,Oceanfront,Azimuth,1,instrumental,1,142.32925415,not_danceable,1,minor
+709671,672385,Untitled mix,"study, chill, productive, focus",6774580,Collect Call,Metric,1,instrumental,0.906732976437,128.947036743,not_danceable,0.942210078239,minor
+709671,672385,Untitled mix,"study, chill, productive, focus",6774591,Isolate,Moby,1,instrumental,0.902767658234,136.039978027,not_danceable,0.992220282555,major
+709671,672385,Untitled mix,"study, chill, productive, focus",6774685,Secrets,OneRepublic,1
+709671,672385,Untitled mix,"study, chill, productive, focus",6774696,Deer In The Headlights,Owl City,1,voice,0.938201010227,140.068069458,danceable,0.940028190613,major

@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3816,Universal Mind Control (Dirty),Common ft Pharrell,0
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3820,Say Goodnight,Reks,0,voice,0.536516010761,95.069732666,danceable,0.996649324894,minor
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3825,Fried Chicken,Nas feat. Busta Rhymes,0,instrumental,0.977654457092,95.4266738892,not_danceable,1,major
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3826,Damn I'm Cold (featuring Lil' Wayne),Bun B,0
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3827,ROYAL FLUSH,OUTKAST FEAT. RAEKWON,0
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3831,Pain f. Keyshia Cole,The Game,0
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3835,"Get Busy Feat. Dice Raw, Peedi Crakk, & DJ Jazzy Jeff",The Roots,0

@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4697637,Life in Technicolor,Coldplay,1,instrumental,0.802381873131,129.906097412,not_danceable,0.533908963203,major
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4697644,Smoke & Mirrors,RJD2,1
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4697775,Cello Suite No.1,Yo Yo Ma,1
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",2905160,Symphony 2 & the Click Boom Boom,Emily Wells,1,instrumental,0.976149618626,166.443511963,not_danceable,1,major
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",3939023,Digital Sea ,Thrice,1,instrumental,0.943053722382,119.981384277,danceable,0.906156361103,minor
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4697628,Come Talk to Me,Bon Iver,1,voice,0.889875471592,101.752944946,not_danceable,0.989332258701,major
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4697783,Working Poor,Horse Feathers,1,voice,0.599525749683,116.595916748,not_danceable,0.988187968731,major
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4643324,Down In The Valley,The Head and The Heart,1
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",3577281,Save The World Tonight (Acoustic Cover),Collin McLaughlin,1
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",3577234,Champagne Supernova,Matt Pond PA,1
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4643287,I Want You Back ,The Civil Wars,1
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4697635,Skinny Love (Cover),Birdy,1
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4697740,Holocene,Bon Iver,1,voice,0.735519051552,147.901626587,not_danceable,0.982921004295,major
+146688,426599,study like you mean it ,"study, focus, background music, library, finals",4697723,Time Stops,Explosions In The Sky,1,instrumental,1,140.030166626,not_danceable,1,minor

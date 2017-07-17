@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1059,403,vancehealey's July 2008 mix,,3717,When You Were Young,The Killers,0
+1059,403,vancehealey's July 2008 mix,,196,More Than a Feeling,Boston,0
+1059,403,vancehealey's July 2008 mix,,124,Little Red Corvette,Prince,0
+1059,403,vancehealey's July 2008 mix,,419,05 - And I Love Her,The Beatles,0,instrumental,0.999999821186,100.703399658,not_danceable,0.981493592262,minor
+1059,403,vancehealey's July 2008 mix,,2323,Up To The Mountain,Patti Griffin,0
+1059,403,vancehealey's July 2008 mix,,555,03 - Mother Nature's Son,The Beatles,0,voice,0.553951144218,172.26574707,not_danceable,0.938642144203,major
+1059,403,vancehealey's July 2008 mix,,3197,Iron Lion Zion,Bob Marley,0
+1059,403,vancehealey's July 2008 mix,,4094,All Along the Watchtower (Live),Eric Clapton & Lenny Kravitz,0

@@ -1,0 +1,18 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140647,Misery (Acoustic),Maroon 5,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140662,Polish Girl,Neon Indian,1,voice,0.942991137505,111.990371704,danceable,0.975907981396,major
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140709,Harvest Moon,Poolside,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140735,Relator,Pete Yorn & Scarlett Johanson ,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140739,Video Games (Grandtheft Remix),Lana Del Rey,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140758,The Golden Age,The Asteroids Galaxy Tour,1,voice,0.777385652065,85.0184860229,danceable,0.839571535587,major
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140763,In The Words (Of Satan),the ARROWS,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140787,Breakable,Ingrid Michaelson,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140798,Cosy in the Rocket,Psapp,1,instrumental,1,119.093231201,not_danceable,1,major
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140801,Everywhere I Go,Lissie,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140819,Taylor,Jack Johnson,1,voice,0.729002773762,172.265197754,danceable,0.997881114483,major
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140820,Blue Skies,Noah and the Whale,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140827,Hope for Now,City and Colour,1,instrumental,0.999998629093,133.012374878,not_danceable,1,minor
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140830,Beautiful City,New Broadway Cast,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140843,On The Willows,Godspell Cast,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140891,Upside Down,Jack Johnson,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140924,Kina Grannis   Boats And Birds, .,1

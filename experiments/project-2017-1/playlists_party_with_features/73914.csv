@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+49491,73914,HNY10,"hip hop, dance, party",548163,Throw Your Hands in the Air,Black Moon
+49491,73914,HNY10,"hip hop, dance, party",548190,Party Ain't A Party,Queen Pen,voice,0.929267466068,94.0195846558,danceable,0.995767593384,major
+49491,73914,HNY10,"hip hop, dance, party",548191,Do Me!,Bell Biv DeVoe
+49491,73914,HNY10,"hip hop, dance, party",548193,I Wanna Dance With Somebody,Whitney Houston
+49491,73914,HNY10,"hip hop, dance, party",548194,"Love In This Club, Part II",Usher
+49491,73914,HNY10,"hip hop, dance, party",548196,Get Me Home,Foxy Brown,instrumental,0.754644215107,96.0430908203,danceable,0.995302796364,minor
+49491,73914,HNY10,"hip hop, dance, party",548199,Future is in the Future,Electric Six,voice,0.72778069973,122.083770752,danceable,0.999999880791,major
+49491,73914,HNY10,"hip hop, dance, party",548200,Live Your Life,T.I.

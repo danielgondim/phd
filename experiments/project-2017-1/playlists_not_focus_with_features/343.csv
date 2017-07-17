@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3836,Living for the City,Roc C,0,voice,0.820446193218,88.9181594849,danceable,0.999811828136,major
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3837,Baby Snakes,Frank Zappa,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3838,Garbage,Aesop Rock,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3839,Look-Ka Py Py,The Meters,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3840,Tobacco Road,Lou RAWLS,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3841,Vomitspit,MF Doom,0,instrumental,0.989293396473,93.2885818481,not_danceable,1,major
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3842,9MM,Butter 08,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3843,Rebel Without a Pause,Public Enemy,0

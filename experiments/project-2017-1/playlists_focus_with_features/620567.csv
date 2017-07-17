@@ -1,0 +1,16 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370185,Yumeji`s Theme,In the Mood for Love
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370263,The Moribund Tree And The Toad,Javier Navarrete,instrumental,0.997303187847,142.905776978,not_danceable,0.968009710312,minor
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370282,Carrion Suite,Andrew Bird,instrumental,0.999999940395,162.743133545,not_danceable,0.729751944542,major
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370286,Becoming a Geisha,John Williams,instrumental,0.932049453259,118.467834473,not_danceable,0.97689563036,minor
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370293,On We March,Trent Reznor and Atticus Ross,instrumental,0.99999755621,147.961547852,not_danceable,1,minor
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370319,"""We're Not Programs, Gerty, We're People""",Clint Mansell,instrumental,1,89.7879257202,not_danceable,0.950445055962,minor
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370320,Svefn-G-Englar,Sigur Rós
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370324,Death Is the Road to Awe,Clint Mansell,instrumental,0.944216072559,109.548088074,not_danceable,0.950439989567,minor
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370351,Sur Le Fil,Amelie - Soundtrack
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370359,Sicilian Pastorale,Nino Rota,instrumental,0.999999940395,117.192985535,not_danceable,1,minor
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370364,Sayuri's Theme and End Credits,John Williams,instrumental,0.880515933037,121.249816895,not_danceable,0.979220926762,minor
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370373,One Simple Idea,Hans Zimmer,instrumental,0.924891889095,83.7256851196,not_danceable,0.676931738853,minor
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370376,Adagio For TRON,Daft Punk,instrumental,0.996697247028,162.470199585,not_danceable,0.970650494099,minor
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370377,Waiting For A Train,Hans Zimmer
+160370,620567,Instrumental Heaven,"movies, study, background, instrumental, focus",6370382,Learning The Ropes,Soundtrack

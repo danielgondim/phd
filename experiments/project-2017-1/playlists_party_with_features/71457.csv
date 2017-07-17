@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+13783,71457,IT'S TIME TO PARTY!!,"alternative, punk rock, party",531428,Party Hard,Andrew W.K.
+13783,71457,IT'S TIME TO PARTY!!,"alternative, punk rock, party",531442,Just The Best Party,The World/Inferno Friendship Society
+13783,71457,IT'S TIME TO PARTY!!,"alternative, punk rock, party",531438,TV Party,Black Flag,voice,0.98546642065,172.265823364,danceable,0.816876411438,major
+13783,71457,IT'S TIME TO PARTY!!,"alternative, punk rock, party",531440,Party In The Hills,Strung Out
+13783,71457,IT'S TIME TO PARTY!!,"alternative, punk rock, party",531444,Party Smasher,The Dillinger Escape Plan,instrumental,0.659112036228,123.729232788,not_danceable,1,major
+13783,71457,IT'S TIME TO PARTY!!,"alternative, punk rock, party",531431,Party Til You Puke,Andrew W.K.
+13783,71457,IT'S TIME TO PARTY!!,"alternative, punk rock, party",531446,We'll Have a Party,The Broadways
+13783,71457,IT'S TIME TO PARTY!!,"alternative, punk rock, party",531447,I Am The Party,Million Dead,voice,0.928430199623,90.5349197388,not_danceable,0.999999821186,minor

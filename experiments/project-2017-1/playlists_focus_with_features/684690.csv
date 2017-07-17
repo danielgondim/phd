@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+644064,684690,Wavelet Transform,"focus, chiptune, programming, electric",6872115,The Sentinel is Watching,Torcht,instrumental,0.816771447659,139.887710571,danceable,0.999997437,minor
+644064,684690,Wavelet Transform,"focus, chiptune, programming, electric",6872117,End to a Violent Heart,Torcht,voice,0.998648405075,128.015808105,danceable,0.999999284744,major
+644064,684690,Wavelet Transform,"focus, chiptune, programming, electric",6872120,Supernova Kiss,Nullsleep,instrumental,0.946421742439,91.2197875977,danceable,0.999999880791,minor
+644064,684690,Wavelet Transform,"focus, chiptune, programming, electric",6872160,Her Lazer Light Eyes,Nullsleep,instrumental,0.926522254944,140.2449646,not_danceable,1,major
+644064,684690,Wavelet Transform,"focus, chiptune, programming, electric",6872198,traveling by night,She,instrumental,0.90205603838,122.363777161,danceable,0.999969244003,minor
+644064,684690,Wavelet Transform,"focus, chiptune, programming, electric",6872214,Alice Practice,Crystal Castles,instrumental,0.947292923927,130.387954712,danceable,0.999999880791,major

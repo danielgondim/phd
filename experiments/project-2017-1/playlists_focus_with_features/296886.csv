@@ -1,0 +1,24 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+130180,296886,Study Time,"calm, chill, alternative, study, focus",5200469,Hard Sun,Eddie Vedder
+130180,296886,Study Time,"calm, chill, alternative, study, focus",5200524,Stairway to Heaven,Rodrigo y Gabriela
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865386,Bitter Sweet Symphony,The Verve
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865361,Seaside,The Kooks
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865364,The Only Living Boy in New York,Simon & Garfunkel
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865354,O Valencia!,The Decemberists
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865403,The Trapeze Swinger,Iron & Wine
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865394,The Zephyr Song,Red Hot Chili Peppers
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865385,Chicago X 12,Rogue Wave
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865371,On Melancholy Hill,Gorillaz,instrumental,0.77456843853,120.401908875,danceable,0.999660849571,major
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865363,Porcelain,Moby
+130180,296886,Study Time,"calm, chill, alternative, study, focus",5200108,Bangarang,Skrillex,instrumental,0.667353332043,109.74382019,danceable,0.999999880791,minor
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2881986,High And Dry,Radiohead
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2906190,The Funeral,Band of Horses
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865366,Blowin' In The Wind,Bob Dylan
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865381,The Predatory Wasp Of The Palisades Is Out To Get Us!,Sufjan Stevens
+130180,296886,Study Time,"calm, chill, alternative, study, focus",5199942,Flume,Bon Iver
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865392,Wish You Were Here,Pink Floyd
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865399,2080,Yeasayer,voice,0.520357131958,119.83631134,not_danceable,0.692153811455,minor
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865377,Diplomat's Son,Vampire Weekend,instrumental,0.999999582767,96.9750595093,not_danceable,1,minor
+130180,296886,Study Time,"calm, chill, alternative, study, focus",2865355,Collie Man,Slightly Stoopid,voice,0.963474214077,172.265945435,danceable,0.607111752033,major
+130180,296886,Study Time,"calm, chill, alternative, study, focus",5200623,Rebellion (Lies),Arcade Fire,instrumental,0.549319922924,128.72593689,danceable,0.911408185959,major
+130180,296886,Study Time,"calm, chill, alternative, study, focus",5200653,We Found Love,Rihanna,voice,0.86428463459,128.044387817,danceable,0.999974727631,major

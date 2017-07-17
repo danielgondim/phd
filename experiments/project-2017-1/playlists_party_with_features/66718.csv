@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",498779,Crazy in Love,Beyoncé (Ft. Jay-z),voice,0.982407689095,99.2680206299,danceable,0.984384715557,minor
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",498780,Dirrty,Christina Aguilera (Ft. Redman)
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",498783,Rock Your Body,Justin Timberlake
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",16789,The Way You Move,Outkast,instrumental,0.881984233856,126.014854431,danceable,0.999004364014,major
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",157692,Shake,Ying Yang Twins ft. Pitbull
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",209718,Buttons,Pussycat Dolls
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",39670,"U And Dat Ft. T. Pain, Kandi Girl",E-40
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",398293,Git it,Bun B. feat. Yin Yang Twins,instrumental,0.999981641769,106.227973938,not_danceable,1,minor
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",498796,Grind On Me,Pretty Ricky,voice,0.994734406471,68.2145996094,danceable,0.979800462723,minor
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",498800,Set It Off,Girl Talk
+19625,66718,DANCE! Part 3,"dance, rap, hip hop, party, party music",498801,Whats Your Fantasy,Ludacris,voice,0.939918994904,69.986656189,danceable,0.981516122818,minor

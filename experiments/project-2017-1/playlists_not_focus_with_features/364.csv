@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4050,Runnin' (Instrumental),Jay Dilla,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4044,Straight Heat,edIT,0,instrumental,0.995224177837,95.0196685791,not_danceable,1,minor
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4033,Overpowered,Róisín Murphy,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4047,Jack This Shit,MiCHAEL,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4053,Mercy,Lucky Dragons,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4055,Workinonit,Jay Dee,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4045,Mota Ginya,Voices of Darkness,0,instrumental,0.840837478638,123.518074036,danceable,0.856442570686,major
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4064,Ojos de Brujo,Ojos de Brujo,0

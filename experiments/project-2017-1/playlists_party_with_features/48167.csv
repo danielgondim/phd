@@ -1,0 +1,18 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+32067,48167,party,"pop, hip hop, party",155569,Party Like A Rockstar (Explici,Shop Boyz
+32067,48167,party,"pop, hip hop, party",65935,The Night Starts Here,Stars
+32067,48167,party,"pop, hip hop, party",139742,Hump De Bump,Red Hot Chili Peppers,voice,0.641399860382,111.805664062,danceable,0.957773923874,minor
+32067,48167,party,"pop, hip hop, party",2688,Sexy Can I Feat. Yung Berg [Explicit],Ray J
+32067,48167,party,"pop, hip hop, party",23817,Shut Up And Drive,Rihanna
+32067,48167,party,"pop, hip hop, party",53068,Love Today,Mika
+32067,48167,party,"pop, hip hop, party",155741,Space Jam,Quad City DJ's
+32067,48167,party,"pop, hip hop, party",291798,Give It 2 Me,Madonna
+32067,48167,party,"pop, hip hop, party",200270,Kiwi,Maroon 5,instrumental,0.891651690006,142.023513794,not_danceable,1,minor
+32067,48167,party,"pop, hip hop, party",373398,Errtime,Nelly
+32067,48167,party,"pop, hip hop, party",14859,Wow,Kylie Minogue
+32067,48167,party,"pop, hip hop, party",373373,Hydrolics,B5,voice,0.99901932478,87.8770675659,danceable,0.999312758446,major
+32067,48167,party,"pop, hip hop, party",51434,Polite Dance Song,The Bird And The Bee,instrumental,0.729981482029,150.053421021,danceable,0.981216788292,minor
+32067,48167,party,"pop, hip hop, party",244974,Smooth Criminal,Michael Jackson
+32067,48167,party,"pop, hip hop, party",361796,Gyrate (feat. Mr. Collipark),Da Muzicianz
+32067,48167,party,"pop, hip hop, party",108679,Magic,Robin Thicke
+32067,48167,party,"pop, hip hop, party",12301,Please Don't Stop the Music,Rihanna

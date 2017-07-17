@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+53258,83770,Love Or Something Like That,"alt country, party rap, alternative rock",389140,Kind of in love with you,The Avett Brothers
+53258,83770,Love Or Something Like That,"alt country, party rap, alternative rock",69016,Here In Your Arms,Hellogoodbye
+53258,83770,Love Or Something Like That,"alt country, party rap, alternative rock",493194,La La La,LMFAO
+53258,83770,Love Or Something Like That,"alt country, party rap, alternative rock",294332,Blow Away,A Fine Frenzy,instrumental,0.790552437305,135.991409302,danceable,0.979901731014,major
+53258,83770,Love Or Something Like That,"alt country, party rap, alternative rock",7866,Hold It In,Jukebox The Ghost,voice,0.852191209793,131.994766235,danceable,0.54638594389,major
+53258,83770,Love Or Something Like That,"alt country, party rap, alternative rock",505241,Killer,The Hoosiers,voice,0.754075706005,104.977394104,not_danceable,0.575920760632,minor
+53258,83770,Love Or Something Like That,"alt country, party rap, alternative rock",7572,Sleepyhead,Passion Pit,instrumental,0.995123207569,106.06615448,not_danceable,1,minor
+53258,83770,Love Or Something Like That,"alt country, party rap, alternative rock",282358,Submarine Symphonika,The Submarines

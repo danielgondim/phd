@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+5,455,White Chocolate's Sunday at the Sugar Factory Mix,"disco, boogie, r&b, italo disco",4530,Love Has Come Around,Donald Byrd,0
+5,455,White Chocolate's Sunday at the Sugar Factory Mix,"disco, boogie, r&b, italo disco",4525,Do It Anyway,Mike & T,0
+5,455,White Chocolate's Sunday at the Sugar Factory Mix,"disco, boogie, r&b, italo disco",4527,I Love You More,Rene & Angela,0
+5,455,White Chocolate's Sunday at the Sugar Factory Mix,"disco, boogie, r&b, italo disco",4526,Can You Handle It [Francois K Mix],Sharon Redd,0
+5,455,White Chocolate's Sunday at the Sugar Factory Mix,"disco, boogie, r&b, italo disco",4528,You Can't Hide (Your Love From Me),David Joseph,0
+5,455,White Chocolate's Sunday at the Sugar Factory Mix,"disco, boogie, r&b, italo disco",4532,Rapture (Special Disco Mix),Blondie,0,instrumental,0.997319281101,108.054206848,danceable,0.971486270428,minor
+5,455,White Chocolate's Sunday at the Sugar Factory Mix,"disco, boogie, r&b, italo disco",4529,Land Of Hunger,The Earons,0
+5,455,White Chocolate's Sunday at the Sugar Factory Mix,"disco, boogie, r&b, italo disco",4531,Take A Chance (Extended 12),Mr. Flagio,0

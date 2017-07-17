@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+462732,501279,shtudy time,"study, focus, covers, piano, orchestral",5543723,One Summer's Day ,Joe Hisaishi,1
+462732,501279,shtudy time,"study, focus, covers, piano, orchestral",5543748,Snow (Hey Oh) ,The Vitamin String Quartet1,1
+462732,501279,shtudy time,"study, focus, covers, piano, orchestral",5543661,Clair de Lune,Claude Debussy ,1,instrumental,0.988221943378,136.691864014,not_danceable,0.999993920326,major
+462732,501279,shtudy time,"study, focus, covers, piano, orchestral",5543676,Sixth Stop,Joe Hisaishi,1
+462732,501279,shtudy time,"study, focus, covers, piano, orchestral",5543770,Feel Good Inc.(cover),The Vitamin String Quartet3,1
+462732,501279,shtudy time,"study, focus, covers, piano, orchestral",5543805,Cavatina,John Williams,1
+462732,501279,shtudy time,"study, focus, covers, piano, orchestral",5543700,Rhapsody in Blue,Gershwin plays Gershwin,1
+462732,501279,shtudy time,"study, focus, covers, piano, orchestral",5543781,Yellow (Coldplay),The Vitamin String Quartet2,1

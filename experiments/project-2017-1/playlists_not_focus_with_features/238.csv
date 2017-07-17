@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+340,238,Annies 80s Mix,"electronic, pop, rock",2254,Bangkok - One Night In Bangkok,Chess,0,voice,0.575460851192,113.91355896,not_danceable,0.569873452187,minor
+340,238,Annies 80s Mix,"electronic, pop, rock",2236,Nothing Compares 2 U,Sinï¿½ad O'Connor,0
+340,238,Annies 80s Mix,"electronic, pop, rock",2250,In Your Eyes,Peter Gabriel,0
+340,238,Annies 80s Mix,"electronic, pop, rock",2237,Lose My Way,Men Without Hats,0,voice,0.807561993599,136.692153931,not_danceable,0.864249289036,major
+340,238,Annies 80s Mix,"electronic, pop, rock",2197,Cars,Gary Numan,0,voice,0.975806713104,132.205062866,danceable,0.857906103134,major
+340,238,Annies 80s Mix,"electronic, pop, rock",2178,Pictures Of You,The Cure,0
+340,238,Annies 80s Mix,"electronic, pop, rock",2166,Girls Just Want To Have Lunch,'Weird Al' Yankovic,0,instrumental,0.984974324703,123.561843872,not_danceable,1,major

@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+272,280,"Tyler's, listening to lately #1","rock, alternative rock, pop",3224,Never Never Love,Pop Levi,0
+272,280,"Tyler's, listening to lately #1","rock, alternative rock, pop",3227,Dr. Strangeluv,Blonde Redhead,0,instrumental,0.87230348587,126.704437256,not_danceable,0.894081652164,minor
+272,280,"Tyler's, listening to lately #1","rock, alternative rock, pop",3225,Juno,Tokyo Police Club,0,instrumental,0.976117730141,137.338989258,not_danceable,1,major
+272,280,"Tyler's, listening to lately #1","rock, alternative rock, pop",3226,Happiness,Goldfrapp,0
+272,280,"Tyler's, listening to lately #1","rock, alternative rock, pop",3229,Tell Me Everything You Know,So Many Dynamos,0
+272,280,"Tyler's, listening to lately #1","rock, alternative rock, pop",3231,Waving Flags,British Sea Power,0
+272,280,"Tyler's, listening to lately #1","rock, alternative rock, pop",3228,The Spirit Of Giving,The New Pornographers,0,instrumental,0.636786699295,141.304321289,not_danceable,0.826913297176,major

@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443183, I Do,Colbie Caillat
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443190,Valerie,Amy Winehouse
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443196,Stand By Me,John Lennon
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443230,Lovesick,Friendly Fires
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443255,Count Me In,Leeland,voice,0.521740853786,129.981506348,danceable,0.603823184967,major
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443285,Don't Stop the Music,Rihanna
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443299,Must Have Done Something Right,Relient K,voice,0.580763220787,138.032119751,danceable,0.542555391788,major
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443365,I Want You Back,KT Tunsall
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443422,I Wanna Hold Your Hand,The Beatles

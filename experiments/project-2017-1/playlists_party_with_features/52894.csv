@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+29057,52894,stuff,"pop, party",405471,Take Me To LA,Weekend Warriors
+29057,52894,stuff,"pop, party",405474,Caught Up In the Cycle,Weekend Warriors
+29057,52894,stuff,"pop, party",405475,Flip My Switch,Jupiter Rising,voice,0.693172693253,119.984779358,not_danceable,1,major
+29057,52894,stuff,"pop, party",405476,Murder by Disco,The Kids Are RADIOACTIVE
+29057,52894,stuff,"pop, party",405477,How We Roll,Plushgun,voice,0.586772143841,172.265197754,danceable,0.871076822281,major
+29057,52894,stuff,"pop, party",405478,Immune,Kill the Alarm
+29057,52894,stuff,"pop, party",405479,One Week of Danger,The Virgins
+29057,52894,stuff,"pop, party",405480,Trouble,Nevershoutnever!

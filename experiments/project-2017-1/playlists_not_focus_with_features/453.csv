@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4492,01 Purple Haze,Jimi Hendrix,0,instrumental,0.969443798065,116.985824585,not_danceable,1,major
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4499,02 Joey - Acoustic,Concrete Blonde,0,voice,0.99942356348,112.61769104,not_danceable,0.959909200668,major
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4502,04 Don't Speak,No Doubt,0
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4496,05 Under Pressure,Queen & David Bowie,0
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4494,07 Five to One,The Doors,0,voice,0.763918876648,92.7044372559,not_danceable,0.751230835915,minor
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4505,08 I Need a Miracle Every Day,The Grateful Dead,0
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4493,10 Don't Let Me Be Misunderstood,The Animals,0
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4503,11 Yer Blues,The Beatles,0
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4504,12 Slippin Into Darkness - Acoustic,War,0,voice,0.983697652817,89.472114563,not_danceable,0.652849376202,minor
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4500,13 Knockin' On Heaven's Door,Guns 'n' Roses,0
+1176,453,Manic and Blues Disc Three - February 2004,"bipolar, manic, depression, blues",4495,14 I Can See Clearly Now,Johnny Nash,0

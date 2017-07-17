@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+17006,16722,frili's April 2009 mix,"electronic, party, crystal castles",140397,Newsflash (Featuring Sandra Melody),Diplo,voice,0.539186477661,132.793121338,danceable,0.999697268009,minor
+17006,16722,frili's April 2009 mix,"electronic, party, crystal castles",140400,07Pogo,Digitalism
+17006,16722,frili's April 2009 mix,"electronic, party, crystal castles",140401,Dead Womb,Death From Above 1979,instrumental,0.996487975121,111.945053101,not_danceable,1,minor
+17006,16722,frili's April 2009 mix,"electronic, party, crystal castles",140406,11h30,Danger
+17006,16722,frili's April 2009 mix,"electronic, party, crystal castles",140411,Black Panther,Crystal Castles,instrumental,0.982814729214,150.013793945,danceable,0.999867856503,minor
+17006,16722,frili's April 2009 mix,"electronic, party, crystal castles",140415,& Down (Original Mix),Boys Noize
+17006,16722,frili's April 2009 mix,"electronic, party, crystal castles",140418,Camera,Editors
+17006,16722,frili's April 2009 mix,"electronic, party, crystal castles",140422,Trick Me,Kelis

@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+779749,660872,Work on it,"focus, old but good",6686068,Blowin' in the Wind,Bob Dylan
+779749,660872,Work on it,"focus, old but good",6686075,Come by Storm,Laura Gibson
+779749,660872,Work on it,"focus, old but good",6686079,Timing Is Everything,Elysian Fields,instrumental,0.861702978611,135.263885498,danceable,0.999441146851,minor
+779749,660872,Work on it,"focus, old but good",6686101,Please Please Please,Fiona Apple
+779749,660872,Work on it,"focus, old but good",6686108,Window,Fiona Apple
+779749,660872,Work on it,"focus, old but good",6686120,Six Seven Times,Flunk
+779749,660872,Work on it,"focus, old but good",6687509,The trick is to keep breathing,Garbage
+779749,660872,Work on it,"focus, old but good",6687513,You're The Storm,The Cardigans,instrumental,0.999998748302,107.177871704,not_danceable,1,minor
+779749,660872,Work on it,"focus, old but good",6687599,You're The Storm,The Cardigans,instrumental,0.999998748302,107.177871704,not_danceable,1,minor

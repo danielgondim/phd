@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+998,412,Lately Nothing,"eclectic, alternative rock",4276,Revenge,The Patti Smith Group,0
+998,412,Lately Nothing,"eclectic, alternative rock",4266,Re: Stacks,Bon Iver,0
+998,412,Lately Nothing,"eclectic, alternative rock",4269,Like Titanic,Damien Jurado & Gathered In Song,0
+998,412,Lately Nothing,"eclectic, alternative rock",4270,The Moon,The Microphones,0
+998,412,Lately Nothing,"eclectic, alternative rock",4271,I will call you lover again,"Loney, Dear",0,voice,0.879729866982,105.941207886,not_danceable,0.840636193752,major
+998,412,Lately Nothing,"eclectic, alternative rock",4272,Blue Jay Way,The Beatles,0,voice,0.960899233818,101.949317932,not_danceable,0.622597575188,major
+998,412,Lately Nothing,"eclectic, alternative rock",4265,Frederick,The Patti Smith Group,0
+998,412,Lately Nothing,"eclectic, alternative rock",4273,Blind Love,Tom Waits,0

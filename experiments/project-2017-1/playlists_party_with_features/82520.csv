@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+52731,82520,Dance Party!,dance electronic fun party,511737,"Hello, Brooklyn",All Time Low,instrumental,0.997425913811,147.897018433,not_danceable,1,major
+52731,82520,Dance Party!,dance electronic fun party,538751,United State of Pop 2009 (Blame It on the Pop),DJ Earworm,voice,0.79509717226,129.901092529,danceable,0.994907677174,major
+52731,82520,Dance Party!,dance electronic fun party,113348,A Cause Des Garcons,Yelle
+52731,82520,Dance Party!,dance electronic fun party,526288,Telephone,Lady Gaga ft.Beyonce
+52731,82520,Dance Party!,dance electronic fun party,207055,Weightless,All Time Low
+52731,82520,Dance Party!,dance electronic fun party,136862,Party In Your Bedroom,Cash Cash
+52731,82520,Dance Party!,dance electronic fun party,5542,Crazy Train (Album Version),Ozzy Osbourne
+52731,82520,Dance Party!,dance electronic fun party,228789,My Worst Nightmare,Forever The Sickest Kids,instrumental,1,139.980407715,not_danceable,1,minor
+52731,82520,Dance Party!,dance electronic fun party,422498,Crazy In Love,Beyoncé
+52731,82520,Dance Party!,dance electronic fun party,602981,Saved,All Caps

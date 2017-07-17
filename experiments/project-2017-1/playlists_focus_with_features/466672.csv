@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+781554,466672,Creative Vices,"progressive rock, jazz rock, creativity, inspiring, focusing",5283505,Jabberwocky,Fear Before
+781554,466672,Creative Vices,"progressive rock, jazz rock, creativity, inspiring, focusing",5283508,Hamilton Anxiety Scale,Thomas Giles
+781554,466672,Creative Vices,"progressive rock, jazz rock, creativity, inspiring, focusing",5283538,Box Up My Bones,Cynic,instrumental,0.747221171856,120.152542114,not_danceable,0.763610005379,minor
+781554,466672,Creative Vices,"progressive rock, jazz rock, creativity, inspiring, focusing",5283535,The Chronomancer I: Hubris,The Sword,instrumental,0.999999284744,86.4893493652,not_danceable,1,minor
+781554,466672,Creative Vices,"progressive rock, jazz rock, creativity, inspiring, focusing",5283528,Yoshimi Battles The Pink Robots Pt.1,The Flaming Lips
+781554,466672,Creative Vices,"progressive rock, jazz rock, creativity, inspiring, focusing",5283516,Turn Off Your Mind,Electric Wizard,voice,0.979256570339,100.032493591,not_danceable,0.993198752403,minor
+781554,466672,Creative Vices,"progressive rock, jazz rock, creativity, inspiring, focusing",5283524,La Villa Strangiato,Rush
+781554,466672,Creative Vices,"progressive rock, jazz rock, creativity, inspiring, focusing",5283532,"Holland, 1945",Neutral Milk Hotel

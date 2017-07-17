@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5845950,In My Time Of Dying.,frazy ford,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5845954,Brother,Little Birdy,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5845975,Blue Jeans,Lana Del Rey   ,1,voice,0.881607413292,117.938362122,not_danceable,0.635300397873,major
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5845982,shelter,Birdy,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846065,Places You Have Come to Fear the Most,Dashboard Confessional,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846067,thats some dream,Good old war,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846069,The Funeral,Band of Horses,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846082,The High Road,Broken Bells,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846099,Casey's Song,City and Colour,1,instrumental,0.999998807907,119.318435669,not_danceable,1,minor
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846101,In My Veins,Andrew Belle,1

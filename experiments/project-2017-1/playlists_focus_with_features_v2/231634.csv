@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920231,Coma,Buckethead,1
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920271,Digital Bath,Deftones,1
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920294,Won't Back Down,Fuel,1,voice,0.920559287071,95.0218887329,not_danceable,0.887805342674,minor
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920309,Set It Off,Audioslave,1
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920348,Place for my Head,Linkin Park,1
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920380,Find My Way,P.O.D.,1
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920407,Blackest Eyes,Porcupine Tree,1,voice,0.57078742981,94.9933547974,not_danceable,0.521355390549,major
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920447,Let's Go,Speak No Evil,1

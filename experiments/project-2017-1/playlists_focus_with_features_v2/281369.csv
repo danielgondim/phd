@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+33366,281369,The Morning Drive.,"cool, driving, morning, focus, iphone",2649180,Don't Get Stuck (Proud Elephants),Delicate Steve,1,instrumental,0.950605511665,82.7690505981,not_danceable,0.586615741253,major
+33366,281369,The Morning Drive.,"cool, driving, morning, focus, iphone",2649363,Come Home,Alpha 9,1
+33366,281369,The Morning Drive.,"cool, driving, morning, focus, iphone",2649218,Walking On A Dream,Empire Of The Sun,1
+33366,281369,The Morning Drive.,"cool, driving, morning, focus, iphone",2649231,Dice of Life (The Battle),Andre Nickatina,1
+33366,281369,The Morning Drive.,"cool, driving, morning, focus, iphone",2649258,Paper Planes,M.I.A.,1
+33366,281369,The Morning Drive.,"cool, driving, morning, focus, iphone",2649310,Weekend Wars,MGMT,1,instrumental,0.55454659462,153.482803345,danceable,0.792140841484,major
+33366,281369,The Morning Drive.,"cool, driving, morning, focus, iphone",2649323,X & Y,Coldplay,1,instrumental,0.999998986721,153.152694702,not_danceable,1,minor
+33366,281369,The Morning Drive.,"cool, driving, morning, focus, iphone",2649287,Time,Hans Zimmer,1

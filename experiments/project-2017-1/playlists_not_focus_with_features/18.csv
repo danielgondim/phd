@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+2,18,Fall favorites 2006,,56,Life on Mars?,Arcade Fire with David Bowie,0
+2,18,Fall favorites 2006,,59,Heartbeats,The Knife,0,instrumental,0.883075416088,88.0925064087,danceable,0.984690129757,minor
+2,18,Fall favorites 2006,,60,Who is It? (Vitalic Remix),Bjork,0
+2,18,Fall favorites 2006,,61,"Hold Me, Touch Me (Black Strobe Remix)","Larry Tee, W.I.T.",0,voice,0.894090771675,124.980751038,danceable,0.991961598396,minor
+2,18,Fall favorites 2006,,38,In the Morning,Junior Boys,0
+2,18,Fall favorites 2006,,31,Darko,Booka Shade,0
+2,18,Fall favorites 2006,,62,(b1) donnerstag,909d1sco,0
+2,18,Fall favorites 2006,,63,Maps (Michael Mayer and Tobias Thomas Mix),Ada,0

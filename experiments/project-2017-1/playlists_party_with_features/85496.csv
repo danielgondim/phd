@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+56699,85496,swagger like us,"party, chill",621772,What Would I Want? Sky,Animal Collective,voice,0.858122467995,178.206924438,danceable,0.629443824291,major
+56699,85496,swagger like us,"party, chill",621779,A/B Machines,Sleigh Bells
+56699,85496,swagger like us,"party, chill",621782,Theres Space For Ol Dat I See,M.I.A.
+56699,85496,swagger like us,"party, chill",465518,Right Hand Hi,Kid Sister,instrumental,0.546079218388,126.022079468,danceable,0.999919652939,major
+56699,85496,swagger like us,"party, chill",266490,In Search Of,Miike Snow
+56699,85496,swagger like us,"party, chill",220379,I Love The Bloody Beetroots,The Bloody Beetroots,instrumental,0.999999940395,129.952590942,danceable,0.999999880791,major
+56699,85496,swagger like us,"party, chill",342074,So Insane,Discovery
+56699,85496,swagger like us,"party, chill",147732,The Girl And The Robot,Röyksopp featuring Robyn,voice,0.791099309921,126.014854431,danceable,0.999999880791,major

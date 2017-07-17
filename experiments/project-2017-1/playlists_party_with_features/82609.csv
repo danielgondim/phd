@@ -1,0 +1,21 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603403,Sin Wagon,Dixie Chicks,voice,0.839575707912,143.792388916,not_danceable,0.712581634521,major
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603405,Diamond Hipster Boy,Washington Social Club
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603406,The Party's Crashing Us,Of Montreal
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603410,Sweet 16 (Original Mix),Thunderheist
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603413,Jerk It,Thunderheist,voice,0.612494766712,135.432388306,danceable,0.999999880791,major
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603415,She's A Lady,Tom Jones,voice,0.955043077469,119.308380127,not_danceable,0.827308118343,major
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603418,Gucci Loafers (Our First Paycheck),Super Mash Bros.,voice,0.92656904459,116.778251648,danceable,0.994740128517,minor
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603422,black and gold,Sam Sparrow,instrumental,0.993621110916,135.959365845,not_danceable,1,major
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603423,1901,Phoenix
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603426,Seaweed Song,Passion Pit,instrumental,0.999999761581,104.965660095,not_danceable,1,minor
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603427,Party In The U.S.A.,Miley Cyrus,voice,0.994852900505,92.0653686523,not_danceable,0.648446321487,major
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603428,Animal,Miike Snow
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603430,Bad Romance,Lady Gaga
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603432,TiK ToK,Ke$ha
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603433,Waking Up in Vegas,Katy Perry,voice,0.982987046242,131.004455566,danceable,0.852979719639,major
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603434,can i get get get,Junior Senior,instrumental,0.557398438454,101.136375427,danceable,0.992483496666,minor
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603437,Crazy,Jem
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603438,Empire State Of Mind,Jay-Z (Feat. Alicia Keys),voice,0.684514462948,86.6713104248,danceable,0.994288802147,minor
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603439,What's The Altitude (Feat. Hymnal),Cut Chemist,instrumental,1,137.413360596,not_danceable,1,minor
+54797,82609,Sin Wagon,"vegas, party, upallnight, pop",603441,Good Girls Go Bad feat Leighton Meester,Cobra Starship,voice,0.97740727663,119.987335205,danceable,0.998834371567,major

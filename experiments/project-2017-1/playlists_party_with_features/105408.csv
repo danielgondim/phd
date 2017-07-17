@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+56457,105408,i'll try to be happy today,"smile, be happy, fun, party",146866,Everything Will Be Alright,The Killers,instrumental,0.551208376884,128.085662842,not_danceable,0.655406117439,minor
+56457,105408,i'll try to be happy today,"smile, be happy, fun, party",130302,Guilty Pleasure,Cobra Starship,instrumental,0.999984145164,150.065612793,not_danceable,1,major
+56457,105408,i'll try to be happy today,"smile, be happy, fun, party",242060,Hum Hallelujah,Fall Out Boy,voice,0.979271233082,93.3906555176,not_danceable,0.617429018021,major
+56457,105408,i'll try to be happy today,"smile, be happy, fun, party",33610,Be My Escape,Relient K,instrumental,0.99998998642,112.148765564,not_danceable,1,major
+56457,105408,i'll try to be happy today,"smile, be happy, fun, party",295502,Six Feet Under The Stars,All Time Low,voice,0.993721187115,130.585998535,danceable,0.85997313261,major
+56457,105408,i'll try to be happy today,"smile, be happy, fun, party",278854,Nine In the Afternoon,Panic At the Disco,voice,0.990720927715,154.629562378,danceable,0.959819674492,major
+56457,105408,i'll try to be happy today,"smile, be happy, fun, party",17629,Our Time Now,Plain White T's
+56457,105408,i'll try to be happy today,"smile, be happy, fun, party",3696,Smile,Lily Allen

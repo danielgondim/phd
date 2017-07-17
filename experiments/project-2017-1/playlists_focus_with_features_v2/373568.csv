@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+301485,373568,DETERMINATION,"determined, gritty, focused",3933823,Dog Trot,Moondog,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933834,Gonna Never Have To Die,Guided By Voices,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933827,Wawshishijay (Our Beginning),Kronos Quartet,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933825,Little By Little,Radiohead,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933821,Je n'avais qu'un seul mot a lui dire,Serge Gainsbourg,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933819,Tantrum,Laika & The Cosmonauts,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933836,Fly,Cornelius,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933830,Se Decidi Cosi,Jimmy Ruffin,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933816,Lilia,Milton Nascimento & Lo Borges,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933838,Outer Accelerator,Stereolab,1,instrumental,0.999998271465,144.099899292,not_danceable,1,major

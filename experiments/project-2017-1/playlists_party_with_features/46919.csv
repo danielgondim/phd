@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+35649,46919,Dance Party,"indie rock, mash-up, dance party",363912,The Long List Of Girls,The Blow,voice,0.990324020386,119.897949219,danceable,0.999985516071,major
+35649,46919,Dance Party,"indie rock, mash-up, dance party",363913,Let's Make Love And Listen To Death From Above,Cansei de Ser Sexy
+35649,46919,Dance Party,"indie rock, mash-up, dance party",363914,Courtship Dating,Crystal Castles,instrumental,0.993589401245,119.989349365,danceable,0.999998211861,minor
+35649,46919,Dance Party,"indie rock, mash-up, dance party",363919,Get Older,Dan Deacon,instrumental,0.93421703577,161.499755859,not_danceable,1,major
+35649,46919,Dance Party,"indie rock, mash-up, dance party",363923,No Pause,Girl Talk,voice,0.798851311207,104.990516663,danceable,0.998667120934,major
+35649,46919,Dance Party,"indie rock, mash-up, dance party",363930,Bottle Rocket,The Go! Team,voice,0.979742884636,120.278877258,not_danceable,0.997201502323,major
+35649,46919,Dance Party,"indie rock, mash-up, dance party",363942,Gold Guns And Girls,Metric
+35649,46919,Dance Party,"indie rock, mash-up, dance party",363945,Creator,Santigold,instrumental,1,146.34413147,not_danceable,1,minor

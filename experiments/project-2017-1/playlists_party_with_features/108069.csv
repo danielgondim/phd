@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760376,Flourescent Adolescent,Arctic Monkeys
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760444,Cherry Bomb,The Runaways,voice,0.998388409615,136.210769653,danceable,0.568687260151,major
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760384,Kids,MGMT,instrumental,0.606246888638,122.984588623,danceable,0.89597928524,major
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760393,Voodoo,Spiral Beach
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760387,Sunglasses At Night,Corey Hart,voice,0.998616814613,127.982131958,danceable,0.999999880791,minor
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760398,I'm A Cuckoo,Belle & Sebastian
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760399,Debaser,Pixies
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760406,Daylight,Matt and Kim
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760408,A-Punk,Vampire Weekend,instrumental,0.999997794628,172.26574707,not_danceable,1,minor
+68394,108069,"Fuck yeah, spring break!","indie rock, upbeat, party music",760412,The W.A.N.D.,The Flaming Lips

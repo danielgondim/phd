@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+14,267,BLACK MAGICK,"electronic, indie rock, alternative rock",3059,With Honey Cream,Black Devil Disco Club,0,voice,0.52185857296,127.483413696,danceable,0.998426914215,major
+14,267,BLACK MAGICK,"electronic, indie rock, alternative rock",3085,Black Plastic,Ladytron,0
+14,267,BLACK MAGICK,"electronic, indie rock, alternative rock",3086,Black Eyes,Snowden,0
+14,267,BLACK MAGICK,"electronic, indie rock, alternative rock",3087,Black Tongue,Yeah Yeah Yeahs,0
+14,267,BLACK MAGICK,"electronic, indie rock, alternative rock",3088,Black Jettas,Ima Robot,0
+14,267,BLACK MAGICK,"electronic, indie rock, alternative rock",3084,Spit Shine Your Black Clouds,The Blood Brothers,0
+14,267,BLACK MAGICK,"electronic, indie rock, alternative rock",3083,Black Winter Night,Dragonforce,0,voice,0.937619864941,99.9239273071,not_danceable,0.999996006489,major

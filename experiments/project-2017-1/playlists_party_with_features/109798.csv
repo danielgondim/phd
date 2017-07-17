@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771143,Ice,LIGHTS
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771026,Seaweed Song,Passion Pit,instrumental,0.999999761581,104.965660095,not_danceable,1,minor
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771037,Here (In Your Arms),Hellogoodbye
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771055,Kiss the Girl (Pop Version),Ashley Tisdale
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771149,Nighttiming,Coconut Records,instrumental,0.700609207153,119.996879578,danceable,0.871257483959,minor
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771062,Horchata,Vampire Weekend
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771065,Time To Pretend,MGMT,voice,0.849888265133,100.956443787,danceable,0.772075533867,major
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771146,Telephone,Lady GaGa & Beyoncé
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771072,All You Need Is Love,The Beatles
+53638,109798,for kelly.,"indie pop, silly, happy, dance party",771077,Hakuna Matata,"Nathan Lane, Ernie Sabella, Jason Weaver & Joseph Williams"

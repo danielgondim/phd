@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+634810,489311,Never Looking Back,"sad, focus, travel",5455440,Woman go,Joe Purdy,voice,0.916120767593,106.493736267,not_danceable,0.940754711628,minor
+634810,489311,Never Looking Back,"sad, focus, travel",5455446,The Great Escape,Patrick Watson
+634810,489311,Never Looking Back,"sad, focus, travel",5455455,Talihina Sky,Kings of Leon
+634810,489311,Never Looking Back,"sad, focus, travel",5470724,Please Don't Leave Quite Yet,Adam Agin
+634810,489311,Never Looking Back,"sad, focus, travel",5470907,Dusty Road (So Kind),DeYarmond Edison 
+634810,489311,Never Looking Back,"sad, focus, travel",5470924,Walking With Happiness,The Best Pessimist,instrumental,0.991948008537,129.316162109,not_danceable,0.861979544163,major
+634810,489311,Never Looking Back,"sad, focus, travel",5471537,Cost,Folly & The Hunter 
+634810,489311,Never Looking Back,"sad, focus, travel",5471774,Headphones,I'm from Barcelona ,voice,0.75629734993,125.010803223,not_danceable,0.94771450758,major
+634810,489311,Never Looking Back,"sad, focus, travel",5471969,Love Me Or Not,Dub FX ,voice,0.998910486698,144.918319702,not_danceable,1,major

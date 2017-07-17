@@ -1,0 +1,23 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383462,Calling All Skeletons,Alkaline Trio,instrumental,0.994735300541,129.915878296,not_danceable,1,major
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383472,Feel So Close (Radio Edit),Calvin Harris,instrumental,0.936143755913,128.071685791,not_danceable,1,major
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383479,Free Fallin',Tom Petty
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383483,Ground Shake,Dirty Radio
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383485,I Got It (Spragga Down 1 DB),Kevin Lyttle
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383490,Knock Knock,Mac Miller
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383493,Levels,Avicii
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383500,Paris (Ooh La La),Grace Potter & The Nocturnals,voice,0.974545955658,90.9796447754,danceable,0.822848975658,minor
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383506,Strange Clouds (feat. Lil Wayne),B.o.B
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383508,Heartless,Fake Problems
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383512,Chicks Dig It,Chris Cagle,voice,0.531383752823,103.773986816,danceable,0.591135025024,minor
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383516,Ordinary Girl,Rebelution,instrumental,0.725627720356,154.123703003,danceable,0.999851942062,major
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383519,These Days,Foo Fighters
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383524,All Over Now,Eric Hutchinson
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383531,Young Blood,The Naked and Famous
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383537,Glory and Consequence,Ben Harper
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383546,Someday,Jah Roots
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383552,Lay Me Down,The Dirty Heads
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383557,Bad Girlfriend,Theory of A Deadman,voice,0.915283322334,135.083328247,not_danceable,0.555455267429,major
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383564,Brand New Bitch (Laidback Luke Remix),Anjulie,voice,0.657722890377,125.029335022,danceable,0.999865651131,major
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383565,Lights,Ellie Goulding
+825109,622219,BRONEIL BOARD JAMS,"freedom, snowboarding, focus, random",6383569,Opposite Of Adults,Chiddy Bang,voice,0.865912556648,96.0120162964,danceable,0.998459637165,minor

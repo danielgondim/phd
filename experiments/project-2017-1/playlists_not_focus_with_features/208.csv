@@ -1,0 +1,20 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1,208,Billboard Top 20 from April 08,"pop, billboard",2705,Superstar (featuring Matthew Santos) (Album Version),Lupe Fiasco featuring Matt Santos,0,instrumental,1,94.9327545166,not_danceable,1,minor
+1,208,Billboard Top 20 from April 08,"pop, billboard",2704,No Air duet with Chris Brown (Main Version),Jordin Sparks featuring Chris Brown,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2703,With You (Main Version),Chris Brown,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2702,New Soul,Yael Naïm,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2701,Stop And Stare,OneRepublic,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2700,Don't Stop The Music,Rihanna,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2699,Apologize,Timbaland,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2698,Love In This Club (Main Version),Usher featuring Young Jeezy,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2697,Shawty Get Loose (Main Version),Lil Mama featuring Chris Brown & T-Pain,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2696,Elevator [Feat. Timbaland] (Album Version),Flo Rida,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2695,Lollipop [Explicit],Lil Wayne,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2694,Independent [Featuring Lil' Boosie and Lil' Phat] (Amended Album Version),Webbie,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2693,No One,Alicia Keys,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2692,Love Song (Album Version),Sara Bareilles,0,voice,0.86754244566,123.003303528,danceable,0.999999880791,major
+1,208,Billboard Top 20 from April 08,"pop, billboard",2691,Low (Feat. T-Pain),Flo Rida,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2690,Bleeding Love (Album Version),Leona Lewis,0,instrumental,0.996782958508,103.937385559,not_danceable,1,major
+1,208,Billboard Top 20 from April 08,"pop, billboard",2689,Touch My Body,Mariah Carey,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2688,Sexy Can I Feat. Yung Berg [Explicit],Ray J,0
+1,208,Billboard Top 20 from April 08,"pop, billboard",2687,See You Again,Miley Cyrus,0

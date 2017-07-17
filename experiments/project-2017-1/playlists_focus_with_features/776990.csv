@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595097,Beauty of Discipline,Gareth Pearson
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595112,Parallel Highway,God Is An Astronaut,instrumental,0.996925711632,95.9244842529,not_danceable,1,major
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595117,Wait,M83
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595120,Claire de Lune,Claude Debussy,instrumental,0.952908635139,152.155502319,not_danceable,0.954209327698,major
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595124,Moonlight In Vermont,Ben Williams
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595132,Time,Hans Zimmer
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595139,Belle,Jack Johnson
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595152,Quequ'un M'a Dit,Carla Bruni
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595158,Beach Baby,Bon Iver,instrumental,0.999997675419,113.944458008,not_danceable,0.561336517334,minor
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595163,Blue Shadows In The Street,Dave Brubeck Quartet,instrumental,0.954807639122,77.4230728149,not_danceable,0.841405332088,minor
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595164,A Real Hero (feat. Electric Youth),College,instrumental,0.872579038143,111.863288879,danceable,0.572901308537,major
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595207,When She Cries,Andy McKee,instrumental,1,144.444274902,not_danceable,1,major
+447657,776990,Keep calm...and relax,"calm, focus, study, chillout",7595242,Celtic Feeling,Rafa Rodriguez

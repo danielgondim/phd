@@ -1,0 +1,6 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+298,190,penguinsixs mix 1,,28,Rez,Underworld,0
+298,190,penguinsixs mix 1,,357,Blue Monday (Hardfloor mix),New Order,0
+298,190,penguinsixs mix 1,,694,Step On,Happy Mondays,0
+298,190,penguinsixs mix 1,,685,Digital,Joy Division,0
+298,190,penguinsixs mix 1,,2197,Cars,Gary Numan,0,voice,0.975806713104,132.205062866,danceable,0.857906103134,major

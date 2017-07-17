@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1196,448,premie rock mix,"alternative rock, indie rock",3566,Time to Pretend,MGMT,0,voice,0.849888265133,100.956443787,danceable,0.772075533867,major
+1196,448,premie rock mix,"alternative rock, indie rock",958,It's Been a Long Time,Felix Da Housecat,0
+1196,448,premie rock mix,"alternative rock, indie rock",3617,Viva La Vida,Coldplay,0,voice,0.985542058945,138.085159302,not_danceable,0.552873373032,minor
+1196,448,premie rock mix,"alternative rock, indie rock",3571,My Little Japanese Cigarette Case,Spoon,0,voice,0.998864233494,117.97354126,danceable,0.955249786377,minor
+1196,448,premie rock mix,"alternative rock, indie rock",1189,Sympathy For The Devil,The Rolling Stones,0
+1196,448,premie rock mix,"alternative rock, indie rock",3701,Are You Gonna Be My Girl,Jet,0
+1196,448,premie rock mix,"alternative rock, indie rock",1434,Can I Kick It?,A Tribe Called Quest,0,voice,0.514961659908,96.6368331909,danceable,0.796592593193,minor
+1196,448,premie rock mix,"alternative rock, indie rock",3696,Smile,Lily Allen,0

@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+39000,58322,"I Pop, You Pop","pop, party",440833,Now That You Got It (Main Mix a.k.a Remix),Gwen Stefani,instrumental,0.622100889683,98.4883804321,danceable,0.999994516373,minor
+39000,58322,"I Pop, You Pop","pop, party",440839,S.O.S. (Let the Music Play),Jordin Sparks,instrumental,0.928936004639,115.012779236,danceable,0.99999153614,minor
+39000,58322,"I Pop, You Pop","pop, party",440842,3,Britney Spears
+39000,58322,"I Pop, You Pop","pop, party",440845,Rock Your Body,Justin Timberlake
+39000,58322,"I Pop, You Pop","pop, party",440847,Smile,Lily Allen
+39000,58322,"I Pop, You Pop","pop, party",440850,Girlfriend,Avril Lavigne
+39000,58322,"I Pop, You Pop","pop, party",440853,Clumsy,Fergie,voice,0.96340495348,91.7017593384,danceable,0.780720412731,major
+39000,58322,"I Pop, You Pop","pop, party",440857,Do It,Nelly Furtado

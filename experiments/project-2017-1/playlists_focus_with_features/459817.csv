@@ -1,0 +1,23 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178874,Think Long,Mates of State,instrumental,0.777862370014,122.069335938,danceable,0.892553150654,major
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178909,Debbie,Architecture in Helsinki
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178880,Car,Built to Spill,voice,0.864605903625,163.856689453,not_danceable,0.887000739574,minor
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178898,Cato As A Pun,Of Montreal
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178883,"The Tallest Man, The Broadest Shoulders",Sufjan Stevens
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178884,Objects Of My Affection,Peter Bjorn And John
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178889,You Are What You Love,Jenny Lewis With The Watson Twins,voice,0.973555266857,112.887626648,not_danceable,0.632887721062,major
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178890,Red Turned White,Architecture in Helsinki,voice,0.997538387775,111.393455505,danceable,0.636881649494,major
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178892,The Bagman's Gambit,The Decemberists,instrumental,0.999998152256,90.7185287476,not_danceable,1,minor
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178893,A Better Son/Daughter,Rilo Kiley
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178877,Like U Crazy,Mates of State
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178918,Romulus,Sufjan Stevens,instrumental,0.631016612053,120.409172058,not_danceable,0.985364496708,minor
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178912,Tables and Chairs,Andrew Bird
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178922,Rabbit Fur Coat,Jenny Lewis With The Watson Twins,voice,0.896016776562,142.390151978,not_danceable,0.938425302505,minor
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178894,Let's Get Out Of This Country,Camera Obscura
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178895,Black Sand,Jenny Lewis,voice,0.812513113022,121.184516907,danceable,0.689696013927,major
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178903,It's a Hit,Rilo Kiley,voice,0.842399716377,117.675842285,danceable,0.816883027554,major
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178905,The Sporting Life,The Decemberists,voice,0.933361172676,105.763748169,not_danceable,0.862566590309,major
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178881,Knife Going In,Tegan And Sara,instrumental,0.999999821186,113.108261108,not_danceable,1,minor
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178907,Country Mile,Camera Obscura,instrumental,0.583587944508,100.95866394,not_danceable,0.975120902061,major
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178908,The Purple Bottle,Animal Collective,instrumental,0.988499462605,163.723907471,danceable,0.81795156002,major
+138460,459817,Urhos Does Work,"productivity, work, study, focus, school",5178911,Suffer For Fashion,Of Montreal

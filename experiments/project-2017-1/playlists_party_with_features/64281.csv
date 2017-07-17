@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482406,"Here's Looking At You, Kid",The Gaslight Anthem,voice,0.946786046028,99.7391281128,danceable,0.572265267372,major
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482407,Ugly on the Inside,Owen,voice,0.718689143658,150.032714844,not_danceable,0.890301048756,major
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482408,Can't Feel A Thing,Lucero
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482409,Trailer Trash,Modest Mouse
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482410,Bed,Brand New
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482411,The Recluse,Cursive
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482412,Wild World,Cat Stevens,voice,0.935407459736,153.041107178,not_danceable,0.803849101067,major
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482413,Re: Stacks,Bon Iver
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482414,We're Going To Be Friends,The White Stripes,voice,0.990039169788,97.6055908203,not_danceable,0.848463654518,major
+30382,64281,September 2009,"september, random, rock n rock all night and party every day",482415,Rock and Roll All Nite,Kiss

@@ -1,0 +1,16 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+7770,47719,GOLD,"study, bright, party",369744,Fucked For Life,The Dirty Projectors
+7770,47719,GOLD,"study, bright, party",369750,Golden Phone,Micachu
+7770,47719,GOLD,"study, bright, party",369753,Day (Original),Jaga Jazzist,instrumental,0.9646692276,134.497238159,danceable,0.994874119759,major
+7770,47719,GOLD,"study, bright, party",369756,Soldier,Erykah Badu
+7770,47719,GOLD,"study, bright, party",369757,Tender Shepard and Little Girl,Venissa Santi
+7770,47719,GOLD,"study, bright, party",369761,Hounds of Love,Kate Bush
+7770,47719,GOLD,"study, bright, party",369764,Golden Diva,Flying Lotus,voice,0.570815742016,94.8751296997,danceable,0.999398231506,minor
+7770,47719,GOLD,"study, bright, party",369768,Brackett WI,Bon Iver,voice,0.81012570858,110.678466797,not_danceable,0.939595043659,major
+7770,47719,GOLD,"study, bright, party",369766,Bogoroditse Devo,Sergei Rachmaninoff
+7770,47719,GOLD,"study, bright, party",369771,Won't Say Anything,Hello Seahorse!,voice,0.635890185833,141.994384766,not_danceable,0.581953704357,major
+7770,47719,GOLD,"study, bright, party",369759,Talkin To You,Venissa Santi,instrumental,0.918909847736,155.180633545,not_danceable,1,major
+7770,47719,GOLD,"study, bright, party",369774,Crying (Telepathe Remix),TV On The Radio,instrumental,0.872141361237,129.835876465,danceable,0.999342501163,minor
+7770,47719,GOLD,"study, bright, party",369776,Tselane,BLK JKS
+7770,47719,GOLD,"study, bright, party",369749,Wake,The Antlers
+7770,47719,GOLD,"study, bright, party",369778,In Mind,Do Make Say Think,voice,0.61353969574,88.4342193604,not_danceable,0.772571027279,major

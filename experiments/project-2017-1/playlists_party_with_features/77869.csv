@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+15957,77869,Welcome to the Party,"house, drum & bass, electronic, party",572766,Riverside (Original Mix),Sidney Samson
+15957,77869,Welcome to the Party,"house, drum & bass, electronic, party",478547,Can't Get Enough,Chase & Status
+15957,77869,Welcome to the Party,"house, drum & bass, electronic, party",25499,Everybody (Freq Nasty & Bassnectar Remix) ,Bassnectar,voice,0.971457540989,135.009933472,danceable,0.999974966049,major
+15957,77869,Welcome to the Party,"house, drum & bass, electronic, party",571748,Reactivate - Original Mix,Tom Deluxx
+15957,77869,Welcome to the Party,"house, drum & bass, electronic, party",258798,Pon De Floor (Feat. VYBZ Kartel),Major Lazer
+15957,77869,Welcome to the Party,"house, drum & bass, electronic, party",571741,Puah - Original Mix,Gigi Barocco,voice,0.93517357111,128.122528076,not_danceable,1,minor
+15957,77869,Welcome to the Party,"house, drum & bass, electronic, party",246798,Feel Good Inc (Stanton Warriors Remix),Gorillaz,voice,0.838914215565,129.828842163,danceable,0.999969899654,major
+15957,77869,Welcome to the Party,"house, drum & bass, electronic, party",162774,So There I Was,Deadmau5,instrumental,0.999999880791,128.014419556,danceable,0.999999880791,major

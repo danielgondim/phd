@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1152254,760148,1,"focus, thinking",7472779,Across The Universe Across The Universe With Lyrics,Jim Sturgess
+1152254,760148,1,"focus, thinking",7472889,Sweet Disposition,The Temper Trap,instrumental,0.989316940308,129.391204834,not_danceable,1,major
+1152254,760148,1,"focus, thinking",7472944,Life In Technicolor,Coldplay,instrumental,0.802381873131,129.906097412,not_danceable,0.533908963203,major
+1152254,760148,1,"focus, thinking",7472957,Take Care,Drake ft. Rihanna 
+1152254,760148,1,"focus, thinking",7464849,Iris,Goo Goo Dolls
+1152254,760148,1,"focus, thinking",7472979,Little Dreams (Joshua Mellody Remix),Ellie Goulding,voice,0.992027640343,124.95274353,danceable,0.9963966012,minor

@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+648790,474966,Focus,"focus, study",5353687,The Night Sky,Keane
+648790,474966,Focus,"focus, study",5353761,Signs,Bloc Party
+648790,474966,Focus,"focus, study",5353848,Big Sur,The Thrills,instrumental,0.999999761581,130.100830078,not_danceable,1,major
+648790,474966,Focus,"focus, study",5354155,Only The Young,Brandon Flowers
+648790,474966,Focus,"focus, study",5354184,Houses,Great Northern,voice,0.985709667206,129.957077026,danceable,0.655569672585,major
+648790,474966,Focus,"focus, study",5354200,To Lose My Life,White Lies,voice,0.954947590828,132.007110596,danceable,0.948665380478,minor
+648790,474966,Focus,"focus, study",5354245,Losing Touch,The Killers,instrumental,0.996269702911,117.991523743,not_danceable,1,minor
+648790,474966,Focus,"focus, study",5354269,October,Broken Bells

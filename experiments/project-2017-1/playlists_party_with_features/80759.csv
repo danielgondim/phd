@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+42375,80759,With Your **** Out,"rock, alternative rock, party, roadtrip, fun",559526,Blah Blah Blah (Featuring 3OH!3),Ke$ha
+42375,80759,With Your **** Out,"rock, alternative rock, party, roadtrip, fun",236723,In One Ear,Cage The Elephant,instrumental,0.883102118969,165.113800049,danceable,0.999992609024,minor
+42375,80759,With Your **** Out,"rock, alternative rock, party, roadtrip, fun",315609,Whyyawannabringmedown,Kelly Clarkson,instrumental,0.575257837772,100.061546326,not_danceable,1,major
+42375,80759,With Your **** Out,"rock, alternative rock, party, roadtrip, fun",118913,In For the Kill,La Roux
+42375,80759,With Your **** Out,"rock, alternative rock, party, roadtrip, fun",426425,Take Me Back To Your House,Basement Jaxx
+42375,80759,With Your **** Out,"rock, alternative rock, party, roadtrip, fun",204875,You Only Live Once,The Strokes,voice,0.548405528069,122.055099487,danceable,0.649431765079,major
+42375,80759,With Your **** Out,"rock, alternative rock, party, roadtrip, fun",467758,Alejandro,Lady GaGa
+42375,80759,With Your **** Out,"rock, alternative rock, party, roadtrip, fun",50813,Take Me Out,Franz Ferdinand

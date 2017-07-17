@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+33366,501322,Thunderblend.,"bold, mighty, laser, focused",5544326,Tomorrow Never Knows,Junior Parker
+33366,501322,Thunderblend.,"bold, mighty, laser, focused",5544356,"Soon, My Friend",M83,instrumental,0.999999880791,106.413139343,not_danceable,1,minor
+33366,501322,Thunderblend.,"bold, mighty, laser, focused",5544395,Girls Like You,The Naked and Famous,instrumental,0.999994456768,124.952285767,not_danceable,1,minor
+33366,501322,Thunderblend.,"bold, mighty, laser, focused",5544400,A Wolf In Geek's Clothing,The Naked and Famous,instrumental,0.972967922688,144.358108521,not_danceable,1,major
+33366,501322,Thunderblend.,"bold, mighty, laser, focused",5544452,Your Side,Young the Giant,voice,0.989248037338,142.929138184,danceable,0.587075054646,major
+33366,501322,Thunderblend.,"bold, mighty, laser, focused",5544510,"Brackett, WI",Bon Iver,voice,0.81012570858,110.678466797,not_danceable,0.939595043659,major
+33366,501322,Thunderblend.,"bold, mighty, laser, focused",5544540,Vanished,Crystal Castles
+33366,501322,Thunderblend.,"bold, mighty, laser, focused",5544551,Echoes Of Mine,M83,instrumental,0.99998742342,110.047042847,not_danceable,1,minor

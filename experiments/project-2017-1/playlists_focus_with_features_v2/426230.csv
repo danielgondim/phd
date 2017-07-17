@@ -1,0 +1,19 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692413,Oh No,Andrew Bird,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692435,Mango Tree,Angus & Julia Stone,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692441,Little Bird,Angus & Julia Stone,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692445,Perth,Bon Iver,1,instrumental,0.880041480064,119.775016785,not_danceable,0.971265733242,major
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692447,The Indie Queens Are Waiting,Dan Mangan,1,voice,0.977049589157,92.7553863525,not_danceable,0.93468272686,major
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692470,Ghost Town,First Aid Kit,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692479,Lorelai,Fleet Foxes,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692482,Generator ^ Second Floor,Freelance Whales,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692485,Sunlight,Harlem Shakes,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692486,Igloo,Karen O and the Kids,1,instrumental,0.778084099293,164.148544312,not_danceable,0.996730983257,major
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692770,Rich Kids Blues,Lykke Li,1,instrumental,0.978958904743,129.205856323,danceable,0.827630162239,minor
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692774,Love of an Orchestra,Noah and the Whale,1,voice,0.887585401535,156.243515015,danceable,0.5,major
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692778,Countdown (Sick For The Big Sun),Phoenix,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692779,Somewhere They Can't Find Me,Simon and Garfunkel,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692787,The Party,St. Vincent,1
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692793,Now That I'm Older,Sufjan Stevens,1,voice,0.998696506023,115.216438293,not_danceable,0.956527709961,major
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692797,Conversation 16,The National,1,instrumental,0.999999880791,117.012184143,not_danceable,1,major
+144137,426230,"Sitting on floors, studying [/procrastinating]","folk, indie folk, studying, write paper now., focused",4692799,The Park (Feist Cover),Bon Iver,1

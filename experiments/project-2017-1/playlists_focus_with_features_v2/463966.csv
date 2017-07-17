@@ -1,0 +1,30 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241419,I Gave You All,Mumford & Sons,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241441,The Funeral,Band Of Horses,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241446,Kickin' With You,Jason Mraz,1,voice,0.98925703764,95.0711517334,danceable,0.96707034111,major
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241472,Oh My God [Album Version],Kassidy,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241494,Rambling Man,Laura Marling,1,voice,0.998136520386,93.3853607178,not_danceable,0.901503324509,major
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241511,Sea Legs,The Shins,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241556,Something Good Can Work (The Twelves Remix),Two Door Cinema Club,1,instrumental,0.999994039536,119.946678162,not_danceable,1,major
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241570,French Navy,Camera Obscura,1,instrumental,0.654659688473,136.413925171,danceable,0.872333109379,minor
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241586,Home,Edward Sharpe & The Magnetic Zeros,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241591,Something To Talk About ,Badly Drawn Boy,1,voice,0.77387368679,120.508613586,not_danceable,0.553204059601,major
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241596,Songs In My Pockets,Bethany Joy Lenz,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241615,Black Sands,Bonobo,1,instrumental,0.985791444778,87.9431533813,not_danceable,0.920039951801,minor
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241623,Warwick Avenue,Duffy,1,voice,0.804108858109,84.5114212036,not_danceable,0.559119045734,major
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241631,Frontin',Jamie Cullum,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241639,Pencil Full Of Lead,Paolo Nutini,1,voice,0.978532791138,106.222297668,danceable,0.961823403835,minor
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241643,Get Rhythm,Joaquin Phoenix,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241649,Nothing Better,The Postal Service,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241665,The First Time Ever I Saw Your Face,Roberta Flack,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241690,Paint The Silence,South,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241724,Blue Jeans,Lana Del Ray,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241745,Harry Potter And The Philospher's Stone - Harry's Wonderful World,Royal Philharmonic Orchestra;David Arnold,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241762,The Lord Of The Rings - Main Theme,Royal Philharmonic Orchestra;David Arnold,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241783,Cousins,Vampire Weekend,1,instrumental,0.999999821186,178.206069946,not_danceable,1,major
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241788,Nancy Lee,Vintage Trouble,1,voice,0.918358802795,120.343170166,danceable,0.926666736603,minor
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241794,Your Song,Ewan McGregor & Alessandro Safina,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241805,Red,Daniel Merriweather,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241808,Break On Through,The Doors,1,instrumental,0.663736283779,90.9412536621,danceable,0.778577327728,minor
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241813,Fidelity,Regina Spektor,1
+706179,463966,1: Keep Calm And Just Graduate,"study, alternative, chill, focus",5241834,If You Don't Wanna Love Me,James Morrison,1,voice,0.999632298946,155.380249023,danceable,0.919705748558,major

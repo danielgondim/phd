@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",1572,Love Generation,Bob Sinclar feat. Gary Pine,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",1630,No Te Vas feat. Angela Jones,Christos Kessidis,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2726,Everybody Loves You,Victor Masi & Tiziano Borghi,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2729,Erotica,Madonna,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2730,Sunday Afternoons,Vanessa Daou,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2732,Love Sweet Sound,Groove Armada,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2731,Sweetest Taboo,Sade,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2733,Move Me Slow,Govinda,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2734,Make Believe,Vanessa Daou,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2735,Voices In The Dark,Enigma & Deep Forrest,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2737,Love Yourself,Blue Six,0,instrumental,0.9937505126,125.002319336,not_danceable,1,minor

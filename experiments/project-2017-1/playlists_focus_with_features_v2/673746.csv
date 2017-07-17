@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",6786662,Cinderella's Waltz,Prokofiev,1
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",6786663,Swan Lake,Tchaikovsky,1
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",6786667,Maestro ,Hans Zimmer,1
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",6786672,Piano Concerto No. 21 - Andante,Mozart,1
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",6786673,Sleeping Beauty Waltz,Tchaikovsky,1
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",6786677,Clair De Lune,Debussy,1,instrumental,0.988221943378,136.691864014,not_danceable,0.999993920326,major
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",6786684,Dance of the Sugar Plum Fairy,Tchaikovsky,1
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",6786690,Christmas Song,Tchaikovsky,1
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",6786703,Moonlight Sonata,Beethoven ,1
+1228496,673746,Symphony of Studying,"study, classical, focus, instrumental",7619631,Kisses & Cake ,John Powell,1

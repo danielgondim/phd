@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+32103,40704,Dance Party Mix,"dance, party",233973,The Reeling,Passion Pit,instrumental,0.98725348711,111.71723938,not_danceable,1,minor
+32103,40704,Dance Party Mix,"dance, party",33762,Electric Feel (Justice Remix),MGMT,voice,0.993513524532,107.18561554,danceable,0.978882074356,major
+32103,40704,Dance Party Mix,"dance, party",292732,New In Town,Little Boots
+32103,40704,Dance Party Mix,"dance, party",136944,I Wanna Be Your Limousine,Black Kids
+32103,40704,Dance Party Mix,"dance, party",259211,A Teenager In Love,The Pains of Being Pure at Heart
+32103,40704,Dance Party Mix,"dance, party",194941,One Week of Danger,The Virgins
+32103,40704,Dance Party Mix,"dance, party",108810,"I'm Good, I'm Gone (Black Kids Remix)",Lykke Li,instrumental,0.620502650738,129.886291504,danceable,0.996927082539,minor

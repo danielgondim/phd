@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+281,324,The Anvil,stoner rock,3619,Negasonic Teenage Warhead,Monster Magnet,0
+281,324,The Anvil,stoner rock,3620,Hunting By Echo,Alabama Thunderpussy,0,voice,0.821881115437,126.359344482,danceable,0.983223259449,minor
+281,324,The Anvil,stoner rock,3621,Bitch Move,Black Helicopter,0
+281,324,The Anvil,stoner rock,3622,Power of the Sun,Bruce Dickinson,0,voice,0.585330605507,103.381729126,not_danceable,0.870943844318,minor
+281,324,The Anvil,stoner rock,3623,Vote With a Bullet,Corrosion of Conformity,0
+281,324,The Anvil,stoner rock,3624,Pure Rock Fury,Clutch,0
+281,324,The Anvil,stoner rock,3625,Hopkins (The Witchfinder General),Cathedral,0,voice,0.898400306702,144.848800659,not_danceable,0.900714755058,major
+281,324,The Anvil,stoner rock,3626,Like A Goddamn Rat,Early Man,0,voice,0.670519173145,155.936248779,danceable,0.556685388088,minor

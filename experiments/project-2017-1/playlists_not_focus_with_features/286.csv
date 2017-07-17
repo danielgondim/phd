@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+479,286,2 July,"rock, alternative rock, techno",3322,Break.,Refused,0
+479,286,2 July,"rock, alternative rock, techno",3324,I Wanna Be Your Dog,The Stooges,0
+479,286,2 July,"rock, alternative rock, techno",3327,Rockers To Swallow,Yeah Yeah Yeahs,0,voice,0.998879373074,94.8342590332,danceable,0.739360630512,major
+479,286,2 July,"rock, alternative rock, techno",3326,Profanity Prayers,Beck,0,instrumental,0.999997317791,152.153701782,not_danceable,1,minor
+479,286,2 July,"rock, alternative rock, techno",3328,Private Plan in Dub,King Jammy VS. Dry & Heavy,0
+479,286,2 July,"rock, alternative rock, techno",3329,Avantcore,Busdriver,0
+479,286,2 July,"rock, alternative rock, techno",3330,Radio Fireworks,Surkin,0,instrumental,0.764644443989,129.496505737,danceable,0.999999642372,minor
+479,286,2 July,"rock, alternative rock, techno",3325,Another People (Tonga Mashup),The Presets vs Lange & Gareth,0
+479,286,2 July,"rock, alternative rock, techno",3331,Rollin' & Scratchin',Daft Punk,0,instrumental,0.999989807606,130.187210083,danceable,0.961858689785,major
+479,286,2 July,"rock, alternative rock, techno",3332,Smack,DJ Blaqstarr,0

@@ -1,0 +1,20 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5813825,My Red Hot Car,Squarepusher,1
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814144,Ghosts 'n Stuff (feat. Rob Swire),Deadmau5,1,voice,0.99493676424,118.530838013,danceable,0.99972319603,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814205,Some Chords,Deadmau5,1,instrumental,1,128.031280518,danceable,0.999999880791,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814265,Here We Go,Bassnectar,1
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814269,Blast Off,Bassnectar,1
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814415,To Forgive But Not Forget,Outside,1
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814575,Hot Like Sauce,Pretty Lights,1,instrumental,0.600748062134,89.9860992432,danceable,0.999985277653,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814597,Finally Moving Remix,Pretty Lights,1,instrumental,0.848585605621,99.8501205444,not_danceable,1,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814705,Mirando,Ratatat,1,instrumental,0.991239368916,89.7146072388,not_danceable,1,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814721,Shempi,Ratatat,1,instrumental,0.999999940395,123.40120697,not_danceable,1,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814783,Noctuary (live),Bonobo,1
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814797,Recurring,Bonobo,1,instrumental,0.908633351326,114.984130859,danceable,0.921395361423,major
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814870,Eitheror,Little People,1
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814878,Start Shootin',Little People,1,instrumental,0.999989271164,178.205322266,danceable,0.99100703001,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814995,Anger Of The Earth,Nomak,1,instrumental,0.662726581097,90.0518951416,not_danceable,0.554712474346,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5815020,Beyond,Nujabes,1
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5815040,Sincerely,Nujabes,1
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5815161,Lisztomania (Alex Metric Remix),Phoenix,1
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5815323,15 Step,Radiohead,1

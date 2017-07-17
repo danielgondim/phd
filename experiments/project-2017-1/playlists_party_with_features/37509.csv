@@ -1,0 +1,42 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",94775,I Hate Rock N Roll,The Jesus and Mary Chain
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",5773,Dancing Shoes,Arctic Monkeys
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",16198,Seventeen Years,Ratatat,instrumental,0.999997496605,115.486541748,not_danceable,1,major
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",236359,"As Above, So Below (Justice Remix)",Klaxons
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",99046,Countdown,The Black Keys
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",158618,60 Revolutions,Gogol Bordello
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",294659,So Fine,Sean Paul
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",13230,Bloc Party vs. The Ting Tings,Bloc Party vs. The Ting Tings by DJ Sunderland
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",272455,Vulture,Patrick Wolf,voice,0.929631114006,137.702438354,danceable,0.999825000763,major
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",175402,Bang Bang,The Knux
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",57676,Last Nite,The Strokes
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",7830,Run ,Gnarls Barkley
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",4378,Kids,MGMT,instrumental,0.606246888638,122.984588623,danceable,0.89597928524,major
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",8388,Neighborhood #3 (Power Out),The Arcade Fire
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",95682,Day 'N' Nite (Crookers Remix),Kid Cudi,voice,0.682712256908,129.920913696,danceable,0.999983668327,minor
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",297800,Dipped In Vaseline,Mickey Avalon,voice,0.950965881348,95.0133056641,danceable,0.917310237885,minor
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",208899,Fell In Love With a Girl,The White Stripes
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",251645,My Love,Justin Timberlake
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",191033,A Milli (Produced By Bangladesh),Lil' Wayne
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",5822,Toxic,Mark Ronson Feat. Ol' Dirty Bastard & Tiggers
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",87230,No You Girls,Franz Ferdinand,instrumental,0.778812587261,104.783050537,not_danceable,1,major
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",44759,Taper Jean Girl,Kings of Leon,instrumental,0.943870663643,123.653541565,not_danceable,1,major
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",148718,Kush,Lil' Wayne
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",33762,Electric Feel (Justice Remix),MGMT,voice,0.993513524532,107.18561554,danceable,0.978882074356,major
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",183321,Minute by Minute,Girl Talk,instrumental,0.989795088768,104.933387756,not_danceable,1,major
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",18404, Desert Eagle,Ratatat,instrumental,1,105.986099243,not_danceable,1,minor
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",30518,Intergalactic,Beastie Boys
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",19780,Spaz,N.E.R.D.,instrumental,0.849567711353,172.26524353,danceable,0.921165943146,major
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",192216,Let It Rock (Feat Lil Wayne),Kevin Rudolf
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",3580,Take Me Out,Franz Ferdinand
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",31335,What It Is,The Cool Kids
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",4109,A-Punk,Vampire Weekend,instrumental,0.999997794628,172.26574707,not_danceable,1,minor
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",130131,Friday Night,Girl Talk
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",6126,Pin,Yeah Yeah Yeahs
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",297798,Jane Fonda,Mickey Avalon,voice,0.859480023384,93.80809021,danceable,0.939051032066,major
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",289503,No One Knows,Queens Of The Stone Age
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",79625,Flashing Lights (Dirty),Kanye West,voice,0.998989403248,90.4395370483,danceable,0.992501795292,minor
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",64236,Blood on Our Hands (Justice Re,Death from Above 1979
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",111109,King Of The Rodeo,Kings Of Leon
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",215828,Banquet,Bloc Party,instrumental,0.988804936409,150.274002075,not_danceable,1,minor
+27813,37509,P Word,"rock, alternative rock, top 40, party, upbeat",128268,Golden Years,David Bowie

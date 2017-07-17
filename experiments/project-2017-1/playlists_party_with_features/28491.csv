@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+19427,28491,@gphinriks birthday party,"birthday, party",232745,Birthday,The Sugarcubes
+19427,28491,@gphinriks birthday party,"birthday, party",232750,99 Luftballons,Nena
+19427,28491,@gphinriks birthday party,"birthday, party",232757,Fun Makers,Izabo
+19427,28491,@gphinriks birthday party,"birthday, party",232759,Jabberwocky,"Glenn Simonsen, Lewis Carroll"
+19427,28491,@gphinriks birthday party,"birthday, party",232768,Happy Song,Boney M.
+19427,28491,@gphinriks birthday party,"birthday, party",232773,Praise You,Fatboy Slim
+19427,28491,@gphinriks birthday party,"birthday, party",232778,Hop Hop Hop,Goran Bregovic
+19427,28491,@gphinriks birthday party,"birthday, party",232786,Baby Lemonade,Syd Barrett,instrumental,1,105.785797119,not_danceable,0.723202049732,major

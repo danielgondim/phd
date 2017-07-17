@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+38580,69360,Because no one loves Christmas like we do,"christmas, holi, holiday, holidayparty",25520,Everyday is a Holiday,Esthero & Sean Lennon
+38580,69360,Because no one loves Christmas like we do,"christmas, holi, holiday, holidayparty",68629,What Christmas Means To Me,Stevie Wonder,voice,0.993261039257,84.3743896484,not_danceable,0.647606730461,major
+38580,69360,Because no one loves Christmas like we do,"christmas, holi, holiday, holidayparty",63290,"Baby, It's Cold Outside",Zooey Deschanel & Leon Redbone,voice,0.997411549091,96.0191421509,danceable,0.796921610832,major
+38580,69360,Because no one loves Christmas like we do,"christmas, holi, holiday, holidayparty",515167,White Christmas,Bing Crosby
+38580,69360,Because no one loves Christmas like we do,"christmas, holi, holiday, holidayparty",68633,All I Want for Christmas is You,Mariah Carey
+38580,69360,Because no one loves Christmas like we do,"christmas, holi, holiday, holidayparty",72926,Last Christmas,Wham!
+38580,69360,Because no one loves Christmas like we do,"christmas, holi, holiday, holidayparty",420302,Rockin' Around The Christmas Tree,Brenda Lee
+38580,69360,Because no one loves Christmas like we do,"christmas, holi, holiday, holidayparty",484167,Feliz Navidad,José Feliciano

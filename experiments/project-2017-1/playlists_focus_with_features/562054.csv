@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973218,Your Hand In Mine,Explosions In The Sky,instrumental,0.999999940395,114.588348389,not_danceable,1,major
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973182,I Slept With Bonhomme at the CBC,Broken Social Scene,instrumental,1,129.344863892,not_danceable,1,major
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973290,Safe in the Steep Cliffs,Emancipator,instrumental,0.999999344349,137.613830566,not_danceable,1,major
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973257,Tacobel Canon,Ratatat,instrumental,0.999999940395,89.0175857544,not_danceable,1,minor
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973240,Atlas Song,Jónsi & Alex
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973206,Milano,Sigur Rós
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973196,Over The Pond,The Album Leaf,instrumental,0.997369408607,82.5613479614,not_danceable,1,major
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973189,I Believe In Your Victory,This Will Destroy You,instrumental,0.561957597733,126.824577332,not_danceable,0.831391274929,major
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973226,Randy Described Eternity,Built to Spill,voice,0.99662399292,172.265396118,not_danceable,0.810147583485,major
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973276,Mogwai Fear Satan,Mogwai,instrumental,0.995807230473,105.084777832,not_danceable,0.836794435978,major
+112966,562054,illuminate your mind,"instrumental rock, electro, study, focus, indie",5973310,Everyday,Yo La Tengo

@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+228255,430992,For when you need to train to fight that Russian.,"fighting, workout, 80's, focus",4758727,In the Air Tonight,Phil Collins,1
+228255,430992,For when you need to train to fight that Russian.,"fighting, workout, 80's, focus",4758638,The Adventure,Angels and Airwaves,1
+228255,430992,For when you need to train to fight that Russian.,"fighting, workout, 80's, focus",4758813,Drive It Like You Stole It,The Glitch Mob,1
+228255,430992,For when you need to train to fight that Russian.,"fighting, workout, 80's, focus",4758608,Lose Yourself,Eminem,1,voice,0.882380783558,85.68309021,danceable,0.974873661995,minor
+228255,430992,For when you need to train to fight that Russian.,"fighting, workout, 80's, focus",4758627,Power,Kanye West,1
+228255,430992,For when you need to train to fight that Russian.,"fighting, workout, 80's, focus",4758819,Start Shootin,Little People,1,instrumental,0.999989271164,178.205322266,danceable,0.99100703001,minor
+228255,430992,For when you need to train to fight that Russian.,"fighting, workout, 80's, focus",4758597,Heart's on Fire,John Cafferty,1
+228255,430992,For when you need to train to fight that Russian.,"fighting, workout, 80's, focus",4758634,Kickstart My Heart,Mötley Crüe,1
+228255,430992,For when you need to train to fight that Russian.,"fighting, workout, 80's, focus",4758718,The Fire (Feat. John Legend),The Roots,1

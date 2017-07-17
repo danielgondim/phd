@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241482,Breathe,Telepopmusik,1,instrumental,0.629979193211,123.834365845,danceable,0.956791460514,minor
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241576,Merry Happy,Kate Nash,1,instrumental,0.752722561359,172.265319824,danceable,0.661637187004,major
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241614,Hello (feat. Dragonette),Martin Solveig,1
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241616,Pumped Up Kicks,Foster The People,1
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241630,All Nite (Don't Stop),Janet Jackson,1,instrumental,0.59964454174,108.557929993,danceable,0.99983394146,minor
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241696,Lovesong,ADELE,1
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241702,Puzzle Piece,Space RockerZ feat. Tania Zygar,1
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241703,Cold Shoulder,ADELE,1,instrumental,0.995819211006,110.035743713,not_danceable,1,major
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241711,The Sun,Maroon 5,1,instrumental,0.556896626949,161.522247314,danceable,0.999804496765,minor
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241734,Twisted Logic,Coldplay,1,instrumental,0.565410017967,161.587554932,not_danceable,0.556370735168,major
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241735,Domino,Jessie J,1
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241746,Bittersweet Symphony,The Verve,1
+711284,730840,Sunday morning: Get ur sh** done.,"pop, house, dance, chores, focus",7241756,Cough Syrup,Young the Giant,1

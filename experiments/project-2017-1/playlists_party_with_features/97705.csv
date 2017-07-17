@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+56428,97705,Party Time,"pop, hip hop, rock, party",552405,The High Road,Broken Bells
+56428,97705,Party Time,"pop, hip hop, rock, party",119806,Lisztomania,Phoenix
+56428,97705,Party Time,"pop, hip hop, rock, party",618972,Sunlight,Harlem Shakes
+56428,97705,Party Time,"pop, hip hop, rock, party",36206,Run (I'm a Natural Disaster),Gnarls Barkley
+56428,97705,Party Time,"pop, hip hop, rock, party",198146,Suffer For Fashion,Of Montreal
+56428,97705,Party Time,"pop, hip hop, rock, party",257038,Sleepyhead,Passion Pit,instrumental,0.995123207569,106.06615448,not_danceable,1,minor
+56428,97705,Party Time,"pop, hip hop, rock, party",270167,Like a spoke on a wheel,The Little Ones,instrumental,0.542424023151,115.775146484,danceable,0.8430814147,minor
+56428,97705,Party Time,"pop, hip hop, rock, party",415432,Who's Asking,Mt. St. Helens Vietnam Band,voice,0.990436851978,88.6208572388,not_danceable,0.570777773857,minor
+56428,97705,Party Time,"pop, hip hop, rock, party",137973,Let's Dance To Joy Division,The Wombats,instrumental,0.964337348938,117.612480164,danceable,0.999999880791,major
+56428,97705,Party Time,"pop, hip hop, rock, party",511814,I Am John,"Loney, Dear",voice,0.90705126524,178.205856323,not_danceable,0.860745251179,major

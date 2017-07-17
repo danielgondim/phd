@@ -1,0 +1,3 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+816,382,"Cheer up, Charlie",,4162,What Makes the Monkey Dance,Chuck Prophet,0,instrumental,0.860896587372,142.658279419,not_danceable,0.825997829437,minor
+816,382,"Cheer up, Charlie",,4163,My Sweet Annette,Drive-By Truckers,0

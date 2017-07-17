@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+420317,443435,Work Concentration,"work, focus, concentrate, office",4719590,Timbaland - Apologize (feat. One Republic),devphilem,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936728,Avalanche,David Cook,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936921,The Truth,Kris Allen,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936724,Franco Reyes - Touch The Sky,iamLHORD,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936747,Lifehouse - Everything,Longshotxx,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4937062,Ironic (Acoustic),Alanis Morissette,1,voice,0.631088972092,106.490653992,danceable,0.680467605591,major
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936779,You Oughta Know (Acoustic),alanismorissette,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936982,Undiscovered,James Morrison,1,voice,0.966702878475,80.0453414917,danceable,0.88227814436,major
+420317,443435,Work Concentration,"work, focus, concentrate, office",4296700,Linkin Park - Waiting For The End,Racoon Rae,1

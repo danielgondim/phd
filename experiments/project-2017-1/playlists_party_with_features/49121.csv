@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",17171,Sex On Fire,Kings Of Leon,instrumental,0.999992191792,152.995574951,not_danceable,1,minor
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",126746,Flux,Bloc Party,instrumental,0.999999046326,151.873458862,not_danceable,1,major
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",131685,The State Of Massachusetts,Dropkick Murphys,instrumental,0.656813502312,148.015853882,not_danceable,0.850247323513,minor
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",9220,Shake It,Metro Station
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",168565,When You Were Young,The Killers
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",283971,Irish Pub Song,Flogging Molly
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",181214,Make Damn Sure,Taking Back Sunday,voice,0.860391497612,140.407012939,danceable,0.893270730972,major
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",210088,Line & Sinker,Billy Talent
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",65672,Float On,Modest Mouse,instrumental,0.678099691868,100.930328369,danceable,0.934712529182,minor
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",136920,"Kiss Me, I'm Shitfaced",Dropkick Murphys,voice,0.962322115898,153.506378174,danceable,0.86261254549,major
+35936,49121,You can pour out my beer I have more in the Trunk!,"indie rock, electronic, party",214160,Wagon Wheel,Old Crow Medicine Show,instrumental,0.999982357025,145.223617554,danceable,0.999965429306,minor

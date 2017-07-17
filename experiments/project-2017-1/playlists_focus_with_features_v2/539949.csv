@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5812259,Astro-Nought,Altimeter,1
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5812261,Perfect Pictures,Digital Farm Animals,1
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5812263,Will I See You,Digital Farm Animals,1
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5812267,Nightcall (feat. Lovefoxxx),Kavinsky,1,voice,0.931569159031,90.9722213745,not_danceable,1,major
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5812316,Between Two Points (feat. Swan),The Glitch Mob,1,voice,0.566626250744,121.925239563,danceable,0.86331820488,minor
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5812347,Finally Moving,Pretty Lights,1,instrumental,0.944933533669,99.9758148193,danceable,0.563729345798,minor
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5003126,Good Evening Mr. Hitchcock,Gramatik,1
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5002898,We Own the Sky,M83,1,voice,0.678023815155,139.99319458,danceable,0.999999880791,major
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5002887,Hayling,FC Kahuna,1
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5002881,Intro (Deep Focus Remix),The xx,1
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5002859,I'm God,Clams Casino,1,instrumental,0.764474630356,142.251983643,danceable,0.999553084373,minor
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5002900,"With You, Friends (Long Drive)",Skrillex,1,instrumental,0.996719539165,119.967430115,danceable,0.984036326408,major
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5003043,10 Mile Stereo,Beach House,1,voice,0.895609557629,96.3496322632,not_danceable,0.55485701561,minor
+655857,539949,Nichts zu nachdenken,"chill, late night studying, focused, float, chillstep",5002884,Sæglópur (Enigma Dubstep Remix),Sigur Ros,1

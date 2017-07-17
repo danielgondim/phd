@@ -1,0 +1,21 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7378646,Such Great Heights,Iron & Wine,1,instrumental,0.841593444347,94.2524642944,not_danceable,0.974000990391,major
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7378665,"Brackett, WI",Bon Iver,1,voice,0.81012570858,110.678466797,not_danceable,0.939595043659,major
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7378718,Hole In The Ocean Floor,Andrew Bird,1,voice,0.811193525791,120.216598511,not_danceable,0.991826951504,major
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7378731,Fistful Of Love,Antony & The Johnsons,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7378768,I'm Old Fashioned,"Coltrane, John",1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7378848,"I Know You Are, But What Am I?",Mogwai,1,instrumental,1,126.009979248,not_danceable,1,major
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7378873,Delicate,Damien Rice,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379203,Crawl After You,M. Ward,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379343,Here at the Right Time,Josh Ritter,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379553,Julia,The Beatles,1,instrumental,0.986214339733,139.257980347,danceable,0.881407141685,minor
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379572,Ghostwriter,RJD2,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379595,Bleecker Street,Simon & Garfunkel,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379753,Needle in the Hay,Elliot Smith,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379826,Redemption Song,Bob Marley,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379881,re: Stacks,Bon Iver,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379893,One More Time With Feeling,Regina Spektor,1,instrumental,0.854095160961,117.848510742,not_danceable,0.948094546795,minor
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7379899,The Fairest of Seasons,Nico,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7380074,Blank Pages,The Album Leaf,1,instrumental,0.999990999699,119.963226318,not_danceable,0.788646101952,minor
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7380117,Infinity,The xx,1
+1289177,748638,No Distractions,"sleep, study, chill, quiet, focus",7380147,The Grand Optimist,City And Colour,1,instrumental,0.999999821186,119.431930542,not_danceable,1,minor

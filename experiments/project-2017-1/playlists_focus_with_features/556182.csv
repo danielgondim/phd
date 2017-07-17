@@ -1,0 +1,20 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5928245,Marijuana,Kid Cudi
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5928303,Night Diving,Thrice,instrumental,0.902252852917,107.383857727,not_danceable,0.643745720387,major
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5928316,The Whaler,Thrice,instrumental,0.944644331932,133.812713623,not_danceable,0.945911169052,minor
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5928365,Bullets,Data Romance
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5928388,Clubbed To Death (Kurayamino Mix),Rob D,instrumental,0.999999940395,101.909004211,not_danceable,1,minor
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5928424,Electric Feel,MGMT
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5928468,Stairway To Heaven,Led Zeppelin
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5928558,Numbness,The Verve,instrumental,0.585375130177,123.240898132,danceable,0.644325554371,minor
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929217,dead wrong intro [the notorious b.i.g. vs. the xx],wait what
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929257,Hurricane (Featuring Kanye West),30 Seconds To Mars
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929288,Polaris,Jimmy Eat World,voice,0.521495521069,110.880760193,not_danceable,1,major
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929302,Set The Fire To The Third Bar,Snow Patrol
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929325,Since I've Been Loving You,Led Zeppelin
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929353,Street Lights,Kanye West,voice,0.793121695518,123.400619507,danceable,0.998808205128,major
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929379,Exogenesis: Symphony Part 1 (Overture),Muse,instrumental,0.944075286388,119.889343262,danceable,0.516878128052,major
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929429,23,Jimmy Eat World,instrumental,0.967542827129,140.82762146,not_danceable,0.692012667656,major
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929479,Exogenesis: Symphony Part 3 (Redemption),Muse,voice,0.665703296661,136.321517944,not_danceable,0.963590025902,major
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929570,Sway,Lostprophets,instrumental,1,106.22631073,not_danceable,1,minor
+1044057,556182,Get me there.,"floating, weightless, focus, amazing, epic",5929626,Fake Empire [Ryan Lewis BONUS],Macklemore & Ryan Lewis

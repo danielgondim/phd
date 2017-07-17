@@ -1,0 +1,4 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1104,425,howl's July 2008 mix,,124,Little Red Corvette,Prince,0
+1104,425,howl's July 2008 mix,,3583,Fight For Your Right,Beastie Boys,0
+1104,425,howl's July 2008 mix,,2281,I Am The Cosmos,This Mortal Coil,0,instrumental,1,151.238555908,not_danceable,1,minor

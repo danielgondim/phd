@@ -1,0 +1,31 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001395,The Promise,Michael Nyman
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001399,Dancer,Robert Clunes
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001405,Departing from the Mind,John H. Wallum
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001406,Liz On Top of The World,Jean-Yves Thibaudet
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001411,Fade Away,Capo Productions
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001412,0952,Olafur Arnalds
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001413,Comptine d'une autre été,Yann Tiersen
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001417,Namaste,Rich Batsford
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001418,Atlantico,Roberto Cacciapaglia,instrumental,0.982046663761,122.970283508,not_danceable,0.996596217155,major
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001421,Come Sei Veramente,Giovanni Allevi
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001424,Night At The Museum,Alan Silvestri
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001425,Reflection,Jeff Heim
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001426,Italienisches Konzert,"Bach, J. S."
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001429,Evening,Jan A.P. Kaczmarek ,instrumental,0.97633343935,79.3332901001,not_danceable,1,minor
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001430,The Gravel Road,James Newton Howard,instrumental,0.966353654861,86.6102752686,not_danceable,0.955665290356,minor
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001432,Andante in F Major,Beethoven
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001471,Dawn,Pride And Prejudice OST
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001474,Perpetuum Mobile,Penguin Café Orchestra
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001475,Big My Secret,Michael Nyman,instrumental,1,154.561233521,not_danceable,0.999997258186,major
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001483,Dear Frankie Opening Title,Alex Heffes
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001485,Life & Death,Michael Giacchino
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001490,Le Onde,Ludovico Einaudi,instrumental,1,111.861625671,not_danceable,0.987739384174,major
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001494,George's Waltz,A Single Man
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001495,That Next Place,Thomas Newman,instrumental,0.927036941051,126.378684998,not_danceable,0.982539117336,major
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001500,The Letter,Harry Gregson Williams & David Buckley
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001501,The winner is...,DeVotchKa
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001502,The Quiditch World Cup,Patrick Boyle
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001504,Cinema Paradiso Love Theme,Itzhak Perlman,instrumental,0.978749215603,139.219665527,not_danceable,0.978103876114,major
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001505,Rain,Brian Crain
+70794,700728,Serene Focus,"study, instrumental, piano, sleep, focus",7001507,Nuvole Bianche,Ludovico  Einaudi

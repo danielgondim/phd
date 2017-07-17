@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+613,460,8 tracks for a rainy day summers day,"blues, indie rock, alternative rock",4570,F?rsommarstad,Autohof,0
+613,460,8 tracks for a rainy day summers day,"blues, indie rock, alternative rock",4571,Sad Song,Au Revoir Simone,0
+613,460,8 tracks for a rainy day summers day,"blues, indie rock, alternative rock",4572,Sugar Hiccup,Cocteau Twins,0
+613,460,8 tracks for a rainy day summers day,"blues, indie rock, alternative rock",4573,Slow Collision,Deer tracks,0
+613,460,8 tracks for a rainy day summers day,"blues, indie rock, alternative rock",4574,Early Morning (Master),Font,0
+613,460,8 tracks for a rainy day summers day,"blues, indie rock, alternative rock",4575,Untitled 5,Fog and ocean,0
+613,460,8 tracks for a rainy day summers day,"blues, indie rock, alternative rock",4576,My girl and I,Kite,0
+613,460,8 tracks for a rainy day summers day,"blues, indie rock, alternative rock",4577,Think Too Much (b),Paul Simon,0,voice,0.997687339783,96.6816253662,not_danceable,0.932494103909,major

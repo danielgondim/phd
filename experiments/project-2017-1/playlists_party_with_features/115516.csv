@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+71728,115516,Slower Songs,"party rap, alternative rock, pop",625839,Halfway Gone,Lifehouse,voice,0.952581822872,125.042366028,danceable,0.999480962753,minor
+71728,115516,Slower Songs,"party rap, alternative rock, pop",493194,La La La,LMFAO
+71728,115516,Slower Songs,"party rap, alternative rock, pop",620948,Tha Crossroads ,Bone Thugs N Harmony,instrumental,0.999999165535,144.121734619,not_danceable,1,major
+71728,115516,Slower Songs,"party rap, alternative rock, pop",57360,She Will Be Loved,Maroon 5,voice,0.60767441988,98.52003479,danceable,0.587396323681,major
+71728,115516,Slower Songs,"party rap, alternative rock, pop",362399,Warning Sign,Coldplay
+71728,115516,Slower Songs,"party rap, alternative rock, pop",525146,Into The Mystic,Van Morrison,voice,0.995892286301,172.265304565,not_danceable,0.836690604687,major
+71728,115516,Slower Songs,"party rap, alternative rock, pop",719118,Need You Now,Lady Antebellum
+71728,115516,Slower Songs,"party rap, alternative rock, pop",435166,Better Luck Next Time,Lifehouse
+71728,115516,Slower Songs,"party rap, alternative rock, pop",106453,Paparazzi,Lady GaGa
+71728,115516,Slower Songs,"party rap, alternative rock, pop",88200,Amazing,Kanye West

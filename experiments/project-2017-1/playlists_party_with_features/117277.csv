@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",564595,Sleepyhead,Passion Pit,instrumental,0.995123207569,106.06615448,not_danceable,1,minor
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",550828,The Probe,What Kind Of Breeze Do You Blow?
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",493194,La La La,LMFAO
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",487841,If You Wanna Be Happy,The Boy Least Likely To
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",272830,Two Guys For Every Girl   ,Peaches
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",215584,Scatman,Scatman John,instrumental,0.99999833107,135.995941162,not_danceable,1,minor
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",239302,Kids,MGMT,instrumental,0.606246888638,122.984588623,danceable,0.89597928524,major
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",215956,Ain't Here To Party ft. Whiskey Pete ,B. Rich
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",148342,Beating Heart Baby,Head Automatica,instrumental,0.999997675419,150.031341553,not_danceable,1,minor
+56399,117277,Let's Get Crazy,"indie/electronica, party rap, soundtrack",76712,Start Wearing Purple,Gogol Bordello

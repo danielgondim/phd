@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714966,Die 4 You,Theophilus London
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714968,Seven,Chew Lips
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714969,Teen Lovers,The Virgins,instrumental,0.992372095585,122.039604187,not_danceable,1,minor
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714970,Me + Yr Daughter,Natalie Portman's Shaved Head
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714971,Way Too Good,James Figurine,instrumental,0.827777683735,144.789993286,danceable,0.999915659428,major
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714972,Party At A Rich Dude's House,Ke$ha
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714973,Little Secrets (Colin Domigan Remix),Passion Pit,instrumental,0.954232096672,99.7289352417,not_danceable,1,major
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714974,In My Arms,Kylie Minogue
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714975,hope in the mirror,Zoot Woman,instrumental,0.789434492588,124.238540649,danceable,0.98635083437,minor
+59998,100989,Hollywood Hipster Dance Party,"dance party!, hey wake up, indie electronica kinda?",714976,Your Biggest Mistake,Ellie Goulding,voice,0.892037630081,123.026176453,danceable,0.998530626297,major

@@ -1,0 +1,4 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+205,199,afiras mix 1,,110,Close To Me,The Cure,0
+205,199,afiras mix 1,,2178,Pictures Of You,The Cure,0
+205,199,afiras mix 1,,1156,Paint It Black,The Rolling Stones,0,instrumental,0.991063594818,156.185180664,not_danceable,1,minor

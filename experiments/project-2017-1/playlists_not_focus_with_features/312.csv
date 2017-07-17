@@ -1,0 +1,17 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+278,312,Back on time,"alternative rock, rock",679,Fools Gold,"Stone Roses, The",0
+278,312,Back on time,"alternative rock, rock",3182,Just Like Heaven,The Cure,0
+278,312,Back on time,"alternative rock, rock",135,Overkill,Men At Work,0
+278,312,Back on time,"alternative rock, rock",3180,Sowing The Seeds Of Love,Tears For Fears,0,voice,0.610773146152,85.6554031372,not_danceable,0.743808209896,minor
+278,312,Back on time,"alternative rock, rock",3361,In The Meantime,Spacehog,0
+278,312,Back on time,"alternative rock, rock",789,Love Missile F1-11 ,Sigue Sigue Sputnik,0,voice,0.871036291122,96.5909729004,danceable,0.997739672661,major
+278,312,Back on time,"alternative rock, rock",1944,A Forest,The Cure,0
+278,312,Back on time,"alternative rock, rock",2162,The Spangle Maker,Cocteau Twins,0,voice,0.992255687714,98.0708465576,danceable,0.975193798542,major
+278,312,Back on time,"alternative rock, rock",2256,Happy House,Siouxsie & The Banshees,0
+278,312,Back on time,"alternative rock, rock",678,24 Hour Party People,Happy Mondays,0
+278,312,Back on time,"alternative rock, rock",3111,Never Say Goodbye,My Bloody Valentine,0
+278,312,Back on time,"alternative rock, rock",72,Who Are You,The Who,0,voice,0.625924050808,155.698226929,not_danceable,0.676396250725,major
+278,312,Back on time,"alternative rock, rock",91,Love Will Tear Us Apart,Joy Division,0
+278,312,Back on time,"alternative rock, rock",2573,The Magnificent Seven (Album Version),The Clash,0
+278,312,Back on time,"alternative rock, rock",2295,Boys And Girls,Bryan Ferry,0
+278,312,Back on time,"alternative rock, rock",3186,Can't Stand Losing You,The Police,0

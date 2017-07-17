@@ -1,0 +1,16 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",13705,I Want It That Way,Backstreet Boys
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",20659,Everytime We Touch,Cascada,voice,0.567046880722,142.003952026,danceable,0.999999165535,major
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",347904,Butterfly,Crazytown
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",20670,Sandstorm,Da Rude
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",242067,What Is Love,Haddaway,instrumental,0.556254267693,123.854324341,danceable,0.998591125011,minor
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",347908,Summer Love,Justin Timberlake
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",347909,I'm On A Boat (feat. T-Pain),The Lonely Island
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",347912,Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,voice,0.820244967937,129.771270752,not_danceable,0.862200796604,minor
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",332164,Hot In Here,Nelly
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",291553,Push It,Salt n Pepa,instrumental,0.644564330578,127.524772644,danceable,0.994773805141,minor
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",347918,Swing,Savage
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",347922,Ice Ice Baby,Vanilla Ice
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",332178,Wait (The Whisper Song),Ying Yang Twins,voice,0.886543691158,102.032226563,danceable,0.999537527561,minor
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",347925,Yeah,Usher ft Lil' Jon & Ludacris
+19625,44540,Party Songs,"hip hop, dance, party, party music, party songs",171890,Don't Stop Believin',Journey,voice,0.980496823788,118.882141113,danceable,0.5,major

@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+58834,89605,"""Kick your jets and JAM""","tracks to drink to, classic jams, alternative rock, partying",97793,Roadrunner,The Modern Lovers
+58834,89605,"""Kick your jets and JAM""","tracks to drink to, classic jams, alternative rock, partying",480051,Boyz in the Hood,NWA
+58834,89605,"""Kick your jets and JAM""","tracks to drink to, classic jams, alternative rock, partying",646679,Eddie Izzard,Elephone,voice,0.99224793911,150.149658203,danceable,0.854701280594,major
+58834,89605,"""Kick your jets and JAM""","tracks to drink to, classic jams, alternative rock, partying",1942,Sugar Kane,Sonic Youth
+58834,89605,"""Kick your jets and JAM""","tracks to drink to, classic jams, alternative rock, partying",646692,oh yeh,can
+58834,89605,"""Kick your jets and JAM""","tracks to drink to, classic jams, alternative rock, partying",144230,Sympathy For The Devil,Rolling Stones
+58834,89605,"""Kick your jets and JAM""","tracks to drink to, classic jams, alternative rock, partying",241680,Bad Kids,Black Lips,instrumental,0.994323372841,102.295951843,not_danceable,0.886350214481,minor
+58834,89605,"""Kick your jets and JAM""","tracks to drink to, classic jams, alternative rock, partying",237529,Pints of Guinness Make You Stronger,Against Me!,voice,0.976903676987,112.735321045,not_danceable,0.709356606007,minor

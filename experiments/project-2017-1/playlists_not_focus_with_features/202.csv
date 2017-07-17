@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",145,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",1459,I Found a Reason,Cat Power,0
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",218,Woo Hah!! Got You All In Check,Busta Rhymes,0,instrumental,0.999999344349,92.042098999,not_danceable,1,major
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",1942,Sugar Kane,Sonic Youth,0
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",2485,Nic Fit,Sonic Youth,0
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",917,Young Americans,David Bowie,0
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",656,Geek USA,Smashing Pumpkins,0,instrumental,0.985095262527,129.050888062,not_danceable,1,major
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",2302,Zero,Smashing Pumpkins,0
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",2497,Western Homes,Pavement,0,voice,0.950966596603,144.528961182,not_danceable,0.745043814182,major
+334,202,stegosaurocycle ,"acoustic, alternative rock, electronic",2089,The Robots (Moscow),Kraftwerk,0,instrumental,0.990508019924,115.00289917,danceable,0.926580309868,minor

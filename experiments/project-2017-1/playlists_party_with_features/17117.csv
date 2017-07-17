@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+17302,17117,Soundtrack to My Subjective Mind: Night,"pre-party, hip hop, electronica",143008,A Journey To Reedham (7 A.M. Mix),Squarepusher,instrumental,0.980286836624,94.3801727295,danceable,0.731235086918,major
+17302,17117,Soundtrack to My Subjective Mind: Night,"pre-party, hip hop, electronica",143059,Jam,A Tribe Called Quest
+17302,17117,Soundtrack to My Subjective Mind: Night,"pre-party, hip hop, electronica",143069,Rock the House,Gorillaz
+17302,17117,Soundtrack to My Subjective Mind: Night,"pre-party, hip hop, electronica",143072,10,Mux Mool
+17302,17117,Soundtrack to My Subjective Mind: Night,"pre-party, hip hop, electronica",143799,Body Language (Interpretation),Booka Shade,instrumental,0.972209453583,128.188156128,danceable,0.796302080154,minor
+17302,17117,Soundtrack to My Subjective Mind: Night,"pre-party, hip hop, electronica",143803,Slip Slop,Praveen,instrumental,0.620416283607,162.686126709,danceable,0.95713108778,major
+17302,17117,Soundtrack to My Subjective Mind: Night,"pre-party, hip hop, electronica",143805,Swiss Glide,Michna,voice,0.952272593975,102.940193176,danceable,0.999944865704,major
+17302,17117,Soundtrack to My Subjective Mind: Night,"pre-party, hip hop, electronica",143807,Space Walk,Lemon Jelly
+17302,17117,Soundtrack to My Subjective Mind: Night,"pre-party, hip hop, electronica",143811,Chicken-Bone Circuit,RJD2,instrumental,0.900744497776,120.404380798,not_danceable,0.716010987759,minor

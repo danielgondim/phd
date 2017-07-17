@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+150117,193350,Bring the change,"rock, focus, change, alternative",1370606,Vagabond,Wolfmother,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370599,Can't Stop,Red Hot Chili Peppers,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370691,Closer to the Sun,Slightly Stoopid,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370653,Ooh la la,Faces,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370677,You Make My Dreams Come True  ,Hall & Oates                  ,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370649,Home,Edward Sharpe & The Magnetic Zeros,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370637,All Apologies,Nirvana,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370659,Sleepyhead,Passion Pit,1,instrumental,0.995123207569,106.06615448,not_danceable,1,minor

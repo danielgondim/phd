@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860689,Someone Out Of Town,Yuna,1,voice,0.997684657574,102.674758911,not_danceable,0.785652160645,major
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860699,Cursed,Kate McGill,1
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860705,Say Goodbye (I Wont Even),Adaline,1,voice,0.977441608906,151.723190308,not_danceable,0.853833675385,minor
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860716,Falling In Love At A Coffee Shop,Landon Pigg,1,voice,0.539051890373,111.161651611,not_danceable,0.927746236324,major
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860719,Atlas Hands,Benjamin Francis Leftwich,1
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860724,Interlude,Christina Perri,1
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860728,Flaws (Bastille),Kate McGill,1
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860733,That Home,The Cinematic Orchestra,1,instrumental,0.526378929615,85.154083252,not_danceable,0.996100604534,minor
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860737,Bloom,The Paper Kites,1
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860741,Too Late,M83,1
+296654,438102,you fill my head with pieces,"study, acoustic, alternative, focus",4860746,In The Beginning,The Cinematic Orchestra,1

@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+207673,822472,Overlooking The City,"focus, calm, chill, relax",7916309,Round And Round,Imagine Dragons  ,1
+207673,822472,Overlooking The City,"focus, calm, chill, relax",7916321,Open Season,High Highs,1,instrumental,0.999994754791,125.904891968,not_danceable,1,major
+207673,822472,Overlooking The City,"focus, calm, chill, relax",7916332,Mountain Sound  , Of Monsters & Men,1
+207673,822472,Overlooking The City,"focus, calm, chill, relax",7916341,Take My Hand,League   ,1
+207673,822472,Overlooking The City,"focus, calm, chill, relax",7916347, What We Had,The Drums  ,1
+207673,822472,Overlooking The City,"focus, calm, chill, relax",7916360,Letting Go,Blackbird Blackbird   ,1
+207673,822472,Overlooking The City,"focus, calm, chill, relax",7916364,Two,The Antlers,1
+207673,822472,Overlooking The City,"focus, calm, chill, relax",7916373,You Are My Sun,Sun Kil Moon   ,1,voice,0.699851930141,164.094146729,not_danceable,0.979390025139,major

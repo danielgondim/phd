@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+13516,74344,Songs to Play on Plastic Guitars,"fun, party, video games, rock band, guitar hero",5528,Don't Stop Believin' (Album Version),Journey
+13516,74344,Songs to Play on Plastic Guitars,"fun, party, video games, rock band, guitar hero",123409,Teenage Riot,Sonic Youth
+13516,74344,Songs to Play on Plastic Guitars,"fun, party, video games, rock band, guitar hero",529714,Maps (Acoustic/Strings Version),Yeah Yeah Yeahs
+13516,74344,Songs to Play on Plastic Guitars,"fun, party, video games, rock band, guitar hero",20711,The Seeker,The Who,voice,0.988238811493,178.205734253,not_danceable,0.588122308254,major
+13516,74344,Songs to Play on Plastic Guitars,"fun, party, video games, rock band, guitar hero",465643,Lazy Eye,Silversun Pickups,voice,0.915151298046,127.371055603,not_danceable,0.90459883213,major
+13516,74344,Songs to Play on Plastic Guitars,"fun, party, video games, rock band, guitar hero",4252,Holiday In Cambodia,Dead Kennedys,voice,0.901447832584,101.961196899,not_danceable,1,minor
+13516,74344,Songs to Play on Plastic Guitars,"fun, party, video games, rock band, guitar hero",29320,The Hand That Feeds,Nine Inch Nails
+13516,74344,Songs to Play on Plastic Guitars,"fun, party, video games, rock band, guitar hero",166354,Story Of My Life,Social Distortion,instrumental,0.999981582165,114.520820618,not_danceable,1,minor

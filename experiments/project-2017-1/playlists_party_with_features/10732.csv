@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+11231,10732,the sound that abounds and resounds and rebounds off the ceiling,"rock, indie, party",94468,Lost Art,Stricken City
+11231,10732,the sound that abounds and resounds and rebounds off the ceiling,"rock, indie, party",94432,Brain Burner,No Age,instrumental,0.922205030918,89.1768493652,not_danceable,1,major
+11231,10732,the sound that abounds and resounds and rebounds off the ceiling,"rock, indie, party",94433,Two Girls Kissing,The Swirlies
+11231,10732,the sound that abounds and resounds and rebounds off the ceiling,"rock, indie, party",94466,Fast Blood,Frightened Rabbit,voice,0.828902840614,130.019866943,not_danceable,0.542112708092,major
+11231,10732,the sound that abounds and resounds and rebounds off the ceiling,"rock, indie, party",94482,Lolita,Throw Me The Statue
+11231,10732,the sound that abounds and resounds and rebounds off the ceiling,"rock, indie, party",94483,Kick out the Jams,Jeff Buckley
+11231,10732,the sound that abounds and resounds and rebounds off the ceiling,"rock, indie, party",94484,Reform The Countryside,Frog Eyes,voice,0.539976656437,138.57963562,danceable,0.527009308338,major

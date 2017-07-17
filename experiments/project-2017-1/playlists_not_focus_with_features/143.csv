@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+17,143,One,new wave,165,Heaven is Waiting,The Danse Society,0,voice,0.790997922421,146.365997314,danceable,0.569863140583,minor
+17,143,One,new wave,1685,Someone Great,LCD Soundsystem,0
+17,143,One,new wave,1690,Seconds,The Human League,0
+17,143,One,new wave,1689,Christine,House of Love,0
+17,143,One,new wave,1688,Imagination,Sad Lovers And Giants,0
+17,143,One,new wave,1687,Friends Of Mine,Duran Duran,0
+17,143,One,new wave,168,Seven Sisters,Bell Hollow,0,instrumental,0.86727887392,135.968353271,not_danceable,0.777593016624,minor
+17,143,One,new wave,1692,Spit It Out,IAMX,0

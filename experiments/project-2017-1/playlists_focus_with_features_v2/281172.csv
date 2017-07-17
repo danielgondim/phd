@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+207938,281172,puzzle makin' music,focus jamz,2646686,Before I Move Off,Mount Kimbie,1,instrumental,0.976245105267,104.981803894,danceable,0.854217410088,major
+207938,281172,puzzle makin' music,focus jamz,2646691,Carnabailito,GABY KERPEL,1,voice,0.575054943562,96.3955917358,not_danceable,0.697164177895,minor
+207938,281172,puzzle makin' music,focus jamz,2646695,Jodida pero contenta,Buika,1,voice,0.97211766243,118.946296692,not_danceable,1,minor
+207938,281172,puzzle makin' music,focus jamz,2646740,Good Intentions Paving Company,Joanna Newsom,1,instrumental,0.749229729176,184.570922852,not_danceable,0.974145233631,major
+207938,281172,puzzle makin' music,focus jamz,2646698,I'm Beamin (Bonus Track),Lupe Fiasco,1
+207938,281172,puzzle makin' music,focus jamz,2646704,Rolling In The Deep,Adele,1,instrumental,0.989846050739,127.998008728,danceable,0.999999403954,minor
+207938,281172,puzzle makin' music,focus jamz,2646743,"Who Knows, Who Cares",Local Natives,1
+207938,281172,puzzle makin' music,focus jamz,2646769,Home,LCD Soundsystem,1

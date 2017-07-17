@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+903,387,Mix 1,"alternative rock, pop, acoustic",4175,Love,Matt White,0
+903,387,Mix 1,"alternative rock, pop, acoustic",4176,Time After Time,Quietdrive,0
+903,387,Mix 1,"alternative rock, pop, acoustic",4177, Fall For You,Secondhand Serenade -,0,voice,0.777814328671,172.265945435,danceable,0.585116624832,major
+903,387,Mix 1,"alternative rock, pop, acoustic",4179,I'm About To Come Alive,Train,0,voice,0.784371197224,138.075927734,danceable,0.764794051647,major
+903,387,Mix 1,"alternative rock, pop, acoustic",4180,Lucky,Jason Mraz,0
+903,387,Mix 1,"alternative rock, pop, acoustic",4182,I Don't Want to Miss a Thing,AeroSmith,0,instrumental,1,120.885803223,not_danceable,1,minor
+903,387,Mix 1,"alternative rock, pop, acoustic",4183,To Make You Feel My Love,Garth Brooks,0

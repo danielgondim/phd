@@ -1,0 +1,2 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1021434,565339,Work,"work, focus, instrumental",6071963,Auto Rock,Mogwai,1,instrumental,0.999999940395,119.964241028,not_danceable,1,minor

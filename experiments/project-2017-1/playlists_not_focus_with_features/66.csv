@@ -1,0 +1,23 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+26,66,Real Plastic Trees - A Radiohead Sampler,,762,Fitter Happier,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,730,Pyramid Song,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,755,Optimistic,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,747,There There,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,759,Airbag,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,750,My Iron Lung,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,732,I Might Be Wrong,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,760,Subterranean Homesick Alien,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,754,Everything In Its Right Place,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,746,Backdrifts,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,751,15 Step,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,741,Planet Telex,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,748,Scatterbrain,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,742,High And Dry,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,734,Knives Out,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,735,Dollars & Cents,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,743,(Nice Dream),Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,752,Bodysnatchers,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,753,Weird Fishes/Arpeggi,Radiohead,0,instrumental,0.999999701977,152.837753296,not_danceable,1,major
+26,66,Real Plastic Trees - A Radiohead Sampler,,749,A Wolf at the Door,Radiohead,0,instrumental,0.683140516281,138.778152466,not_danceable,0.572833716869,minor
+26,66,Real Plastic Trees - A Radiohead Sampler,,745,Just,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,765,Creep,Radiohead,0

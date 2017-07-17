@@ -1,0 +1,4 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+615,319,New mix,,1972,Dreaming,Blondie,0
+615,319,New mix,,145,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0
+615,319,New mix,,3586,President,Wyclef Jean,0,instrumental,0.993463993073,89.9508743286,not_danceable,1,major

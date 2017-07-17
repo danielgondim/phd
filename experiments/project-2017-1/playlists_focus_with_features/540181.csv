@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814705,Mirando,Ratatat,instrumental,0.991239368916,89.7146072388,not_danceable,1,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814721,Shempi,Ratatat,instrumental,0.999999940395,123.40120697,not_danceable,1,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814783,Noctuary (live),Bonobo,instrumental,0.997101426125,89.8107833862,not_danceable,0.979072451591,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814797,Recurring,Bonobo,instrumental,0.908633351326,114.984130859,danceable,0.921395361423,major
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814870,Eitheror,Little People
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814878,Start Shootin',Little People,instrumental,0.999989271164,178.205322266,danceable,0.99100703001,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5814995,Anger Of The Earth,Nomak,instrumental,0.662726581097,90.0518951416,not_danceable,0.554712474346,minor
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5815020,Beyond,Nujabes
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5815040,Sincerely,Nujabes
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5815161,Lisztomania (Alex Metric Remix),Phoenix
+756686,540181,Zone Out and Work,"electronic, electro, focus, study",5815323,15 Step,Radiohead

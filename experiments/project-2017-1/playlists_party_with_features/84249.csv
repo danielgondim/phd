@@ -1,0 +1,19 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",56860,The Next Time Around,Little Joy,voice,0.902678370476,120.017967224,not_danceable,0.864645540714,major
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",271565,Minha Galera,Manu Chao
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",75477,Coconut,Harry Nilsson
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",412141,(Put The Lime In The) Coconut,Harry Nillson
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",20634,Red Red Wine,UB40
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",132968,Baby I Love Your Way,Big Mountain
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",67260,You And I Both,Jason Mraz,voice,0.99236625433,104.389541626,danceable,0.888635873795,major
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",271675,Your Love ft Eve,Wyclef Jean
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",507271,¡Happy Birthday Guadalupe!,"The Killers, Wild Light & Mariachi El Bronx"
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",9750,Stir it up,Bob Marley & The Wailers
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",66403,Kokomo,The Beach Boys
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",302442,I'm Yours,Jason Mraz,voice,0.986438512802,151.047744751,danceable,0.551489651203,major
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",503101,Slave to Love,Elan
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",79244,Change Is Hard,She & Him,instrumental,0.981947183609,92.0555648804,not_danceable,1,minor
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",3184,Friday I'm In Love,The Cure
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",140254,Apeman,The Kinks,voice,0.974123120308,151.634368896,not_danceable,0.912213563919,major
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",503108,Forgetful Lucy,Adam Sandler,instrumental,0.970955967903,105.449836731,not_danceable,0.897873580456,major
+55923,84249,Island in the Sun,"sunshine, beach, party, happy",109234,Island In The Sun,Weezer,instrumental,0.999981582165,114.460876465,not_danceable,1,minor

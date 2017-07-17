@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+60251,91898,Soundtrack de un viernes en la noche,"electro/hip-hop, electro, remix, friday, party",660323,Something in the Water,Example
+60251,91898,Soundtrack de un viernes en la noche,"electro/hip-hop, electro, remix, friday, party",660328,WeCameWeSawWeKilledTheCrowd,Example
+60251,91898,Soundtrack de un viernes en la noche,"electro/hip-hop, electro, remix, friday, party",660341,Harvest Time,The Bloody Beetroots,instrumental,0.977216780186,129.958877563,not_danceable,1,major
+60251,91898,Soundtrack de un viernes en la noche,"electro/hip-hop, electro, remix, friday, party",660353,Phantom Pt II (Boys Noize Remix),Justice,instrumental,0.934865891933,125.039916992,danceable,0.99951583147,major
+60251,91898,Soundtrack de un viernes en la noche,"electro/hip-hop, electro, remix, friday, party",660365,Anything New,Digitalism,instrumental,0.963647544384,129.852615356,danceable,0.999998867512,major
+60251,91898,Soundtrack de un viernes en la noche,"electro/hip-hop, electro, remix, friday, party",660374,"Uprising (Does It Offend You, Yeah? Mix)",Muse
+60251,91898,Soundtrack de un viernes en la noche,"electro/hip-hop, electro, remix, friday, party",660392,I'm Not Your Toy (datA Remix),La Roux,voice,0.6271956563,139.92010498,danceable,0.936349511147,major
+60251,91898,Soundtrack de un viernes en la noche,"electro/hip-hop, electro, remix, friday, party",660404,Silvia (Robotberget Remix),Miike Snow

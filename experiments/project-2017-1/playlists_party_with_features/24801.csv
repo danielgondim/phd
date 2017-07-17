@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+23271,24801,hop tape,"hip hop, b-sides, party",204969,Acid Raindrops,People Under The Stairs,instrumental,0.771226286888,90.4816818237,danceable,0.690450549126,major
+23271,24801,hop tape,"hip hop, b-sides, party",204973,Paper Planes (Remix for the Children by Adrock),M.I.A.
+23271,24801,hop tape,"hip hop, b-sides, party",204970,City Hawk,Beans,voice,0.967661321163,88.9640045166,not_danceable,1,major
+23271,24801,hop tape,"hip hop, b-sides, party",204976,All For U,Aceyalone
+23271,24801,hop tape,"hip hop, b-sides, party",204995,The Science Of The Two (feat. Insight),Edan
+23271,24801,hop tape,"hip hop, b-sides, party",205000,"Get Busy (featuring dice raw, peedi crakk & dj jazzy jeff)",The Roots,instrumental,0.518949329853,94.9628753662,danceable,0.999542593956,minor
+23271,24801,hop tape,"hip hop, b-sides, party",205003,Lower da Boom,Artifacts
+23271,24801,hop tape,"hip hop, b-sides, party",204980,Breakadawn,De La Soul
+23271,24801,hop tape,"hip hop, b-sides, party",204992,One Love,Nas
+23271,24801,hop tape,"hip hop, b-sides, party",204997,Where Im From (Aural Remix),Digable Planets

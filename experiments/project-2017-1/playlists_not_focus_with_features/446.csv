@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4461,Five to One,Marylin Manson,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4469,Mother Mother,Tracy Bonham,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4458,Lithium,Nirvana,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4468,Medication,Garbage,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4459,Helter Skelter,The Beatles,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4464,I Wanna Be Sedated,The Ramones,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4472,Yer Blues,Jeff Healey,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4470,Joey,Concrete Blonde,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4463,I'm Only Happy When It Rains,Garbage,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4466,I'll Sleep When I'm Dead,Bon Jovi,0,voice,0.960117220879,124.282623291,danceable,0.999999880791,major
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4471,Starry Night,Don Mclean,0
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4465,Don't Let Me Be Misunderstood,Joe Cocker,0,instrumental,0.999999880791,162.98828125,not_danceable,1,minor
+1176,446,Manic and Blues Disc One - February 2004,"bipolar, manic, mania, depression, blues",4462,Slippin' Into Darkness,War,0,voice,0.983697652817,89.472114563,not_danceable,0.652849376202,minor

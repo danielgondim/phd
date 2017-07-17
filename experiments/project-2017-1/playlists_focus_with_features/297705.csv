@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876552,Push Me Pull You,Futurisk
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876581,Eldorado,Moderne
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876773,Dance With Me,Deux
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876777,Black Beauty,Focus,voice,0.9964671731,172.265472412,not_danceable,0.687183380127,major
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876780,Lost And Late,Martin Dupont
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876781,Goo,Plastikman,instrumental,0.921357035637,119.900085449,danceable,0.999991714954,minor
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876793,Loretta's Tale,Cockney Rebel
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876803,Mouse Bums,µ-Ziq,voice,0.884971559048,119.903633118,not_danceable,1,major
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876821,Sorry Entertainer,Daniel Johnston,voice,0.539842188358,132.866836548,not_danceable,0.991635203362,major
+50702,297705,"No More Pain, No More Bad Dreams (cold wave/electronic/rock)13","bonobo, cockney rebels, plastikman, focus, µ-ziq",2876845,1009,Bonobo,voice,0.888027310371,129.000564575,danceable,0.956935167313,major

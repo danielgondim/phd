@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+634810,507669,Cautiously Discreet,"study, focus, piano",5586528,D'est En Ouest [Blue Berry Garden],Daduk   ,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586531,Maybe Not,Cat Power,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586535,Comme Des Enfants  ,Coeur De Pirate,1,voice,0.713746786118,123.397186279,not_danceable,0.909882426262,major
+634810,507669,Cautiously Discreet,"study, focus, piano",5586539,Ice Cream,Sarah Mclachlan,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586540,Everything Means Nothing To Me,Elliott Smith ,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586565,Universe   ,Sarah Slean,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586567,In Another Life,Vienna Teng   ,1,voice,0.974301815033,103.887123108,not_danceable,0.989264070988,minor
+634810,507669,Cautiously Discreet,"study, focus, piano",5586696,Lullaby    ,Brad White And Pierre Grill,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586697,All Is My Love   ,Miranda Wong,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586699,Serenity Of The Heart   ,Martha Mier,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586702,Yellow (Coldplay Cover),Jem   ,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586704,Piano Tribute,Snow Patrol ,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586708,The Cave ,Mumford & Sons Piano Tribute,1
+634810,507669,Cautiously Discreet,"study, focus, piano",5586722,Sigh No More   ,Piano Tribute Players,1

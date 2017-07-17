@@ -1,0 +1,19 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",93205,Quiet Dog,Mos Def
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",76845,DLZ,TV on the Radio,instrumental,0.883981823921,88.007194519,danceable,0.976439476013,minor
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",75048,Cable Dazed,Invisible Conga People,instrumental,0.988624811172,116.002914429,danceable,0.999999880791,minor
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97528,Textbook,We Are Scientists,instrumental,0.932486951351,91.9868392944,not_danceable,1,minor
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",12810,Walking on a Dream,Empire of The Sun
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",10330,Hercules Theme,Hercules and Love Affair,instrumental,0.634451806545,105.993339539,danceable,0.988918423653,minor
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",16032,Gobbledigook,sigur ros
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97529,Flashing Lights,Kanye West,voice,0.998989403248,90.4395370483,danceable,0.992501795292,minor
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97531,Shake Shake Tambourine (Black Tambourine) [Adrock Remix],Beck
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97532,Poker Face,Lady GaGa,instrumental,0.721054852009,119.00705719,danceable,0.989793419838,minor
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97533,just juke complete feat. GLC ,Mikkey Halsted
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97534,Turnin Me On (Main),Keri Hilson Ft Lil Wayne,voice,0.864656567574,155.748428345,danceable,0.99999320507,minor
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97536,DVNO (Radio Edit),Justice
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97537,Untouched,The Veronicas,instrumental,0.995401203632,88.5174407959,not_danceable,1,major
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97538,Summertime Clothes,Animal Collective
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",19920,Birds Fly Away,Theresa Andersson,voice,0.996843039989,92.8624725342,not_danceable,0.665048420429,minor
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97548,Till the Sun Turns Black,Ray LaMontagne
+4095,11093,Menagerie of Music to Munich to,"eclectic, random, dinner party",97549,16th Stage,Osborne,instrumental,0.999997675419,120.05582428,not_danceable,0.928536534309,major

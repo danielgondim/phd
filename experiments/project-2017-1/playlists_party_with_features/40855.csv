@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+16248,40855,G.I. doesn't care. And lovin' it..nope,eclectic sound oldies party,277227,All For Swinging You Around,New Pornographers
+16248,40855,G.I. doesn't care. And lovin' it..nope,eclectic sound oldies party,277228,Gone Daddy Gone,Gnarls Barkley
+16248,40855,G.I. doesn't care. And lovin' it..nope,eclectic sound oldies party,277222,Starstruck,Santigold,instrumental,0.96538066864,144.858673096,not_danceable,1,major
+16248,40855,G.I. doesn't care. And lovin' it..nope,eclectic sound oldies party,277225,Don't You Just Know It,Huey 'Piano' Smith
+16248,40855,G.I. doesn't care. And lovin' it..nope,eclectic sound oldies party,233185,Wild Strawberries,Pnau,instrumental,0.99675488472,119.991119385,not_danceable,1,minor
+16248,40855,G.I. doesn't care. And lovin' it..nope,eclectic sound oldies party,233193,Irresponsables,Babasonicos,voice,0.75318479538,95.0428390503,danceable,0.999994933605,minor
+16248,40855,G.I. doesn't care. And lovin' it..nope,eclectic sound oldies party,277214,Beggin',Frankie Valli & The Four Seasons
+16248,40855,G.I. doesn't care. And lovin' it..nope,eclectic sound oldies party,277219,Golden Brown,The Stranglers

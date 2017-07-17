@@ -1,0 +1,13 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556115,Arnold,Clint Mansell
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556118,Coney Island Dreaming,Clint Mansell,instrumental,0.999999761581,165.229888916,not_danceable,1,minor
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556121,Crimin' and Dealin',Clint Mansell.
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556123,Dreams (Fall),Clint Mansell.
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556128,Fear (Winter),Clint Mansell..
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556129,Full Tense (Winter),Clint Mansell..
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556137,Ghosts Falling,Clint Mansell...,instrumental,0.999999940395,88.3457489014,not_danceable,1,major
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556140,Ghosts of Things to Come,Clint Mansell...,instrumental,1,143.547607422,not_danceable,1,major
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556146,Hope Overture ,Clint Mansell....,instrumental,0.999996006489,133.730285645,not_danceable,1,minor
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556156,Meltdown,Clint Mansell.....
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556157,Lux Aeterna,Clint Mansell....
+322024,772229,Requiem For A Dream,"requiem for a dream, study, focus, high, clint mansell",7556161,Summer Overture,Clint Mansell.....,instrumental,1,133.997177124,not_danceable,1,minor

@@ -1,0 +1,5 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",7057107,Poison & Wine,The Civil Wars
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",7057111,Trouble,Coldplay
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",7057112,Skinny Love,Birdy,voice,0.541010856628,172.265411377,not_danceable,0.990663409233,major
+827683,527330,study like your future depends on it.  ,"study, chill, focus, late night studying",7057114,Slow Dancing In a Burning Room,John Mayer,voice,0.950392782688,133.777603149,danceable,0.512750208378,minor

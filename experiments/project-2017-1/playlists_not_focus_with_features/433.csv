@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1126,433,ethanlake05's August 2008 mix,,4367,Mr. Carter (Featuring Jay-Z) (,LIl Wayne,0
+1126,433,ethanlake05's August 2008 mix,,4369,American Boy (Remix) (Feat Est,Kanye West,0
+1126,433,ethanlake05's August 2008 mix,,4370,Put On (Feat Young Jeezy),Kanye West,0
+1126,433,ethanlake05's August 2008 mix,,4371,I Luv Your Girl,The-Dream,0,voice,0.655931830406,90.0026473999,danceable,0.999999880791,minor
+1126,433,ethanlake05's August 2008 mix,,4372,The Pretender,Foo Fighters,0
+1126,433,ethanlake05's August 2008 mix,,4373,Hip-Hop Saved My Life (featuring Nikki Jean),Lupe Fiasco,0,instrumental,0.999999880791,99.6359710693,not_danceable,1,minor
+1126,433,ethanlake05's August 2008 mix,,4374,Hip-Hop Saved My Life (featuring Nikki Jean),Lupe Fiasco,0,instrumental,0.999999880791,99.6359710693,not_danceable,1,minor

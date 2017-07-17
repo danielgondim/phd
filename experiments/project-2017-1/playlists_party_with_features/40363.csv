@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+31851,40363,Fast & Easy vol.1,party,319068,Musicology,Prince,instrumental,0.957888245583,100.08972168,not_danceable,1,major
+31851,40363,Fast & Easy vol.1,party,319070,Pass This On,The Knife
+31851,40363,Fast & Easy vol.1,party,319066,Feel Good Inc.,Gorillaz,voice,0.898889005184,138.434555054,danceable,0.994278788567,minor
+31851,40363,Fast & Easy vol.1,party,319069,Heartbeats,The Knife,instrumental,0.883075416088,88.0925064087,danceable,0.984690129757,minor
+31851,40363,Fast & Easy vol.1,party,319061,Bongo Bong,Manu Chao
+31851,40363,Fast & Easy vol.1,party,319060,Feels Just Like It Should,Jamiroquai
+31851,40363,Fast & Easy vol.1,party,319062,Crazy,Gnarls Barkley
+31851,40363,Fast & Easy vol.1,party,319064,Me Gustas Tu,Manu Chao,instrumental,0.636531174183,88.0271530151,danceable,0.765649676323,minor
+31851,40363,Fast & Easy vol.1,party,319067,Music Sounds Better With You,Daft Punk and Stardust
+31851,40363,Fast & Easy vol.1,party,319584,Relax (Take It Easy),MIKA

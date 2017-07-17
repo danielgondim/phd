@@ -1,0 +1,13 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+35053,45920,Eelectronics,"dance, electronic, party-time",357374,Vi Sitter I Ventrilo Och Spelar Dota,Basshunter
+35053,45920,Eelectronics,"dance, electronic, party-time",51817,Feel The Love,Cut Copy,instrumental,0.904836475849,126.06565094,danceable,0.999796926975,minor
+35053,45920,Eelectronics,"dance, electronic, party-time",160080,Snookered,Dan Deacon,instrumental,0.667668044567,119.995620728,not_danceable,1,major
+35053,45920,Eelectronics,"dance, electronic, party-time",235110,Blind,Hercules and Love Affair
+35053,45920,Eelectronics,"dance, electronic, party-time",153346,Down River,M.I.A.
+35053,45920,Eelectronics,"dance, electronic, party-time",139370,Electric Feel,MGMT
+35053,45920,Eelectronics,"dance, electronic, party-time",357384,Rods and Cones,Blue Man Group
+35053,45920,Eelectronics,"dance, electronic, party-time",109891,Heads Will Roll,Yeah Yeah Yeahs,instrumental,0.855323910713,131.945281982,danceable,0.997967898846,minor
+35053,45920,Eelectronics,"dance, electronic, party-time",32091,Highway Of Endless Dreams,M83,voice,0.877787053585,119.986335754,not_danceable,0.832133710384,major
+35053,45920,Eelectronics,"dance, electronic, party-time",83352,Sleepyhead,Passion Pit,instrumental,0.995123207569,106.06615448,not_danceable,1,minor
+35053,45920,Eelectronics,"dance, electronic, party-time",2622,Technologic,Daft Punk
+35053,45920,Eelectronics,"dance, electronic, party-time",229272,Summertime Clothes,Animal Collective

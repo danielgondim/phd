@@ -1,0 +1,4 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7814972,Soma (qianta ambient mix),Deadmau5
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7815052,Hypnogogii,Somfay
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7861319,Underbelly (2nd part loop reversed),Wild  Beasts,instrumental,0.713625013828,134.669647217,not_danceable,0.962862670422,minor

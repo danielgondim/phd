@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+36488,82464,"martinis and betrayals, cigarette holders and scandal ","rock, swing, cabaret, classy, party",602603,Brutality,Black Box Recorder
+36488,82464,"martinis and betrayals, cigarette holders and scandal ","rock, swing, cabaret, classy, party",9217,My Alcoholic Friends,The Dresden Dolls,instrumental,0.989913225174,111.147323608,not_danceable,1,minor
+36488,82464,"martinis and betrayals, cigarette holders and scandal ","rock, swing, cabaret, classy, party",231392,Cell Block Tango,Catherine Zeta-Jones;Susan Misner;Deidre Goodwin;Denise Faye;Ekaterina Chtchelkanova;Mya Harrison;Ta
+36488,82464,"martinis and betrayals, cigarette holders and scandal ","rock, swing, cabaret, classy, party",602606,The Trouble...,Birdeatsbaby
+36488,82464,"martinis and betrayals, cigarette holders and scandal ","rock, swing, cabaret, classy, party",39589,Queen Bitch,David Bowie
+36488,82464,"martinis and betrayals, cigarette holders and scandal ","rock, swing, cabaret, classy, party",9005,Zoot Suit Riot,Cherry Poppin' Daddies
+36488,82464,"martinis and betrayals, cigarette holders and scandal ","rock, swing, cabaret, classy, party",269158,Shady,Vermillion Lies,voice,0.907164812088,129.581726074,not_danceable,0.878101050854,minor
+36488,82464,"martinis and betrayals, cigarette holders and scandal ","rock, swing, cabaret, classy, party",384711,Suzy,Caravan Palace,instrumental,0.9498488307,128.965148926,danceable,0.999943256378,minor

@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+538919,727114,känner så sorgliga,"sad, quiet, lost, sleep, focus",7211556,I Think It's Going To Rain Today,Randy Newman,1
+538919,727114,känner så sorgliga,"sad, quiet, lost, sleep, focus",7211563,Hurt,Johnny Cash,1
+538919,727114,känner så sorgliga,"sad, quiet, lost, sleep, focus",7211566,How to Disappear Completely,Radiohead,1
+538919,727114,känner så sorgliga,"sad, quiet, lost, sleep, focus",7211571,A Lack of Color,Death Cab for Cutie,1
+538919,727114,känner så sorgliga,"sad, quiet, lost, sleep, focus",7211576,Coconut Skins,Damien Rice,1,voice,0.980299890041,102.181838989,danceable,0.938778221607,major
+538919,727114,känner så sorgliga,"sad, quiet, lost, sleep, focus",7211580,Have You Seen Me Lately,Counting Crows,1
+538919,727114,känner så sorgliga,"sad, quiet, lost, sleep, focus",7211583,Lua,Bright Eyes,1,instrumental,0.91285687685,106.858757019,not_danceable,0.943515896797,minor
+538919,727114,känner så sorgliga,"sad, quiet, lost, sleep, focus",7211586,Evaporated,Ben Folds,1
+538919,727114,känner så sorgliga,"sad, quiet, lost, sleep, focus",7211591,Time and Space,The Cinematic Orchestra,1

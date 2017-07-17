@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+135086,185241,"Warm nights in, with that inbetween mood.","pop, fingerbanger friday focusless, rock",1253607,Pickup Truck,Kings Of Leon,1,instrumental,1,154.317611694,not_danceable,1,major
+135086,185241,"Warm nights in, with that inbetween mood.","pop, fingerbanger friday focusless, rock",1253609,Daydream,Beach Fossils,1
+135086,185241,"Warm nights in, with that inbetween mood.","pop, fingerbanger friday focusless, rock",1253610,Birthday,Kings Of Leon,1
+135086,185241,"Warm nights in, with that inbetween mood.","pop, fingerbanger friday focusless, rock",1253612,Crosses,Jose Gonzalez,1
+135086,185241,"Warm nights in, with that inbetween mood.","pop, fingerbanger friday focusless, rock",1253615,Street Lights,Kanye West,1,voice,0.793121695518,123.400619507,danceable,0.998808205128,major
+135086,185241,"Warm nights in, with that inbetween mood.","pop, fingerbanger friday focusless, rock",1253621,Coming Up Easy,Paolo Nutini,1,voice,0.9503942132,114.674285889,not_danceable,0.544937551022,major
+135086,185241,"Warm nights in, with that inbetween mood.","pop, fingerbanger friday focusless, rock",1253623,You Do Something To Me,Paul Weller,1
+135086,185241,"Warm nights in, with that inbetween mood.","pop, fingerbanger friday focusless, rock",1253626,The Fever,Bruce Springsteen,1

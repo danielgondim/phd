@@ -1,0 +1,16 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683808,intro,the xx,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683811,Excuses,Bibio,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683813,La Lune,Free The Robots,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683817,Our Time (science & technology),Free the Robots,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683820,Mykonos,Fleet Foxes,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683823,Champion Sound (Alt. Version),Crystal Fighters,1,instrumental,0.678337395191,122.104400635,danceable,0.98176407814,minor
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683824,Light Sleep,Bibio,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683828,Keep Your Head Up,Ben Howard,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683830,Limit to Your Love,James Blake,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683832,Cherry Moon,Lorn,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683835,Come Back Home,Netsky,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683837,Golden Brown,The Stranglers,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683838,Video Games,Lana del Rey,1,voice,0.713516891003,122.356811523,not_danceable,0.630881547928,minor
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683841,Live With Me,Massive Attack,1
+889475,513146,Study Music,"chill, focus, background, laid back, study calming relaxing nice reading",5683843,Follow Rivers (The Magician Remix) ,Lykke Li ,1,voice,0.804053843021,124.116600037,danceable,0.985749125481,major

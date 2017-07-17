@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+256,437,Station Wagon Summer,70s,4412,This Is It w/ Michael Mcdonald,Kenny Loggins,0
+256,437,Station Wagon Summer,70s,4413,In The City,The Eagles,0,voice,0.984229326248,82.442779541,danceable,0.707972824574,major
+256,437,Station Wagon Summer,70s,4414,Summer Breeze,Seals & Crofts,0,voice,0.576778292656,178.205551147,not_danceable,0.888011455536,minor
+256,437,Station Wagon Summer,70s,4415,Amy,Pure Prairie League,0
+256,437,Station Wagon Summer,70s,4416,For You,Manfred Mann's Earth Band,0
+256,437,Station Wagon Summer,70s,4417,Magic,Pilot,0
+256,437,Station Wagon Summer,70s,4418,Shooting Star,Bad Company,0
+256,437,Station Wagon Summer,70s,4419,Sky High,Jigsaw,0
+256,437,Station Wagon Summer,70s,4420,Stumblin' In,Suzi Quatro with Chris Norman,0
+256,437,Station Wagon Summer,70s,4421,Sweet Talkin' Woman,Electric Light Orchestra,0

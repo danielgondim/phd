@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+31513,44296,dance with me all night,"electro, dance party",342108,Swing Tree,Discovery,voice,0.979725301266,91.6361083984,danceable,0.996702730656,major
+31513,44296,dance with me all night,"electro, dance party",346111,Magic Spells,Crystal Castles,voice,0.648529469967,104.984024048,not_danceable,0.549451112747,major
+31513,44296,dance with me all night,"electro, dance party",346119,Ambivalence Avenue,Bibio,voice,0.941703140736,135.203460693,danceable,0.932352185249,major
+31513,44296,dance with me all night,"electro, dance party",346130,Cosmic Rapp,James Pants,voice,0.589637994766,99.51612854,danceable,0.999698519707,major
+31513,44296,dance with me all night,"electro, dance party",346129,Triangle Walks,Fever Ray,instrumental,0.788514614105,178.206039429,not_danceable,0.999998927116,minor
+31513,44296,dance with me all night,"electro, dance party",346135,Ultraviolence,Heartsrevolution
+31513,44296,dance with me all night,"electro, dance party",346137,Mirando,Ratatat,instrumental,0.991239368916,89.7146072388,not_danceable,1,minor
+31513,44296,dance with me all night,"electro, dance party",346138,La ritournelle (Metronomy Mix),Sébastien Tellier

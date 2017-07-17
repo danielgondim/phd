@@ -1,0 +1,13 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+3814,40802,Last Hurrah,"rock, broin' out, partying",322354,Stuck Between Stations,The Hold Steady
+3814,40802,Last Hurrah,"rock, broin' out, partying",322355,Past Lives,The Bronx,voice,0.998630464077,156.272964478,not_danceable,0.969584703445,major
+3814,40802,Last Hurrah,"rock, broin' out, partying",322357,It's a Long Way to the Top (If You Wanna Rock And Roll),AC/DC
+3814,40802,Last Hurrah,"rock, broin' out, partying",322358,No Rain,Blind Melon
+3814,40802,Last Hurrah,"rock, broin' out, partying",322359,Panama,Van Halen
+3814,40802,Last Hurrah,"rock, broin' out, partying",322361,Memory Lane,Eddy Current Suppression Ring,voice,0.514738023281,134.999862671,not_danceable,0.935682713985,major
+3814,40802,Last Hurrah,"rock, broin' out, partying",322363,Plug In Baby,Muse
+3814,40802,Last Hurrah,"rock, broin' out, partying",322365,421 (Everybody Loves You),The Wildbirds
+3814,40802,Last Hurrah,"rock, broin' out, partying",322366,Some Might Say,Oasis
+3814,40802,Last Hurrah,"rock, broin' out, partying",322367,S.O.S,Earl Greyhound
+3814,40802,Last Hurrah,"rock, broin' out, partying",322368,Four Winds,Bright Eyes
+3814,40802,Last Hurrah,"rock, broin' out, partying",322369,Flagpole Sitta,Harvey Danger

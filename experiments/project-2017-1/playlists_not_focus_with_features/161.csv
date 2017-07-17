@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+227,161,sonnys mix 1,"electronic, punk, house junk",891,Focus on Sight,Thievery Corporation,0
+227,161,sonnys mix 1,"electronic, punk, house junk",145,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1661,Glam Bucket,Underworld,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1481,03 By Your Side (Ben Watt Lazy Dog Remix) - Sade,Ben Watt,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1315,Summer In Paris,Dj Cam,0
+227,161,sonnys mix 1,"electronic, punk, house junk",752,Bodysnatchers,Radiohead,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1474,Death Of A Disco Dancer,The Smiths,0,instrumental,0.995427668095,172.265014648,not_danceable,0.974595785141,minor
+227,161,sonnys mix 1,"electronic, punk, house junk",1558,Someone Great,LCD Soundsystem,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1571,Rock To The Rhythm,DJ Dan,0
+227,161,sonnys mix 1,"electronic, punk, house junk",69,Going to California,Led Zeppelin,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1545,Ceremony (New Order cover),Radiohead,0

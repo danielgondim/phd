@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1879,100455,Party Week,"party music, rock",699812,Cinco,The Ruby Suns,voice,0.900641620159,92.7663726807,danceable,0.968765854836,minor
+1879,100455,Party Week,"party music, rock",690435,Lawn Knives,GOBBLE GOBBLE
+1879,100455,Party Week,"party music, rock",714547,Bloodbuzz Ohio,The National
+1879,100455,Party Week,"party music, rock",672145,Kings of Animals,Small Black,instrumental,0.607531785965,134.601196289,not_danceable,0.927537798882,major
+1879,100455,Party Week,"party music, rock",701718,Life Coach,Fang Island,voice,0.642661690712,85.2603225708,danceable,0.727885663509,major
+1879,100455,Party Week,"party music, rock",672178,Morgan,Cloud Nothings,voice,0.997135281563,100.061775208,not_danceable,0.943449378014,major
+1879,100455,Party Week,"party music, rock",691645,Second One to Know,The Fresh & Onlys
+1879,100455,Party Week,"party music, rock",701467,Paris Cafes,The Art Museums
+1879,100455,Party Week,"party music, rock",696717,Round And Round,Ariel Pink's Haunted Graffiti

@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+57251,98024,"When the police come to get me, I'm listening to dance music. ","electronic, dance-punk, hip hop, dance, party music",5527,Cut Your Hair,Pavement,voice,0.948219656944,111.445968628,danceable,0.740433633327,major
+57251,98024,"When the police come to get me, I'm listening to dance music. ","electronic, dance-punk, hip hop, dance, party music",68674,Virginia Plain,Roxy Music
+57251,98024,"When the police come to get me, I'm listening to dance music. ","electronic, dance-punk, hip hop, dance, party music",406572,Good Guys (Don't Wear White),Minor Threat
+57251,98024,"When the police come to get me, I'm listening to dance music. ","electronic, dance-punk, hip hop, dance, party music",188844,Red Right Hand,Nick Cave And The Bad Seeds
+57251,98024,"When the police come to get me, I'm listening to dance music. ","electronic, dance-punk, hip hop, dance, party music",158536,Summerholidays Vs. Punkroutine,Refused,instrumental,1,164.693359375,not_danceable,1,minor
+57251,98024,"When the police come to get me, I'm listening to dance music. ","electronic, dance-punk, hip hop, dance, party music",26756,Land,Patti Smith
+57251,98024,"When the police come to get me, I'm listening to dance music. ","electronic, dance-punk, hip hop, dance, party music",634877,On the Radio,Regina Spektor
+57251,98024,"When the police come to get me, I'm listening to dance music. ","electronic, dance-punk, hip hop, dance, party music",654227,This Is a Fire Door Never Leave Open,The Weakerthans
+57251,98024,"When the police come to get me, I'm listening to dance music. ","electronic, dance-punk, hip hop, dance, party music",181948,Laser Beams,Wintersleep,instrumental,0.888940513134,134.432098389,danceable,0.590618431568,minor

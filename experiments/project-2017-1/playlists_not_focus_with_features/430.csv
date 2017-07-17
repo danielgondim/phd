@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+54,430,8 Tracks is Better than Muxtape,hip hop,4348,Can I Kick It?,A Tribe Called Quest,0,voice,0.514961659908,96.6368331909,danceable,0.796592593193,minor
+54,430,8 Tracks is Better than Muxtape,hip hop,4349,To Live And Die In L.A (ft Val Young),2Pac,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4350,Tennessee,Arrested Development,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4351,Still D.R.E.,Dr. Dre,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4352,What's My Name,Snoop Dogg,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4353,Still Not a player,Big Punisher & Joe,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4354,Big Poppa,The Notorious B.I.G.,0,instrumental,0.527932882309,85.9212112427,danceable,0.837135076523,minor
+54,430,8 Tracks is Better than Muxtape,hip hop,4355,The Next Movement,The Roots,0

@@ -1,0 +1,20 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7104539,Solar Sailer,Daft Punk,1,instrumental,0.985933125019,123.964080811,danceable,0.998777151108,minor
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7104560,Forgive,Burial,1,instrumental,0.932787716389,178.205718994,not_danceable,0.836802184582,major
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7104591,Moth,Burial & Four Tet,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7104817,Wilhelms Scream,James Blake,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7105157,Kettering,The Antlers,1,voice,0.656556665897,139.558868408,not_danceable,0.993498682976,minor
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7105312,Stones (Jon Hopkins version),BARBAROSSA_UK,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7105347,Bericht,Cant,1,voice,0.887547850609,117.490844727,not_danceable,0.993505239487,minor
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7105349,Afterlife,Jon Hopkins,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7105610,BOARDS OF CANADA - OLSEN,lceberg,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7230584,Azure,Paul Kalkbrenner ,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7231543,Deadmau5 - Jaded (Ambient Mix),Deamau5,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7355462,Moby-Blue Paper,Moby,1,instrumental,1,84.9480743408,not_danceable,1,minor
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7355258,I Can Almost See You,Hammock,1,instrumental,0.676146566868,100.930747986,not_danceable,0.989434123039,major
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7355400,Dayvan Cowboy,Boards of Canada,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7355556,Repose In Blue,Eluvium,1,instrumental,0.99998819828,125.9945755,not_danceable,0.918715417385,major
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7355432,Miss You,Trentemoller  ,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7814972,Soma (qianta ambient mix),Deadmau5,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7815052,Hypnogogii,Somfay,1
+1328816,713773,Electrelax: Concentration Playlist,"electronic, chill out, work, focus, late night",7861319,Underbelly (2nd part loop reversed),Wild  Beasts,1,instrumental,0.713625013828,134.669647217,not_danceable,0.962862670422,minor

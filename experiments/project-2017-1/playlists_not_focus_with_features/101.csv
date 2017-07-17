@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+101,101,djmrhas mix 1,,1456,Imitosis,Andrew Bird,0,instrumental,0.999999880791,114.302154541,not_danceable,1,major
+101,101,djmrhas mix 1,,1461,Scentless Apprentice,Nirvana,0
+101,101,djmrhas mix 1,,1458,Cryin' Tryin' Lyin',Bratmobile,0,instrumental,0.882240414619,113.914276123,not_danceable,0.916589319706,major
+101,101,djmrhas mix 1,,1457,A Sunshine Fix,Olivia Tremor Control,0
+101,101,djmrhas mix 1,,1459,I Found a Reason,Cat Power,0
+101,101,djmrhas mix 1,,1460,12,Hayward Williams,0

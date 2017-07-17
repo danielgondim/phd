@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1192446,739584,Open your Mind - Think,"study, dream, focus, classic, calm",7309005,Undisclosed Desires,Muse,1,voice,0.847342431545,115.947479248,danceable,0.985458791256,major
+1192446,739584,Open your Mind - Think,"study, dream, focus, classic, calm",7309007,Nothing Else Matters,Apocalyptica,1
+1192446,739584,Open your Mind - Think,"study, dream, focus, classic, calm",7309008,Now We Are Free,Gladiator,1
+1192446,739584,Open your Mind - Think,"study, dream, focus, classic, calm",7309030,"Goodnight, Travel Well",The Killers,1,instrumental,1,128.039337158,not_danceable,1,minor
+1192446,739584,Open your Mind - Think,"study, dream, focus, classic, calm",7309032,No Surprises,Radiohead,1
+1192446,739584,Open your Mind - Think,"study, dream, focus, classic, calm",7309034,Myth,Beach House,1
+1192446,739584,Open your Mind - Think,"study, dream, focus, classic, calm",7309055,Black Water,Apparat,1
+1192446,739584,Open your Mind - Think,"study, dream, focus, classic, calm",7309066,Hysteric,Yeah Yeah Yeahs,1,instrumental,0.892403781414,131.898269653,not_danceable,1,major
+1192446,739584,Open your Mind - Think,"study, dream, focus, classic, calm",7309070,Wait,M83,1

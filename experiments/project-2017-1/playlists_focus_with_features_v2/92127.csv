@@ -1,0 +1,13 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",42382,Take Off Your Sunglasses,Ezra Furman And The Harpoons,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",475786,Winter Winds,Mumford & Sons,1,voice,0.990158438683,83.838394165,not_danceable,0.694159507751,major
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",327381,Janglin,Edward Sharpe & The Magnetic Z,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",213514,"It's All Over Now, Baby Blue",Bob Dylan,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",128574,Two Weeks,Grizzly Bear,1,voice,0.994986891747,161.604324341,not_danceable,0.633860588074,major
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",168869,Slow Show,The National,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",88625,Skinny Love,Bon Iver,1,voice,0.999934911728,152.596832275,not_danceable,0.989834010601,major
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",5067,BLOOD ON THE TRACKS - 02 - SIMPLE TWIST OF FATE,Bob Dylan,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",157354,Deep Blue Sea,Grizzly Bear,1,instrumental,0.762854754925,155.686477661,not_danceable,0.979776740074,minor
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",35977,A Boy Named Sue,Johnny Cash,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",561963,Heartbeat,Buddy Holly,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",220207,Ramble On,Led Zeppelin,1

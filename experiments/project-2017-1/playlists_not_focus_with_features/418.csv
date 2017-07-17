@@ -1,0 +1,5 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+957,418,pookadana's July 2008 mix,,4287,Little Bit,Lykke Li,0,instrumental,0.550410211086,120.327400208,danceable,0.941114902496,minor
+957,418,pookadana's July 2008 mix,,4288,One Hour Empire,Broadcast,0,voice,0.809640169144,154.786239624,not_danceable,0.710511207581,minor
+957,418,pookadana's July 2008 mix,,4289,Goldie Locks,White Denim,0
+957,418,pookadana's July 2008 mix,,4290,Lay Me Down,The Frames,0

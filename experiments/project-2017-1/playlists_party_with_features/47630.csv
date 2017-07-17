@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+36078,47630,september 2009,"indie rock, strokes, bloc party",369004,Plasticities - Remix,Andrew Bird
+36078,47630,september 2009,"indie rock, strokes, bloc party",369014,You Know I'm No Good (Amy Wine,Arctic Monkeys
+36078,47630,september 2009,"indie rock, strokes, bloc party",369025,Like Eating Glass,Bloc Party
+36078,47630,september 2009,"indie rock, strokes, bloc party",369037,Sparks,Coldplay
+36078,47630,september 2009,"indie rock, strokes, bloc party",369042,Milk,Kings of Leon,instrumental,0.999999642372,124.961853027,not_danceable,1,minor
+36078,47630,september 2009,"indie rock, strokes, bloc party",369045,music when the lights go out,The Libertines,instrumental,0.999998986721,110.517196655,not_danceable,1,minor
+36078,47630,september 2009,"indie rock, strokes, bloc party",369048,New York City Cops,The Strokes
+36078,47630,september 2009,"indie rock, strokes, bloc party",369019,Ain`t No Sunshine,Bill Withers

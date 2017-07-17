@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+307,193,libidos mixual,,1329,Hell Yeah,Dead Prez,0
+307,193,libidos mixual,,1661,Glam Bucket,Underworld,0
+307,193,libidos mixual,,25,Dexter,Ricardo Villalobos,0,instrumental,0.537894964218,129.854309082,not_danceable,0.51849770546,major
+307,193,libidos mixual,,145,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0
+307,193,libidos mixual,,124,Little Red Corvette,Prince,0
+307,193,libidos mixual,,622,Fractales (Pt. I),Apparat,0

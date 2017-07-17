@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5630987,Dynamic,Lil Weezy,1
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631123,Monsters In My Head,The Game,1
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631167,Stan,Eminem,1
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631433,You Never Know,Immortal Technique Ft. Jean Grae,1,instrumental,0.999999821186,103.940437317,danceable,0.997903823853,minor
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631476,When Im Gone (dirty),Eminem,1
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631484,Dance with the devil,Immortal Technique,1
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631573,Fly In Fly Out,Lil Wayne,1
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631786,Crack Pipes,Sage Francis,1
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631793,Uncommon Valor: A Vietnam Story (Feat R.A. The Rugged Man),Jedi Mind Tricks,1,instrumental,0.938801825047,93.1961593628,not_danceable,1,major
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631817,Trail Of Lies,Jedi Mind Tricks,1
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5631957,Dear Anne (Stan Pt. II) (Prod. By Swizz Beatz),Lil Wayne,1
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",5632009,Castle Walls (Prod. By Alex Da Kid),T.I. Ft. Christina Aguilera ,1,instrumental,0.999991476536,80.9824371338,not_danceable,1,major
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",6564538,Into The Arms of Angels,Army Of The Pharaohs,1,instrumental,0.996408224106,83.6633605957,not_danceable,1,minor
+799241,509358,+ INTENSE,"intense, focus, hip-hop, lyrical, smoke",7603906,Voices Of The Voiceless (Feat. Immortal Technique),Lowkey,1,instrumental,0.601757347584,83.002494812,danceable,0.982729673386,minor

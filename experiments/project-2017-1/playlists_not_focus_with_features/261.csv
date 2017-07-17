@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+340,261,There it be Arsy,"jazz, rock, anti-folk",3018,When the World Ends - 3/28/03,Dave Matthews & Tim Reynolds,0,voice,0.791760981083,153.817779541,not_danceable,0.685014605522,major
+340,261,There it be Arsy,"jazz, rock, anti-folk",3019,When We Dance,Sting,0
+340,261,There it be Arsy,"jazz, rock, anti-folk",3020,So What,Miles Davis,0
+340,261,There it be Arsy,"jazz, rock, anti-folk",3021,You Dont Know Me (Live),Ray Charles,0,voice,0.823435366154,95.645904541,not_danceable,0.955191671848,minor
+340,261,There it be Arsy,"jazz, rock, anti-folk",3022,"Alright, Okay, You Win",Tony Bennett,0
+340,261,There it be Arsy,"jazz, rock, anti-folk",3024,Walking On The Moon,The Police,0
+340,261,There it be Arsy,"jazz, rock, anti-folk",3025,Samson,Regina Spektor,0,voice,0.710654735565,151.963485718,not_danceable,0.991899430752,major
+340,261,There it be Arsy,"jazz, rock, anti-folk",3026,Angelina,Keb' Mo',0

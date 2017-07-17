@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",643583,The Big Sky,Kate Bush
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",645172,Amos Moses,Jerry Reed
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",643593,Electricity,The Avalanches
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",643567,Summertime Clothes,Animal Collective
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",643568,Big Brother,David Bowie
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",643569,Chant of the Ever Circling Skeletal Family,David Bowie,voice,0.838974833488,139.376571655,danceable,0.829365134239,major
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",645186,When The Shit Hits The Fan/Sunset Blvd,Todd Rundgren,voice,0.865902721882,122.31829834,not_danceable,0.949396312237,major
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",643572,I am a Cinematographer,"Bonnie ""Prince"" Billy",instrumental,0.984391510487,178.205551147,not_danceable,1,major
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",643592,Deep Water,Portishead,voice,0.998960614204,90.9493484497,not_danceable,0.995745658875,major
+45628,89067,Tears of the Olympians,"rock, threepenny, furball, bubbles, partyonica",43620,Nightclubbing,Iggy Pop

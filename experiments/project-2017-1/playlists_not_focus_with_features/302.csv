@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+179,302,Spring into '08,alternative rock,3450,The Modern Leper,Frightened Rabbit,0
+179,302,Spring into '08,alternative rock,3449,If This Thing Should Spill,Born In The Flood,0
+179,302,Spring into '08,alternative rock,3448,If Children Were Wishes,Wye Oak,0,voice,0.742807984352,91.2323303223,not_danceable,0.866241455078,major
+179,302,Spring into '08,alternative rock,3447,Second Chance,Liam Finn,0
+179,302,Spring into '08,alternative rock,3446,Metal Heart,Cat Power,0,voice,0.860379993916,119.850975037,not_danceable,0.902191579342,major
+179,302,Spring into '08,alternative rock,3438,M79,Vampire Weekend,0,instrumental,0.987009882927,112.719367981,not_danceable,1,major

@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+36689,67923,Las Vegas,"sin, lust, party",507482,Scissor,Liars,voice,0.966082751751,151.218048096,not_danceable,0.937163054943,major
+36689,67923,Las Vegas,"sin, lust, party",507491,Your Love My Girls,Animal Collective
+36689,67923,Las Vegas,"sin, lust, party",507508,S.O.S (Rihanna Cover),The Last Shadow Puppets
+36689,67923,Las Vegas,"sin, lust, party",507515,Dog Days Are Over ,Florence and the Machine
+36689,67923,Las Vegas,"sin, lust, party",134243,Girls,Death In Vegas,instrumental,0.676446139812,131.120635986,danceable,0.723248958588,major
+36689,67923,Las Vegas,"sin, lust, party",215390,Love me or leave me,Sammy Davies Jnr.
+36689,67923,Las Vegas,"sin, lust, party",11372,Midnight in a Perfect World,DJ Shadow,instrumental,0.999996781349,161.594360352,not_danceable,0.619373500347,minor
+36689,67923,Las Vegas,"sin, lust, party",150891,Viva Las Vegas,Dead Kennedys,voice,0.983249366283,144.460830688,not_danceable,0.83173596859,major

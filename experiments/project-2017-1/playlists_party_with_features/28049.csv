@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+25110,28049,my party mix,"alternative, rock, party",4339,Headlights Look Like Diamonds,Arcade Fire,voice,0.875253260136,146.094604492,danceable,0.687666475773,major
+25110,28049,my party mix,"alternative, rock, party",62531,Between My Legs,Rufus Wainwright
+25110,28049,my party mix,"alternative, rock, party",56860,The Next Time Around,Little Joy,voice,0.902678370476,120.017967224,not_danceable,0.864645540714,major
+25110,28049,my party mix,"alternative, rock, party",9946,Where Is My Mind?,Pixies,voice,0.929439544678,155.101608276,danceable,0.862551152706,minor
+25110,28049,my party mix,"alternative, rock, party",3366,1979,Smashing Pumpkins
+25110,28049,my party mix,"alternative, rock, party",9810,(Antichrist Television Blues),Arcade Fire
+25110,28049,my party mix,"alternative, rock, party",33284,I Can't Win,The Strokes,voice,0.944219350815,97.4847946167,not_danceable,0.999986767769,major

@@ -1,0 +1,31 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484808,Yeku,Marcome,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484814,Tied Knots,The Album Leaf,1,instrumental,0.968060851097,119.774024963,not_danceable,0.856082081795,major
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484815,Sweet Lullaby,Deep Forest,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484819,String Quartet No. 2 in D Major: III. Notturno,Lucerne String Quartet,1,instrumental,0.999998807907,163.277770996,not_danceable,0.957992017269,major
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484822,The Spiders ,John Williamss,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484824,"Songs Without Words, Op. 62: Spring Song in A Major: Allegro grazioso",Slovenian Radio Symphony Orchestra & Anton Nanut,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484827,"Sonata No. 8 in C Minor for Piano, Op. 13, ",Nodar Gabunia,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484828,Slughorn's Confession,Nicholas Hooper,1,instrumental,1,141.000976562,not_danceable,1,minor
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484830,Slight On The Childproof,Stars Of The Lid,1,instrumental,0.999999701977,126.12550354,not_danceable,0.995977342129,minor
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484833,Severus And Lily,Alexandre Desplat,1,instrumental,0.985541880131,142.531158447,not_danceable,0.957321882248,minor
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484834,Secrets of the Castle,John Williams,1,instrumental,0.999999463558,162.590530396,not_danceable,1,minor
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484836,Satori,Rodrigo Y Gabriella,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484838,Reunion Of Friends ,John Williams,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484840,Numbers 1 - 4,The Penguin Cafe Orchestra,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484841,My Mind Rebels At Stagnation,Hans Zimmer,1,instrumental,0.999995648861,140.418289185,not_danceable,0.911183953285,minor
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484842,Mending,Pogo,1,instrumental,0.867265701294,123.836830139,not_danceable,1,major
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484844,Loved Ones And Leaving,Nicholas Hooper,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484846,Human,Dive,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484865,Hermione's Parents,Alexandre Desplat,1,instrumental,0.999998986721,129.705871582,danceable,0.999999880791,minor
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484866,Hanging On,Active Child,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484867,Gregorian Chant I: Amen (Reprise),Gregorian Chant for Meditation,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484869,Food is Still Hot,Karen O and the Kids,1,voice,0.632709383965,120.869178772,not_danceable,0.9925827384,major
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484871,Fog Sea,Geese,1,voice,0.757760882378,154.762908936,not_danceable,0.979805290699,major
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484872,Extrasupervery,Frightened Rabbit,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484874,Dream Within A Dream,Hans Zimmer,1,instrumental,0.94769102335,127.236831665,not_danceable,0.826696932316,minor
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484875,Data Data Data,Hans Zimmer,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484876,Danse Flat,Freelance Whales,1,instrumental,0.999999880791,110.581840515,not_danceable,0.886612951756,major
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484878,"Chôro no. 1, ""Chôro típico""",Dakko Petrinjak,1
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484880,At The Burrow,Alexandre Desplat,1,instrumental,0.994968891144,152.725387573,danceable,0.999999880791,minor
+268673,763025,Insert text here.,"read, homework, reading, study, focus",7484881,Aminals,Baths,1,instrumental,0.646865844727,94.9987487793,not_danceable,1,minor

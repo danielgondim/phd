@@ -1,0 +1,35 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164367,Proof,Stephen Warbeck,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164368,The King's Speech,Alexandre Desplat,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164372,Fire and Blood,Ramin Djawadi,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164451,Fiamma's Theme,Javier Navarrete,1,instrumental,0.999999403954,97.1508483887,not_danceable,0.984870374203,minor
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164453,Something Under Her Skin,Max Richter,1,instrumental,0.87810343504,79.5778045654,not_danceable,0.981727063656,minor
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164454,The Message,Howard Shore,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164469,A New Start,Stephane Moucha,1,instrumental,0.993890881538,87.6751327515,not_danceable,0.994857251644,minor
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164472,Love And The Rehearsal,Stephen Warbeck,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164474,Malfoy's Mission,Nicholas Hooper,1,instrumental,0.999990820885,95.3868484497,not_danceable,1,major
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164488,St. Agnes Eve,Javier Navarrete,1,instrumental,0.900381803513,101.924957275,not_danceable,0.991659283638,major
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164504,Hugo's Father,Howard Shore,1,instrumental,0.999999880791,91.7216720581,not_danceable,0.974364519119,minor
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164513,"Orchestral Suite No. 3 in D major, BWV 1068: II. Air, ""Air on a G String""",Bach,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164522,III Intermezzo: Andantino semplice,"Detroit Symphony, Jarvi",1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164542,The King's Arrival,Ramin Djawadi,1,instrumental,0.999999940395,89.977722168,not_danceable,1,minor
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164544,Opus 55,Dustin O'Halloran,1,instrumental,0.995496451855,163.062011719,not_danceable,0.999994933605,minor
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164545,Teaching Mathematics Again,James Horner,1,instrumental,0.987020790577,132.617843628,not_danceable,0.986208438873,major
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164549,The Story of Grandmere,Rachel Portman,1,instrumental,1,143.7940979,not_danceable,0.9889087677,minor
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164572,L'Absente,Yann Tiersen,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164573,Election by Adoration,Hans Zimmer,1,instrumental,0.99998497963,128.710845947,not_danceable,0.98440515995,major
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164581,A Journey To Hogwarts,Nicholas Hooper,1,instrumental,0.994606733322,148.668884277,not_danceable,0.977689981461,major
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164587,Imagining,Brian Crain,1,instrumental,0.999998748302,102.359268188,not_danceable,0.999996602535,major
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164606,Loss Of Innocence,Stephane Moucha,1,instrumental,0.997458934784,90.9988479614,not_danceable,0.99999755621,minor
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164622,Ashes to the Wind/Roux Returns,Rachel Portman,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164632,"Epilogue ( Beethoven Piano Concerto no 5 ""Emperor"" -II )",Terry Davies,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164634,"06 - Gnossienne, 1. Lent","Daniel Varsano, Philippe Entremont ",1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164678,La Pièce Vide,Yann Tiersen,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164685,In the Upper Room: Dance VII,Philip Glass Ensemble,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164692,"First Drop-Off, First Kiss",James Horner,1,instrumental,0.963345050812,114.517410278,not_danceable,0.973875701427,major
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164694,Iii. Preghiera: Andante Non Tanto,"Detroit Symphony, Jarvi",1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164699,Taken,Hans Zimmer,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164718,Theme,Jon Brion,1,instrumental,0.999999165535,104.0831604,not_danceable,0.999985456467,minor
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164722,12 - The Magician,The Cinematic Orchestra,1
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164728,Fear and Suspicion,Alexandre Desplat,1,instrumental,0.994477510452,113.655265808,not_danceable,0.980356097221,major
+787742,721117,Your Friendly Exam Companion: The Finale,"study, instrumental, soundtrack, piano, focus",7164734,Luminous,Max Richter,1

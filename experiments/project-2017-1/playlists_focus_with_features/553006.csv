@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+538919,553006,Study [i'm doing my CEH exams] Sounds ,"classical, orchestral, focus, study, piano",5909072,Gymnopédie,Erik Satie
+538919,553006,Study [i'm doing my CEH exams] Sounds ,"classical, orchestral, focus, study, piano",5909074,Dead Island,Giles Lamb,instrumental,1,117.446533203,not_danceable,0.976181328297,major
+538919,553006,Study [i'm doing my CEH exams] Sounds ,"classical, orchestral, focus, study, piano",5909076,One To One,Giles Lamb
+538919,553006,Study [i'm doing my CEH exams] Sounds ,"classical, orchestral, focus, study, piano",5909077,Canon In D,Johann Pachelbel,instrumental,0.980611860752,107.477424622,not_danceable,0.999995648861,major
+538919,553006,Study [i'm doing my CEH exams] Sounds ,"classical, orchestral, focus, study, piano",5909079,Air On G String,Johann Sebastian Bach
+538919,553006,Study [i'm doing my CEH exams] Sounds ,"classical, orchestral, focus, study, piano",5909080,Flight of The Bumble Bee,London Philharmonic Orchestra
+538919,553006,Study [i'm doing my CEH exams] Sounds ,"classical, orchestral, focus, study, piano",5909082,Moonlight Sonata,Umea Orchestral 
+538919,553006,Study [i'm doing my CEH exams] Sounds ,"classical, orchestral, focus, study, piano",5909083,Snow,Umea Orchestral

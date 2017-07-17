@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+46019,67386,indie dance party,"indie rock, electronic, dance, party, club",332946,I'm Not Your Toy,La Roux
+46019,67386,indie dance party,"indie rock, electronic, dance, party, club",21260,Broken,Late Of The Pier
+46019,67386,indie dance party,"indie rock, electronic, dance, party, club",496732,Guns + Horses,Ellie Goulding
+46019,67386,indie dance party,"indie rock, electronic, dance, party, club",251121,Heartbeats,The Knife,instrumental,0.883075416088,88.0925064087,danceable,0.984690129757,minor
+46019,67386,indie dance party,"indie rock, electronic, dance, party, club",25464,I Believe,Simian Mobile Disco
+46019,67386,indie dance party,"indie rock, electronic, dance, party, club",283943,Too Deep,Girl Talk,instrumental,0.99999332428,89.9904708862,not_danceable,1,minor
+46019,67386,indie dance party,"indie rock, electronic, dance, party, club",255104,So Insane,Discovery
+46019,67386,indie dance party,"indie rock, electronic, dance, party, club",323625,We Are The People,Empire Of The Sun

@@ -1,0 +1,33 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+251718,536988,"Study now, play later","study, relax, focus",5790773,Aminals,Baths,1,instrumental,0.646865844727,94.9987487793,not_danceable,1,minor
+251718,536988,"Study now, play later","study, relax, focus",5790781,The Light,The Album Leaf,1
+251718,536988,"Study now, play later","study, relax, focus",5790790,Finally Moving,Pretty Lights,1,instrumental,0.944933533669,99.9758148193,danceable,0.563729345798,minor
+251718,536988,"Study now, play later","study, relax, focus",5790807,Thinking About You,Norah Jones,1
+251718,536988,"Study now, play later","study, relax, focus",5790809,The Longer I Run,Peter Bradley Adams,1,voice,0.991135954857,152.054077148,not_danceable,0.879144191742,major
+251718,536988,"Study now, play later","study, relax, focus",5790833,Runner Ups,Kurt Vile,1,instrumental,0.999982714653,102.069168091,danceable,0.999999880791,minor
+251718,536988,"Study now, play later","study, relax, focus",5790834,If I had a Boat,James Vincent McMorrow,1
+251718,536988,"Study now, play later","study, relax, focus",5790842,Unsaid,The Fray,1,instrumental,0.999999582767,109.913749695,not_danceable,1,major
+251718,536988,"Study now, play later","study, relax, focus",5790893,Fall Creek Boys Choir,James Blake & Bon Iver,1,voice,0.993004798889,99.9084091187,danceable,0.541049361229,major
+251718,536988,"Study now, play later","study, relax, focus",5790909,Crash Into Me,Dave Matthews Band,1
+251718,536988,"Study now, play later","study, relax, focus",5790921,Til Kingdom Come,Coldplay,1
+251718,536988,"Study now, play later","study, relax, focus",5790929,No Harm,The Boxer Rebellion,1,instrumental,0.887433648109,132.00302124,danceable,0.786778330803,minor
+251718,536988,"Study now, play later","study, relax, focus",5790930,Down In the Valley,The Head and the Heart,1
+251718,536988,"Study now, play later","study, relax, focus",5790954,Home (RAC mix) ,Edward Sharpe & The Magnetic Zeros,1
+251718,536988,"Study now, play later","study, relax, focus",5790955,Mykonos,Fleet Foxes,1
+251718,536988,"Study now, play later","study, relax, focus",5790957,Grapevine Fires,Death Cab For Cutie,1
+251718,536988,"Study now, play later","study, relax, focus",5790958,Sleepless,Flume ft. Antony for Cleopatra,1
+251718,536988,"Study now, play later","study, relax, focus",5790967,Pumped Up Kids Acoustic,Foster The People,1
+251718,536988,"Study now, play later","study, relax, focus",5790975,Somebody That I Used To Know,Gotye feat. Kimbra,1,voice,0.936874091625,128.987869263,not_danceable,0.84820318222,major
+251718,536988,"Study now, play later","study, relax, focus",5790983,The Scientist,Mike Posner,1
+251718,536988,"Study now, play later","study, relax, focus",5790994,White Blank Page,Mumford & Sons,1
+251718,536988,"Study now, play later","study, relax, focus",5791007,Islands,The xx,1
+251718,536988,"Study now, play later","study, relax, focus",5791022,Terrible Love,The National,1
+251718,536988,"Study now, play later","study, relax, focus",5791044,New Slang,The Shins,1
+251718,536988,"Study now, play later","study, relax, focus",5791047,Wait,M83,1
+251718,536988,"Study now, play later","study, relax, focus",5791051,Loud Pipes,Ratatat,1,instrumental,0.992305994034,87.9633636475,not_danceable,1,major
+251718,536988,"Study now, play later","study, relax, focus",5791060,Blood,The Middle East,1
+251718,536988,"Study now, play later","study, relax, focus",5791074,After the Storm,Mumford & Sons,1
+251718,536988,"Study now, play later","study, relax, focus",5791085,Creature Fear,Bon Iver,1
+251718,536988,"Study now, play later","study, relax, focus",5791090,Ghostwriter,Rjd2,1
+251718,536988,"Study now, play later","study, relax, focus",5791092,Skinny Love,Bon Iver,1,voice,0.999934911728,152.596832275,not_danceable,0.989834010601,major
+251718,536988,"Study now, play later","study, relax, focus",5791096,Lotus Flower (Jacques Greene Rmx),Radiohead,1,instrumental,0.950470030308,128.184585571,not_danceable,1,minor

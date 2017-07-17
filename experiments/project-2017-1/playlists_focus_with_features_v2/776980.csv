@@ -1,0 +1,22 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593217,Cannons,Youth Lagoon,1,instrumental,0.937866270542,150.028579712,not_danceable,0.884396374226,minor
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593237,Changes,Sandro Perri,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593245,Weekend,1Smith 1Westerns,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593252,Midnight City,M83,1,voice,0.979498207569,104.979255676,danceable,0.991650879383,major
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593258,New Theory,Washed Out,1,instrumental,0.506949067116,100.42931366,danceable,0.712927818298,major
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593262,Dinosaurs,Bonobo,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593266,Life Magazine,Cold Cave,1,instrumental,0.994561433792,119.949440002,danceable,0.999999880791,minor
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593276,Undertow,Warpaint,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593285,Hot Love Drama,MGMT,1,instrumental,0.707054495811,98.9794006348,not_danceable,1,major
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593297,No Widows,The Antlers,1,instrumental,0.966438949108,128.991271973,not_danceable,0.523565411568,major
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593313,Era Extraña,Neon Indian,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593317,Tether Beat,Twin Shadow,1,instrumental,0.588348507881,108.755554199,danceable,0.555104255676,minor
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593326,Helicopter,Deerhunter,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593337,Desert,Other Lives,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593347,Jamelia,Caribou,1,voice,0.948787987232,119.963607788,not_danceable,0.722905337811,minor
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593356,Master Of None,Toro Y Moi,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593358,handjobs for the holidays,Broken Social Scene,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593362,In Search of,Miike Snow,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593366,Plea,Baths,1,voice,0.99753266573,90.0238037109,danceable,0.999997258186,major
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593371,Time is Ennemy,Quantic,1
+1018221,776980,Chill Out Beats,"chill, beats, focus, motivate, awesome",7593376,You Said,The Horrors,1

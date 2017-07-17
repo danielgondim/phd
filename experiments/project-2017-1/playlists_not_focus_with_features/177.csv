@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+222,177,Leucosia Vol 1,alternative rock,2284,A Case of You,Tori Amos,0
+222,177,Leucosia Vol 1,alternative rock,2279,You And Your Sister,This Mortal Coil,0,voice,0.999289989471,104.216362,not_danceable,0.950042963028,major
+222,177,Leucosia Vol 1,alternative rock,2276,The Path of Thorns (Terms),Sarah McLachlan,0,voice,0.647288024426,91.6879653931,not_danceable,0.506494402885,major
+222,177,Leucosia Vol 1,alternative rock,2269,Un Baiser D'Enfant,Kate Bush,0,voice,0.999051988125,147.870010376,not_danceable,0.527953088284,major
+222,177,Leucosia Vol 1,alternative rock,2239,The Killing Jar,Siouxsie & The Banshees,0
+222,177,Leucosia Vol 1,alternative rock,2175,'Til The Dawn Breaks,Happy Rhodes,0,voice,0.512709617615,115.63671875,not_danceable,0.968722641468,major
+222,177,Leucosia Vol 1,alternative rock,2176,The Queen And The Soldier,Suzanne Vega,0
+222,177,Leucosia Vol 1,alternative rock,2196,Century Flower,Shelleyan Orphan,0,voice,0.984810948372,93.9036178589,not_danceable,0.956061542034,major

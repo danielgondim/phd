@@ -1,0 +1,4 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+101,102,yep,,1476,For Tammy Rae,Bikini Kill,0,instrumental,0.915583372116,111.227867126,not_danceable,0.996935665607,minor
+101,102,yep,,1478,When It Flows,Great Lake Swimmers,0
+101,102,yep,,1477,Jorge Regula,The Moldy Peaches,0

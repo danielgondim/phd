@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+22758,55272,big big sounds,"electronic, hip hop, party",150418,Dat New New (VIKING Remix),Kid Cudi
+22758,55272,big big sounds,"electronic, hip hop, party",198436,Kids (Feat. MGMT),Chiddy Bang
+22758,55272,big big sounds,"electronic, hip hop, party",398405,No One Sleeps When I'm Awake (VIKING Remix),The Sounds,voice,0.955495417118,131.974578857,danceable,0.653570711613,major
+22758,55272,big big sounds,"electronic, hip hop, party",203989,Sleepyhead (Neo Tokyo Remix),Passion Pit,instrumental,0.995123207569,106.06615448,not_danceable,1,minor
+22758,55272,big big sounds,"electronic, hip hop, party",244971,Day N Night (Crookers Remix),Kid Cudi
+22758,55272,big big sounds,"electronic, hip hop, party",33741,Party and Bullshit (Ratatat Remix),Notorious B.I.G.,instrumental,0.997028112411,100.048873901,not_danceable,1,minor
+22758,55272,big big sounds,"electronic, hip hop, party",420678,Slow Motion,Hyper Crush
+22758,55272,big big sounds,"electronic, hip hop, party",237867,Photofinnish,3OH!3

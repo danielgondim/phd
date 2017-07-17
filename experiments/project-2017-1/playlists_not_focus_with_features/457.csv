@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4542,Good Beat,Deee-Lite,0,instrumental,0.534000873566,117.061027527,danceable,0.958017647266,minor
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4544,Alexandre (Alexander),Caetano Veloso,0,voice,0.515318632126,97.9238967896,danceable,0.897019207478,minor
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4547,O Que Me Importa,Marisa Monte,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4549,ambar,Maria Bethania,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4548, Alo alo marciano,Elis Regina,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4553,Deeper and Deeper,Madonna,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4550,A Paz,Gilberto Gil,0,voice,0.998343408108,99.8735580444,not_danceable,0.935777485371,minor
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4552,Trip Through Your Wires,U2,0,instrumental,0.667140960693,109.780990601,not_danceable,0.533870518208,major
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4551,As flores do jardim da nossa casa,Roberto Carlos,0

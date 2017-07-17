@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+538919,439864,Library [the need to read] Sounds,"be chill, acoustic, easy listening, study music, focus",4885050,Daisy,Brand New,1
+538919,439864,Library [the need to read] Sounds,"be chill, acoustic, easy listening, study music, focus",4885058,I'm Safer On An Airplane,Copeland,1
+538919,439864,Library [the need to read] Sounds,"be chill, acoustic, easy listening, study music, focus",4290271,Holocene,Bon Iver,1,voice,0.735519051552,147.901626587,not_danceable,0.982921004295,major
+538919,439864,Library [the need to read] Sounds,"be chill, acoustic, easy listening, study music, focus",4885093,Video Games,Lana Del Rey,1,voice,0.713516891003,122.356811523,not_danceable,0.630881547928,minor
+538919,439864,Library [the need to read] Sounds,"be chill, acoustic, easy listening, study music, focus",4885065,Volcano,Damien Rice,1
+538919,439864,Library [the need to read] Sounds,"be chill, acoustic, easy listening, study music, focus",4885101,I've Never Seen A Witch,Lydia,1
+538919,439864,Library [the need to read] Sounds,"be chill, acoustic, easy listening, study music, focus",4885114,Gone Away,SafetySuit,1,voice,0.820080697536,117.852592468,not_danceable,0.849420726299,major
+538919,439864,Library [the need to read] Sounds,"be chill, acoustic, easy listening, study music, focus",4885082,Transatlanticism,Death Cab For Cutie,1

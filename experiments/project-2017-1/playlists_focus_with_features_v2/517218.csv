@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+834828,517218,Heads Down,"arcade fire, easy listening, late night studying, focus",5651653,Sweet Disposition,The Temper Trap ,1,instrumental,0.989316940308,129.391204834,not_danceable,1,major
+834828,517218,Heads Down,"arcade fire, easy listening, late night studying, focus",5651660,Sideways,Citizen Cope,1
+834828,517218,Heads Down,"arcade fire, easy listening, late night studying, focus",5651662,Don't Know Why,Norah Jones,1
+834828,517218,Heads Down,"arcade fire, easy listening, late night studying, focus",5651663,Wake Up,The Arcade Fire,1
+834828,517218,Heads Down,"arcade fire, easy listening, late night studying, focus",5651682,Life In Technicolor,Coldplay,1,instrumental,0.802381873131,129.906097412,not_danceable,0.533908963203,major
+834828,517218,Heads Down,"arcade fire, easy listening, late night studying, focus",5651690,See the Sun,The Kooks,1,voice,0.974504351616,163.949203491,danceable,0.671404123306,minor
+834828,517218,Heads Down,"arcade fire, easy listening, late night studying, focus",5651711,Sway,Bic Runga,1
+834828,517218,Heads Down,"arcade fire, easy listening, late night studying, focus",5651723,By Your Side (Neptunes Remix),Sade,1

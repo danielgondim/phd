@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507374,Midnight City,M83
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507378,Shake It Out,Florence + The Machine
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507385,Paradise,Coldplay
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507399,Video Games,Lana Del Rey
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507403,Somebody That I Used To Know,Gotye Feat Kimbra
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509677,Right By My Side (Feat. Chris Brown),Nicki Minaj
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509697,Slow Dancing In A Burning Room,John Mayer,voice,0.950392782688,133.777603149,danceable,0.512750208378,minor
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509713,No Such Thing (Acoustic),John Mayer
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509744,Lego House,Ed Sheeran,voice,0.999949038029,152.439315796,not_danceable,0.826945006847,major
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509758,I Won't Give Up,Jason Mraz
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509762,Everybody Talks,Neon Trees
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509766,HYFR (Hell Ya Fucking Right) [feat. Lil Wayne],Drake
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509768,Princess Of China (Feat. Rihanna),Coldplay
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509774,Ass Back Home (Feat. Neon Hitch),Gym Class Heroes

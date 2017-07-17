@@ -1,0 +1,45 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439713,Rhapsody in Blue,"Slovak Philharmonic Orchestra, Kamil Hala & Libor Pesek",1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439715,Lap Dragons,Alexis Harte,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439716,East Harlem,Beirut,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439717,A Change Is Gonna Come,Ben Sollee,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439718,The Palm Of Your Wave,Bibio,1,voice,0.880058169365,184.570541382,not_danceable,0.993499159813,minor
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439720,Shuffle,Bombay Bicycle Club,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439723,Perth Live on NPR,Bon Iver,1,instrumental,0.880041480064,119.775016785,not_danceable,0.971265733242,major
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439727,Crooked Lust,Bowerbirds,1,voice,0.939212083817,113.878501892,not_danceable,0.884563326836,major
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439729,Part Time Believer,Boy & Bear,1,voice,0.991802752018,113.442619324,danceable,0.931333422661,major
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439732,Chairkickers,Brown Bird,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439734,Beard,The Burning Hotels,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439736,Better Be Home Soon,Busby Marou,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439737,Body In a Box,City and Colour,1,instrumental,0.997013449669,132.777786255,not_danceable,1,minor
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439738,Tip of My Tongue,The Civil Wars,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439742,Submarines,Dark Captain,1,instrumental,0.969964027405,122.002624512,not_danceable,0.787448644638,minor
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439743,Love Long Gone,DeYarmond Edison,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439746,My Only Swerving,El Ten Eleven,1,instrumental,0.99593436718,85.9857177734,danceable,0.725829780102,major
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439748,Oh Death,Foreign Slippers,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439750,Light A Roman Candle With Me,Fun.,1,voice,0.992694556713,128.843643188,not_danceable,0.557088494301,major
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439752,Eyes Wide Open,Gotye,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439753,Lindisfarne II,James Blake,1,voice,0.816138207912,77.0094680786,not_danceable,0.773690521717,major
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439756,Leftovers,Johnny Flynn,1,voice,0.767262399197,115.797454834,not_danceable,0.842729985714,minor
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439757,Let The Wind Carry Me,Joni Mitchell,1,instrumental,0.999994516373,111.893081665,not_danceable,1,major
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439758,Another Wave From You,M83,1,instrumental,1,143.122512817,not_danceable,1,minor
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439759,To The North,Matthew And The Atlas,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439761,Bridal Gown,Mt. Desolation,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439763,Hopeless Wanderer Lyrics,Mumford & Sons,1,voice,0.662824332714,163.296218872,danceable,0.653844416142,major
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439767,Willow Tree March,The Paper Kites,1,instrumental,0.74059253931,120.032684326,not_danceable,0.769133090973,minor
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439768,Swisha,Ratatat,1,instrumental,1,95.1505203247,not_danceable,1,minor
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439769,Mandy,Ratatat,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439770,I Swear to God,Scattered Trees,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439773,I'm Leaving,Swing Republic,1,instrumental,0.993842899799,126.002037048,danceable,0.997313737869,minor
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439775,Utopia,Yacht,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439779,Nothing Else Matters,Apocalyptica,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439780,This Lamb Sells Condos,Final Fantasy,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439784,Get The Money,PANTyRAiD,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439785,The Ecstasy Of Dancing Fleas,The Penguin Cafe Orchestra,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439788,"The Tallest Man, The Broadest Shoulders",Sufjan Stevens,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439790,White Mischief,Penguin Cafe Orchestra,1,instrumental,0.999999761581,138.100296021,not_danceable,0.987304627895,major
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439792,Neverland,Takénobu,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439795,Deeper Than the Vine,Takénobu,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439796,Jen Is Bringing the Drugs,Margot & The Nuclear So and So's,1
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439799,Basique,Little People,1,voice,0.825644016266,164.127944946,danceable,0.999911427498,minor
+268673,617821,I need some homework music that won't put me to sleep. ,"homework, study, energy, focus, work",6439800,He Doesn't Know Why,Fleet Foxes,1

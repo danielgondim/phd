@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+32485,41617,polyglot dance party,"upbeat, languages, dance party, international, shake it",340477,une Americaine ,Rupa & the April Fishes
+32485,41617,polyglot dance party,"upbeat, languages, dance party, international, shake it",328243,A Bar In Amsterdam,Katzenjammer,instrumental,0.985432982445,143.833709717,not_danceable,1,major
+32485,41617,polyglot dance party,"upbeat, languages, dance party, international, shake it",328242,Should I Stay Or Should I Go,Los Fabulosos Cadillacs
+32485,41617,polyglot dance party,"upbeat, languages, dance party, international, shake it",328247,Train Across Ukraine,Golem
+32485,41617,polyglot dance party,"upbeat, languages, dance party, international, shake it",328248,Apprendre ,Chinatown,voice,0.749973654747,128.038009644,danceable,0.823095977306,minor
+32485,41617,polyglot dance party,"upbeat, languages, dance party, international, shake it",328238,Boca Floja,Madera Limpia
+32485,41617,polyglot dance party,"upbeat, languages, dance party, international, shake it",330385,Ma Tisére,The Zydepunks
+32485,41617,polyglot dance party,"upbeat, languages, dance party, international, shake it",328241,Yay Boy (from 'Tierra Tradicio,Africando
+32485,41617,polyglot dance party,"upbeat, languages, dance party, international, shake it",328239,Joro Boro,Balkan Beat Box,instrumental,0.990677714348,138.009689331,danceable,0.994703948498,minor

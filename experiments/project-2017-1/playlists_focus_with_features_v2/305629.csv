@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988844,Abracadabra,Brown Eyed Girls,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988848,You and I (Deadmau5 Remix),Medina,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988847,Ghosts 'n' Stuff,Deadmau5,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988843,Help I'm Alive,Metric,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988850,(Don't) Give Hate A Chance,Jamiroquai,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988842,F.C.P.R.E.M.I.X.,The Fall of Troy,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988837,Dirty Talk (prod. by David Guetta),Wynter Gordon,1,instrumental,0.959694445133,129.977325439,danceable,0.999672412872,minor
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988845,"Sweet Dream, Beautiful Nightmare",Beyoncé,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988825,U + Ur Hand,P!nk,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988841,Gold Guns Girls,Metric,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988828,Paris Nights/New York Mornings,Corinne Bailey Rae,1,instrumental,0.513015389442,161.990493774,not_danceable,0.530858278275,major
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2998746,Caramelldansen,Caramell,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988831,Private Idaho,The B-52's,1
+25029,305629,Focus Backdrop,"pop, fast, focus, study, pumped",2988840,Love Foolsophy,Jamiroquai,1

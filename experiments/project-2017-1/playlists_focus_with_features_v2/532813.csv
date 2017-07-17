@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5762702,Cycle of Life (Just Another Day),Tom Pepe and Knowmads,1
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5770674,Otis Redding,Intuition,1
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5770677,Buzzkill (feat. Slug),Intuition,1
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5770708,Infinite,Eminem,1
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5770757,LittleManBigCity,Sam Lachow,1
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5770829,You Know Me (Feat. RA Scion),Grynch,1
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5770830,Smoke And Mirrors (Feat. Tunji & Geologic) (Bonus Track),Grynch,1
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5770891,All at Once,M.i,1,instrumental,0.612969338894,140.019836426,not_danceable,0.910050392151,minor
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5770997,Saturdayzed,Tom Pepe and Knowmads,1
+137496,532813,Peace of Mind,"procrastination, focus, relax, chill hip hop, underground hip hop",5852038,2020,Sol,1,voice,0.938164591789,82.9848861694,danceable,0.886014401913,major

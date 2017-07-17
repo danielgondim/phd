@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+48748,72654,Let the party rock.,"party rock, remix, hip hop, dance",362743,Hotel Room Service,Pitbull,instrumental,0.904025495052,126.019210815,danceable,0.999998152256,major
+48748,72654,Let the party rock.,"party rock, remix, hip hop, dance",94165,Jane Fonda,Mickey Avalon,voice,0.859480023384,93.80809021,danceable,0.939051032066,major
+48748,72654,Let the party rock.,"party rock, remix, hip hop, dance",350565,YES,LMFAO
+48748,72654,Let the party rock.,"party rock, remix, hip hop, dance",367166,Sexy Bitch,David Guetta feat. Akon
+48748,72654,Let the party rock.,"party rock, remix, hip hop, dance",136862,Party In Your Bedroom,Cash Cash
+48748,72654,Let the party rock.,"party rock, remix, hip hop, dance",386218,Shooting Star (Party/ Rock Remix),Lmfao
+48748,72654,Let the party rock.,"party rock, remix, hip hop, dance",333132,Party In The USA,Miley Cyrus,voice,0.994852900505,92.0653686523,not_danceable,0.648446321487,major
+48748,72654,Let the party rock.,"party rock, remix, hip hop, dance",127595,Starstrukk,3OH!3,voice,0.838557898998,139.990524292,danceable,0.999999880791,minor

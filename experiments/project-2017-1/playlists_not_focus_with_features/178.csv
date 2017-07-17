@@ -1,0 +1,5 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+222,178,Live 80s,,2122,Blasphemous Rumours,Depeche Mode,0
+222,178,Live 80s,,2115,Solsbury Hill [Live],Sarah McLachlan,0
+222,178,Live 80s,,2138,Shotgun Down the Avalanche,Shawn Colvin,0
+222,178,Live 80s,,2296,Sweet Jane,Cowboy Junkies,0,instrumental,0.728272140026,103.402328491,danceable,0.892097532749,major

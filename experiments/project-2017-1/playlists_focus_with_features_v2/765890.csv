@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507374,Midnight City,M83,1,voice,0.979498207569,104.979255676,danceable,0.991650879383,major
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507378,Shake It Out,Florence + The Machine,1,voice,0.9901933074,107.475311279,danceable,0.942705571651,major
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507385,Paradise,Coldplay,1
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507399,Video Games,Lana Del Rey,1,voice,0.713516891003,122.356811523,not_danceable,0.630881547928,minor
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7507403,Somebody That I Used To Know,Gotye Feat Kimbra,1,voice,0.936874091625,128.987869263,not_danceable,0.84820318222,major
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509677,Right By My Side (Feat. Chris Brown),Nicki Minaj,1,voice,0.68005079031,81.0227050781,danceable,0.999999880791,major
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509697,Slow Dancing In A Burning Room,John Mayer,1,voice,0.950392782688,133.777603149,danceable,0.512750208378,minor
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509713,No Such Thing (Acoustic),John Mayer,1
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509744,Lego House,Ed Sheeran,1,voice,0.998712480068,161.899871826,danceable,0.526303231716,major
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509758,I Won't Give Up,Jason Mraz,1
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509762,Everybody Talks,Neon Trees,1,voice,0.99729937315,154.847671509,danceable,0.994814157486,major
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509766,HYFR (Hell Ya Fucking Right) [feat. Lil Wayne],Drake,1
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509768,Princess Of China (Feat. Rihanna),Coldplay,1,voice,0.977417647839,84.9811248779,danceable,0.578243613243,minor
+241897,765890,Study Like an Asian,"study, studying, chill, focus",7509774,Ass Back Home (Feat. Neon Hitch),Gym Class Heroes,1

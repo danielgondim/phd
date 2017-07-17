@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+31849,40231,Party mix,"disco, party",317983,Musicology,Prince,instrumental,0.957888245583,100.08972168,not_danceable,1,major
+31849,40231,Party mix,"disco, party",317984,Heartbeats,The Knife,instrumental,0.883075416088,88.0925064087,danceable,0.984690129757,minor
+31849,40231,Party mix,"disco, party",317986,Pass This On,The Knife
+31849,40231,Party mix,"disco, party",317988,Great Dj,The Ting Tings
+31849,40231,Party mix,"disco, party",317994,Shut Up And Let Me Go,The Ting Tings
+31849,40231,Party mix,"disco, party",317997,Kids,MGMT,instrumental,0.606246888638,122.984588623,danceable,0.89597928524,major
+31849,40231,Party mix,"disco, party",317999,Feel Good Inc.,Gorillaz,voice,0.898889005184,138.434555054,danceable,0.994278788567,minor
+31849,40231,Party mix,"disco, party",318007,Electric Feel,MGMT

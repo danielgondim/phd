@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+877,383,Classic Mix Tape Mix,,2142,Ziggy Stardust,Bauhaus,0
+877,383,Classic Mix Tape Mix,,1950,Ramshackle,Beck,0,instrumental,0.630832612514,79.270362854,danceable,0.638631820679,major
+877,383,Classic Mix Tape Mix,,2304,Jumping Someone Else's Train,The Cure,0
+877,383,Classic Mix Tape Mix,,1474,Death Of A Disco Dancer,The Smiths,0,instrumental,0.995427668095,172.265014648,not_danceable,0.974595785141,minor
+877,383,Classic Mix Tape Mix,,2160,A Forest,The Cure,0
+877,383,Classic Mix Tape Mix,,3106,The Passenger,Iggy Pop,0

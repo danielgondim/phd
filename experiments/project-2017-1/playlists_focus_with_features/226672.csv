@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+207637,226672,Nose to the Grind,"indie, electronic, focus, dubstep, homework",1847581,Intro,xx
+207637,226672,Nose to the Grind,"indie, electronic, focus, dubstep, homework",1847532,Ltlp,Edit)
+207637,226672,Nose to the Grind,"indie, electronic, focus, dubstep, homework",1847608,Deltitnu,Aydio
+207637,226672,Nose to the Grind,"indie, electronic, focus, dubstep, homework",1847525,Turquoise Hexagon Sun,Boards of Canada
+207637,226672,Nose to the Grind,"indie, electronic, focus, dubstep, homework",1847588,Ghostwriter,RJD2,instrumental,0.999997615814,184.569625854,danceable,0.57622975111,minor
+207637,226672,Nose to the Grind,"indie, electronic, focus, dubstep, homework",1847614,Cherry,Ratatat,instrumental,1,124.996757507,not_danceable,1,minor
+207637,226672,Nose to the Grind,"indie, electronic, focus, dubstep, homework",1847565,Magic Spells,Crystal Castles,voice,0.648529469967,104.984024048,not_danceable,0.549451112747,major
+207637,226672,Nose to the Grind,"indie, electronic, focus, dubstep, homework",1847494,Bunny & Duck's Boat House,Y.A.C.H.T.

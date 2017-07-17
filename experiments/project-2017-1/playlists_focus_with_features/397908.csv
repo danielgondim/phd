@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+538919,397908,Insomnia [staying up late] Sounds,"easy listening, relax, acoustic, indie, focus",4060164,Angel,Massive Attack
+538919,397908,Insomnia [staying up late] Sounds,"easy listening, relax, acoustic, indie, focus",4290269,Naked As We Came,Iron and Wine
+538919,397908,Insomnia [staying up late] Sounds,"easy listening, relax, acoustic, indie, focus",4290270,Burn One Down,Ben Harper
+538919,397908,Insomnia [staying up late] Sounds,"easy listening, relax, acoustic, indie, focus",4290271,Holocene,Bon Iver,instrumental,0.575878024101,121.937820435,danceable,0.999998927116,minor
+538919,397908,Insomnia [staying up late] Sounds,"easy listening, relax, acoustic, indie, focus",4290272,Candles,ohDaughter
+538919,397908,Insomnia [staying up late] Sounds,"easy listening, relax, acoustic, indie, focus",4290273,Svefn-G-Englar,Sigur Ros,instrumental,0.985077679157,112.588890076,not_danceable,0.925862073898,major
+538919,397908,Insomnia [staying up late] Sounds,"easy listening, relax, acoustic, indie, focus",4290275,Love,ohDaughter
+538919,397908,Insomnia [staying up late] Sounds,"easy listening, relax, acoustic, indie, focus",4290276,Sleep Alone,Bat For Lashes,voice,0.8441619277,100.787849426,danceable,0.999186873436,minor
+538919,397908,Insomnia [staying up late] Sounds,"easy listening, relax, acoustic, indie, focus",4290296,Green Grass Of Tunnels,múm

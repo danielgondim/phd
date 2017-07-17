@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+317,195,greengas mix 1,,348,Ruined in a Day (K-Klass remix),New Order,0,instrumental,0.971067249775,105.056098938,danceable,0.942881047726,minor
+317,195,greengas mix 1,,124,Little Red Corvette,Prince,0
+317,195,greengas mix 1,,1340,Archangel,Burial,0,instrumental,0.976512849331,135.322937012,danceable,0.928831636906,minor
+317,195,greengas mix 1,,165,Heaven is Waiting,The Danse Society,0,voice,0.790997922421,146.365997314,danceable,0.569863140583,minor
+317,195,greengas mix 1,,622,Fractales (Pt. I),Apparat,0
+317,195,greengas mix 1,,2281,I Am The Cosmos,This Mortal Coil,0,instrumental,1,151.238555908,not_danceable,1,minor
+317,195,greengas mix 1,,1928,Haifischflugel,Dominik Eulberg,0
+317,195,greengas mix 1,,1972,Dreaming,Blondie,0

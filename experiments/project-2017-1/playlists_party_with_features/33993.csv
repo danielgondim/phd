@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+12461,33993,undestructable,"smish smash, party party party, love",124628,I'm An Animal,Neko Case,instrumental,0.996886849403,99.6472549438,not_danceable,1,minor
+12461,33993,undestructable,"smish smash, party party party, love",38197,Garden of Simple,Ani DiFranco
+12461,33993,undestructable,"smish smash, party party party, love",72806,I Won't Be Found,The Tallest Man On Earth,voice,0.997106611729,113.150230408,not_danceable,0.583959698677,major
+12461,33993,undestructable,"smish smash, party party party, love",171965,Go Places,The New Pornographers
+12461,33993,undestructable,"smish smash, party party party, love",61568,Eye Know,De La Soul
+12461,33993,undestructable,"smish smash, party party party, love",91774,Dancing In the Moonlight (Original Recording),King Harvest
+12461,33993,undestructable,"smish smash, party party party, love",115832,Smile Around The Face,Four Tet,instrumental,0.65562081337,105.548225403,not_danceable,0.96657037735,major
+12461,33993,undestructable,"smish smash, party party party, love",160965,Undestructable,Gogol Bordello,instrumental,0.99999409914,111.026351929,not_danceable,1,major

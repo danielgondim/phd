@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050061,When Will You Come Home?,M83,1,instrumental,0.999999701977,95.4705429077,not_danceable,1,minor
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050073,My Tears Are Becoming a Sea,M83,1,instrumental,0.999998748302,95.2213668823,not_danceable,1,major
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050076,Blue Light (Engineers 'anti-Gr,Bloc Party,1
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050115,Carry On,Fun.,1
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050118,Tthhee Ppaarrttyy,Justice,1
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050120,Gold on the Ceiling,The Black Keys,1,instrumental,0.999991714954,129.868850708,not_danceable,1,minor
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050125,D.D.,The Weeknd,1,instrumental,0.956202149391,119.920661926,danceable,0.797734975815,minor
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050135,One Minute To Midnight,Justice,1,instrumental,0.996697247028,121.979026794,not_danceable,1,major
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050143,Next,The Weeknd,1
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",7050159,Where Is My Mind? (feat. Emily Browning),Yoav,1
+583377,707058,Nice weather for ducks.,"dubstep, indie rock, study, focus, energy",6709282,Until We Burn In The Sun (The Kids Just Want A Love Song),Bedouin Soundclash,1,instrumental,0.963175415993,91.8461914062,not_danceable,1,major

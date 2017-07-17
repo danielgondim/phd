@@ -1,0 +1,13 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7265905,Keeping Up With The Jones,Michael Giacchino
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7265934,Summer Overture ,Clint Mansell,instrumental,1,133.997177124,not_danceable,1,minor
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7266055,Arrival Of The Birds,The Cinematic Orchestra   ,instrumental,0.999999940395,142.393707275,not_danceable,1,minor
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7266091,The Maelstrom,Robert W. Smith   
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7266367,Fire And Blood,Ramin Djawadi
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7266428,L'absente,Yann Tiersen   ,instrumental,0.999999880791,117.79637146,not_danceable,0.993983507156,major
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7266702,Something Under Her Skin,Max Richter   ,instrumental,0.87810343504,79.5778045654,not_danceable,0.981727063656,minor
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7266875,May The Best World Win,Chris Tilton,instrumental,0.999999701977,143.882644653,not_danceable,0.98967474699,major
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7158628,Divenire,Ludovico Einaudi,instrumental,0.999998927116,125.467590332,not_danceable,0.99096351862,minor
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7266920,The Heart Asks Pleasure First,Michael Nyman   
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7266223,Murderers,John Frusciante   
+738438,720233,Get on with it,"study, instrumental, soundtrack, focus, motivation",7266232,The Bishop Of Essex County,Michael Giacchino,instrumental,0.999998807907,140.426177979,not_danceable,1,minor

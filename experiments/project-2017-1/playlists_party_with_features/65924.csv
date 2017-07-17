@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+34703,65924,Like Mike,"party rap, electro house, hip hop",450492,Can't Stop Partying,Weezer,voice,0.912317335606,120.051902771,danceable,0.999497056007,minor
+34703,65924,Like Mike,"party rap, electro house, hip hop",150418,Dat New New (VIKING Remix),Kid Cudi
+34703,65924,Like Mike,"party rap, electro house, hip hop",493207,Your Love Iz What It Iz (The Cool Kids vs Frankie Knuckles),The Hood Internet
+34703,65924,Like Mike,"party rap, electro house, hip hop",493194,La La La,LMFAO
+34703,65924,Like Mike,"party rap, electro house, hip hop",493196,Aerodynamic (Johnatron & Mr. JL's Stay Fly Edit) (Immuzikation Remix),Johnatron
+34703,65924,Like Mike,"party rap, electro house, hip hop",290248,Gifted (The Aston Shuffle Remix),N.A.S.A.
+34703,65924,Like Mike,"party rap, electro house, hip hop",33741,Party and Bullshit (Ratatat Remix),Notorious B.I.G.,instrumental,0.997028112411,100.048873901,not_danceable,1,minor
+34703,65924,Like Mike,"party rap, electro house, hip hop",388744,Posse on broadway,Santogold & Diplo

@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240865,Boom Boom Pow,Black Eyed Peas,instrumental,0.999998450279,129.981033325,not_danceable,1,minor
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240868,In The Ayer,Flo-Rida feat. Will I Am & Fergie
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240869,Get Low,Flo-Rida feat. T-Pain
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240870,Just Dance (feat. Colby O'Doni,Lady GaGa
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240871,Popular,The Veronicas,instrumental,0.759313583374,123.005310059,danceable,0.978298127651,minor
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240872,Disturbia,Rihanna
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240873,Dont Trust Me,3OH!3,instrumental,0.995235323906,129.953262329,not_danceable,1,major
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240875,Do the Panic,Phantom Planet
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240876,If U Seek Amy,Britney Spears,instrumental,0.972551465034,129.951309204,not_danceable,1,major
+26044,29609,LET THE BEAT ROCK. ,"pop, rap, party",240878,Lollipop,Lil  Wayne Ft. Static Major   ,instrumental,0.995001673698,148.0184021,danceable,0.998485445976,minor

@@ -1,0 +1,22 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308672,Penguin,Christina Perri,1,voice,0.884693264961,139.529602051,not_danceable,0.97910284996,major
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308680,Mona Lisa,Atlas Sound,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308689,Lovers' Carvings,Bibio,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308696,10 Mile Stereo,Beach House,1,voice,0.895609557629,96.3496322632,not_danceable,0.55485701561,minor
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308708,Shadows,Warpaint,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308714,The Greatest,Cat Power,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308720,Spirited,Laura Gibson,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308725,Bear,The Antlers,1,instrumental,0.751038908958,80.1744995117,danceable,0.651256978512,minor
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308731,Leaves In The River,Sea Wolf,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308735,Either Way,Wilco,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308739,From the Woods,James Vincent Mc Morrow,1,voice,0.957799077034,87.8513946533,not_danceable,0.967157363892,minor
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308746,"Flightless Bird, American Mouth",Iron & Wine,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308753,Homesick,Kings of Convenience,1,voice,0.822457671165,91.6278839111,not_danceable,0.983524918556,major
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308755,Let It Be Me,Ray LaMontagne,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308756,Re: Stacks,Bon Iver,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308757,Blanchard,Hope Sandoval and The Warm Inventions,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308763,On An Island,David Gilmour,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308765,Another Noon,Jon and Roy,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308771,Be Here Now,Ray LaMontagne,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308773,Crying,The Morning Benders,1
+647945,739556,Studying for Finals,"study, focus, relax, productive",7308779,Messages,Xavier Rudd,1

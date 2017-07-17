@@ -1,0 +1,23 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+13587,29012,One For The Kids,"children's music, world, partytime",236469,Got No Strings,Michelle Shocked
+13587,29012,One For The Kids,"children's music, world, partytime",236475,Dinosaur Song,Johnny Cash,voice,0.998368442059,154.557998657,not_danceable,0.930399477482,major
+13587,29012,One For The Kids,"children's music, world, partytime",236461,Chicken Soup With Rice,Carole King,instrumental,0.5600502491,132.997634888,not_danceable,0.793226659298,major
+13587,29012,One For The Kids,"children's music, world, partytime",236465,Nella Vecchia Fattoria,Quartetto Cetra,voice,0.823244571686,140.3853302,not_danceable,1,major
+13587,29012,One For The Kids,"children's music, world, partytime",236480,Pirates Don't Take Baths,"Medeski, Martin & Wood",instrumental,0.838224351406,102.430259705,danceable,0.691952168941,minor
+13587,29012,One For The Kids,"children's music, world, partytime",236482,"Red, Red Robin",Rosie Flores,voice,0.936014592648,178.205780029,not_danceable,0.546188175678,major
+13587,29012,One For The Kids,"children's music, world, partytime",236464,Bathtub Blues,Greg Brown
+13587,29012,One For The Kids,"children's music, world, partytime",236473,Bumblebee (Buzz Buzz),Laurie Berkner
+13587,29012,One For The Kids,"children's music, world, partytime",236485,The Three Little Bops,Stan Freberg & Shorty Rogers
+13587,29012,One For The Kids,"children's music, world, partytime",236471,"Old Macdonald Had A Farm, Pt. 2",Rufus Thomas
+13587,29012,One For The Kids,"children's music, world, partytime",236492,Polly Wolly Doodle,Leon Redbone
+13587,29012,One For The Kids,"children's music, world, partytime",236460,Rufus Xavier Sarsaparilla,School House Rocks
+13587,29012,One For The Kids,"children's music, world, partytime",236494,Ah Bos Cee Dah,Johnny Cash
+13587,29012,One For The Kids,"children's music, world, partytime",236472,Riding In My Car (Car Song),Woody Guthrie
+13587,29012,One For The Kids,"children's music, world, partytime",236474,I Wan'na Be Like You (The Monkey Song),J.Pat O'Malley And The Disney Studio Chorus
+13587,29012,One For The Kids,"children's music, world, partytime",236477,Grandfather's Clock,Doc Watson
+13587,29012,One For The Kids,"children's music, world, partytime",236496,Do The Dragon,Laurie Berkner
+13587,29012,One For The Kids,"children's music, world, partytime",236483,The Sharing Song,Jack Johnson,instrumental,0.982800006866,98.976020813,not_danceable,1,minor
+13587,29012,One For The Kids,"children's music, world, partytime",236493,Row Row Your Boat,Dr. John
+13587,29012,One For The Kids,"children's music, world, partytime",236489,There Ain't No Bugs On Me,Jerry Garcia & David Grisman
+13587,29012,One For The Kids,"children's music, world, partytime",236468,Abiyiyo,Pete Seeger
+13587,29012,One For The Kids,"children's music, world, partytime",236462,Eighteen Flavors,Shel Silverstein

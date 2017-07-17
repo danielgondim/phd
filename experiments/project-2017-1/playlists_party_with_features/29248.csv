@@ -1,0 +1,21 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238266,Lovely Allen,Holy Fuck
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238270,"Same Same, But Different",The Samuel Jackson Five
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238271,Accident & Emergency,Patrick Wolf
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238275,Paul Simon,Russian Futurists
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238276,Arc of Time (Time Code),Bright Eyes,instrumental,0.992522418499,114.999816895,danceable,0.860486328602,major
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238277,Sissyneck,Beck
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238279,Do the Whirlwind,Architecture In Helsinki
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238281,Mushaboom [Mocky Mix][Mix],Feist
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238346,Subterranean Homesick Alien,Mobius Band,instrumental,0.936369419098,164.773880005,danceable,0.998869717121,major
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238332,Halfway Home,TV On The Radio,voice,0.874796688557,79.7282028198,danceable,0.707230806351,major
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238288,Someone Great,LCD Soundsystem
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238289,Echoplex,Nine Inch Nails,voice,0.728449821472,123.822013855,danceable,0.936644434929,minor
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238290,In Particular,Blonde Redhead
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238282,My Moon My Man,Feist
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238293,Hotel,Broken Social Scene
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238295,Triumphant,R
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238296,Time To Pretend,MGMT,voice,0.849888265133,100.956443787,danceable,0.772075533867,major
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238298,Ghostwriter,RJD2
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238306,Dominator,Spleen United
+22470,29248,"Gee, What A Fine Costume Club","party, pop, electronic",238310,Atlas,Battles,instrumental,0.999999642372,135.207504272,not_danceable,1,major

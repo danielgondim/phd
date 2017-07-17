@@ -1,0 +1,26 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",169868,When I Grow Up (Pussycat Dolls),Mayday Parade
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",228479,Star Wars Gangsta Rap,Parody
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",133013,You Oughta Know,Alanis Morissette
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",191469,Let It Rock,Kevin Rudolf & Lil Wayne
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",191947,Ballroom Blitz,Sweet
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",28737,Seven Days In Sunny June,Jamiroquai,voice,0.642423391342,105.393226624,danceable,0.9932076931,minor
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",7160,Thnks fr th Mmrs,Fall Out Boy,voice,0.966369509697,161.657836914,danceable,0.686074197292,minor
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",16723,We are Your Friends (Original Mix),Justice vs. Simian,instrumental,0.98911523819,122.935157776,danceable,0.932745575905,minor
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",8098,Body Language,Queen
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",5805,Lollipop,Mika
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",136622,Supermassive Black Hole,Muse,instrumental,0.935732007027,119.997245789,not_danceable,1,major
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",207306,Stronger,Kanye West Feat. Daft Punk
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",28317,What You Waiting for (Album V,Gwen Stefani
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",228482,He Said She Said,Ashley Tisdale
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",228484,Apollo I The Writing Writer,Coheed & Cambria
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",6406,Hips Don't Lie (Ft. Wyclef Jea,Shakira
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",31082,Girls Got Rhythm,AC/DC,voice,0.771656990051,138.920471191,danceable,0.999999880791,minor
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",200292,"The Take Over, The Breaks Over",Fall Out Boy 
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",228486,Lady Marmalade,"Christina Aguilera, Lil' Kim, Mya & Pink"
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",153039,Disturbia,Rihanna
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",159915,Cosmic Girl,Jamiroquai
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",58798,You Spin Me Right Round,Dead or Alive
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",53987,Through The Fire And Flames,Dragonforce
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",228491,Fergalicious,Fergie,voice,0.977983474731,129.029632568,danceable,0.999529182911,minor
+25029,27932,Party In My Room,"fun, party, pop, dance, alone",188367,The Willing Well II - From Fear Through The Eyes of Madness,Coheed & Cambria

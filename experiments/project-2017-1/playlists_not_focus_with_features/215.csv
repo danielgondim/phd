@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+21,215,Kevins mix 1,"indie rock, alternative rock",1478,When It Flows,Great Lake Swimmers,0
+21,215,Kevins mix 1,"indie rock, alternative rock",27,Migracion (Fujiya & Miyagi Remix),Lopazz,0
+21,215,Kevins mix 1,"indie rock, alternative rock",2311,Beautiful Beat,Nada Surf,0,voice,0.902345597744,99.9656600952,danceable,0.923587203026,major
+21,215,Kevins mix 1,"indie rock, alternative rock",1018,Do You Want To Be Buried With My People,Scout Niblett,0,voice,0.999915599823,103.115852356,not_danceable,0.995625257492,major
+21,215,Kevins mix 1,"indie rock, alternative rock",1011,The Freed Pig,Sebadoh,0,voice,0.999951839447,134.423690796,not_danceable,0.913649141788,major
+21,215,Kevins mix 1,"indie rock, alternative rock",1009,Lake Michigan,Rogue Wave,0,voice,0.958843827248,163.07258606,danceable,0.613771796227,major
+21,215,Kevins mix 1,"indie rock, alternative rock",1006,The Deader,Two Gallants,0
+21,215,Kevins mix 1,"indie rock, alternative rock",1013,Peacebone,Animal Collective,0,instrumental,0.999999880791,162.960525513,not_danceable,1,major

@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4521,"01 What God Wants, God Gets Part 1",Roger Waters,0
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4507,02 Imagine,John Lennon,0
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4508,05 The Cathedral,Crosby Stills And Nash,0
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4517,08 Black Hole Sun,Soundgarden,0,voice,0.845033764839,106.233779907,danceable,0.585895001888,minor
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4516,09 God is a Bullet,Concrete Blonde,0
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4519,11 Leper Messiah,Metallica,0
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4511,12 Bad Religion,Godsmack,0,instrumental,0.616962373257,154.733901978,danceable,0.971690297127,minor
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4509,13 Religious Cancer,Nailbomb,0
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4513,15 The Future,Leonard Cohen,0
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4510,"16 What God Wants, God Gets Part 2",Roger Waters,0
+1176,454,"No Gods, No Master - December 2004","mix, atheist, atheism",4520,17 Thought Of A Dying Atheist,Muse,0

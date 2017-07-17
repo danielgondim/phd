@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+58079,484521,balancing,"focus, reflection, folk",5421368,Blake's View,M. Ward,instrumental,0.999998748302,94.5185470581,not_danceable,1,major
+58079,484521,balancing,"focus, reflection, folk",5421372,Ada,The National
+58079,484521,balancing,"focus, reflection, folk",5421376,Put a Penny In the Slot,Fionn Regan,voice,0.999355137348,118.36756134,not_danceable,0.950283110142,major
+58079,484521,balancing,"focus, reflection, folk",5421380,Rambling Man,Laura Marling,voice,0.998136520386,93.3853607178,not_danceable,0.901503324509,major
+58079,484521,balancing,"focus, reflection, folk",5421385,Animal,Mountain Man
+58079,484521,balancing,"focus, reflection, folk",5421394,A Girl In Port,Okkervil River,instrumental,1,146.630752563,not_danceable,1,major
+58079,484521,balancing,"focus, reflection, folk",5421395,Heaven's On Fire,The Radio Dept.,voice,0.891969382763,130.37600708,danceable,0.977495014668,major
+58079,484521,balancing,"focus, reflection, folk",5421404,Kids Aflame,Arms,voice,0.993925869465,113.103027344,not_danceable,0.86501532793,major

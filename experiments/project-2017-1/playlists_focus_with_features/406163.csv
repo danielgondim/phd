@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+538919,406163,Stockholm Volume 2,"chill out, relax, comforting music, piano, focus",4406170,To Build A Home,The Cinematic Orchestra,instrumental,0.814520299435,135.508544922,not_danceable,0.985935747623,major
+538919,406163,Stockholm Volume 2,"chill out, relax, comforting music, piano, focus",4406215,Intro,The xx
+538919,406163,Stockholm Volume 2,"chill out, relax, comforting music, piano, focus",4406193,Hometown Glory,Adele,voice,0.923377335072,122.490615845,not_danceable,0.940331935883,minor
+538919,406163,Stockholm Volume 2,"chill out, relax, comforting music, piano, focus",4406221,Boats and Birds,Gregory and the Hawk
+538919,406163,Stockholm Volume 2,"chill out, relax, comforting music, piano, focus",4059840,Nuvole bianche, Ludovico Einaudi 
+538919,406163,Stockholm Volume 2,"chill out, relax, comforting music, piano, focus",4059839,Miasmal Smoke & The Yellow Bellied Freaks,Wintersleep,voice,0.604136586189,119.487792969,danceable,0.707712948322,major
+538919,406163,Stockholm Volume 2,"chill out, relax, comforting music, piano, focus",4059841,Comforting Sounds,Mew,instrumental,0.978183746338,161.594421387,not_danceable,0.804767489433,major
+538919,406163,Stockholm Volume 2,"chill out, relax, comforting music, piano, focus",4406163,We laugh indoors,Death Cab For Cutie

@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318379,The Chapter In Your Life Entitled San Francisco,The Lucksmiths
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318342,Temptation,New Order
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318348,Back to You,Coconut Records
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318337,The Opposite Of Hallelujah,Jens Lekman
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318318,Something Changed,Pulp
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318370,The World Is Full Of Crashing Bores,Morrissey,instrumental,0.996734261513,126.191749573,not_danceable,1,major
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318319,Young Americans,David Bowie
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318311,This Tornado Loves You,Neko Case,instrumental,0.994568049908,132.446472168,not_danceable,1,minor
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318321,Her Fifteen Years,Gene
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318316,Thirteen,Elliott Smith
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318371,Rich Girls,The Virgins
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318376,Mermaid Eyes,Luna
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318356,Les Champs-Élysée,Joe Dassin
+20231,40275,Summer's over. Back to school. Good music.,"a beer is nice, party your ass off, hard work",318338,Into Eternity,Jens Lekman,voice,0.997336149216,106.971939087,danceable,0.928400456905,minor

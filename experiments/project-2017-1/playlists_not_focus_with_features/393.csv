@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+993,393,No Egress,rap,1156,Paint It Black,The Rolling Stones,0,instrumental,0.991063594818,156.185180664,not_danceable,1,minor
+993,393,No Egress,rap,3827,ROYAL FLUSH,OUTKAST FEAT. RAEKWON,0
+993,393,No Egress,rap,4208,Announcement ft. Pharrell,Common,0
+993,393,No Egress,rap,3520,Sprinkle Me,E-40,0
+993,393,No Egress,rap,1753,Ain't No Sunshine,Bill Withers,0
+993,393,No Egress,rap,3701,Are You Gonna Be My Girl,Jet,0
+993,393,No Egress,rap,2069,1 2 3 4,Feist,0

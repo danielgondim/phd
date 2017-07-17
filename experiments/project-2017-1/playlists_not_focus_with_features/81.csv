@@ -1,0 +1,3 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+59,81,nicos mix 1,,1329,Hell Yeah,Dead Prez,0
+59,81,nicos mix 1,,1326,I Have A Dream Too,Dead Prez,0,voice,0.990024268627,92.0255126953,danceable,0.896199464798,minor

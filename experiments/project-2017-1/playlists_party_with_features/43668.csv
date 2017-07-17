@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+31001,43668,people in the streets,"rock, oldies rock, 80's, dancing, dance party",53447,You Make My Dreams,Hall & Oates
+31001,43668,people in the streets,"rock, oldies rock, 80's, dancing, dance party",144392,Everyday People,Sly & The Family Stone
+31001,43668,people in the streets,"rock, oldies rock, 80's, dancing, dance party",218027,I Want To Break Free,Queen
+31001,43668,people in the streets,"rock, oldies rock, 80's, dancing, dance party",16390,Sweet Caroline,Neil Diamond
+31001,43668,people in the streets,"rock, oldies rock, 80's, dancing, dance party",269269,The Power Of Love,Huey Lewis & The News
+31001,43668,people in the streets,"rock, oldies rock, 80's, dancing, dance party",183397,Surrender,Cheap Trick
+31001,43668,people in the streets,"rock, oldies rock, 80's, dancing, dance party",341985,Keeping the Faith,Billy Joel,voice,0.550023257732,184.570709229,danceable,0.713857829571,major
+31001,43668,people in the streets,"rock, oldies rock, 80's, dancing, dance party",341987,Hallelujah I Love Her So,Ray Charles

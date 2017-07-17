@@ -1,0 +1,13 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487536,Bust A Move,Young MC
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487543,Evident Utensil,Chairlift
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487540,Electric Avenue,Eddy Grant
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487548,Fashion,David Bowie,instrumental,0.52428483963,109.793006897,danceable,0.749817669392,major
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487569,I Am The Walrus,The Beatles
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487571,Ice Ice Baby,Vanilla Ice
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487566,Happy,Never Shout Never
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487572,In a Cave,Tokyo Police Club,instrumental,1,102.539100647,not_danceable,1,minor
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487575,Mr. Farmer,The Seeds
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487582,Neon Tiger,The Killers,instrumental,0.99480509758,87.062461853,not_danceable,1,major
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487585,The Way I Am,Compilation
+44648,65005,You make me wanna BUST A MOVE!,"reggae, rock, party hardy",487584,Rapper's Delight (Medley),Ellen Dow & The Sugarhill Gang,instrumental,0.952578783035,110.885475159,not_danceable,1,major

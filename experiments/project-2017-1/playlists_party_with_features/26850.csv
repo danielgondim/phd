@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+24428,26850,DANCE!!,"dance, party",130133,Electric Feel,MGMT
+24428,26850,DANCE!!,"dance, party",129172,Kids,MGMT,instrumental,0.606246888638,122.984588623,danceable,0.89597928524,major
+24428,26850,DANCE!!,"dance, party",220894,Highly Suspicious,My Morning Jacket,instrumental,0.996221899986,119.352478027,not_danceable,1,minor
+24428,26850,DANCE!!,"dance, party",220896,Off the Record,My Morning Jacket
+24428,26850,DANCE!!,"dance, party",202189,One More Time,Daft Punk
+24428,26850,DANCE!!,"dance, party",220900,Flash Light,Parliament,instrumental,0.999999642372,105.219085693,not_danceable,1,major
+24428,26850,DANCE!!,"dance, party",220902,Vehicle,The Ides of March
+24428,26850,DANCE!!,"dance, party",220904,The Impression That I Get,The Mighty Mighty Bosstones

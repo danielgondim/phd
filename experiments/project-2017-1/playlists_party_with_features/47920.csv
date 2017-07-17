@@ -1,0 +1,24 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+33677,47920,A Harris Retrospective,"harris party, dance",204724,Like a Prayer,Madonna
+33677,47920,A Harris Retrospective,"harris party, dance",18723,Dancing Queen,ABBA
+33677,47920,A Harris Retrospective,"harris party, dance",342752,Back That Azz Up,Juvenile
+33677,47920,A Harris Retrospective,"harris party, dance",300153,Hey Ya,Outkast
+33677,47920,A Harris Retrospective,"harris party, dance",207326,Toxic,Britney Spears
+33677,47920,A Harris Retrospective,"harris party, dance",16952,Rock Your Body,Justin Timberlake
+33677,47920,A Harris Retrospective,"harris party, dance",245760,Blue (Da Ba Dee),Eiffel 65
+33677,47920,A Harris Retrospective,"harris party, dance",265892,Yeah,Usher
+33677,47920,A Harris Retrospective,"harris party, dance",361963,Come On Eileen,Dexys Midnight Runners,instrumental,0.99999588728,113.166877747,not_danceable,1,major
+33677,47920,A Harris Retrospective,"harris party, dance",329061,Ray of Light,Madonna,voice,0.798267245293,127.493499756,not_danceable,0.741141080856,major
+33677,47920,A Harris Retrospective,"harris party, dance",138263,Skew it on the Bar B,Outkast Feat Reakwon - Skew it on the Bar B,instrumental,0.999998509884,106.375549316,not_danceable,1,minor
+33677,47920,A Harris Retrospective,"harris party, dance",153291,Around the World,Daft Punk
+33677,47920,A Harris Retrospective,"harris party, dance",159633,Tubthumping,Chumbawamba
+33677,47920,A Harris Retrospective,"harris party, dance",272827,It's Raining Men     ,Weather Girls
+33677,47920,A Harris Retrospective,"harris party, dance",148403,It Wasn't Me,Shaggy
+33677,47920,A Harris Retrospective,"harris party, dance",104281,What's Your Fantasy,Ludacris,voice,0.939918994904,69.986656189,danceable,0.981516122818,minor
+33677,47920,A Harris Retrospective,"harris party, dance",65626,She Talks to Angels,The Black Crowes
+33677,47920,A Harris Retrospective,"harris party, dance",109485,Ms Jackson,Outkast,voice,0.633067846298,95.0289840698,danceable,0.663703620434,major
+33677,47920,A Harris Retrospective,"harris party, dance",14121,Believe (Phat 'N' Phunky Club Mix),Cher,voice,0.906757414341,132.946655273,danceable,0.999197304249,major
+33677,47920,A Harris Retrospective,"harris party, dance",16378,Faith,George Michael
+33677,47920,A Harris Retrospective,"harris party, dance",181430,Genie In A Bottle,Christina Aguilera,instrumental,0.669130623341,87.964805603,danceable,0.999999880791,minor
+33677,47920,A Harris Retrospective,"harris party, dance",48182,Livin' on a Prayer,Bon Jovi
+33677,47920,A Harris Retrospective,"harris party, dance",183673,Last Dance,Donna Summer

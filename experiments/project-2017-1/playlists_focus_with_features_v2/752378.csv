@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7406117,Valerie,The Zutons,1,voice,0.986627876759,83.1081314087,not_danceable,0.556346774101,major
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7406368,Be Gentle With Me,The Boy Least Likely To,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7406388,Something Good Can Work,Two Door Cinema Club,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7406510,You Give Me Something,James Morrison,1,voice,0.998542249203,79.5204162598,not_danceable,0.989196360111,major
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443183, I Do,Colbie Caillat,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443190,Valerie,Amy Winehouse,1,voice,0.601250767708,95.8486328125,not_danceable,0.904478490353,major
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443196,Stand By Me,John Lennon,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443230,Lovesick,Friendly Fires,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443255,Count Me In,Leeland,1,voice,0.521740853786,129.981506348,danceable,0.603823184967,major
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443285,Don't Stop the Music,Rihanna,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443299,Must Have Done Something Right,Relient K,1,voice,0.580763220787,138.032119751,danceable,0.542555391788,major
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443365,I Want You Back,KT Tunsall,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443422,I Wanna Hold Your Hand,The Beatles,1

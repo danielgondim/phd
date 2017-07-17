@@ -1,0 +1,68 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766083,Titanium (Final),David Guetta Ft. Sia,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766132,"Wait, Wait, Wait",The Format,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766111,Viva La Vida,Coldplay,1,voice,0.985542058945,138.085159302,not_danceable,0.552873373032,minor
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766431,The World As I See It,Jason Mraz,1,voice,0.996293127537,119.395126343,not_danceable,0.972994625568,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766124,Swing Life Away,Rise Against,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766138,Together,Kina Grannis,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766140,Keep It Together - 02 Careful,Guster,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766453,Moment of Truth,FM Static,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766133,She Doesn't Get It (Acoustic),The Format,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766122,She Moves In Her Own Way,The Kooks,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766091,Something Beautiful,Needtobreathe,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766084,These Streets,Paulo Nutini,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766474,What Makes You Beautiful-HI W,One Direction,1,voice,0.870366275311,125.094795227,danceable,0.998973011971,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766479,Clarity,John Mayer,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766484,I Will Follow You Into The Dark,Death Cab for Cutie,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766354,Many The Miles,Sara Bareilles,1,voice,0.979497253895,152.435379028,not_danceable,0.915087103844,minor
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766267,Mr. Pitiful,Matt Costa,1,voice,0.6613098979,109.896453857,danceable,0.911489784718,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766146,Evil Woman,Electric Light Orchestra,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766292,"Simple, Starving to Be Safe",Daphne Loves Derby,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766311,This Boy,James Morrison,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766148,Outside Villanova,Eric Hutchinson,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766258,The Fly Scientist ft. Page & Silver Medallion,Drake & Coldplay,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766352,Pumped Up Kicks,Foster The People,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766291,We Are Young (ft. Janelle Monáe),Fun.,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766323,Us,Regina Spektor,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766275,I Hope Tomorrow is Like Today,Guster,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766336,World News,Local Natives,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766269,The Way I Am,Ingrid Michaelson,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766294,Girl I Wanna Lay You Down,Jack Johnson,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766304,Para Sa Akin,Sitti Navarro,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766338,Glad You Came,The Wanted,1,voice,0.966680705547,163.881286621,danceable,0.999895453453,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766302,Maybe,Yiruma,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766271,New Soul,Yael Naim,1,voice,0.891086935997,99.9188232422,not_danceable,0.912852406502,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766279,Best I Ever Had (Grey Sky Morning),Vertical Horizon,1,voice,0.985232710838,85.6552124023,danceable,0.586379945278,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766103,Sweet Disposition,The Temper Trap,1,instrumental,0.989316940308,129.391204834,not_danceable,1,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766360,Brick By Brick,Train,1,instrumental,0.986016571522,87.980682373,not_danceable,1,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766341,"Young, Wild and Free",Snoop Dogg and Wiz Khalifa,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766306,Captains Of The Sky,Sky Sailing,1,instrumental,0.680792331696,120.006286621,danceable,0.999000608921,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766278,Little Wonders,Rob Thomas,1,voice,0.991387963295,166.124923706,danceable,0.842267274857,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766345,Last Words (Soundtrack Version),The Real Tuesday Weld,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766382,Words Meet Heartbeats,Parachute,1,voice,0.993770122528,150.091583252,danceable,0.620830118656,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766378,Don't Know Why,Norah Jones,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766285,Right As Rain,Adele,1,instrumental,0.994854748249,136.931259155,not_danceable,1,minor
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766357,Sing,My Chemical Romance,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766297,Scar,Missy Higgins,1,voice,0.994379281998,91.7438049316,danceable,0.973721206188,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766295,She's Got You High,Mumm-Ra,1,voice,0.986298263073,131.558883667,not_danceable,0.925150036812,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766282,Call Me Maybe,Carly Rae Jepsen,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766261,I Can't Lie,Maroon 5,1,instrumental,0.814843893051,90.9713287354,danceable,0.950734913349,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766116,Let Your Mercy Rain,Chris Tomlin,1,voice,0.99811989069,144.783279419,not_danceable,0.718720912933,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766349,Stoppin' the Love,KT Tunstall,1,instrumental,0.9947488904,144.913955688,not_danceable,1,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766334,We Are,Joy Williams,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766348,Perfectly Lonely,John Mayer,1,voice,0.818989694118,91.7562103271,danceable,0.977123379707,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766331,You Will Make It,Jem,1,voice,0.975774943829,146.606292725,not_danceable,0.915738165379,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766313,No Stopping Us,Jason Mraz,1,voice,0.909518241882,119.917854309,danceable,0.872284889221,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766361,Fly Love,Jamie Foxx,1,voice,0.994544327259,115.11504364,not_danceable,0.86873203516,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766246,Bette Davis Eyes,Gwyneth Paltrow,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766300,Some Nights,fun.,1,voice,0.895583212376,107.854957581,danceable,0.941753268242,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766250,The Little Things,Colbie Caillat,1,voice,0.987048327923,150.043426514,danceable,0.997430443764,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766309,Sweet And Low,Augustana,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766289,Two Is Better Than One,Boys Like Girls,1,instrumental,0.940373063087,127.783569336,not_danceable,1,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766314,My Same,Adele,1,instrumental,0.999999165535,136.182479858,not_danceable,1,minor
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766363,Midnight Bottle,Colbie Caillat,1,voice,0.977952539921,110.05897522,danceable,0.528696060181,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766097,Eyes Open - www.SongsLover.com,Taylor Swift,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766364,Domino,Jessie J,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766332,Six Feet Under The Stars,All Time Low,1,voice,0.993721187115,130.585998535,danceable,0.85997313261,major
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766316,Ass Back Home (feat. Neon Hitch),Gym Class Heroes,1
+1241190,671218,2 Days to Freedom!,"pop, alternative rock, study, freedom, focus",6766105, Freedom Song,Jason Mraz,1

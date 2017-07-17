@@ -1,0 +1,20 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226175, River Live Acoustic ,Lights
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226232,After the Storm,Mumford & Sons
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226240,A Place Only You Can Go,Needtobreathe
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226290, Cranberry Lake,Ari Hest
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226343,Swing Life Away ,Rise Against,voice,0.997445344925,184.57043457,not_danceable,0.995257496834,major
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226361,Ho Hey,The Lumineers
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226385,Holocene,Bon Iver,instrumental,0.575878024101,121.937820435,danceable,0.999998927116,minor
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226412,Collide,Howie Day,voice,0.978876829147,93.9303207397,not_danceable,0.575267970562,major
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226434,Skinny Love,Birdy,voice,0.541010856628,172.265411377,not_danceable,0.990663409233,major
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226448,Swallowed in the Sea,Coldplay
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226453, All We Are,Matt Nathanson
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226468,Enchanted  , Taylor Swift 
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226472, I Wont Give Up ,Jason Mraz
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226514,When I Grow Up,First Aid Kit
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226526,Paperweight,Schuyler Fisk and Joshua Radin,voice,0.890516638756,178.206100464,danceable,0.999999880791,major
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226575,Can't Help Falling In Love,Ingrid Michealson
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226585,Falling,Bruce Guthro
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226595,Say,John Mayer
+1108421,600293,Study Time- For Connor,"study, sleep, focus, chill, this is a playlist to help you study and focus on the paper you need to write :)",6226602,U Smile,Justin Bieber,voice,0.554416239262,74.9368591309,danceable,0.738248050213,major

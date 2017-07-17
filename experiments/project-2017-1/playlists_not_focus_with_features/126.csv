@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+151,126,Gavins Mix,"dance/punk, pop, 2oo7",1544,You Got Yr. Cherry Bomb,Spoon,0
+151,126,Gavins Mix,"dance/punk, pop, 2oo7",1545,Ceremony (New Order cover),Radiohead,0
+151,126,Gavins Mix,"dance/punk, pop, 2oo7",1548,Blueside,Rooney,0
+151,126,Gavins Mix,"dance/punk, pop, 2oo7",1547,The Kids From Orange County,Moving Units,0,instrumental,0.99228823185,127.021636963,not_danceable,1,major
+151,126,Gavins Mix,"dance/punk, pop, 2oo7",1546,I'm on Fire (Bruce Springsteen cover),Chromatics,0,voice,0.853986203671,129.861557007,not_danceable,0.942020654678,major
+151,126,Gavins Mix,"dance/punk, pop, 2oo7",1549,Television Rules The Nation / Crescendolls,Daft Punk,0,instrumental,0.898816883564,125.931488037,danceable,0.999999821186,major
+151,126,Gavins Mix,"dance/punk, pop, 2oo7",1550,Save a Secret for the Moon,The Magnetic Fields,0,voice,0.865909636021,116.178222656,not_danceable,0.615017712116,major
+151,126,Gavins Mix,"dance/punk, pop, 2oo7",1552,Fluorescent Adolescent (Arctic Monkeys Cover - Live Lounge),Kate Nash,0,voice,0.691176593304,128.76133728,danceable,0.893739938736,major
+151,126,Gavins Mix,"dance/punk, pop, 2oo7",1589,Weird Fishes (Amplive Remix),Amplive Vs. Radiohead,0

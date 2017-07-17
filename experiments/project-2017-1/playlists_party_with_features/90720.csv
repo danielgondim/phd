@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+54665,90720,Party Time!!!,"party, rock, fun, dance, awesome",243263,Get Up Offa That Thing,James Brown
+54665,90720,Party Time!!!,"party, rock, fun, dance, awesome",110403,Danger! High Voltage,Electric Six
+54665,90720,Party Time!!!,"party, rock, fun, dance, awesome",64237,Cherry Cola,Eagles of Death Metal
+54665,90720,Party Time!!!,"party, rock, fun, dance, awesome",653605,Mixed Bizness (Sans Ending),Beck
+54665,90720,Party Time!!!,"party, rock, fun, dance, awesome",47898,Shake Your Rump,The Beastie Boys
+54665,90720,Party Time!!!,"party, rock, fun, dance, awesome",38789,Paper Planes,M.I.A.
+54665,90720,Party Time!!!,"party, rock, fun, dance, awesome",74200,Strange Times,The Black Keys,voice,0.956792235374,162.194000244,danceable,0.877505004406,minor
+54665,90720,Party Time!!!,"party, rock, fun, dance, awesome",109891,Heads Will Roll,Yeah Yeah Yeahs,instrumental,0.855323910713,131.945281982,danceable,0.997967898846,minor

@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711234,Alive,Kid Cudi
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711235,All Things Go ft. Sufjan Stevens,Chiddy Bang
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711238,Better Man,Pearl Jam
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711239,Electropop,Jupiter Rising
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711240,King Without a Crown,Matisyahu
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711242,Samson,Regina Spektor,voice,0.710654735565,151.963485718,not_danceable,0.991899430752,major
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711243,Shores of California,The Dresden Dolls,instrumental,0.979169070721,122.299171448,not_danceable,1,major
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711244,Shots,LMFAO,voice,0.996502518654,128.040222168,danceable,0.999999880791,major
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711246,Sleep Tonight (Junior Boys Remix),Stars
+33577,100442,"""Thank you so much for freeing the slaves, Mr. President""","grooving, party, contemplative",711247,Sleepyhead (Acoustic Piano Version),Passion Pit,instrumental,0.995123207569,106.06615448,not_danceable,1,minor

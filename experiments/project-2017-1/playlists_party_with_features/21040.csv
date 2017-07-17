@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1755,21040,serendipity,"indie pop, dance party",176720,Evil,Beads
+1755,21040,serendipity,"indie pop, dance party",176721,Only You Can Love Me This Way,Keith Urban,voice,0.786212980747,147.905914307,not_danceable,0.805947363377,major
+1755,21040,serendipity,"indie pop, dance party",176714,Bad Day,Daniel Powter
+1755,21040,serendipity,"indie pop, dance party",176727,Saddle Up,The Boy Least Likely To
+1755,21040,serendipity,"indie pop, dance party",176710,"Ginger, Baby",Father Bloopy
+1755,21040,serendipity,"indie pop, dance party",176722,Show Me,Mint Royale
+1755,21040,serendipity,"indie pop, dance party",176728,Karate Kid 2,Mexican Institute Of Sound
+1755,21040,serendipity,"indie pop, dance party",176751,Jane Fonda,Mickey Avalon,voice,0.859480023384,93.80809021,danceable,0.939051032066,major
+1755,21040,serendipity,"indie pop, dance party",176725,Dull Life,Yeah Yeah Yeahs,voice,0.960713684559,107.065879822,danceable,0.726723015308,minor
+1755,21040,serendipity,"indie pop, dance party",176717,Lovelife,Lush
+1755,21040,serendipity,"indie pop, dance party",176724,Another Day,This Mortal Coil

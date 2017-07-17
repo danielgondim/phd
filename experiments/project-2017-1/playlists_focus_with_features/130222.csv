@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+56845,130222,for when you need to think,"think, calm, focus",886940,Let The River In,Radical Face,instrumental,0.971840560436,94.994430542,not_danceable,0.950040578842,major
+56845,130222,for when you need to think,"think, calm, focus",887019,Asleep,The Smiths,instrumental,0.560613751411,142.931243896,danceable,0.800667464733,minor
+56845,130222,for when you need to think,"think, calm, focus",887780,Konstantine,Something Corporate
+56845,130222,for when you need to think,"think, calm, focus",894089,Asleep On A Train,Radical Face,instrumental,0.930339396,108.621368408,not_danceable,0.973972082138,major
+56845,130222,for when you need to think,"think, calm, focus",894076,Yellow Brick Road,Angus & Julia Stone
+56845,130222,for when you need to think,"think, calm, focus",894079, No Need To Argue,The Cranberries,instrumental,0.989722251892,143.299102783,not_danceable,1,major
+56845,130222,for when you need to think,"think, calm, focus",894073,Lady In Spain,Ingrid Michaelson
+56845,130222,for when you need to think,"think, calm, focus",894088,La Valse des Monstres,Yann Tiersen,voice,0.947502374649,184.570373535,not_danceable,0.575859487057,minor

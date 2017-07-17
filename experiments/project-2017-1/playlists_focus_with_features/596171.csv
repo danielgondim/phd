@@ -1,0 +1,5 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+657661,596171,Studying,"studying, study, focus, upbeat",6197479,We Aite (Wake Your Mind Up),Kid Cudi,instrumental,0.692580580711,138.037979126,danceable,0.658958852291,major
+657661,596171,Studying,"studying, study, focus, upbeat",6197616,Villematic High,J. Cole,voice,0.995971620083,79.4127960205,danceable,0.98585164547,major
+657661,596171,Studying,"studying, study, focus, upbeat",6197679,I Can't Stop (Freestyle),Chiddy Bang
+657661,596171,Studying,"studying, study, focus, upbeat",6197694,Up Up & Away - Kid Cudi,MOTM

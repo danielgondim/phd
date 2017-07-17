@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+16,284,gfunk new and old indie,"alternative rock, alternative pop singer-songwriter, comedy",3318,Tigers,Mountain Machine,0
+16,284,gfunk new and old indie,"alternative rock, alternative pop singer-songwriter, comedy",3307,White Winter Hymnal,Fleet Foxes,0,voice,0.947279989719,124.91784668,not_danceable,0.966355204582,major
+16,284,gfunk new and old indie,"alternative rock, alternative pop singer-songwriter, comedy",3320,National Shite Day,Half Man Half Biscuit,0,voice,0.973554313183,117.674530029,not_danceable,0.980876922607,minor
+16,284,gfunk new and old indie,"alternative rock, alternative pop singer-songwriter, comedy",1373,Two Headed Boy,Jeff Mangum,0
+16,284,gfunk new and old indie,"alternative rock, alternative pop singer-songwriter, comedy",3317,Bowie,Flight Of The Conchords,0
+16,284,gfunk new and old indie,"alternative rock, alternative pop singer-songwriter, comedy",3319,Touch Me I'm Going To Scream Pt. 2 (Radio Edit),My Morning Jacket,0
+16,284,gfunk new and old indie,"alternative rock, alternative pop singer-songwriter, comedy",3321,Where's the Puzzle?,Bonnie 'Prince' Billy,0
+16,284,gfunk new and old indie,"alternative rock, alternative pop singer-songwriter, comedy",1371,Strawberryfire,Apples In Stereo,0
+16,284,gfunk new and old indie,"alternative rock, alternative pop singer-songwriter, comedy",3315,Blue Ridge Mountains,Fleet Foxes,0,voice,0.858718812466,97.6411590576,not_danceable,0.954757392406,minor

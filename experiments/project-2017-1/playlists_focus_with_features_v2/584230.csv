@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146854,Amber,Mannheim Steamroller,1
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146868,Flaws,Bombay Bicycle Club,1
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146872,Fragile,Dustin O'Halloran,1
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146889,We Move Lightly,Dustin O'Halloran,1,instrumental,0.986373722553,150.100875854,not_danceable,0.996159613132,minor
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146892,Where Is My Mind (The Pixies Piano Cover),Maxence Cyrin,1
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146893,To Build A Home (Instrumental Version),The Cinematic Orchestra,1
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146979,Deep,Citizen Cope,1

@@ -1,0 +1,16 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3877,Feeling Good,Nina Simone,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3878,Black,Pearl Jam,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3879,Kiss of Life,Sade,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3880,Who's Gonna Ride Your Wild Horses,U2,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3881,Everything She Wants (remix),Wham,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3882,Kissing You,Des'ree,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3883,Be Happy,Mary J. Blige,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3884,Into the Groove,Madonna,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3885,This Woman's Work,Maxwell,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3886,Tsunami,Res,0,instrumental,1,100.759155273,not_danceable,0.886851072311,minor
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3887,Kid,The Pretenders,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3888,Hallelujah,Jeff Buckley,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3889,Here Comes the Sun,The Beatles,0,instrumental,0.99999922514,129.332336426,not_danceable,1,major
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3890,Waiting for That Day/You Can't Always Get What You Want,George Michael,0,voice,0.986526787281,86.2645645142,danceable,0.731208562851,major
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3891,Come on Home,Everything But the Girl,0

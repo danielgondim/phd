@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+656,436,walls,"alternative rock, rock",4381,Walls,Beck,0
+656,436,walls,"alternative rock, rock",4391,Electric Bloom,Foals,0
+656,436,walls,"alternative rock, rock",4405,Bus Stop Boxer,Eels,0,instrumental,0.999999940395,142.310317993,danceable,0.97067296505,major
+656,436,walls,"alternative rock, rock",4393,Four Hours In Washington,M. Ward,0
+656,436,walls,"alternative rock, rock",4399,Blues From Down Here,TV on the Radio,0,voice,0.852748990059,130.177215576,danceable,0.697222232819,major
+656,436,walls,"alternative rock, rock",4394,Gronlandic Edit,Of Montreal,0
+656,436,walls,"alternative rock, rock",4409,In The New Year,The Walkmen,0,instrumental,0.978156089783,163.518844604,not_danceable,1,major
+656,436,walls,"alternative rock, rock",4408,Falling Down,Scarlett Johansson,0

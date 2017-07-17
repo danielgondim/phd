@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+41893,60426,Fun party and chillin' songs during the summer! v1.1,"alternative rock, pop rock, party",325346,Gimmie Sympathy,Metric,voice,0.994793236256,127.106231689,not_danceable,0.951652526855,minor
+41893,60426,Fun party and chillin' songs during the summer! v1.1,"alternative rock, pop rock, party",14564,Digital Love,Daft Punk
+41893,60426,Fun party and chillin' songs during the summer! v1.1,"alternative rock, pop rock, party",95898,Big Me,Foo Fighters
+41893,60426,Fun party and chillin' songs during the summer! v1.1,"alternative rock, pop rock, party",243274,Climbing Up The Walls,Chris Cornell,instrumental,0.571559846401,125.002822876,danceable,0.911479413509,minor
+41893,60426,Fun party and chillin' songs during the summer! v1.1,"alternative rock, pop rock, party",92192,Summer Of '69,Bryan Adams,instrumental,0.984434425831,140.622817993,not_danceable,1,major
+41893,60426,Fun party and chillin' songs during the summer! v1.1,"alternative rock, pop rock, party",53079,Tell Me Baby,Red Hot Chili Peppers
+41893,60426,Fun party and chillin' songs during the summer! v1.1,"alternative rock, pop rock, party",84444,Always,Blink 182
+41893,60426,Fun party and chillin' songs during the summer! v1.1,"alternative rock, pop rock, party",98063,Summer Days,Do As Infinity,voice,0.986285150051,172.265304565,not_danceable,1,major
+41893,60426,Fun party and chillin' songs during the summer! v1.1,"alternative rock, pop rock, party",44116,The Good Life,Weezer

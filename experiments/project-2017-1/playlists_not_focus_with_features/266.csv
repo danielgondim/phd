@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+29,266,Summer Vibrations,summer,3049,Eloquence,Jason Falkner,0
+29,266,Summer Vibrations,summer,3050,Author Unknown,Jason Falkner,0
+29,266,Summer Vibrations,summer,3051,Au Lait,Pat Metheny Group,0,instrumental,0.980008244514,111.63318634,not_danceable,0.916336596012,major
+29,266,Summer Vibrations,summer,3052,Good Night,The Beatles,0
+29,266,Summer Vibrations,summer,3053,Grace,U2,0
+29,266,Summer Vibrations,summer,3054,Good Vibrations,Brian Wilson,0,instrumental,0.994207084179,147.87689209,not_danceable,1,major
+29,266,Summer Vibrations,summer,3055,Green Onions,Booker T. and the MGs,0
+29,266,Summer Vibrations,summer,3056,Green River,Creedence Clearwater Revival,0
+29,266,Summer Vibrations,summer,3057,Guinnevere,"Crosby, Stills & Nash",0
+29,266,Summer Vibrations,summer,3058,Guys Like Me,Aimee Mann,0,voice,0.592519104481,126.418876648,not_danceable,0.695510029793,major

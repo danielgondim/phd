@@ -1,0 +1,33 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+143457,550038,Focus!,"study, focus, indie, chill",5887304,Difficult,Uffie,1
+143457,550038,Focus!,"study, focus, indie, chill",5887271,Bored Games,Wild Nothing,1,instrumental,0.83060002327,120.055458069,not_danceable,0.824692189693,major
+143457,550038,Focus!,"study, focus, indie, chill",5887291,Revival,Deerhunter,1
+143457,550038,Focus!,"study, focus, indie, chill",5887247,Feel It All Around,Washed Out,1,instrumental,0.756631195545,85.9976348877,danceable,0.66097420454,major
+143457,550038,Focus!,"study, focus, indie, chill",5887257,Eyeoneye,Andrew Bird,1,voice,0.986832082272,126.815040588,danceable,0.664834082127,major
+143457,550038,Focus!,"study, focus, indie, chill",5887305,Dlz,TV On The Radio,1,instrumental,0.883981823921,88.007194519,danceable,0.976439476013,minor
+143457,550038,Focus!,"study, focus, indie, chill",5887318,Drops In the River,Fleet Foxes,1
+143457,550038,Focus!,"study, focus, indie, chill",5887309,Her Morning Elegance,Oren Lavie,1,instrumental,0.679560780525,89.6305923462,not_danceable,0.857704818249,major
+143457,550038,Focus!,"study, focus, indie, chill",5887294,Numbers,Eight Bit Tiger,1
+143457,550038,Focus!,"study, focus, indie, chill",5887302,"Little Lou, Ugly Jack, Prophet John",Belle and Sebastian,1,voice,0.955351650715,146.780090332,not_danceable,0.612910568714,major
+143457,550038,Focus!,"study, focus, indie, chill",5887278,Heaven,Rusted Root,1
+143457,550038,Focus!,"study, focus, indie, chill",5887249,Riot Rhythm,Sleigh Bells,1
+143457,550038,Focus!,"study, focus, indie, chill",5887321,Can't Hear My Eyes,Ariel Pink's Haunted Graffiti,1
+143457,550038,Focus!,"study, focus, indie, chill",5887262,Simple Song,The Shins,1
+143457,550038,Focus!,"study, focus, indie, chill",5887253,Straight To Hell,The Clash,1
+143457,550038,Focus!,"study, focus, indie, chill",5887254,Life Prowler,No Age,1
+143457,550038,Focus!,"study, focus, indie, chill",5887316,White Sky,Vampire Weekend,1,instrumental,0.999999761581,135.964035034,not_danceable,1,minor
+143457,550038,Focus!,"study, focus, indie, chill",5887281,Video Games,Lana Del Rey,1,voice,0.713516891003,122.356811523,not_danceable,0.630881547928,minor
+143457,550038,Focus!,"study, focus, indie, chill",5887327,Idioteque,Radiohead,1
+143457,550038,Focus!,"study, focus, indie, chill",5887270,Desert Song,Edward Sharpe & The Magnetic Zeros,1
+143457,550038,Focus!,"study, focus, indie, chill",5887334,Psychotic Girl,The Black Keys,1,instrumental,0.980948865414,162.19619751,not_danceable,0.763648867607,minor
+143457,550038,Focus!,"study, focus, indie, chill",5887296,Mongrel Heart,Broken Bells,1,instrumental,0.994063735008,98.4908218384,not_danceable,1,major
+143457,550038,Focus!,"study, focus, indie, chill",5887303,Walk At Night,Cults,1,voice,0.897568643093,119.691375732,danceable,0.739295125008,major
+143457,550038,Focus!,"study, focus, indie, chill",5887297,Can You Discover?,Discovery,1
+143457,550038,Focus!,"study, focus, indie, chill",5887331,Fools,The Dodos,1,voice,0.839350640774,98.3075485229,danceable,0.677346944809,major
+143457,550038,Focus!,"study, focus, indie, chill",5887311,Real Slow,Megafaun,1,voice,0.532154619694,120.03994751,danceable,0.638322174549,major
+143457,550038,Focus!,"study, focus, indie, chill",5887284,Never Tear Us Apart,Inxs,1
+143457,550038,Focus!,"study, focus, indie, chill",5887290,Left & Right In the Dark,Julian Casablancas,1,instrumental,0.687423944473,146.210708618,not_danceable,0.55879253149,major
+143457,550038,Focus!,"study, focus, indie, chill",5887322,Temazcal,Monsters Of Folk,1,voice,0.9571647048,142.182098389,danceable,0.610997974873,major
+143457,550038,Focus!,"study, focus, indie, chill",5887335,Hard to Explain,The Strokes,1
+143457,550038,Focus!,"study, focus, indie, chill",5887283,I'm Looking Through You,The Wallflowers,1
+143457,550038,Focus!,"study, focus, indie, chill",5887244,Dance Yourself Clean,LCD Soundsystem,1

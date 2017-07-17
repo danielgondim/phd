@@ -1,0 +1,16 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102027,The Art Of Breaking Apart,Velvet Acid Christ
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102031,Acts of Man,Midlake,voice,0.605746984482,131.325531006,not_danceable,0.892661094666,minor
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102040,Harvest,Opeth,instrumental,0.842903614044,125.044502258,danceable,0.990633845329,minor
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102061,Patterns in the Ivy II,Opeth,voice,0.662057995796,136.408798218,not_danceable,0.981726527214,major
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102127,Just The Same For You,Dope Stars Inc
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102141,My Mistakes Were Made For You,The Last Shadow Puppets,instrumental,0.99217903614,97.5296554565,not_danceable,1,minor
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102165,Crushed,Velvet Acid Christ
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102174,One Man's Dream,Yanni,instrumental,0.979059934616,122.722183228,not_danceable,0.994019806385,minor
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102196,Like Moths To Flame,Thrice,voice,0.927559256554,138.864273071,danceable,0.805740773678,minor
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102260,Encom Part II,Daft Punk,instrumental,0.952334344387,106.74055481,danceable,0.96124958992,minor
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102268,Autumn Leaves Revisited,Thursday,instrumental,0.977856576443,163.045089722,danceable,0.640376389027,minor
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102270,For Miles,Thrice
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102271,The Widow,The Mars Volta
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102274,Heard It Through The Grapevine,Birds Of Tokyo
+699546,579490,Phucking Perfect. Relax.,"chill, relaxing, soothing, focus, flawless",6102301,Kenji,Fort Minor,voice,0.628597021103,102.943237305,danceable,0.957021951675,minor

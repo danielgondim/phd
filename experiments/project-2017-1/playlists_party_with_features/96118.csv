@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+52998,96118,Serial killer mix,"eerie, dance party",51675,Human Fly,The Cramps
+52998,96118,Serial killer mix,"eerie, dance party",219494,Hurdy Gurdy Man,Donovan,instrumental,0.950469255447,163.448699951,not_danceable,1,minor
+52998,96118,Serial killer mix,"eerie, dance party",2256,Happy House,Siouxsie & The Banshees
+52998,96118,Serial killer mix,"eerie, dance party",95959,Problems,Mahjongg
+52998,96118,Serial killer mix,"eerie, dance party",148221,Fresh Blood,Eels,instrumental,0.983260273933,96.0573577881,danceable,0.567573070526,minor
+52998,96118,Serial killer mix,"eerie, dance party",29652,Vanished,Crystal Castles
+52998,96118,Serial killer mix,"eerie, dance party",518706,Goodbye Horses,Q Lazzarus,instrumental,0.910810649395,125.483329773,danceable,0.794334352016,major
+52998,96118,Serial killer mix,"eerie, dance party",56356,The Hurdy Gurdy Man,Butthole Surfers

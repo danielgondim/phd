@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+272,289,"8 songs you've never heard, by artists you've heard everything from","electronic rock, rock, indie rock",3334,India Rubber,Radiohead,0
+272,289,"8 songs you've never heard, by artists you've heard everything from","electronic rock, rock, indie rock",3335,Fast-Track,Radiohead,0
+272,289,"8 songs you've never heard, by artists you've heard everything from","electronic rock, rock, indie rock",3340,Edam Anchorman,Super Furry Animals,0,instrumental,0.990321040154,138.880096436,not_danceable,1,minor
+272,289,"8 songs you've never heard, by artists you've heard everything from","electronic rock, rock, indie rock",3341,All The Shit U Do,Super Furry Animals,0
+272,289,"8 songs you've never heard, by artists you've heard everything from","electronic rock, rock, indie rock",3343,Glamorous Indie Rock & Roll,The Killers,0,voice,0.994316399097,152.765151978,danceable,0.763925433159,major
+272,289,"8 songs you've never heard, by artists you've heard everything from","electronic rock, rock, indie rock",3337,Things You Can Do,TV On The Radio,0,instrumental,0.907469272614,94.8173675537,danceable,0.541725158691,minor
+272,289,"8 songs you've never heard, by artists you've heard everything from","electronic rock, rock, indie rock",3338,Snakes and Martyrs,TV On The Radio,0,voice,0.982564985752,120.451713562,danceable,0.844161272049,major
+272,289,"8 songs you've never heard, by artists you've heard everything from","electronic rock, rock, indie rock",3339,Sunken Rags,T.Rex,0

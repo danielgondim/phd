@@ -1,0 +1,67 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131297,A Horse With No Name,America,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131300,Back to Where I was,Eric Hutchinson,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131301,Closer To Love,Mat Kearney,1,instrumental,1,104.870239258,not_danceable,1,minor
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131302,Fast Car,Tracy Chapman,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131303,First One Shot,State Radio,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131307,For What It's Worth,Buffalo Springfield,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131308,Going up to the Country,Canned Heat,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131309,If I Could Do It Again,Corey Smith,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131310,Imagine,John Lennen,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131312,One,U2,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131321,Right Me Up,State Radio,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131322,Rise,Eddie Vedder,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131325,Save Tonight,Eagle Eye Cherry,1,voice,0.998957812786,120.399787903,not_danceable,0.865478038788,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131328,Snow (Hey Oh),Red Hot Chili Peppers,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131329,Someday We'll Know,New Radicals,1,voice,0.888369679451,109.370903015,not_danceable,1,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131330,Space Oddity,David Bowie,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131331,The General,Dispatch,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131332,This Time Tomorrow,The Kinks,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131337,Rhythm of Love,Plain White T's,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131340,Outside Villanova,Eric Hutchinson,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131342,Bang Bang,Dispatch,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131345,"Hey, Hey",Dispatch,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131348,Food Chain,Eric Hutchinson,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131349,Fake Plastic Trees,Radiohead,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131350,Meri Le Va,Maui Regae Jam 2007,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131354,Don't Matter to Me,Donovan Frankenreiter,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131355,Come On Get Higher,Matt Nathanson,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131359,The Captain,Guster,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131364,Riddle In London Town,State Radio,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131368,5 Years Time,Noah and the Whale,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131370,Sleep Walk,Jake Shimabukuro,1,instrumental,0.54972922802,89.9851608276,not_danceable,0.991185605526,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131372,Constantly,Cross Canadian Ragweed,1,voice,0.993127286434,122.561126709,danceable,0.577444732189,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131373,Do You Remember,Jack Johnson,1,voice,0.995403587818,96.0550689697,not_danceable,0.547478914261,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131378,Back To Where I Was,Eric Hutchinson,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131379,Little Lion Man,Mumford & Sons,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131381,Ooh la La,Faces,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131384,Heaven's In New York,Wyclef Jean,1,instrumental,0.999999940395,86.0200042725,not_danceable,1,minor
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131386,Beat Of My Heart,Jake Shimabukuro,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131387,Collie Man,Slightly Stoopid,1,voice,0.963474214077,172.265945435,danceable,0.607111752033,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131388,Keepsake,State Radio,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131389,Mario Kart Love Song,Sam Hart,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131391,Toes,Zac Brown Band,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131394,I'm Yours,Jason Mraz,1,voice,0.986438512802,151.047744751,danceable,0.551489651203,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131396,High and Dry,Radiohead,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131402,Slow Cheetah,Red Hot Chili Peppers,1,instrumental,0.807123661041,89.0270690918,not_danceable,0.787306308746,minor
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131405,Sing,Ben Lee,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131407,Close To You,Jake Shimabukuro,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131408,Crying Shame,Jack Johnson,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7131409,Free,Jack Johnson,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133196,The Zephyr Song,Red Hot Chili Peppers,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133199,Gin & Juice,The Gourds,1,voice,0.655579209328,122.408477783,not_danceable,0.557419538498,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133202,"Hey, Soul Sister",Train,1,voice,0.623307228088,96.8835830688,danceable,0.984036028385,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133204,Santeria,Sublime,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133206,Sirens,String Cheese Incident,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133208,Hold On To What You Believe,Mumford & Sons,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133210,Road To Nowhere,Talking Heads,1,voice,0.865286052227,110.187599182,not_danceable,0.723525941372,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133215,Walls of Jericho,ALO (Animal Liberation Orchestra),1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133217,The Garden Part 3,Tea Leaf Green,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133220,Empty Vessel (A Pledge Of No Allegiance),ALO (Animal Liberation Orchestra),1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133223,Easy Come High,Barefoot Truth,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133224,Honor & Harmony,G Love and Special Sauce,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133226,Run-Around,Blues Traveler,1,instrumental,0.521210432053,151.792526245,danceable,0.564051806927,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133228,Buffalo Soldier,Bob Marley,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133231,Rent,Pepper,1,voice,0.997914791107,89.6606216431,danceable,0.899955689907,major
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133232,Shores of Waiamu,Maui Regae Jam 2007,1
+1336277,716958,Study time,"study, jake shimabukuro, relax, focus, ukulele",7133234,Her Diamonds,Rob Thomas,1,voice,0.527377128601,172.265304565,danceable,0.999999344349,major

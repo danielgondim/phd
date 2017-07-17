@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+210,226,petesoders mix 1,,1555,Sound Of Silver,LCD Soundsystem,0,voice,0.883462369442,119.954978943,not_danceable,1,major
+210,226,petesoders mix 1,,1556,Time To Get Away,LCD Soundsystem,0,instrumental,0.51584059,125.004211426,danceable,0.959277391434,minor
+210,226,petesoders mix 1,,1557,Get Innocuous!,LCD Soundsystem,0
+210,226,petesoders mix 1,,1558,Someone Great,LCD Soundsystem,0
+210,226,petesoders mix 1,,1559,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0
+210,226,petesoders mix 1,,1560,North American Scum,LCD Soundsystem,0
+210,226,petesoders mix 1,,1561,Watch The Tapes,LCD Soundsystem,0,instrumental,0.754840731621,152.890213013,danceable,0.887866020203,minor
+210,226,petesoders mix 1,,1562,All My Friends,LCD Soundsystem,0,instrumental,0.989516437054,142.600219727,not_danceable,0.906321763992,major
+210,226,petesoders mix 1,,1563,Us v Them,LCD Soundsystem,0,instrumental,0.97766315937,132.438827515,danceable,0.941503822803,major
+210,226,petesoders mix 1,,1685,Someone Great,LCD Soundsystem,0

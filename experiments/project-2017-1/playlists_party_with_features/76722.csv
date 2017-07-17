@@ -1,0 +1,19 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565411,A Candlelit Dinner With Inamorta,Asking Alexandria,voice,0.992176294327,136.588897705,danceable,0.962030947208,major
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565413,Welcome to the Family,A Day to Remember,instrumental,0.979100167751,112.83669281,not_danceable,1,major
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565415,Start the Shooting,A Day to Remember,instrumental,0.999996542931,120.831390381,not_danceable,1,minor
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565422,Football Season is Over,Bring Me The Horizon,voice,0.996753096581,129.959899902,not_danceable,0.999993026257,major
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565425,Tell Slater Not To Wash His Dick,Bring Me The Horizon,instrumental,0.992279589176,140.769683838,not_danceable,1,minor
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565431,The Undertaker's Thirst For Revenge Is Unquenchable (The Final Battle),Chiodos
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565434,Merciless Cult,Dir En Grey,instrumental,0.964021921158,143.470703125,not_danceable,1,major
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565437,Saku,Dir En Grey,instrumental,0.974963009357,107.971038818,not_danceable,1,minor
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565440,There's No Sympathy for the Dead,Escape the Fate
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565442,The Common Hours,I See Stars
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565447,Sing This!,I See Stars
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565450,On Wings Of Integrity,My Children My Bride,voice,0.996390402317,144.042205811,danceable,0.919768035412,minor
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565451,...And Then You Die!,Karate High School
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565454,"Sometimes When You Lose, You Win (We'll Never Give Up)",Karate High School
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565456,Wildcat,Ratatat,instrumental,0.999997973442,115.897857666,danceable,0.969764947891,minor
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565461,Lex,Ratatat,instrumental,0.996689200401,104.983566284,danceable,0.857110023499,minor
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565464,HTML Rulez D00d,The Devil Wears Prada,voice,0.749439537525,184.570373535,danceable,0.658701896667,minor
+51285,76722,Fun and Crazy,"rock, screamo, fun, party",565465,Don't Dink And Drance,The Devil Wears Prada,voice,0.99190145731,129.545089722,not_danceable,0.702941298485,minor

@@ -1,0 +1,3 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+16808,16550,Drinking Country,country drinking partying,139029,Get Drunk and Be Somebody,Toby Keith
+16808,16550,Drinking Country,country drinking partying,139031,Keg In The Closet,Kenny Chesney,voice,0.671246111393,138.842025757,danceable,0.972829818726,major

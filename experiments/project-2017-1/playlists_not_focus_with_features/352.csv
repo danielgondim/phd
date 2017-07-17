@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+659,352,this one reminds me of my dad,"vintage, pop, rock",3984,"Papa's Got a Brand New Bag, Pt. 1",James Brown,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3844,Crystal Blue Persuasion,Tommy James & the Shondells,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",2901,The Song Remains The Same,Led Zeppelin,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3979,Billie Jean,Michael Jackson,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3980,Walk on the Wild Side,Lou Reed,0,instrumental,0.617506861687,96.8684844971,danceable,0.530657351017,major
+659,352,this one reminds me of my dad,"vintage, pop, rock",3982,Dreams,Fleetwood Mac,0,voice,0.913724839687,119.630142212,not_danceable,0.750363111496,major
+659,352,this one reminds me of my dad,"vintage, pop, rock",3981,I'll Follow The Sun,The Beatles,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3985,Ring Of Fire,Johnny Cash,0,voice,0.876180946827,103.849197388,not_danceable,0.779295027256,major
+659,352,this one reminds me of my dad,"vintage, pop, rock",3983,Beyond The Sea,Bobby Darin,0,voice,0.999216079712,139.520553589,danceable,0.606700003147,major

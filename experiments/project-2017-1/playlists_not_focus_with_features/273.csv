@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3159,Let Down,Radiohead,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3160,Empty,Metric,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3161,Dear Sons And Daughters Of Hungry Ghosts,Wolf Parade,0,voice,0.7815361619,143.284286499,not_danceable,0.515463829041,minor
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3162,The Crystal Cat,Dan Deacon,0,instrumental,0.760229587555,166.624664307,not_danceable,1,major
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3107,Distortions,Clinic,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3163,Dramamine,Modest Mouse,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3106,The Passenger,Iggy Pop,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3164,Emotion,Daft Punk,0

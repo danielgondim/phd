@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",785997,"To Be Young (is to be sad, is to be high)",Ryan Adams
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",785999,Yr Damned Ol' Dad,Kevin Devine,voice,0.932164371014,166.097000122,danceable,0.709647059441,major
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",786001,Home,Edward Sharpe & The Magnetic Zeros
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",786003,Texico Bitches,Broken Social Scene
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",786005,Congratulations,MGMT
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",786007,I'll Build You A Fire,Seabear,voice,0.921895682812,132.759384155,not_danceable,0.566505968571,major
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",786008,Is There A Ghost?,Band Of Horses
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",786010,Road to Joy,Bright Eyes,instrumental,0.932333707809,148.438598633,danceable,0.648832917213,major
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",786011,Fernando,Jenny Lewis
+30382,112160,I might be dead,"april, party, dead, 2010, rock and rollover",786012,Ring of Fire,Johnny Cash,voice,0.876180946827,103.849197388,not_danceable,0.779295027256,major

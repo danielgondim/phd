@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+963290,526986,f0cus,"study, focus, homework",5720999,The Prayer,Kid Cudi
+963290,526986,f0cus,"study, focus, homework",5721005,"Frank, AB",The Rural Alberta Advantage,instrumental,0.957239985466,129.877258301,not_danceable,0.558919966221,minor
+963290,526986,f0cus,"study, focus, homework",5721010,Seaside,The Kooks
+963290,526986,f0cus,"study, focus, homework",5721020,Vincent,Don McLean
+963290,526986,f0cus,"study, focus, homework",5721047,Sail,AWOLNATION
+963290,526986,f0cus,"study, focus, homework",5721057,Tragedy Bound,The Bravery
+963290,526986,f0cus,"study, focus, homework",5721075,White Winter Hymnal,Fleet Foxes
+963290,526986,f0cus,"study, focus, homework",5721081,Terrapin,Bonobo,instrumental,0.999993085861,152.033554077,not_danceable,0.705265462399,major
+963290,526986,f0cus,"study, focus, homework",5721087,Raise Your Weapon,Deadmau5,voice,0.60136204958,139.956588745,danceable,0.999786198139,major
+963290,526986,f0cus,"study, focus, homework",5721100,I Will Possess Your Heart,Death Cab for Cutie,instrumental,0.999988257885,133.067886353,not_danceable,0.848033726215,major
+963290,526986,f0cus,"study, focus, homework",5721112,One Day Like This,Elbow,voice,0.997359991074,162.270004272,not_danceable,0.904965937138,major
+963290,526986,f0cus,"study, focus, homework",5721142,The Ghost Inside,Broken Bells,instrumental,0.995850324631,103.970085144,not_danceable,1,major
+963290,526986,f0cus,"study, focus, homework",5721180,After The Storm,Mumford & Sons
+963290,526986,f0cus,"study, focus, homework",5721316,AU79,"Tyler, The Creator"

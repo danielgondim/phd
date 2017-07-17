@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+24468,32057,SENIOR WEEK. ,"dance, party, beach",107024,Right Round  ,Flo Rida,instrumental,0.97764223814,124.948074341,not_danceable,1,minor
+24468,32057,SENIOR WEEK. ,"dance, party, beach",19699,American Boy (feat. Kanye West),Estelle
+24468,32057,SENIOR WEEK. ,"dance, party, beach",163016,Best I Ever Had,Drake,voice,0.56448495388,80.9704589844,danceable,0.958224534988,minor
+24468,32057,SENIOR WEEK. ,"dance, party, beach",123938,Pokerface,Lady GaGa
+24468,32057,SENIOR WEEK. ,"dance, party, beach",58489,Don't Trust Me,3OH!3,instrumental,0.995235323906,129.953262329,not_danceable,1,major
+24468,32057,SENIOR WEEK. ,"dance, party, beach",118922,Love Game,Lady Gaga
+24468,32057,SENIOR WEEK. ,"dance, party, beach",164098,We Made You,Eminem,voice,0.866586267948,113.395645142,danceable,0.99126213789,minor
+24468,32057,SENIOR WEEK. ,"dance, party, beach",205664,Boom Boom Pow,Black Eyed Peas,instrumental,0.999998450279,129.981033325,not_danceable,1,minor
+24468,32057,SENIOR WEEK. ,"dance, party, beach",55439,Heartless,Kanye West
+24468,32057,SENIOR WEEK. ,"dance, party, beach",173446,Waking Up In Vegas,Katy Perry,voice,0.982987046242,131.004455566,danceable,0.852979719639,major
+24468,32057,SENIOR WEEK. ,"dance, party, beach",115792,Blame It( ft. T-Pain),Jamie Foxx
+24468,32057,SENIOR WEEK. ,"dance, party, beach",9833,Disturbia,Rihanna
+24468,32057,SENIOR WEEK. ,"dance, party, beach",7049,Shut Up and Let Me Go,The Ting Tings
+24468,32057,SENIOR WEEK. ,"dance, party, beach",115790,If U Seek Amy,Britney Spears,instrumental,0.972551465034,129.951309204,not_danceable,1,major

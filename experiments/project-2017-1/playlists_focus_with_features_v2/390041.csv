@@ -1,0 +1,20 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+374820,390041,study session,"easy listening, alternative rock, focus",4177133,Alone in Kyoto AIR,AIR,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177136,Lucky,All India Radio,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177139,The Shining,Badly Drawn Boy,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177140,Exit Music (For a Film),Brad Mehldau,1,instrumental,0.989189982414,154.416091919,not_danceable,0.961507678032,minor
+374820,390041,study session,"easy listening, alternative rock, focus",4177141,Clair De Lune,Claude Debussy,1,instrumental,0.988221943378,136.691864014,not_danceable,0.999993920326,major
+374820,390041,study session,"easy listening, alternative rock, focus",4177142,Beginning,Denis Jones,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177144,Lullaby for Christie,Dirty Three,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177149,Erupting Light,Hildur Guðnadóttir,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177152,Change Your Mind (Strong Quartet Version),The Killers,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177153,Above the Flood,Library Tapes,1,instrumental,0.999992549419,100.990226746,not_danceable,0.952276229858,minor
+374820,390041,study session,"easy listening, alternative rock, focus",4177155,Manha De Carnaval ,Luiz Bonfá,1,instrumental,0.936622560024,92.5981750488,not_danceable,0.971397995949,minor
+374820,390041,study session,"easy listening, alternative rock, focus",4177159,The Heart Asks Pleasure First,Michael Nyman Band,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177160,3055,Ólafur Arnalds,1,instrumental,0.999996840954,97.0404052734,not_danceable,1,major
+374820,390041,study session,"easy listening, alternative rock, focus",4177161,Pulling The Rain,Peter Broderick,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177163,Clipper ,Portico Quartet,1,instrumental,0.6298635602,129.277618408,not_danceable,0.846851348877,minor
+374820,390041,study session,"easy listening, alternative rock, focus",4177166,Come Back,Rosie and Me,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177167,Royksopp Forever,Royksopp,1
+374820,390041,study session,"easy listening, alternative rock, focus",4177168,Breathe Me,Sia,1,instrumental,0.999999344349,119.917060852,not_danceable,1,major
+374820,390041,study session,"easy listening, alternative rock, focus",4177172,Mirror Mirror ,Unicycle Loves You,1

@@ -1,0 +1,6 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+1019,398,brunocerous's July 2008 mix,,145,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0
+1019,398,brunocerous's July 2008 mix,,1329,Hell Yeah,Dead Prez,0
+1019,398,brunocerous's July 2008 mix,,1340,Archangel,Burial,0,instrumental,0.976512849331,135.322937012,danceable,0.928831636906,minor
+1019,398,brunocerous's July 2008 mix,,25,Dexter,Ricardo Villalobos,0,instrumental,0.537894964218,129.854309082,not_danceable,0.51849770546,major
+1019,398,brunocerous's July 2008 mix,,124,Little Red Corvette,Prince,0

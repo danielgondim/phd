@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+15851,17366,Music to make drunkn' mistakes to,"world, dance, party",19482,American Wedding,Gogol Bordello,instrumental,0.999999761581,123.322914124,not_danceable,1,minor
+15851,17366,Music to make drunkn' mistakes to,"world, dance, party",63083,Brass Monkey,Beastie Boys,voice,0.998297691345,116.318572998,danceable,0.999396145344,major
+15851,17366,Music to make drunkn' mistakes to,"world, dance, party",146219,Como Ves,Ozomatli,instrumental,0.78987622261,127.050750732,danceable,0.929532766342,major
+15851,17366,Music to make drunkn' mistakes to,"world, dance, party",91490,We're Not Gonna Take It,Twisted Sister
+15851,17366,Music to make drunkn' mistakes to,"world, dance, party",33098,When The Trickster Starts A-Poking (Bordello Kind Of Guy),Gogol Bordello,instrumental,0.987443387508,136.354248047,not_danceable,1,major
+15851,17366,Music to make drunkn' mistakes to,"world, dance, party",146329,Maggie Mae,The Pietasters
+15851,17366,Music to make drunkn' mistakes to,"world, dance, party",146299,Ridin,Classic & 86
+15851,17366,Music to make drunkn' mistakes to,"world, dance, party",146371,Drinking and Driving,The Pietasters

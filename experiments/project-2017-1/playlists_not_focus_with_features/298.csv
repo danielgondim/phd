@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+17,298,About Last Night,,3431,The Killing Moon,Echo & the Bunnymen,0,instrumental,0.993374168873,124.096641541,not_danceable,1,major
+17,298,About Last Night,,3432,Stormy Weather,Echo & The Bunnymen,0
+17,298,About Last Night,,3433,Parthenon Drive,Echo & The Bunnymen,0,instrumental,0.689747035503,131.626098633,danceable,0.903486609459,major
+17,298,About Last Night,,3428,The 15th,Wire,0,voice,0.996667206287,116.665260315,not_danceable,0.930405020714,major
+17,298,About Last Night,,3429,The 15th,Fischer Spooner,0,instrumental,0.522476673126,131.181518555,danceable,0.988028824329,major
+17,298,About Last Night,,1689,Christine,House of Love,0
+17,298,About Last Night,,3434,Louise,Clan of Xymox,0

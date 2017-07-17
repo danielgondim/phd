@@ -1,0 +1,17 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+278,311,A mix at 09:00 AM,,2813,Arcadia (Telefon Tel Aviv remix),Apparat,0
+278,311,A mix at 09:00 AM,,904,Stripped,Depeche Mode,0
+278,311,A mix at 09:00 AM,,3087,Black Tongue,Yeah Yeah Yeahs,0
+278,311,A mix at 09:00 AM,,1685,Someone Great,LCD Soundsystem,0
+278,311,A mix at 09:00 AM,,3204,Pogo,Digitalism,0
+278,311,A mix at 09:00 AM,,754,Everything In Its Right Place,Radiohead,0
+278,311,A mix at 09:00 AM,,658,Mayonaise,Smashing Pumpkins,0
+278,311,A mix at 09:00 AM,,2878,Jimmy,M.I.A.,0
+278,311,A mix at 09:00 AM,,185,Ghost Trains,Erlend Oye,0
+278,311,A mix at 09:00 AM,,140,Wishing (If I Had a Photograph of You),A Flock of Seagulls,0
+278,311,A mix at 09:00 AM,,3337,Things You Can Do,TV On The Radio,0,instrumental,0.907469272614,94.8173675537,danceable,0.541725158691,minor
+278,311,A mix at 09:00 AM,,123,Da Ya Think I'm Sexy?,Rod Stewart,0,voice,0.986554205418,122.552467346,not_danceable,0.849722981453,minor
+278,311,A mix at 09:00 AM,,2366,A Punchup at a Wedding,Radiohead,0
+278,311,A mix at 09:00 AM,,1459,I Found a Reason,Cat Power,0
+278,311,A mix at 09:00 AM,,2498,Rock Music,The Pixies,0
+278,311,A mix at 09:00 AM,,752,Bodysnatchers,Radiohead,0

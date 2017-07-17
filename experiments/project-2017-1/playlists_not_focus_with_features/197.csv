@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+14,197,Everything is Going to Be OK,,2461,Is There a Ghost,Band Of Horses,0,instrumental,0.999993622303,137.481338501,not_danceable,1,major
+14,197,Everything is Going to Be OK,,2463,A Sentence Of Sorts In Kongsvinger,Of Montreal,0
+14,197,Everything is Going to Be OK,,2462,Dictionary,The go find,0,instrumental,0.974712967873,129.943450928,danceable,0.679515898228,major
+14,197,Everything is Going to Be OK,,2460,Way Out,Ellen Allien & Apparat,0
+14,197,Everything is Going to Be OK,,2456,Your Ex-Lover Is Dead,Stars,0,instrumental,1,152.345794678,not_danceable,1,minor
+14,197,Everything is Going to Be OK,,2457,Deserter,Matthew Dear,0
+14,197,Everything is Going to Be OK,,2454,Breezin',Cornelius,0,instrumental,0.996805131435,141.995773315,danceable,0.966546595097,major
+14,197,Everything is Going to Be OK,,2459,Ice Cream,Muscles,0
+14,197,Everything is Going to Be OK,,2453,Bizarre Love Triangle (Step Pettibone Extended Mix),New Order,0
+14,197,Everything is Going to Be OK,,2451,Johnny Guitar,The Nice Boys,0
+14,197,Everything is Going to Be OK,,2455,On A String,Changes,0
+14,197,Everything is Going to Be OK,,2458,You! Me! Dancing!,los campesinos,0
+14,197,Everything is Going to Be OK,,2452,Always Love,Nada Surf,0

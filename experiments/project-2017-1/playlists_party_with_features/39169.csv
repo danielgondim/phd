@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+31211,39169,let me shake up your world ,"hip hop, rap, party",250970,D.O.A. (Death Of Autotune),Jay-Z
+31211,39169,let me shake up your world ,"hip hop, rap, party",310024,Hot Revolver (Feat Kevin Rudolf),Lil' Wayne
+31211,39169,let me shake up your world ,"hip hop, rap, party",133571,Prom Queen,Lil Wayne
+31211,39169,let me shake up your world ,"hip hop, rap, party",310002,Notorious B I G    What S Beef,Notorious BIG
+31211,39169,let me shake up your world ,"hip hop, rap, party",61164,Hip-Hop Saved My Life (featuring Nikki Jean),Lupe Fiasco,instrumental,0.999999880791,99.6359710693,not_danceable,1,minor
+31211,39169,let me shake up your world ,"hip hop, rap, party",83444,See You In My Nightmares ft Lil Wayne,Kanye West
+31211,39169,let me shake up your world ,"hip hop, rap, party",234061,Gone Going,Black Eyed Peas ft Jack Johnson,voice,0.992431461811,99.016708374,danceable,0.921182990074,major

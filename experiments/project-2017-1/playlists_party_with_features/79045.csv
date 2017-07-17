@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+5517,79045,Darkmatter party,"indie rock, electric, party, lo-fi",580226,Lips,Micachu & The Shapes,instrumental,0.973453879356,184.570373535,danceable,0.99891024828,minor
+5517,79045,Darkmatter party,"indie rock, electric, party, lo-fi",580227,Daft Punk Is Playing At My House,LCD Soundsystem,instrumental,0.580604910851,135.987518311,danceable,0.999792516232,minor
+5517,79045,Darkmatter party,"indie rock, electric, party, lo-fi",580228,limited edition oj slammer,cadence weapon,voice,0.984588384628,99.9952926636,danceable,0.999983429909,major
+5517,79045,Darkmatter party,"indie rock, electric, party, lo-fi",580229,Patrick 122 (CALLING IN SICK MIX),Mr Oizo
+5517,79045,Darkmatter party,"indie rock, electric, party, lo-fi",580230,Sleepyhead,Passion Pit,instrumental,0.995123207569,106.06615448,not_danceable,1,minor
+5517,79045,Darkmatter party,"indie rock, electric, party, lo-fi",580231,Calculator,Micachu,voice,0.904308915138,95.4441375732,danceable,0.909590005875,minor
+5517,79045,Darkmatter party,"indie rock, electric, party, lo-fi",580232,Massive U (Boston Phoenix Homework Assignment),Pretty & Nice
+5517,79045,Darkmatter party,"indie rock, electric, party, lo-fi",580233,Anything New,Digitalism,instrumental,0.963647544384,129.852615356,danceable,0.999998867512,major

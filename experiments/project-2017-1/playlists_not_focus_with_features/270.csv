@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+462,270,Roll Credits,"folk, indie rock, alternative rock",3103,Dark Center of the Universe,Modest Mouse,0
+462,270,Roll Credits,"folk, indie rock, alternative rock",3098,Fireworks,Animal Collective,0
+462,270,Roll Credits,"folk, indie rock, alternative rock",3112,Chemistry,Kimya Dawson,0
+462,270,Roll Credits,"folk, indie rock, alternative rock",3113,Our Hell,Emily Haines & The Soft Skeleton,0,instrumental,0.924969553947,98.9243011475,not_danceable,0.910652756691,major
+462,270,Roll Credits,"folk, indie rock, alternative rock",3110,Ceremony,New Order,0
+462,270,Roll Credits,"folk, indie rock, alternative rock",3111,Never Say Goodbye,My Bloody Valentine,0
+462,270,Roll Credits,"folk, indie rock, alternative rock",3102,Time to Pretend,MGMT,0,voice,0.849888265133,100.956443787,danceable,0.772075533867,major
+462,270,Roll Credits,"folk, indie rock, alternative rock",3158,Ibi Dreams of Pavement (A Better Half),Broken Social Scene,0

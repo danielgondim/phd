@@ -1,0 +1,5 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+12805,12796,My PlayList of Rock,party rock,110354,Decode,Paramore
+12805,12796,My PlayList of Rock,party rock,109591,Sweet Child O Mine,Guns N Roses
+12805,12796,My PlayList of Rock,party rock,110489,American idiot,Green day,instrumental,0.999999344349,92.9708862305,not_danceable,1,major
+12805,12796,My PlayList of Rock,party rock,110486,Everlong,Foo Fighters

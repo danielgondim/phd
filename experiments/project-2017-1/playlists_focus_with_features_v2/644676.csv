@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6563720,Belispeak,Purity Ring,1,instrumental,0.996571004391,104.997390747,not_danceable,1,minor
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6564155,Brake,Wzrd,1
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6564285,You're My Excuse To Travel,Baths ,1,voice,0.750745534897,94.9437713623,danceable,0.999423921108,major
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6567133,Before I Move Off,Mount Kimbie,1,instrumental,0.976245105267,104.981803894,danceable,0.854217410088,major
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6567216,Babys (4AD/Jagjaguwar Session),Bon Iver,1,instrumental,1,184.570129395,not_danceable,1,major
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6568792,Indoorsy,Baths,1
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6569377,Darkest (Dim),Tokimonsta,1
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6569487,The Whole World Knows,Bird,1
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6596322,You (Version 2.0),Gold Panda,1
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6596347,Fall Creek Boys Choir (Azedia Remix),Bon Iver,1
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6649995,Tea Leaf Dancers Feat. Andreya Triana,Flying Lotus,1,voice,0.840628921986,89.9166641235,danceable,0.999999880791,minor
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6650065,Unexpected Delight feat. Laura Darlington,Flying Lotus,1,instrumental,0.50847196579,98.6143341064,not_danceable,0.797600984573,minor
+791777,644676,Cool Beats,"instrumental, feel good, homework, relax, focus",6726801,Once Upon The Sea Of Blissful,Shpongle,1

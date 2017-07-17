@@ -1,0 +1,13 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628300,Rock That Body,Black Eyed Peas,voice,0.584193229675,124.995597839,danceable,0.998665690422,minor
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628303,Everybody Nose (All the Girls Standing In the Line for the Bathroom) (remix),"N.E.R.D. ft. Kanye, Lupe Fiasco & Pusha-T"
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628306,Little Bit (remix),Drake & Lykke Li
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628307,Spotlight  Ft. Usher,Gucci Mane
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628308,Move ,Q-Tip
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628310,One Love ft. Estelle,David Guetta
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628314,Best Best,Missy Elliott
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628316,"Morning After Dark (Feat. Nelly Furtado, Soshy)",Timbaland
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628319,Sexy Movimiento (ft. Wisin & Yandel),Nelly Furtado
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628321,Lemme Get that,Rihanna,instrumental,0.986207664013,87.9760818481,danceable,0.999762654305,minor
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628325,Keep It Going Louder (Feat. Ricky Blaze & Nina Sky),Major Lazer
+47103,86587,nite.i.dont.remember,"dance, pop, hip hop, rap, party",628331,Angel on My Shoulder,Kaskade,instrumental,0.666633248329,125.955291748,not_danceable,1,minor

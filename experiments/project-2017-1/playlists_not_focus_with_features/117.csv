@@ -1,0 +1,3 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+125,117,wilco71s mix 1,,1336,In McDonalds,Burial,0,instrumental,0.920598208904,129.134567261,not_danceable,0.995056867599,minor
+125,117,wilco71s mix 1,,1456,Imitosis,Andrew Bird,0,instrumental,0.999999880791,114.302154541,not_danceable,1,major

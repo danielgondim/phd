@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,voice_instrumental_prob,bpm,danceability_value,danceability_prob,tone
+672,458,ohm sweet ohm,rock,4554,"If I Had A Radio, I Would Be Listening To This",Aqua Teen Hunger Force,0
+672,458,ohm sweet ohm,rock,4555,Life Is a Rock (But the Radio Rolled Me),Reunion,0,voice,0.540708005428,122.348251343,not_danceable,0.519925951958,major
+672,458,ohm sweet ohm,rock,4556,The Cost of Living (Radio advert),"Clash, The",0
+672,458,ohm sweet ohm,rock,4557,Outside Broadcast (Radio Clash mix),"Clash, The",0
+672,458,ohm sweet ohm,rock,4559,Border Radio,The Blasters,0
+672,458,ohm sweet ohm,rock,4561,01   Bruce Springsteen   Radio Nowhere,Bruce Springsteen,0
+672,458,ohm sweet ohm,rock,4562,Dust Radio,Chris Whitley,0
+672,458,ohm sweet ohm,rock,4563,Satellite Radio,Steve Earle,0,instrumental,0.947075664997,178.206176758,danceable,0.736367702484,major
+672,458,ohm sweet ohm,rock,4564,Broken Radio,Jesse Malin,0
+672,458,ohm sweet ohm,rock,4565,Stuck Between Stations,The Hold Steady,0
+672,458,ohm sweet ohm,rock,4566,Wavelength,Van Morrison,0,instrumental,0.836386740208,142.646224976,danceable,0.61282324791,major
+672,458,ohm sweet ohm,rock,4567,Turn On Your Radio,Marc Cohn,0
+672,458,ohm sweet ohm,rock,4568,This Radio Station Is Good,Aqua Teen Hunger Force,0
+672,458,ohm sweet ohm,rock,4569,Intermission,Kraftwerk,0
