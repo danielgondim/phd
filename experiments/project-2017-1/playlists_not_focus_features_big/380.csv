@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+785,380,sleepingseva's July 2008 mix,"alternative rock, hip hop, rap",2705,Superstar (featuring Matthew Santos) (Album Version),Lupe Fiasco featuring Matt Santos,0,instrumental,1,2.83130159318e-08,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,94.9327545166
+785,380,sleepingseva's July 2008 mix,"alternative rock, hip hop, rap",3700,Dani California,Red Hot Chili Peppers,0
+785,380,sleepingseva's July 2008 mix,"alternative rock, hip hop, rap",1606,Stronger,Kanye West,0
+785,380,sleepingseva's July 2008 mix,"alternative rock, hip hop, rap",2898,Rising Up (Feat. Wale and Chrisette Michele),The Roots,0
+785,380,sleepingseva's July 2008 mix,"alternative rock, hip hop, rap",3215,Lost Ones (Feat. Chrissette Michelle) (Produced By Dr. Dre),Jay-Z,0
+785,380,sleepingseva's July 2008 mix,"alternative rock, hip hop, rap",3586,President,Wyclef Jean,0,instrumental,0.993463993073,0.00653602648526,not_danceable,3.00000096379e-14,1,not_acoustic,0.016693059355,0.98330694437,not_aggressive,3.00000096379e-14,1,not_party,1.57781560119e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,89.9508743286
+785,380,sleepingseva's July 2008 mix,"alternative rock, hip hop, rap",4107,You'll Find A Way,Santogold,0
+785,380,sleepingseva's July 2008 mix,"alternative rock, hip hop, rap",3816,Universal Mind Control (Dirty),Common ft Pharrell,0

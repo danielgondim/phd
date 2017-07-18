@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+26,73,Real Genius,,836,'...is that your real hair?',Sample,0
+26,73,Real Genius,,840,Summertime Girls,Y&T,0
+26,73,Real Genius,,847,I'm Falling,"Comsat Angels, The",0
+26,73,Real Genius,,848,All She Wants to Do is Dance,"Henley, Don",0
+26,73,Real Genius,,855,Number One,"Jankel, Chas",0
+26,73,Real Genius,,860,Everybody Wants to Rule the World,Tears For Fears,0,voice,0.0222992412746,0.977700769901,not_danceable,0.49092489481,0.50907510519,not_acoustic,0.433541625738,0.566458404064,not_aggressive,0.0244308654219,0.97556912899,party,0.541648089886,0.458351880312,relaxed,0.798645675182,0.201354339719,major,112.009307861

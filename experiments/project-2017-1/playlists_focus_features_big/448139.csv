@@ -1,0 +1,16 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5002881,Intro (Deep Focus Remix),The xx,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5003126,Good Evening Mr. Hitchcock,Gramatik,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5002884,Sæglópur (Enigma Dubstep Remix),Sigur Ros,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5002908,Breathe Me,Sia,1,instrumental,0.999999344349,6.8135273068e-07,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,119.917060852
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5003036,Zebra,Beach House,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5002912,Tornado,Jónsi,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5002886,Nevergreen,Emancipator,1,instrumental,0.999998509884,1.51790175096e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.087581679225,0.912418305874,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,172.265853882
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5003016,I Sing I Swim,Seabear,1,instrumental,0.999999582767,4.30519691008e-07,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,119.932388306
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5002887,Hayling,FC Kahuna,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5002861,Within the Rose,Matthew and the Atlas,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5003027,Quequ'un M'a Dit,Carla Bruni,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5002893,Fade Into You,Mazzy Star,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5009275,"Chopin: Nocturne #2 In E Flat, Op. 9/2, CT 109",Artur Rubinstein,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5009884,Isn't It Romantic?,Ella Fitzgerald,1
+655857,448139,"Hausaufgaben, usw.","study music, chill, quiet time, sleeping, focus",5009886,First Snow,Emancipator,1,instrumental,0.974725782871,0.0252742078155,not_danceable,0.146300375462,0.853699624538,not_acoustic,0.464893817902,0.535106182098,not_aggressive,0.0347455367446,0.965254485607,not_party,0.171450659633,0.828549325466,relaxed,0.950173616409,0.049826361239,minor,94.9696807861

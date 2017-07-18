@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+479,286,2 July,"rock, alternative rock, techno",3322,Break.,Refused,0
+479,286,2 July,"rock, alternative rock, techno",3324,I Wanna Be Your Dog,The Stooges,0
+479,286,2 July,"rock, alternative rock, techno",3327,Rockers To Swallow,Yeah Yeah Yeahs,0,voice,0.0011206548661,0.998879373074,danceable,0.739360630512,0.260639369488,not_acoustic,0.0962486639619,0.903751313686,aggressive,0.852450489998,0.147549539804,party,0.787284612656,0.212715417147,relaxed,0.767985701561,0.232014328241,major,94.8342590332
+479,286,2 July,"rock, alternative rock, techno",3326,Profanity Prayers,Beck,0,instrumental,0.999997317791,2.71029443866e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,152.153701782
+479,286,2 July,"rock, alternative rock, techno",3328,Private Plan in Dub,King Jammy VS. Dry & Heavy,0
+479,286,2 July,"rock, alternative rock, techno",3329,Avantcore,Busdriver,0
+479,286,2 July,"rock, alternative rock, techno",3330,Radio Fireworks,Surkin,0,instrumental,0.764644443989,0.235355570912,danceable,0.999999642372,3.57789872396e-07,not_acoustic,1.56967303155e-07,0.999999821186,aggressive,0.723316907883,0.276683092117,party,0.98736333847,0.012636680156,not_relaxed,0.39580526948,0.604194700718,minor,129.496505737
+479,286,2 July,"rock, alternative rock, techno",3325,Another People (Tonga Mashup),The Presets vs Lange & Gareth,0
+479,286,2 July,"rock, alternative rock, techno",3331,Rollin' & Scratchin',Daft Punk,0,instrumental,0.999989807606,1.02003496067e-05,danceable,0.961858689785,0.0381413400173,not_acoustic,0.0811245664954,0.918875455856,aggressive,0.58620017767,0.413799852133,party,0.900215983391,0.0997840240598,not_relaxed,0.170606866479,0.829393148422,major,130.187210083
+479,286,2 July,"rock, alternative rock, techno",3332,Smack,DJ Blaqstarr,0

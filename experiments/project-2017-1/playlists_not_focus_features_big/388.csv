@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+934,388,bluhammock July 2008 mix,,4184,To and Fro,Jim Boggia,0
+934,388,bluhammock July 2008 mix,,4186,Swing That Tamborine,Kristoffer Ragnstam,0
+934,388,bluhammock July 2008 mix,,4187,You Won't Be Able To Be Sad,The Break And Repair Method - (Paul Doucette),0,voice,0.420224279165,0.579775691032,not_danceable,0.0403742156923,0.959625780582,not_acoustic,0.0363749787211,0.963625013828,aggressive,0.550994455814,0.449005514383,party,0.578560948372,0.421439051628,not_relaxed,0.350774258375,0.649225771427,major,123.937538147
+934,388,bluhammock July 2008 mix,,4188,Go On With It,Val Emmich,0
+934,388,bluhammock July 2008 mix,,4189,Wasted,South,0
+934,388,bluhammock July 2008 mix,,4190,Ride,Cary Brothers,0
+934,388,bluhammock July 2008 mix,,4191,Oh No,KaiserCartel,0
+934,388,bluhammock July 2008 mix,,4192,Sante Fe,Virginia Coalition,0

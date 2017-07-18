@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+834251,499055,The Gigi Mix,"gigi d' agostino, techno, trance, sub focus",5528231,"Super (1,2,3)",Gigi D' Agostino,1
+834251,499055,The Gigi Mix,"gigi d' agostino, techno, trance, sub focus",5528234,Bla Bla Bla,Gigi D' Agostino,1
+834251,499055,The Gigi Mix,"gigi d' agostino, techno, trance, sub focus",5528255,Another Way - Angeli in festa,Gigi d'Agostino,1
+834251,499055,The Gigi Mix,"gigi d' agostino, techno, trance, sub focus",5528273,La passion - Angeli in festa,Gigi d'Agostino,1,voice,0.307499796152,0.692500174046,danceable,0.846744000912,0.153255984187,not_acoustic,0.195299685001,0.804700314999,not_aggressive,1.63214701843e-06,0.999998390675,not_party,0.23053906858,0.769460916519,relaxed,0.775290966034,0.224709033966,major,129.984939575
+834251,499055,The Gigi Mix,"gigi d' agostino, techno, trance, sub focus",5528288,Con Te Partirò,Gigi d'Agostino,1
+834251,499055,The Gigi Mix,"gigi d' agostino, techno, trance, sub focus",5528313,The Final Countdown,Il Folklorista,1

@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3159,Let Down,Radiohead,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3160,Empty,Metric,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3161,Dear Sons And Daughters Of Hungry Ghosts,Wolf Parade,0,voice,0.2184638381,0.7815361619,not_danceable,0.484536200762,0.515463829041,not_acoustic,0.237874701619,0.762125313282,not_aggressive,0.231006652117,0.768993318081,not_party,0.268721580505,0.731278419495,not_relaxed,0.121219798923,0.878780186176,minor,143.284286499
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3162,The Crystal Cat,Dan Deacon,0,instrumental,0.760229587555,0.239770427346,not_danceable,3.00000096379e-14,1,not_acoustic,0.00360063253902,0.996399343014,not_aggressive,3.00000096379e-14,1,not_party,1.5777468434e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,166.624664307
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3107,Distortions,Clinic,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3163,Dramamine,Modest Mouse,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3106,The Passenger,Iggy Pop,0
+462,273,FADE IN mix,"alternative rock, indie rock, electronic",3164,Emotion,Daft Punk,0

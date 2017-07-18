@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+477,281,Jam Session,"jam rock, jam band",3220,Mozambique,Trey Anastasio,0
+477,281,Jam Session,"jam rock, jam band",3221,Friend Of The Devil,Other Ones,0
+477,281,Jam Session,"jam rock, jam band",3235,My Soul,Phish,0
+477,281,Jam Session,"jam rock, jam band",3255,Grey Street (Live),Dave Matthews Band,0,instrumental,0.929405629635,0.0705943405628,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,99.5448226929
+477,281,Jam Session,"jam rock, jam band",3222,Jacob's Ladder/Blackberry Blossom (Live),Bruce Hornsby,0
+477,281,Jam Session,"jam rock, jam band",3223,Off He Goes,Pearl Jam,0
+477,281,Jam Session,"jam rock, jam band",3233,Martyr,Rusted Root,0
+477,281,Jam Session,"jam rock, jam band",3234,San Jose,String Cheese Incident,0
+477,281,Jam Session,"jam rock, jam band",3230,The Spirit Of Radio,Rush,0,voice,0.294116079807,0.705883920193,not_danceable,0.0922136753798,0.907786309719,not_acoustic,0.0551936663687,0.944806337357,aggressive,0.505890667439,0.494109332561,not_party,0.303657859564,0.696342170238,relaxed,0.930844545364,0.0691554620862,major,135.541687012

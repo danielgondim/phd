@@ -1,0 +1,3 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+251,168,thors mix 1,,1545,Ceremony (New Order cover),Radiohead,0
+251,168,thors mix 1,,913,Oh! You Pretty Things,David Bowie,0,voice,0.00318290106952,0.996817111969,not_danceable,0.37248596549,0.627514064312,not_acoustic,0.0763898789883,0.923610150814,not_aggressive,0.0740090608597,0.92599093914,not_party,0.488802284002,0.511197686195,not_relaxed,0.28087875247,0.719121217728,major,178.2059021

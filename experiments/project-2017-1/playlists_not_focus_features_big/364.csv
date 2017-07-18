@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4050,Runnin' (Instrumental),Jay Dilla,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4044,Straight Heat,edIT,0,instrumental,0.995224177837,0.0047758249566,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,95.0196685791
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4033,Overpowered,Róisín Murphy,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4047,Jack This Shit,MiCHAEL,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4053,Mercy,Lucky Dragons,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4055,Workinonit,Jay Dee,0
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4045,Mota Ginya,Voices of Darkness,0,instrumental,0.840837478638,0.15916249156,danceable,0.856442570686,0.143557399511,not_acoustic,0.0950037389994,0.904996275902,not_aggressive,0.253833442926,0.746166586876,party,0.923693776131,0.0763062462211,not_relaxed,0.0857478454709,0.91425216198,major,123.518074036
+645,364,the super cross-country steze mix,"electronic, electro, alternative rock",4064,Ojos de Brujo,Ojos de Brujo,0

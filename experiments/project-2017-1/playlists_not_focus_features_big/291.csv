@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+477,291,Mid '90s Mix,"alternative rock, 90s rock",3366,1979,Smashing Pumpkins,0,voice,0.0657891705632,0.934210836887,danceable,0.998712420464,0.00128759536892,not_acoustic,1.41378322382e-07,0.999999880791,aggressive,0.946592628956,0.0534073710442,party,0.789671897888,0.210328087211,not_relaxed,0.0129814324901,0.987018585205,major,128.823501587
+477,291,Mid '90s Mix,"alternative rock, 90s rock",3367,All Over You,Live,0
+477,291,Mid '90s Mix,"alternative rock, 90s rock",3362,Everything Zen,Bush,0,instrumental,0.981392562389,0.018607435748,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,129.794006348
+477,291,Mid '90s Mix,"alternative rock, 90s rock",3364,Say It Ain't So,Weezer,0
+477,291,Mid '90s Mix,"alternative rock, 90s rock",3361,In The Meantime,Spacehog,0
+477,291,Mid '90s Mix,"alternative rock, 90s rock",3360,Good,Better Than Ezra,0,voice,0.0025144724641,0.997485518456,not_danceable,0.379898488522,0.620101511478,not_acoustic,0.398748666048,0.601251363754,not_aggressive,0.170222014189,0.829777956009,party,0.604720532894,0.395279467106,not_relaxed,0.31493729353,0.68506270647,major,97.6570739746
+477,291,Mid '90s Mix,"alternative rock, 90s rock",3365,Plowed,Sponge,0

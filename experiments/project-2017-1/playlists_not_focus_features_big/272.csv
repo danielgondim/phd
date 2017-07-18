@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+431,272,Adriennes Awesome First Mix Man,,3135,Going to Acapulco,Jim James (My Morning Jacket),0
+431,272,Adriennes Awesome First Mix Man,,3136,Devotchka - Transliterator,Devotchka,0,voice,0.155028358102,0.844971656799,danceable,0.563420712948,0.43657925725,acoustic,0.606882870197,0.393117129803,not_aggressive,0.0322785899043,0.967721402645,not_party,0.0765960887074,0.923403918743,relaxed,0.937547087669,0.0624529123306,major,129.438171387
+431,272,Adriennes Awesome First Mix Man,,3137,Do Me A Favour,Arctic Monkeys,0
+431,272,Adriennes Awesome First Mix Man,,3138,"Does It Offend You, Yeah? - We Are Rockstars","Does It Offend You, Yeah?",0
+431,272,Adriennes Awesome First Mix Man,,3139,Heavy Heart,Ghostland Observatory,0
+431,272,Adriennes Awesome First Mix Man,,3140,Our Life Is Not A Movie Or Maybe,Okkervil River,0
+431,272,Adriennes Awesome First Mix Man,,3141,The Great Salt Lake,Band of Horses,0
+431,272,Adriennes Awesome First Mix Man,,3143,Keep Your Eyes Ahead,The Helio Sequence,0,voice,0.170948043466,0.829051971436,danceable,0.539749741554,0.460250288248,not_acoustic,0.152251571417,0.847748398781,not_aggressive,0.296381562948,0.703618407249,not_party,0.465672761202,0.5343272686,not_relaxed,0.119182251394,0.880817770958,minor,135.08505249

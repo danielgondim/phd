@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+87768,411691,PSAT #TwoThingsThatDontMix Cypher,"study, psat, focus, chill",4228475,Baths - Maximalist,ericstein,1
+87768,411691,PSAT #TwoThingsThatDontMix Cypher,"study, psat, focus, chill",4484752,Death Cab for Cutie - Doors Unlocked And Open [Cut Copy Remix],Death Cab for Cutie,1
+87768,411691,PSAT #TwoThingsThatDontMix Cypher,"study, psat, focus, chill",4484799,Theophilus London - Why Even Try (RAC Remix),TheophilusLondon,1,voice,0.0037222742103,0.996277749538,danceable,0.99900496006,0.000995045993477,not_acoustic,0.00651243468747,0.993487536907,not_aggressive,0.381798446178,0.618201553822,party,0.9236561656,0.0763438120484,not_relaxed,0.208159089088,0.791840910912,minor,99.9583969116
+87768,411691,PSAT #TwoThingsThatDontMix Cypher,"study, psat, focus, chill",4484769,02 B.I.G. E.G.O.,magnesiums,1
+87768,411691,PSAT #TwoThingsThatDontMix Cypher,"study, psat, focus, chill",4484797,Nightcrawler,NOSAJ THING,1
+87768,411691,PSAT #TwoThingsThatDontMix Cypher,"study, psat, focus, chill",4484755,"""Sunporch"" By Walls",Kompakt,1
+87768,411691,PSAT #TwoThingsThatDontMix Cypher,"study, psat, focus, chill",4484851,Lully Loure,LE CHEVALIER,1

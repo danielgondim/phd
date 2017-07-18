@@ -6,7 +6,7 @@ import musicbrainz, acousticbrainz, glob, csv
 NEW_COLUMNS = ['focus','voice_instrumental_value','instrumental','voice','danceability_value','danceable',
 'not_danceable','mood_acoustic_value','acoustic','not_acoustic','mood_aggressive_value','aggressive',
 'not_aggressive','mood_party_value','party','not_party','mood_relaxed_value','relaxed','not_relaxed','tone','bpm']
-NEW_DIRECTORY = '/home/danielgondim/workspace-new/phd/experiments/project-2017-1/playlists_focus_features_big/'
+NEW_DIRECTORY = '/home/danielgondim/workspace-new/phd/experiments/project-2017-1/playlists_not_focus_features_big/'
 
 def retrieve_features(song_name, artist_name):
 	MBIDs = musicbrainz.retrieve_MBID(song_name, artist_name)
@@ -47,7 +47,7 @@ def retrieve_features(song_name, artist_name):
 				mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm]
 	return []
 
-files = glob.glob("/home/danielgondim/workspace-new/phd/experiments/project-2017-1/playlists_focus/*.csv")
+files = glob.glob("/home/danielgondim/workspace-new/phd/experiments/project-2017-1/playlists_not_focus/*.csv")
 
 count = 0
 for file in files:
@@ -61,7 +61,7 @@ for file in files:
 			header.append(column)
 		new_content.append(header)
 		for row in reader:
-			features = [1] + retrieve_features(row[5], row[6])
+			features = [0] + retrieve_features(row[5], row[6])
 			for feature in features:
 				row.append(feature)
 			new_content.append(row)

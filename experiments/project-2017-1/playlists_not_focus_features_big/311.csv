@@ -1,0 +1,17 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+278,311,A mix at 09:00 AM,,2813,Arcadia (Telefon Tel Aviv remix),Apparat,0
+278,311,A mix at 09:00 AM,,904,Stripped,Depeche Mode,0,voice,0.349275887012,0.650724112988,not_danceable,0.0850500240922,0.914949953556,not_acoustic,0.0172018241137,0.982798159122,aggressive,0.949012935162,0.0509870611131,party,0.811859071255,0.188140898943,not_relaxed,0.0499369055033,0.950063109398,minor,90.5728530884
+278,311,A mix at 09:00 AM,,3087,Black Tongue,Yeah Yeah Yeahs,0,voice,0.0510351061821,0.948964893818,danceable,0.908326625824,0.0916733592749,not_acoustic,0.00587090523914,0.994129121304,aggressive,0.55553996563,0.44446003437,party,0.60124284029,0.398757189512,not_relaxed,0.309930622578,0.690069377422,minor,138.847091675
+278,311,A mix at 09:00 AM,,1685,Someone Great,LCD Soundsystem,0,instrumental,0.533156633377,0.466843336821,danceable,0.985771119595,0.0142288934439,not_acoustic,0.388297587633,0.611702442169,not_aggressive,0.0198746062815,0.980125367641,party,0.777454316616,0.222545668483,not_relaxed,0.485176533461,0.514823436737,major,113.006866455
+278,311,A mix at 09:00 AM,,3204,Pogo,Digitalism,0
+278,311,A mix at 09:00 AM,,754,Everything In Its Right Place,Radiohead,0
+278,311,A mix at 09:00 AM,,658,Mayonaise,Smashing Pumpkins,0,voice,0.32778686285,0.67221313715,danceable,0.999999880791,1.00000008274e-07,not_acoustic,1.11079518916e-08,1,aggressive,0.815267205238,0.184732824564,not_party,0.292487412691,0.707512557507,relaxed,0.808735489845,0.191264510155,major,164.70942688
+278,311,A mix at 09:00 AM,,2878,Jimmy,M.I.A.,0
+278,311,A mix at 09:00 AM,,185,Ghost Trains,Erlend Oye,0
+278,311,A mix at 09:00 AM,,140,Wishing (If I Had a Photograph of You),A Flock of Seagulls,0
+278,311,A mix at 09:00 AM,,3337,Things You Can Do,TV On The Radio,0,instrumental,0.907469272614,0.0925307124853,danceable,0.541725158691,0.458274841309,not_acoustic,0.0563372932374,0.943662703037,not_aggressive,3.00000096379e-14,1,not_party,0.00180258578621,0.998197436333,relaxed,0.808830201626,0.191169813275,minor,94.8173675537
+278,311,A mix at 09:00 AM,,123,Da Ya Think I'm Sexy?,Rod Stewart,0,voice,0.0134458150715,0.986554205418,not_danceable,0.150277048349,0.849722981453,not_acoustic,0.0135665247217,0.986433446407,aggressive,0.828144490719,0.171855524182,party,0.811858415604,0.188141599298,not_relaxed,0.0513145327568,0.948685467243,minor,122.552467346
+278,311,A mix at 09:00 AM,,2366,A Punchup at a Wedding,Radiohead,0
+278,311,A mix at 09:00 AM,,1459,I Found a Reason,Cat Power,0,voice,0.165985777974,0.834014236927,not_danceable,0.00988004356623,0.990119934082,acoustic,0.973963439465,0.0260365456343,not_aggressive,0.0101332236081,0.989866793156,not_party,0.0184219237417,0.981578052044,relaxed,0.987384617329,0.0126153705642,minor,108.073982239
+278,311,A mix at 09:00 AM,,2498,Rock Music,The Pixies,0
+278,311,A mix at 09:00 AM,,752,Bodysnatchers,Radiohead,0

@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",1572,Love Generation,Bob Sinclar feat. Gary Pine,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",1630,No Te Vas feat. Angela Jones,Christos Kessidis,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2726,Everybody Loves You,Victor Masi & Tiziano Borghi,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2729,Erotica,Madonna,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2730,Sunday Afternoons,Vanessa Daou,0,instrumental,0.743952453136,0.256047517061,not_danceable,0.13655641675,0.863443613052,not_acoustic,0.125194191933,0.874805808067,not_aggressive,0.251710414886,0.748289585114,not_party,0.296293109655,0.703706920147,relaxed,0.667492032051,0.332507938147,minor,100.959671021
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2732,Love Sweet Sound,Groove Armada,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2731,Sweetest Taboo,Sade,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2733,Move Me Slow,Govinda,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2734,Make Believe,Vanessa Daou,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2735,Voices In The Dark,Enigma & Deep Forrest,0
+165,230,Sounds of Erotic Disco,"lounge, electronic, house, club, dance",2737,Love Yourself,Blue Six,0,instrumental,0.993498206139,0.00650181109086,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955902338028,0.904409766197,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,124.990379333

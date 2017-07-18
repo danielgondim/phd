@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443183, I Do,Colbie Caillat,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443190,Valerie,Amy Winehouse,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443196,Stand By Me,John Lennon,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443230,Lovesick,Friendly Fires,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443255,Count Me In,Leeland,1,voice,0.478259176016,0.521740853786,danceable,0.603823184967,0.396176815033,not_acoustic,2.8609980518e-07,0.999999701977,aggressive,0.954405248165,0.0455947443843,party,0.875838935375,0.124161064625,not_relaxed,0.131515756249,0.868484258652,major,129.981506348
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443285,Don't Stop the Music,Rihanna,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443299,Must Have Done Something Right,Relient K,1,voice,0.419236779213,0.580763220787,danceable,0.542555391788,0.457444608212,not_acoustic,0.0156272128224,0.984372794628,not_aggressive,0.20902121067,0.79097878933,party,0.694823265076,0.305176764727,not_relaxed,0.134155988693,0.865844011307,major,138.032119751
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443365,I Want You Back,KT Tunsall,1
+327304,752378,Happy Tunes,"upbeat toe-tappers, focus, happy, relax",7443422,I Wanna Hold Your Hand,The Beatles,1

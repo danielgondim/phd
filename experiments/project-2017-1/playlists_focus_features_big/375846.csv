@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3964954,Animals,Minilogue,1
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3964959,Birth Of New Life,Drexciya,1,instrumental,0.972337305546,0.0276627186686,danceable,0.993252813816,0.00674716616049,not_acoustic,0.212200537324,0.787799477577,not_aggressive,3.08441508423e-06,0.999996900558,not_party,0.439646482468,0.560353517532,relaxed,0.815018475056,0.184981539845,minor,128.445571899
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3964961,Les Ondes,Motorbass,1,instrumental,0.596520006657,0.403479963541,not_danceable,3.00000096379e-14,1,not_acoustic,0.00597121100873,0.994028806686,not_aggressive,3.00000096379e-14,1,not_party,1.24399393826e-05,0.999987542629,relaxed,0.808817088604,0.191182896495,minor,118.876403809
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3964972,We Now Understand,SEN,1
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3964975,Cocoroach,Gez Varley presents...,1
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3964986,Overhere,Shackleton And Appleblim,1
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3964988,Dr. Blowfins' Black Storm Stabilizing Spheres,Drexciya,1
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3964997,Redundance 6,Porter Ricks,1
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3965001,Converge,Plastikman,1,instrumental,1,3.85468013064e-09,danceable,0.999999880791,1.00000008274e-07,not_acoustic,9.93243887137e-09,1,aggressive,0.657455742359,0.342544257641,not_party,0.0462878011167,0.95371222496,relaxed,0.868392646313,0.131607338786,minor,121.964324951
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3965004,Tanzen,Pole,1
+260320,375846,Fathoms deep.,"ambient house, unfocus, sonar, signals",3965009,Soul Rain,SEN,1,instrumental,0.999999940395,3.64194150393e-08,not_danceable,6.4136115725e-06,0.999993562698,not_acoustic,0.0159432794899,0.984056711197,not_aggressive,0.0309533663094,0.969046652317,not_party,0.000993177294731,0.999006807804,relaxed,0.996099174023,0.00390084227547,minor,110.930236816

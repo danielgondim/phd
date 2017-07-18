@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+648790,474966,Focus,"focus, study",5353687,The Night Sky,Keane,1
+648790,474966,Focus,"focus, study",5353761,Signs,Bloc Party,1
+648790,474966,Focus,"focus, study",5353848,Big Sur,The Thrills,1,instrumental,0.999999761581,2.2524660892e-07,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,130.100830078
+648790,474966,Focus,"focus, study",5354155,Only The Young,Brandon Flowers,1
+648790,474966,Focus,"focus, study",5354184,Houses,Great Northern,1,voice,0.0142903365195,0.985709667206,danceable,0.655569672585,0.344430297613,not_acoustic,0.0462706834078,0.953729331493,not_aggressive,0.136635348201,0.863364636898,not_party,0.426301300526,0.573698699474,relaxed,0.676868259907,0.323131740093,major,129.957077026
+648790,474966,Focus,"focus, study",5354200,To Lose My Life,White Lies,1,voice,0.0450524315238,0.954947590828,danceable,0.948665380478,0.0513345897198,not_acoustic,0.00850871577859,0.991491258144,aggressive,0.670605897903,0.329394131899,party,0.911597073078,0.0884029269218,not_relaxed,0.099560521543,0.900439500809,minor,132.007110596
+648790,474966,Focus,"focus, study",5354245,Losing Touch,The Killers,1,instrumental,0.996269702911,0.00373027753085,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,117.991523743
+648790,474966,Focus,"focus, study",5354269,October,Broken Bells,1

@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+84,136,Naureens Holiday Mix,"holiday, classics",1588,White Christmas,Bing Crosby,0
+84,136,Naureens Holiday Mix,"holiday, classics",1587,Happy Christmas,John & Yoko and The Plastic Ono Band with the Harlem Community Choir,0
+84,136,Naureens Holiday Mix,"holiday, classics",1586,Little Drummer Boy/Peace On Earth,Bing Crosby & David Bowie,0
+84,136,Naureens Holiday Mix,"holiday, classics",1585,Let It Snow!,Dean Martin,0
+84,136,Naureens Holiday Mix,"holiday, classics",1584,Sleigh Ride,Ella Fitzgerald,0
+84,136,Naureens Holiday Mix,"holiday, classics",1583,The Christmas Song,Nat King Cole,0
+84,136,Naureens Holiday Mix,"holiday, classics",1582,Do They Know It's Christmas?,Band Aid,0,voice,0.0197600889951,0.980239927769,danceable,0.689885616302,0.310114383698,not_acoustic,0.439852684736,0.560147345066,not_aggressive,0.0994190424681,0.900580942631,not_party,0.335000187159,0.664999783039,not_relaxed,0.231379464269,0.768620550632,major,115.363876343
+84,136,Naureens Holiday Mix,"holiday, classics",1581,Wonderful Christmastime,Paul McCartney,0

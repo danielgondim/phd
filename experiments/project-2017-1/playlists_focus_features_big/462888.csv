@@ -1,0 +1,17 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225276,01 Motus,Moonbeams,1,voice,0.278741449118,0.721258580685,danceable,0.999999523163,4.75640348441e-07,not_acoustic,0.0212972983718,0.97870272398,aggressive,0.58484685421,0.41515314579,party,0.801415085793,0.198584929109,not_relaxed,0.5,0.5,minor,122.950889587
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225194,Complications,Deadmau5,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225189,Makalu,Jay C,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225283,Sleep Deprivation,Simian Mobile Disco,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225258,Hypnotised (Main Club Remix),Hook N Sling feat Johnny Blake,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225268,A. At Night B. Shooting Stars (Acapella Remix),A. Ridney B. Bag Raiders,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225199,BPM,Marcel Woods,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225213,The Tube (Nathan Profitt Remix),Tiësto,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225201,Iced Out (Calvin Harris Remix),Burns,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225221,Dynasty (Kaskade Arena Mix),Kaskade Feat. Haley,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225252,Superstar (The Krays remix),Aeroplane,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225272,Saturate,The Chemical Brothers,1,instrumental,0.999997079372,2.91729907076e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,133.72694397
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225255,Paradise Circus (feat. Hope Sandoval) (Gui Boratto Remix),Massive Attack,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225261,Sometimes (Hook N Sling Remix),Miami Horror,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225274,This Space,Röyksopp,1
+107837,462888,electronic adderall.,"electronic, chill, house, study, focus",5225263,Time (We Plants Are Happy Plants Remix) ,Hans Zimmer,1,instrumental,0.999984145164,1.58309921972e-05,danceable,0.997255444527,0.00274455081671,not_acoustic,0.00274987262674,0.997250139713,not_aggressive,0.263440996408,0.736559033394,party,0.715501785278,0.284498214722,relaxed,0.667515814304,0.332484155893,major,132.018325806

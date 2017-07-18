@@ -1,0 +1,24 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7063397,She Moves She,Four Tet,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204194,Acid Wølfpack,Coyote Kisses,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204255,Happy Up Here,Breakbot,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204266,Holiday,Capital Cities,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204273,Intro,The xx,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204275,Jump in the Pool (Thin White Duke Remix),Friendly Fires,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204279,Kennedy,Ratatat,1,instrumental,1,5.07457270649e-12,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,110.014083862
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204287,Ladyflash (Hot Chip Remix),The Go! Team,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204309,Melodic Trance,Moby,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204310,Me & The Moon (Clock Opera Remix),The Drums,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204331,Motivation [Lil B],Clams Casino,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204346,Need You Now,Cut Copy,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204348,New Chain (Phonetag Remix SB Edit),Small Black,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204359,Phantom (CFCF's Six Pack Remix),Justice,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204376,Ready For The Floor,Hot Chip,1,voice,0.109852902591,0.890147089958,danceable,0.998310446739,0.00168954452965,not_acoustic,0.0449354052544,0.955064594746,not_aggressive,0.197181463242,0.802818536758,party,0.681884348392,0.318115621805,not_relaxed,0.155433148146,0.844566822052,minor,128.973068237
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204423,Two (Buffetlibre Remix),The Antlers,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204436,Untust US,Crystal Castles,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204448,Wildcat,Ratatat,1,instrumental,0.999997973442,2.04922298508e-06,danceable,0.969764947891,0.0302350390702,not_acoustic,0.0227791871876,0.977220833302,not_aggressive,0.108936131001,0.891063868999,party,0.559162139893,0.440837860107,relaxed,0.690058767796,0.309941232204,minor,115.897857666
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204648,Little Girl Blue (Postal Service Remix),Nina Simone,1,instrumental,0.981023013592,0.0189769975841,danceable,0.980465769768,0.0195342227817,not_acoustic,0.179935902357,0.820064127445,not_aggressive,0.0143669210374,0.985633075237,party,0.527235209942,0.472764790058,relaxed,0.588638007641,0.411361992359,major,142.081466675
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204879,Lord Leopard,Caribou,1,voice,0.484002709389,0.515997290611,not_danceable,0.235279604793,0.764720380306,acoustic,0.640665233135,0.359334737062,not_aggressive,0.294018447399,0.705981552601,not_party,0.436896711588,0.563103318214,relaxed,0.930375993252,0.0696240067482,minor,132.463729858
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204905,Can't Get Thru,BLAKKAT feat NATALIE ARNOLD,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7204952,Sun Showers,Arrange,1
+73835,726202,Aural Adderall,"study, remix, indie electronic, focus",7205138,Transparent things,Fujiya & Miyagi,1,voice,0.101182043552,0.898817956448,danceable,0.98069524765,0.0193047802895,not_acoustic,0.0469089895487,0.953091025352,not_aggressive,0.105638884008,0.894361138344,party,0.661031246185,0.338968724012,relaxed,0.83313280344,0.16686719656,minor,122.102806091

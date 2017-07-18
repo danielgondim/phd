@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+26,74,Madopalogic,,888,Italian Waffle,Mujaji,0
+26,74,Madopalogic,,890,Boss on the Boat,Tosca,0
+26,74,Madopalogic,,891,Focus on Sight,Thievery Corporation,0,instrumental,0.913321256638,0.0866787433624,danceable,0.935393512249,0.0646064952016,not_acoustic,0.212571933866,0.787428081036,not_aggressive,0.00922784954309,0.990772128105,not_party,0.437471777201,0.562528192997,relaxed,0.512847781181,0.487152218819,minor,105.931167603
+26,74,Madopalogic,,892,Problem Is,Dub Pistols,0
+26,74,Madopalogic,,895,Fender Bender,Kid Koala,0,instrumental,0.939406752586,0.0605932697654,danceable,0.926988959312,0.0730110183358,not_acoustic,0.0198147147894,0.980185270309,not_aggressive,1.92385840592e-08,1,not_party,0.0021417750977,0.997858226299,relaxed,0.808109343052,0.191890656948,major,164.708999634
+26,74,Madopalogic,,896,6 Underground (Nellee Hooper Edit),Sneaker Pimps,0
+26,74,Madopalogic,,897,Numb,Portishead,0,voice,0.0589162074029,0.941083788872,danceable,0.999950945377,4.90317397634e-05,not_acoustic,0.0546293966472,0.945370614529,not_aggressive,1.53463736297e-06,0.999998450279,party,0.60566753149,0.394332498312,relaxed,0.804158449173,0.195841550827,major,155.531265259
+26,74,Madopalogic,,898,Happy Cycling,Boards of Canada,0,instrumental,0.671836495399,0.328163504601,danceable,0.797290623188,0.202709391713,not_acoustic,0.106973238289,0.893026769161,not_aggressive,0.447752028704,0.552247941494,not_party,0.308031529188,0.691968500614,relaxed,0.797196865082,0.202803149819,major,105.492256165
+26,74,Madopalogic,,901,Homage to Patagonia,Lemon Jelly,0,instrumental,0.954063713551,0.0459363050759,danceable,0.999887168407,0.000112841000373,not_acoustic,0.0072188032791,0.992781221867,not_aggressive,0.330045521259,0.669954478741,party,0.713658571243,0.286341398954,relaxed,0.598205089569,0.401794940233,minor,91.7704162598
+26,74,Madopalogic,,902,Two Months Off (Radio Edit),Underworld,0

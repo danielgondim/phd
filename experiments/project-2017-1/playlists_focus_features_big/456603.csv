@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+135174,456603,Keep Movin',"rock, hip hop, focus, motivation",5131120,Vienna,Billy Joel,1
+135174,456603,Keep Movin',"rock, hip hop, focus, motivation",5131130,Written In the Stars,Tinie Tempah,1
+135174,456603,Keep Movin',"rock, hip hop, focus, motivation",5131125,On To the Next One,Jay-Z,1,instrumental,0.997036874294,0.00296311639249,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955853611231,0.904414653778,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,88.554977417
+135174,456603,Keep Movin',"rock, hip hop, focus, motivation",5131136,I Will Survive,Cake,1
+135174,456603,Keep Movin',"rock, hip hop, focus, motivation",5131131,The Show Goes On,Lupe Fiasco,1,voice,0.10175781697,0.898242175579,danceable,0.999810814857,0.00018921305309,not_acoustic,0.12842670083,0.871573269367,not_aggressive,0.175843968987,0.824156045914,party,0.634537756443,0.365462243557,not_relaxed,0.151786968112,0.848213016987,major,142.941101074
+135174,456603,Keep Movin',"rock, hip hop, focus, motivation",5131145,Live and Let Die,Guns N' Roses,1
+135174,456603,Keep Movin',"rock, hip hop, focus, motivation",5131142,All About Soul (Remix),Billy Joel,1,voice,0.183001607656,0.816998422146,danceable,0.864627063274,0.135372936726,not_acoustic,0.152269616723,0.847730398178,aggressive,0.531898319721,0.468101680279,not_party,0.320398300886,0.679601728916,relaxed,0.570681393147,0.429318577051,minor,110.852928162
+135174,456603,Keep Movin',"rock, hip hop, focus, motivation",5131138,Comfort Eagle,Cake,1
+135174,456603,Keep Movin',"rock, hip hop, focus, motivation",5131147,Something's Got To Give,Beastie Boys,1

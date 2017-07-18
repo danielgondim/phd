@@ -1,0 +1,17 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5633928,Maximal Crazy (Radio Edit),Tiesto,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5633984,Insanity,iNexus,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634007,Bingo Players - Cry (Just A Little),Bingo Players,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634024,Skyrim (Drumstep),Oscillator Z,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634055,Must Be The Feeling,Nero,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634080,My Feelings For You,Avicii & Sebastien Drums,1,instrumental,0.923163235188,0.0768367871642,danceable,0.999999880791,1.12674150898e-07,not_acoustic,1.04971867643e-07,0.999999880791,not_aggressive,3.00000096379e-14,1,not_party,0.00221630744636,0.997783720493,relaxed,0.808817207813,0.191182807088,minor,127.998214722
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634095,New Life on Ibiza,Tiesto,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634112,4th Of July (Beta Traxx Remix),Kelis,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634129,Out Of Touch (Dj Kue),Hall And Oates,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634134,So Much Love ,Fedde Le Grand ,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634149,Put Your Hands Up for Detroit,Fedde Le Grande,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634168,Wild Ones (Remix) (Ft. Flo Rida & Sia),Sex Ray Vision,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634226,The Matrix,Bassnectar,1,voice,0.187725245953,0.812274754047,danceable,0.999999880791,1.00000008274e-07,not_acoustic,1.05195674394e-09,1,aggressive,0.999999880791,1.00000008274e-07,not_party,1.85464814422e-05,0.999981462955,relaxed,0.796395361423,0.203604638577,major,85.011505127
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634247,Move Higher,Sub Focus   ,1
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634288,Can We Go Up,Paper Diamond,1,instrumental,0.908704102039,0.0912959054112,danceable,0.999952852726,4.71258135804e-05,not_acoustic,0.0115243475884,0.988475680351,not_aggressive,0.205154001713,0.794845998287,party,0.902412116528,0.0975878760219,relaxed,0.81136572361,0.18863427639,minor,138.027893066
+671333,514464,Get You Moving.,"tiesto, sub focus, fedde le grand, paper diamond, dance",5634304,Pilgrim,Ravi Parikh (of Sex Ray Vision),1

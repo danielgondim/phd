@@ -1,0 +1,3 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+1219,459,cliffdiver1's August 2008 mix,,3566,Time to Pretend,MGMT,0,voice,0.150111749768,0.849888265133,danceable,0.772075533867,0.227924451232,not_acoustic,0.00422516977414,0.995774805546,not_aggressive,0.292151838541,0.707848131657,not_party,0.289422690868,0.710577309132,not_relaxed,0.149985030293,0.850014984608,major,100.956443787
+1219,459,cliffdiver1's August 2008 mix,,124,Little Red Corvette,Prince,0

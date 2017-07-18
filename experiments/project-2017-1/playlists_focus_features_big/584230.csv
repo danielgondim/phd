@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146854,Amber,Mannheim Steamroller,1
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146868,Flaws,Bombay Bicycle Club,1,voice,0.060377497226,0.9396225214,not_danceable,0.0122808609158,0.987719118595,acoustic,0.947259902954,0.0527400746942,not_aggressive,0.00613070186228,0.993869304657,not_party,0.0822697430849,0.917730271816,relaxed,0.920788347721,0.0792116671801,major,140.051177979
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146872,Fragile,Dustin O'Halloran,1
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146889,We Move Lightly,Dustin O'Halloran,1,instrumental,0.986373722553,0.0136262960732,not_danceable,0.00384036987089,0.996159613132,acoustic,0.999226510525,0.000773504492827,not_aggressive,8.74560385e-07,0.99999910593,not_party,0.00765691045672,0.992343068123,relaxed,0.992508232594,0.00749176880345,minor,150.100875854
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146892,Where Is My Mind (The Pixies Piano Cover),Maxence Cyrin,1
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146893,To Build A Home (Instrumental Version),The Cinematic Orchestra,1
+741107,584230,"no, seriously. i need to study","study, instrumental, chill, focus",8146979,Deep,Citizen Cope,1

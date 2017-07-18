@@ -1,0 +1,3 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+70,108,evans mix 1,,1459,I Found a Reason,Cat Power,0,voice,0.165985777974,0.834014236927,not_danceable,0.00988004356623,0.990119934082,acoustic,0.973963439465,0.0260365456343,not_aggressive,0.0101332236081,0.989866793156,not_party,0.0184219237417,0.981578052044,relaxed,0.987384617329,0.0126153705642,minor,108.073982239
+70,108,evans mix 1,,1434,Can I Kick It?,A Tribe Called Quest,0

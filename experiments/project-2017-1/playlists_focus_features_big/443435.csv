@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+420317,443435,Work Concentration,"work, focus, concentrate, office",4719590,Timbaland - Apologize (feat. One Republic),devphilem,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936728,Avalanche,David Cook,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936921,The Truth,Kris Allen,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936724,Franco Reyes - Touch The Sky,iamLHORD,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936747,Lifehouse - Everything,Longshotxx,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4937062,Ironic (Acoustic),Alanis Morissette,1,voice,0.368911057711,0.631088972092,danceable,0.680467605591,0.319532424212,not_acoustic,0.470423102379,0.529576897621,not_aggressive,0.137120947242,0.862879037857,not_party,0.241436362267,0.758563637733,relaxed,0.734776377678,0.265223652124,major,106.490653992
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936779,You Oughta Know (Acoustic),alanismorissette,1
+420317,443435,Work Concentration,"work, focus, concentrate, office",4936982,Undiscovered,James Morrison,1,voice,0.0332971177995,0.966702878475,danceable,0.88227814436,0.117721870542,not_acoustic,0.0631251186132,0.936874866486,not_aggressive,0.278130114079,0.721869885921,not_party,0.5,0.5,not_relaxed,0.360961675644,0.639038324356,major,80.0453414917
+420317,443435,Work Concentration,"work, focus, concentrate, office",4296700,Linkin Park - Waiting For The End,Racoon Rae,1

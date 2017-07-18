@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+1047,401,pantz123's July 2008 mix,"punk, acoustic",145,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0
+1047,401,pantz123's July 2008 mix,"punk, acoustic",622,Fractales (Pt. I),Apparat,0
+1047,401,pantz123's July 2008 mix,"punk, acoustic",1558,Someone Great,LCD Soundsystem,0,instrumental,0.533156633377,0.466843336821,danceable,0.985771119595,0.0142288934439,not_acoustic,0.388297587633,0.611702442169,not_aggressive,0.0198746062815,0.980125367641,party,0.777454316616,0.222545668483,not_relaxed,0.485176533461,0.514823436737,major,113.006866455
+1047,401,pantz123's July 2008 mix,"punk, acoustic",752,Bodysnatchers,Radiohead,0
+1047,401,pantz123's July 2008 mix,"punk, acoustic",2845,257.zero,Moby,0
+1047,401,pantz123's July 2008 mix,"punk, acoustic",1459,I Found a Reason,Cat Power,0,voice,0.165985777974,0.834014236927,not_danceable,0.00988004356623,0.990119934082,acoustic,0.973963439465,0.0260365456343,not_aggressive,0.0101332236081,0.989866793156,not_party,0.0184219237417,0.981578052044,relaxed,0.987384617329,0.0126153705642,minor,108.073982239

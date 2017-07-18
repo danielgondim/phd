@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+15957,50133,Keep Your Eyes on the Road,"stay, focused, youralmosthome",28252,Honey,Moby,1,voice,0.100262589753,0.899737417698,danceable,0.934663653374,0.0653363615274,not_acoustic,0.0183109045029,0.981689095497,aggressive,0.5995439291,0.4004560709,party,0.862584590912,0.137415423989,not_relaxed,0.245920136571,0.75407987833,minor,102.058280945
+15957,50133,Keep Your Eyes on the Road,"stay, focused, youralmosthome",38080,Murderers,John Frusciante,1
+15957,50133,Keep Your Eyes on the Road,"stay, focused, youralmosthome",298117,Brain Bug,Squarepusher,1
+15957,50133,Keep Your Eyes on the Road,"stay, focused, youralmosthome",99787,It Began in Afrika,The Chemical Brothers,1
+15957,50133,Keep Your Eyes on the Road,"stay, focused, youralmosthome",387592,Go Straight,Yuzo Koshiro,1
+15957,50133,Keep Your Eyes on the Road,"stay, focused, youralmosthome",121555,Aerodynamic,Daft Punk,1,instrumental,0.887227594852,0.112772382796,danceable,0.999999880791,1.19181457592e-07,not_acoustic,0.00270814960822,0.997291862965,not_aggressive,0.171470537782,0.828529477119,party,0.760985612869,0.239014357328,relaxed,0.732452869415,0.267547130585,minor,125.221595764
+15957,50133,Keep Your Eyes on the Road,"stay, focused, youralmosthome",294489,Over The Ice,The Field,1
+15957,50133,Keep Your Eyes on the Road,"stay, focused, youralmosthome",134298,Slowly,Amon Tobin,1

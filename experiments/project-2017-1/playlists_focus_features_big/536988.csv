@@ -1,0 +1,33 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+251718,536988,"Study now, play later","study, relax, focus",5790773,Aminals,Baths,1,instrumental,0.646865844727,0.353134185076,not_danceable,3.00000096379e-14,1,not_acoustic,0.0608465336263,0.939153492451,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,94.9987487793
+251718,536988,"Study now, play later","study, relax, focus",5790781,The Light,The Album Leaf,1
+251718,536988,"Study now, play later","study, relax, focus",5790790,Finally Moving,Pretty Lights,1,instrumental,0.944933533669,0.0550664551556,danceable,0.563729345798,0.436270654202,not_acoustic,0.424153327942,0.575846672058,not_aggressive,0.0337653532624,0.966234624386,not_party,0.359861135483,0.640138864517,relaxed,0.578692436218,0.421307533979,minor,99.9758148193
+251718,536988,"Study now, play later","study, relax, focus",5790807,Thinking About You,Norah Jones,1
+251718,536988,"Study now, play later","study, relax, focus",5790809,The Longer I Run,Peter Bradley Adams,1,voice,0.00886406842619,0.991135954857,not_danceable,0.120855793357,0.879144191742,acoustic,0.95959508419,0.0404049381614,not_aggressive,0.010902762413,0.989097237587,not_party,0.0827345773578,0.917265415192,relaxed,0.995211303234,0.0047886739485,major,152.054077148
+251718,536988,"Study now, play later","study, relax, focus",5790833,Runner Ups,Kurt Vile,1
+251718,536988,"Study now, play later","study, relax, focus",5790834,If I had a Boat,James Vincent McMorrow,1
+251718,536988,"Study now, play later","study, relax, focus",5790842,Unsaid,The Fray,1,instrumental,0.999999582767,3.92280384176e-07,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955900549889,0.904409945011,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,109.913749695
+251718,536988,"Study now, play later","study, relax, focus",5790893,Fall Creek Boys Choir,James Blake & Bon Iver,1
+251718,536988,"Study now, play later","study, relax, focus",5790909,Crash Into Me,Dave Matthews Band,1,voice,0.00637450395152,0.99362552166,not_danceable,0.0881184786558,0.911881506443,acoustic,0.963151037693,0.0368489511311,not_aggressive,0.00428320793435,0.995716810226,not_party,0.0164588056505,0.983541190624,relaxed,0.947851598263,0.0521483942866,major,106.169700623
+251718,536988,"Study now, play later","study, relax, focus",5790921,Til Kingdom Come,Coldplay,1
+251718,536988,"Study now, play later","study, relax, focus",5790929,No Harm,The Boxer Rebellion,1,instrumental,0.887433648109,0.112566322088,danceable,0.786778330803,0.213221654296,acoustic,0.68637740612,0.31362259388,not_aggressive,0.0848759561777,0.915124058723,not_party,0.113173455,0.886826574802,relaxed,0.973099172115,0.0269008483738,minor,132.00302124
+251718,536988,"Study now, play later","study, relax, focus",5790930,Down In the Valley,The Head and the Heart,1
+251718,536988,"Study now, play later","study, relax, focus",5790954,Home (RAC mix) ,Edward Sharpe & The Magnetic Zeros,1
+251718,536988,"Study now, play later","study, relax, focus",5790955,Mykonos,Fleet Foxes,1,instrumental,0.559037804604,0.440962195396,not_danceable,0.188114106655,0.811885893345,acoustic,0.792948961258,0.207051068544,not_aggressive,0.0290691424161,0.970930874348,not_party,0.0945339649916,0.905466020107,relaxed,0.926614940166,0.0733850374818,minor,165.624984741
+251718,536988,"Study now, play later","study, relax, focus",5790957,Grapevine Fires,Death Cab For Cutie,1
+251718,536988,"Study now, play later","study, relax, focus",5790958,Sleepless,Flume ft. Antony for Cleopatra,1
+251718,536988,"Study now, play later","study, relax, focus",5790967,Pumped Up Kids Acoustic,Foster The People,1
+251718,536988,"Study now, play later","study, relax, focus",5790975,Somebody That I Used To Know,Gotye feat. Kimbra,1
+251718,536988,"Study now, play later","study, relax, focus",5790983,The Scientist,Mike Posner,1
+251718,536988,"Study now, play later","study, relax, focus",5790994,White Blank Page,Mumford & Sons,1
+251718,536988,"Study now, play later","study, relax, focus",5791007,Islands,The xx,1
+251718,536988,"Study now, play later","study, relax, focus",5791022,Terrible Love,The National,1,instrumental,1,1.80571753106e-08,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,161.745193481
+251718,536988,"Study now, play later","study, relax, focus",5791044,New Slang,The Shins,1
+251718,536988,"Study now, play later","study, relax, focus",5791047,Wait,M83,1
+251718,536988,"Study now, play later","study, relax, focus",5791051,Loud Pipes,Ratatat,1,instrumental,0.992305994034,0.00769398733974,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,87.9633636475
+251718,536988,"Study now, play later","study, relax, focus",5791060,Blood,The Middle East,1
+251718,536988,"Study now, play later","study, relax, focus",5791074,After the Storm,Mumford & Sons,1
+251718,536988,"Study now, play later","study, relax, focus",5791085,Creature Fear,Bon Iver,1,instrumental,0.999995529652,4.47502361567e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0959103107452,0.904089689255,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,143.029968262
+251718,536988,"Study now, play later","study, relax, focus",5791090,Ghostwriter,Rjd2,1,instrumental,0.999997615814,2.36361188399e-06,danceable,0.57622975111,0.423770219088,not_acoustic,0.246570393443,0.753429591656,not_aggressive,0.0722340419888,0.927765965462,not_party,0.437399178743,0.562600851059,relaxed,0.635653316975,0.364346712828,minor,184.569625854
+251718,536988,"Study now, play later","study, relax, focus",5791092,Skinny Love,Bon Iver,1,instrumental,0.999985277653,1.47456466948e-05,not_danceable,3.00000096379e-14,1,not_acoustic,0.0506366193295,0.949363410473,not_aggressive,3.00000096379e-14,1,not_party,1.57776994456e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,152.440063477
+251718,536988,"Study now, play later","study, relax, focus",5791096,Lotus Flower (Jacques Greene Rmx),Radiohead,1

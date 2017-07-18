@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+54,430,8 Tracks is Better than Muxtape,hip hop,4348,Can I Kick It?,A Tribe Called Quest,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4349,To Live And Die In L.A (ft Val Young),2Pac,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4350,Tennessee,Arrested Development,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4351,Still D.R.E.,Dr. Dre,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4352,What's My Name,Snoop Dogg,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4353,Still Not a player,Big Punisher & Joe,0,voice,0.00278897327371,0.997211039066,danceable,0.914279282093,0.0857207402587,not_acoustic,0.0123145254329,0.987685501575,aggressive,0.849938333035,0.150061666965,party,0.764791727066,0.235208258033,not_relaxed,0.0120206894353,0.98797929287,minor,94.0579376221
+54,430,8 Tracks is Better than Muxtape,hip hop,4354,Big Poppa,The Notorious B.I.G.,0
+54,430,8 Tracks is Better than Muxtape,hip hop,4355,The Next Movement,The Roots,0,instrumental,0.927140116692,0.0728598833084,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,92.201751709

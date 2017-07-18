@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+615174,768448,♫,"dubstep, sub focus, major lazer, electronica",7217084,Sub Focus - Out The Blue (feat. Alice Gold),Avı♫,1
+615174,768448,♫,"dubstep, sub focus, major lazer, electronica",6163353,Foxes - Youth (Adventure Club Remix),M4rchy,1
+615174,768448,♫,"dubstep, sub focus, major lazer, electronica",7526287,Netsky - Give & Take,DJ_Navarro,1
+615174,768448,♫,"dubstep, sub focus, major lazer, electronica",6287260,I Can't Stop,Flux Pavilion,1,instrumental,0.910724341869,0.0892756581306,danceable,0.999866187572,0.000133804860525,not_acoustic,5.00351038379e-10,1,aggressive,0.997874200344,0.00212581572123,party,0.995471954346,0.00452807033435,not_relaxed,0.335488140583,0.664511859417,minor,140.005813599
+615174,768448,♫,"dubstep, sub focus, major lazer, electronica",7526484,Delta Heavy - Get By,UKFDubstep.,1
+615174,768448,♫,"dubstep, sub focus, major lazer, electronica",7526583,Major Lazer - Get Free (Feat Amber Coffman) - Skam RMX,SKAM DNB,1
+615174,768448,♫,"dubstep, sub focus, major lazer, electronica",7518553,Skrillex - Skrillex - Summit feat Ellie Goulding,Skrillex,1
+615174,768448,♫,"dubstep, sub focus, major lazer, electronica",7526830,The Veldt,deadmau5 feat. Chris James,1

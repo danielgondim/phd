@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+462,270,Roll Credits,"folk, indie rock, alternative rock",3103,Dark Center of the Universe,Modest Mouse,0
+462,270,Roll Credits,"folk, indie rock, alternative rock",3098,Fireworks,Animal Collective,0
+462,270,Roll Credits,"folk, indie rock, alternative rock",3112,Chemistry,Kimya Dawson,0
+462,270,Roll Credits,"folk, indie rock, alternative rock",3113,Our Hell,Emily Haines & The Soft Skeleton,0,instrumental,0.924969553947,0.0750304535031,not_danceable,0.0893472358584,0.910652756691,acoustic,0.921105027199,0.0788949429989,not_aggressive,0.142281591892,0.857718408108,not_party,0.0581577010453,0.941842317581,relaxed,0.911938488483,0.0880614966154,major,98.9243011475
+462,270,Roll Credits,"folk, indie rock, alternative rock",3110,Ceremony,New Order,0
+462,270,Roll Credits,"folk, indie rock, alternative rock",3111,Never Say Goodbye,My Bloody Valentine,0,voice,0.00024549162481,0.999754488468,not_danceable,2.5684614684e-06,0.999997437,not_acoustic,4.48776120265e-07,0.999999523163,aggressive,0.999798715115,0.000201261107577,party,0.721726179123,0.278273820877,not_relaxed,0.066181473434,0.933818519115,major,151.201065063
+462,270,Roll Credits,"folk, indie rock, alternative rock",3102,Time to Pretend,MGMT,0,voice,0.150111749768,0.849888265133,danceable,0.772075533867,0.227924451232,not_acoustic,0.00422516977414,0.995774805546,not_aggressive,0.292151838541,0.707848131657,not_party,0.289422690868,0.710577309132,not_relaxed,0.149985030293,0.850014984608,major,100.956443787
+462,270,Roll Credits,"folk, indie rock, alternative rock",3158,Ibi Dreams of Pavement (A Better Half),Broken Social Scene,0

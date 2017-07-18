@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+644064,426547,SciPy,"coding, programming, focus, python",4696844,ready steady go,she,1,instrumental,0.990754365921,0.00924561917782,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,127.944152832
+644064,426547,SciPy,"coding, programming, focus, python",4696858,Skrillex - Scary Monsters And Nice Sprites (Cover by Pinn Panelle),Alexandr Mozhaev,1
+644064,426547,SciPy,"coding, programming, focus, python",4263037,Ghosts and Stuff (Original Mix),gabbou,1
+644064,426547,SciPy,"coding, programming, focus, python",4696807,The Social Network Soundtrack - In Motion (ARCADEMIX) 96Khz-24bit,springheeledjacks,1
+644064,426547,SciPy,"coding, programming, focus, python",4696863,Inspector Gadget [Dubstep Track],emceechevy,1
+644064,426547,SciPy,"coding, programming, focus, python",4402005,Gerudo Valley Dubstep - Ephixa [Zeldastep],ephixa,1

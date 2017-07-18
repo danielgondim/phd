@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+29,353,Nothing but a 'G' thang,,715,Goodnight Chair,Tumble,0
+29,353,Nothing but a 'G' thang,,3056,Green River,Creedence Clearwater Revival,0,instrumental,0.902407169342,0.0975928604603,not_danceable,0.293735861778,0.706264138222,not_acoustic,0.0160910449922,0.983908951283,aggressive,0.901518762112,0.0984812527895,party,0.792852699757,0.207147285342,not_relaxed,0.000826551404316,0.999173462391,minor,143.502990723
+29,353,Nothing but a 'G' thang,,3974,Goodnight Sweet Night,Jason Falkner,0
+29,353,Nothing but a 'G' thang,,3966,Guest List,Eels,0,voice,0.000273565674433,0.99972641468,not_danceable,0.101378805935,0.898621201515,acoustic,0.973921537399,0.0260784737766,not_aggressive,0.0411109253764,0.958889067173,not_party,0.0616104193032,0.938389599323,relaxed,0.977948486805,0.0220515057445,major,94.527015686
+29,353,Nothing but a 'G' thang,,3055,Green Onions,Booker T. and the MGs,0
+29,353,Nothing but a 'G' thang,,2974,Gomni,Ali Farka Toure With Ry Cooder,0,instrumental,0.999999940395,3.12435162186e-08,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,164.509902954
+29,353,Nothing but a 'G' thang,,3057,Guinnevere,"Crosby, Stills & Nash",0
+29,353,Nothing but a 'G' thang,,3058,Guys Like Me,Aimee Mann,0,voice,0.407480895519,0.592519104481,not_danceable,0.304489940405,0.695510029793,acoustic,0.515844583511,0.484155386686,not_aggressive,0.0142437331378,0.985756278038,not_party,0.0798199251294,0.920180082321,not_relaxed,0.315500259399,0.684499740601,major,126.418876648
+29,353,Nothing but a 'G' thang,,3054,Good Vibrations,Brian Wilson,0,instrumental,0.982507586479,0.0174924097955,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,142.556213379
+29,353,Nothing but a 'G' thang,,3052,Good Night,The Beatles,0

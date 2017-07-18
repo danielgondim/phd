@@ -1,0 +1,5 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+222,178,Live 80s,,2122,Blasphemous Rumours,Depeche Mode,0,voice,0.00144383590668,0.998556137085,not_danceable,0.35797098279,0.642029047012,not_acoustic,0.0313777476549,0.968622267246,aggressive,0.907882809639,0.0921171754599,party,0.75137513876,0.248624846339,not_relaxed,0.114213317633,0.88578671217,minor,119.686157227
+222,178,Live 80s,,2115,Solsbury Hill [Live],Sarah McLachlan,0
+222,178,Live 80s,,2138,Shotgun Down the Avalanche,Shawn Colvin,0
+222,178,Live 80s,,2296,Sweet Jane,Cowboy Junkies,0

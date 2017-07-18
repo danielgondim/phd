@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+1059,403,vancehealey's July 2008 mix,,3717,When You Were Young,The Killers,0
+1059,403,vancehealey's July 2008 mix,,196,More Than a Feeling,Boston,0,voice,0.0142890429124,0.985710978508,not_danceable,0.0886325016618,0.911367475986,not_acoustic,0.141342848539,0.858657121658,not_aggressive,0.0710208937526,0.928979098797,party,0.535005509853,0.464994460344,not_relaxed,0.0291158352047,0.970884144306,major,110.611076355
+1059,403,vancehealey's July 2008 mix,,124,Little Red Corvette,Prince,0
+1059,403,vancehealey's July 2008 mix,,419,05 - And I Love Her,The Beatles,0
+1059,403,vancehealey's July 2008 mix,,2323,Up To The Mountain,Patti Griffin,0
+1059,403,vancehealey's July 2008 mix,,555,03 - Mother Nature's Son,The Beatles,0,voice,0.446048885584,0.553951144218,not_danceable,0.0613578744233,0.938642144203,acoustic,0.913138866425,0.0868611261249,not_aggressive,0.027519473806,0.972480535507,not_party,0.0612762272358,0.938723742962,relaxed,0.986702978611,0.0132970269769,major,172.26574707
+1059,403,vancehealey's July 2008 mix,,3197,Iron Lion Zion,Bob Marley,0,voice,0.297913849354,0.702086150646,danceable,0.989548623562,0.0104513978586,not_acoustic,0.145049870014,0.854950129986,not_aggressive,0.481593310833,0.518406689167,party,0.839155375957,0.160844609141,relaxed,0.848056137562,0.151943862438,minor,143.703918457
+1059,403,vancehealey's July 2008 mix,,4094,All Along the Watchtower (Live),Eric Clapton & Lenny Kravitz,0

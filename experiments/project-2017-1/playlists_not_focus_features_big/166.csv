@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+229,166,kedkids mix 1,,1688,Imagination,Sad Lovers And Giants,0,voice,0.406024098396,0.593975901604,not_danceable,0.354082077742,0.645917892456,not_acoustic,0.0876434147358,0.912356555462,not_aggressive,0.211260885,0.788739144802,not_party,0.47357788682,0.526422142982,not_relaxed,0.410369932652,0.589630067348,major,80.915687561
+229,166,kedkids mix 1,,1729,The Ghost in You,The Psychedelic Furs,0,voice,0.0434989668429,0.95650100708,danceable,0.933044672012,0.0669553130865,not_acoustic,0.0298967845738,0.97010320425,not_aggressive,2.81659834345e-11,1,not_party,0.00106876727659,0.998931229115,relaxed,0.808722794056,0.191277191043,major,123.503845215
+229,166,kedkids mix 1,,135,Overkill,Men At Work,0
+229,166,kedkids mix 1,,266,Age of consent,New Order,0
+229,166,kedkids mix 1,,262,5 8 6,New Order,0
+229,166,kedkids mix 1,,110,Close To Me,The Cure,0
+229,166,kedkids mix 1,,651,West End Girls,Pet Shop Boys,0
+229,166,kedkids mix 1,,789,Love Missile F1-11 ,Sigue Sigue Sputnik,0,voice,0.128963723779,0.871036291122,danceable,0.997739672661,0.00226035690866,not_acoustic,8.13518363429e-06,0.999991893768,not_aggressive,7.82429694368e-08,0.999999940395,party,0.540900945663,0.459099024534,relaxed,0.635722696781,0.364277273417,major,96.5909729004
+229,166,kedkids mix 1,,780,Beat City,The Flowerpot Men,0,voice,0.114946298301,0.885053694248,danceable,0.550864458084,0.449135571718,not_acoustic,0.124393776059,0.875606238842,not_aggressive,0.337095797062,0.662904202938,not_party,0.391986727715,0.608013272285,not_relaxed,0.0223831385374,0.977616846561,minor,112.65146637
+229,166,kedkids mix 1,,255,Dreams Never End,New Order,0,instrumental,0.99220341444,0.00779660930857,not_danceable,0.386870890856,0.613129079342,not_acoustic,0.235174611211,0.76482540369,not_aggressive,0.0321835651994,0.967816412449,party,0.515756130219,0.484243869781,not_relaxed,0.226540237665,0.773459732533,major,142.803710938

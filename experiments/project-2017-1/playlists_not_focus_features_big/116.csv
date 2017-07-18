@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+2,116,8 random tracks vol 1,electro,1474,Death Of A Disco Dancer,The Smiths,0,instrumental,0.995427668095,0.0045723519288,not_danceable,0.0254042204469,0.974595785141,not_acoustic,0.00455574225634,0.995444238186,aggressive,0.667249321938,0.33275064826,party,0.735466599464,0.264533400536,not_relaxed,0.113748341799,0.886251688004,minor,172.265014648
+2,116,8 random tracks vol 1,electro,1477,Jorge Regula,The Moldy Peaches,0
+2,116,8 random tracks vol 1,electro,1468,One Way Or Another,Blondie,0
+2,116,8 random tracks vol 1,electro,1473,All Mine,Portishead,0
+2,116,8 random tracks vol 1,electro,1460,12,Hayward Williams,0
+2,116,8 random tracks vol 1,electro,888,Italian Waffle,Mujaji,0
+2,116,8 random tracks vol 1,electro,1481,03 By Your Side (Ben Watt Lazy Dog Remix) - Sade,Ben Watt,0
+2,116,8 random tracks vol 1,electro,1867,Hustler,Simian Mobile Disco,0

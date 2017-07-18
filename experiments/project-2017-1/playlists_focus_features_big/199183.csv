@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450692,Glory Box,Portishead,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450644,Karmacoma,Massive Attack,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450736,Unreal,UNKLE,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450616,Transfatty Acid (Kruder And Dorfmeister Mix),Lamb,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450667,Porcelain,Moby,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450600,Aftermath,Tricky,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450777,Clubbed to Death (Kuryayamino Variation),Rob Dougan,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450659,Teardrop,Massive Attack,1,instrumental,0.999999761581,2.10975599657e-07,not_danceable,3.00000096379e-14,1,not_acoustic,0.0905782356858,0.909421741962,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,153.955291748
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450715,Cowboys,Portishead,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450802,Sparks,Röyksopp,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450580,Blue(Bird Shake Mix),A Perfect Circle,1
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450626,4 Dead Monks,Red Snapper,1,instrumental,1,8.3007432039e-09,danceable,0.731311619282,0.268688350916,not_acoustic,0.108224093914,0.891775906086,aggressive,0.598450541496,0.401549458504,not_party,0.0647497847676,0.935250222683,relaxed,0.78020876646,0.219791248441,minor,90.4890213013
+100651,199183,you know it's a mind game after all,"trip-hop, study, chill, downtempo, focus",1450759,Rise,Craig Armstrong,1

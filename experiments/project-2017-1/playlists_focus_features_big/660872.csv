@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+779749,660872,Work on it,"focus, old but good",6686068,Blowin' in the Wind,Bob Dylan,1
+779749,660872,Work on it,"focus, old but good",6686075,Come by Storm,Laura Gibson,1
+779749,660872,Work on it,"focus, old but good",6686079,Timing Is Everything,Elysian Fields,1,instrumental,0.861702978611,0.138297021389,danceable,0.999441146851,0.00055887066992,not_acoustic,0.00551696075127,0.994483053684,not_aggressive,9.78759362624e-06,0.999990224838,not_party,0.225392818451,0.774607181549,relaxed,0.823071837425,0.176928132772,minor,135.263885498
+779749,660872,Work on it,"focus, old but good",6686101,Please Please Please,Fiona Apple,1
+779749,660872,Work on it,"focus, old but good",6686108,Window,Fiona Apple,1
+779749,660872,Work on it,"focus, old but good",6686120,Six Seven Times,Flunk,1
+779749,660872,Work on it,"focus, old but good",6687509,The trick is to keep breathing,Garbage,1
+779749,660872,Work on it,"focus, old but good",6687513,You're The Storm,The Cardigans,1,instrumental,0.999998748302,1.25105464122e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,107.177871704
+779749,660872,Work on it,"focus, old but good",6687599,You're The Storm,The Cardigans,1,instrumental,0.999998748302,1.25105464122e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,107.177871704

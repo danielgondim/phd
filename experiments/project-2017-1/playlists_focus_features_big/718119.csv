@@ -1,0 +1,18 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140647,Misery (Acoustic),Maroon 5,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140662,Polish Girl,Neon Indian,1,voice,0.0547531433403,0.945246875286,danceable,0.976360678673,0.0236393213272,not_acoustic,0.00651480723172,0.993485212326,not_aggressive,0.122223839164,0.877776145935,party,0.751915693283,0.248084306717,not_relaxed,0.401061832905,0.598938167095,major,111.990905762
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140709,Harvest Moon,Poolside,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140735,Relator,Pete Yorn & Scarlett Johanson ,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140739,Video Games (Grandtheft Remix),Lana Del Rey,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140758,The Golden Age,The Asteroids Galaxy Tour,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140763,In The Words (Of Satan),the ARROWS,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140787,Breakable,Ingrid Michaelson,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140798,Cosy in the Rocket,Psapp,1,instrumental,1,4.91244156464e-09,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,119.093231201
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140801,Everywhere I Go,Lissie,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140819,Taylor,Jack Johnson,1,instrumental,0.999996840954,3.17498097502e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,172.265151978
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140820,Blue Skies,Noah and the Whale,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140827,Hope for Now,City and Colour,1,instrumental,0.999998629093,1.39599603699e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,133.012374878
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140830,Beautiful City,New Broadway Cast,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140843,On The Willows,Godspell Cast,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140891,Upside Down,Jack Johnson,1
+1325010,718119,MUST STUDY,"study, exams, focus, school, university",7140924,Kina Grannis   Boats And Birds, .,1

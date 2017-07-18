@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+317,195,greengas mix 1,,348,Ruined in a Day (K-Klass remix),New Order,0,instrumental,0.97368979454,0.0263101924211,danceable,0.999999880791,1.00000008274e-07,not_acoustic,0.0955903604627,0.904409646988,aggressive,0.999999880791,1.00000008274e-07,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,104.981430054
+317,195,greengas mix 1,,124,Little Red Corvette,Prince,0
+317,195,greengas mix 1,,1340,Archangel,Burial,0,instrumental,0.976512849331,0.0234871432185,danceable,0.928831636906,0.0711683854461,not_acoustic,0.0555242821574,0.944475710392,not_aggressive,0.00906891282648,0.990931093693,not_party,0.178741768003,0.821258246899,relaxed,0.876458644867,0.123541332781,minor,135.322937012
+317,195,greengas mix 1,,165,Heaven is Waiting,The Danse Society,0
+317,195,greengas mix 1,,622,Fractales (Pt. I),Apparat,0
+317,195,greengas mix 1,,2281,I Am The Cosmos,This Mortal Coil,0,instrumental,1,4.98229513202e-10,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,151.238555908
+317,195,greengas mix 1,,1928,Haifischflugel,Dominik Eulberg,0
+317,195,greengas mix 1,,1972,Dreaming,Blondie,0

@@ -1,0 +1,15 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+963290,526986,f0cus,"study, focus, homework",5720999,The Prayer,Kid Cudi,1
+963290,526986,f0cus,"study, focus, homework",5721005,"Frank, AB",The Rural Alberta Advantage,1,instrumental,0.957239985466,0.0427600108087,not_danceable,0.441080033779,0.558919966221,acoustic,0.853871047497,0.146128982306,not_aggressive,0.0902979820967,0.909702003002,not_party,0.172354578972,0.827645421028,relaxed,0.964259803295,0.0357401706278,minor,129.877258301
+963290,526986,f0cus,"study, focus, homework",5721010,Seaside,The Kooks,1,instrumental,0.957170546055,0.0428294464946,not_danceable,3.00000096379e-14,1,not_acoustic,0.0543588660657,0.945641160011,not_aggressive,3.00000096379e-14,1,not_party,1.57784106705e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,129.406417847
+963290,526986,f0cus,"study, focus, homework",5721020,Vincent,Don McLean,1
+963290,526986,f0cus,"study, focus, homework",5721047,Sail,AWOLNATION,1
+963290,526986,f0cus,"study, focus, homework",5721057,Tragedy Bound,The Bravery,1
+963290,526986,f0cus,"study, focus, homework",5721075,White Winter Hymnal,Fleet Foxes,1,voice,0.0527200289071,0.947279989719,not_danceable,0.0336447879672,0.966355204582,acoustic,0.516900479794,0.483099520206,not_aggressive,0.0381423309445,0.961857676506,not_party,0.348543614149,0.651456356049,relaxed,0.966130495071,0.0338695123792,major,124.91784668
+963290,526986,f0cus,"study, focus, homework",5721081,Terrapin,Bonobo,1,instrumental,0.999993085861,6.93790616424e-06,not_danceable,0.294734567404,0.705265462399,not_acoustic,0.22488322854,0.775116741657,not_aggressive,0.0438276901841,0.956172287464,not_party,0.0827919989824,0.917208015919,relaxed,0.982832014561,0.0171679798514,major,152.033554077
+963290,526986,f0cus,"study, focus, homework",5721087,Raise Your Weapon,Deadmau5,1,voice,0.39863795042,0.60136204958,danceable,0.999786198139,0.00021380787075,not_acoustic,0.0151567338035,0.984843254089,not_aggressive,0.0328889451921,0.967111051083,not_party,0.478521734476,0.521478295326,not_relaxed,0.373176217079,0.626823782921,major,139.956588745
+963290,526986,f0cus,"study, focus, homework",5721100,I Will Possess Your Heart,Death Cab for Cutie,1
+963290,526986,f0cus,"study, focus, homework",5721112,One Day Like This,Elbow,1
+963290,526986,f0cus,"study, focus, homework",5721142,The Ghost Inside,Broken Bells,1,instrumental,0.995850324631,0.00414965162054,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,103.970085144
+963290,526986,f0cus,"study, focus, homework",5721180,After The Storm,Mumford & Sons,1
+963290,526986,f0cus,"study, focus, homework",5721316,AU79,"Tyler, The Creator",1

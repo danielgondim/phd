@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3237,American Angel,Josh Dodes Band,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3239,Free Fallin',Tom Petty,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3254,Stranded On Easy Street,Bruce Hornsby,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3238,Omaha,Counting Crows,0,instrumental,0.677150011063,0.322849988937,not_danceable,3.00000096379e-14,1,not_acoustic,0.025461608544,0.974538385868,not_aggressive,3.00000096379e-14,1,not_party,1.57781887538e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,77.9856491089
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3249,Get Off This,Cracker,0,voice,0.0726427435875,0.927357256413,not_danceable,0.455509871244,0.544490158558,not_acoustic,0.105892553926,0.894107460976,aggressive,0.67704975605,0.32295024395,party,0.645334839821,0.354665189981,not_relaxed,0.0447613187134,0.955238699913,major,108.218566895
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3245,Texarkana,R.E.M.,0,instrumental,0.925433516502,0.0745664834976,not_danceable,0.197322368622,0.802677631378,not_acoustic,0.053655769676,0.946344256401,aggressive,0.667417705059,0.332582324743,party,0.652522683144,0.347477316856,not_relaxed,0.298869848251,0.701130151749,major,143.781265259
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3240,Santa Monica,Everclear,0
+477,282,Heartland with a Twist of Coast,"alternative rock, american rock",3241,Ants Marching,Dave Matthews Band,0

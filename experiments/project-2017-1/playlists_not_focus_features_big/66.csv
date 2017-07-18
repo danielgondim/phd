@@ -1,0 +1,23 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+26,66,Real Plastic Trees - A Radiohead Sampler,,762,Fitter Happier,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,730,Pyramid Song,Radiohead,0,instrumental,0.999999582767,4.26582346336e-07,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,105.838188171
+26,66,Real Plastic Trees - A Radiohead Sampler,,755,Optimistic,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,747,There There,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,759,Airbag,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,750,My Iron Lung,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,732,I Might Be Wrong,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,760,Subterranean Homesick Alien,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,754,Everything In Its Right Place,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,746,Backdrifts,Radiohead,0,instrumental,0.996063053608,0.0039369543083,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,123.853660583
+26,66,Real Plastic Trees - A Radiohead Sampler,,751,15 Step,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,741,Planet Telex,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,748,Scatterbrain,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,742,High And Dry,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,734,Knives Out,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,735,Dollars & Cents,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,743,(Nice Dream),Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,752,Bodysnatchers,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,753,Weird Fishes/Arpeggi,Radiohead,0,instrumental,0.999999701977,2.98206458638e-07,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,152.837753296
+26,66,Real Plastic Trees - A Radiohead Sampler,,749,A Wolf at the Door,Radiohead,0,instrumental,0.683140516281,0.316859453917,not_danceable,0.427166283131,0.572833716869,not_acoustic,0.384205639362,0.615794360638,not_aggressive,0.0373310893774,0.962668895721,not_party,0.180579677224,0.819420337677,relaxed,0.972092807293,0.02790716663,minor,138.778152466
+26,66,Real Plastic Trees - A Radiohead Sampler,,745,Just,Radiohead,0
+26,66,Real Plastic Trees - A Radiohead Sampler,,765,Creep,Radiohead,0

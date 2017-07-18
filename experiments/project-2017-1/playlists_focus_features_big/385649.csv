@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4113952,The Funeral,Band of Horses,1
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4113972,When I Grow Up,First Aid Kit,1
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4113981,Perth,Bon Iver,1,instrumental,0.880041480064,0.119958497584,not_danceable,0.0287342462689,0.971265733242,acoustic,0.630016326904,0.369983673096,not_aggressive,0.0286366790533,0.971363306046,not_party,0.0593036264181,0.940696358681,relaxed,0.909525156021,0.09047485888,major,119.775016785
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4113984,Sleeping Sickness,City and Colour,1
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4113987,Take Another Little Piece Of My Heart,Dusty Springfield,1
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4113993,Young Blood,The Naked and Famous,1
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4114007,Lifeboats,Snow Patrol,1
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4114008,Dead Hearts (lights overla Remix),Stars,1,voice,0.0163987539709,0.983601272106,not_danceable,0.461416900158,0.538583099842,not_acoustic,0.173212468624,0.826787531376,not_aggressive,0.0408831611276,0.959116816521,not_party,0.370405077934,0.629594922066,relaxed,0.983753800392,0.0162462089211,major,152.582199097
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4114012,Try a Little Tenderness,Otis Redding,1
+133269,385649,back in the classroom.,"alternative rock, indie rock, study, focus, studying",4114019,Rolling in the Deep (Jamie xx Remix),Adele (feat. Childish Gambino),1

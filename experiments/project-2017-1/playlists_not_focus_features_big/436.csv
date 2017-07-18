@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+656,436,walls,"alternative rock, rock",4381,Walls,Beck,0
+656,436,walls,"alternative rock, rock",4391,Electric Bloom,Foals,0
+656,436,walls,"alternative rock, rock",4405,Bus Stop Boxer,Eels,0
+656,436,walls,"alternative rock, rock",4393,Four Hours In Washington,M. Ward,0
+656,436,walls,"alternative rock, rock",4399,Blues From Down Here,TV on the Radio,0,voice,0.147250980139,0.852748990059,danceable,0.697222232819,0.302777796984,not_acoustic,0.0642917156219,0.935708284378,not_aggressive,0.443569600582,0.556430399418,party,0.672610640526,0.327389389277,not_relaxed,0.252570182085,0.747429788113,major,130.177215576
+656,436,walls,"alternative rock, rock",4394,Gronlandic Edit,Of Montreal,0
+656,436,walls,"alternative rock, rock",4409,In The New Year,The Walkmen,0,instrumental,0.978156089783,0.0218438841403,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,163.518844604
+656,436,walls,"alternative rock, rock",4408,Falling Down,Scarlett Johansson,0

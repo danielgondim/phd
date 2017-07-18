@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4542,Good Beat,Deee-Lite,0,instrumental,0.534000873566,0.465999126434,danceable,0.958017647266,0.0419823713601,not_acoustic,0.197999671102,0.8020003438,not_aggressive,0.354586362839,0.645413637161,party,0.721052408218,0.278947621584,not_relaxed,0.136229977012,0.863770008087,minor,117.061027527
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4544,Alexandre (Alexander),Caetano Veloso,0,voice,0.484681338072,0.515318632126,danceable,0.897019207478,0.102980777621,acoustic,0.747540175915,0.252459824085,not_aggressive,0.0502743944526,0.949725627899,not_party,0.167169973254,0.832830011845,relaxed,0.823734879494,0.176265090704,minor,97.9238967896
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4547,O Que Me Importa,Marisa Monte,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4549,ambar,Maria Bethania,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4548, Alo alo marciano,Elis Regina,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4553,Deeper and Deeper,Madonna,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4550,A Paz,Gilberto Gil,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4552,Trip Through Your Wires,U2,0
+862,457,dugwah's August 2008 mix,"brasil, eclectic, classic, feel good",4551,As flores do jardim da nossa casa,Roberto Carlos,0

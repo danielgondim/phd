@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+301485,373568,DETERMINATION,"determined, gritty, focused",3933823,Dog Trot,Moondog,1,instrumental,0.999999940395,3.58863019301e-08,not_danceable,3.00000096379e-14,1,not_acoustic,0.0947833657265,0.905216634274,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,99.4312591553
+301485,373568,DETERMINATION,"determined, gritty, focused",3933834,Gonna Never Have To Die,Guided By Voices,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933827,Wawshishijay (Our Beginning),Kronos Quartet,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933825,Little By Little,Radiohead,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933821,Je n'avais qu'un seul mot a lui dire,Serge Gainsbourg,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933819,Tantrum,Laika & The Cosmonauts,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933836,Fly,Cornelius,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933830,Se Decidi Cosi,Jimmy Ruffin,1
+301485,373568,DETERMINATION,"determined, gritty, focused",3933816,Lilia,Milton Nascimento & Lo Borges,1,instrumental,0.680388748646,0.319611221552,danceable,0.632394969463,0.367605060339,acoustic,0.87798345089,0.12201654166,not_aggressive,0.00735954195261,0.992640435696,not_party,0.174949511886,0.825050473213,not_relaxed,0.138673648238,0.861326336861,minor,172.265808105
+301485,373568,DETERMINATION,"determined, gritty, focused",3933838,Outer Accelerator,Stereolab,1,instrumental,0.999998271465,1.69949396422e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,144.099899292

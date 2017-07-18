@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+993,393,No Egress,rap,1156,Paint It Black,The Rolling Stones,0,instrumental,0.991063594818,0.00893639214337,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,156.185180664
+993,393,No Egress,rap,3827,ROYAL FLUSH,OUTKAST FEAT. RAEKWON,0
+993,393,No Egress,rap,4208,Announcement ft. Pharrell,Common,0
+993,393,No Egress,rap,3520,Sprinkle Me,E-40,0
+993,393,No Egress,rap,1753,Ain't No Sunshine,Bill Withers,0
+993,393,No Egress,rap,3701,Are You Gonna Be My Girl,Jet,0,voice,0.0128690702841,0.98713093996,danceable,0.993268787861,0.00673119490966,not_acoustic,1.39317371577e-05,0.999986052513,aggressive,0.985081613064,0.0149184046313,party,0.710448861122,0.289551138878,not_relaxed,0.0589739046991,0.941026091576,major,108.013046265
+993,393,No Egress,rap,2069,1 2 3 4,Feist,0

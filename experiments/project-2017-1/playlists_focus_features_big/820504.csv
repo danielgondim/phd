@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",4357847,Daft Punk - Derezzed (The Glitch Mob Remix),The Glitch Mob,1
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",7580267,The Glitch Mob -- Warrior Concerto,iamstiv83,1
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",4566029,We Can Make The World Stop,The Glitch Mob,1,voice,0.202398762107,0.797601222992,not_danceable,4.67419113193e-07,0.999999523163,not_acoustic,1.86187935469e-05,0.999981403351,not_aggressive,3.00000096379e-14,1,not_party,1.94909443962e-05,0.999980509281,relaxed,0.808817088604,0.191182896495,major,104.836105347
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",5917663,Ratatat - Loud Pipes,Fatlicious!,1
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",4742272,Ratatat - Wildcat,iii,1
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",4243821,Crips - Ratatat,magnifiwhit,1
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",6465476,ratatat - sunblocks,klein_sk8,1
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",6497993,Ratatat Swisha 2,Matios,1
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",6133152,Pretty Lights -  Almost Familiar,prettylights,1,instrumental,0.999993145466,6.84338920109e-06,danceable,0.909051120281,0.0909488722682,not_acoustic,0.142800450325,0.857199549675,not_aggressive,0.0729231759906,0.927076816559,party,0.881521821022,0.118478193879,not_relaxed,0.46959784627,0.530402123928,minor,95.7529754639
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",4281781,Moon,little people,1
+792414,820504,Stay Focused!,"study, no lyrics, focus, training, workout",7902580,Red-Eye By The Album Leaf (backwards),Christopher B. Heck,1

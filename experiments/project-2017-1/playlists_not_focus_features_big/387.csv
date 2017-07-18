@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+903,387,Mix 1,"alternative rock, pop, acoustic",4175,Love,Matt White,0
+903,387,Mix 1,"alternative rock, pop, acoustic",4176,Time After Time,Quietdrive,0
+903,387,Mix 1,"alternative rock, pop, acoustic",4177, Fall For You,Secondhand Serenade -,0
+903,387,Mix 1,"alternative rock, pop, acoustic",4179,I'm About To Come Alive,Train,0,voice,0.215628802776,0.784371197224,danceable,0.764794051647,0.235205963254,not_acoustic,0.430335193872,0.56966483593,not_aggressive,0.0275103412569,0.972489655018,not_party,0.344567537308,0.655432462692,relaxed,0.973990619183,0.026009362191,major,138.075927734
+903,387,Mix 1,"alternative rock, pop, acoustic",4180,Lucky,Jason Mraz,0
+903,387,Mix 1,"alternative rock, pop, acoustic",4182,I Don't Want to Miss a Thing,AeroSmith,0,instrumental,1,1.2489013379e-08,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,120.885803223
+903,387,Mix 1,"alternative rock, pop, acoustic",4183,To Make You Feel My Love,Garth Brooks,0

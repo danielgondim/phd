@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+478,277,leaning to the electronic side,"electronic, dance, techno, french electro",3199,Bounce (feat N.O.R.E. - radio version),MSTRKRFT,0,voice,0.032607473433,0.967392504215,danceable,0.999669015408,0.000330995826516,not_acoustic,8.26810719445e-06,0.999991714954,aggressive,0.862775623798,0.137224406004,party,0.940223634243,0.0597763359547,not_relaxed,0.0771965831518,0.922803401947,minor,128.953048706
+478,277,leaning to the electronic side,"electronic, dance, techno, french electro",3203,Sister Self Doubt,Get Shakes,0,instrumental,0.94279229641,0.0572077259421,not_danceable,3.00000096379e-14,1,not_acoustic,0.0889003500342,0.911099672318,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,120.041007996
+478,277,leaning to the electronic side,"electronic, dance, techno, french electro",3202,11h30,Danger,0
+478,277,leaning to the electronic side,"electronic, dance, techno, french electro",3204,Pogo,Digitalism,0
+478,277,leaning to the electronic side,"electronic, dance, techno, french electro",3205,Easy Love,MSTRKRFT,0
+478,277,leaning to the electronic side,"electronic, dance, techno, french electro",3207,Squeeze Me,Kraak & Smaak,0
+478,277,leaning to the electronic side,"electronic, dance, techno, french electro",3208,Hush Boy,Basement Jaxx,0
+478,277,leaning to the electronic side,"electronic, dance, techno, french electro",3209,The Ballad of Bobby Hill,Aketarak,0

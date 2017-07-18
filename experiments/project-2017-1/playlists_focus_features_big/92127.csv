@@ -1,0 +1,13 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",42382,Take Off Your Sunglasses,Ezra Furman And The Harpoons,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",475786,Winter Winds,Mumford & Sons,1,voice,0.00984158739448,0.990158438683,not_danceable,0.305840462446,0.694159507751,not_acoustic,0.268179297447,0.731820702553,not_aggressive,0.0957037657499,0.904296219349,party,0.520751476288,0.47924849391,not_relaxed,0.0957975015044,0.904202520847,major,83.838394165
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",327381,Janglin,Edward Sharpe & The Magnetic Z,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",213514,"It's All Over Now, Baby Blue",Bob Dylan,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",128574,Two Weeks,Grizzly Bear,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",168869,Slow Show,The National,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",88625,Skinny Love,Bon Iver,1,instrumental,0.999985277653,1.47456466948e-05,not_danceable,3.00000096379e-14,1,not_acoustic,0.0506366193295,0.949363410473,not_aggressive,3.00000096379e-14,1,not_party,1.57776994456e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,152.440063477
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",5067,BLOOD ON THE TRACKS - 02 - SIMPLE TWIST OF FATE,Bob Dylan,1,voice,0.00129580858629,0.998704195023,not_danceable,0.0569159127772,0.943084061146,acoustic,0.965437889099,0.0345621295273,not_aggressive,1.45443509609e-05,0.999985456467,not_party,0.057256989181,0.942743003368,not_relaxed,0.266591697931,0.733408272266,major,117.211486816
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",157354,Deep Blue Sea,Grizzly Bear,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",35977,A Boy Named Sue,Johnny Cash,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",561963,Heartbeat,Buddy Holly,1
+45604,92127,work like you don't need the money,"get focused, happy, rock, indie",220207,Ramble On,Led Zeppelin,1

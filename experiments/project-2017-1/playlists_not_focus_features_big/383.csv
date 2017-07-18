@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+877,383,Classic Mix Tape Mix,,2142,Ziggy Stardust,Bauhaus,0,voice,0.0200006663799,0.979999363422,not_danceable,0.36107262969,0.638927340508,not_acoustic,0.0066262697801,0.99337375164,aggressive,0.956493794918,0.0435061976314,party,0.708120822906,0.291879177094,not_relaxed,0.0053312019445,0.994668781757,major,178.205856323
+877,383,Classic Mix Tape Mix,,1950,Ramshackle,Beck,0
+877,383,Classic Mix Tape Mix,,2304,Jumping Someone Else's Train,The Cure,0
+877,383,Classic Mix Tape Mix,,1474,Death Of A Disco Dancer,The Smiths,0,instrumental,0.995427668095,0.0045723519288,not_danceable,0.0254042204469,0.974595785141,not_acoustic,0.00455574225634,0.995444238186,aggressive,0.667249321938,0.33275064826,party,0.735466599464,0.264533400536,not_relaxed,0.113748341799,0.886251688004,minor,172.265014648
+877,383,Classic Mix Tape Mix,,2160,A Forest,The Cure,0
+877,383,Classic Mix Tape Mix,,3106,The Passenger,Iggy Pop,0

@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+340,260,True Love of the Dirty Flannel and Stubbled 90s,"pop, seattle sound",3008,Heaven Beside You,Alice in Chains,0
+340,260,True Love of the Dirty Flannel and Stubbled 90s,"pop, seattle sound",3009,She Talks To Angels,Black Crowes,0
+340,260,True Love of the Dirty Flannel and Stubbled 90s,"pop, seattle sound",3010,blossom,candlebox,0
+340,260,True Love of the Dirty Flannel and Stubbled 90s,"pop, seattle sound",3011,Comedown,Bush,0
+340,260,True Love of the Dirty Flannel and Stubbled 90s,"pop, seattle sound",3012,Where the River Flows,Collective Soul,0
+340,260,True Love of the Dirty Flannel and Stubbled 90s,"pop, seattle sound",3013,Anna Begins,Counting Crows,0,instrumental,0.992341220379,0.00765876332298,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,79.1584014893
+340,260,True Love of the Dirty Flannel and Stubbled 90s,"pop, seattle sound",3014,Porch,Pearl Jam,0
+340,260,True Love of the Dirty Flannel and Stubbled 90s,"pop, seattle sound",3015,Where the River Goes,Stone Temple Pilots,0,voice,0.0016259154072,0.9983741045,danceable,0.515342593193,0.484657406807,not_acoustic,0.0121985571459,0.98780143261,aggressive,0.944973647594,0.0550263375044,party,0.698234975338,0.301765024662,not_relaxed,0.136516779661,0.863483190536,major,126.42363739
+340,260,True Love of the Dirty Flannel and Stubbled 90s,"pop, seattle sound",3016,Holiday,Weezer,0,voice,0.0145747801289,0.985425233841,danceable,0.83220076561,0.167799219489,not_acoustic,0.056718390435,0.943281590939,aggressive,0.627331674099,0.372668355703,party,0.518489003181,0.481510996819,relaxed,0.699772715569,0.300227284431,major,112.119911194

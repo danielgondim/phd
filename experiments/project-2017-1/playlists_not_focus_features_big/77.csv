@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+2,77,Minimal clips -- October 2007,minimal/tech house,1041,Remind Me,DOLE & KOM,0
+2,77,Minimal clips -- October 2007,minimal/tech house,1040,As We Are,TIGERSKIN,0
+2,77,Minimal clips -- October 2007,minimal/tech house,1039,El Sunset,"TOBAR, Ricardo",0
+2,77,Minimal clips -- October 2007,minimal/tech house,1038,Ick Muss Aus Dit Milieu Heraus,"KALKBRENNER, Paul",0
+2,77,Minimal clips -- October 2007,minimal/tech house,1037,Atzepeng,Paul Kalkbrenner,0,instrumental,0.818490982056,0.181509003043,danceable,0.999673247337,0.00032673284295,not_acoustic,0.0208312254399,0.979168772697,not_aggressive,0.122964933515,0.877035081387,not_party,0.217499271035,0.782500743866,relaxed,0.906617045403,0.0933829769492,minor,128.045776367
+2,77,Minimal clips -- October 2007,minimal/tech house,1034,Breezin',"GRUMMICH, Peter",0
+2,77,Minimal clips -- October 2007,minimal/tech house,1033,Nightowl,"MARTIN, Justin",0
+2,77,Minimal clips -- October 2007,minimal/tech house,1032,Nightowl,"MARTIN, Justin",0

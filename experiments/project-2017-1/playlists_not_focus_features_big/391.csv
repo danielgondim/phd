@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+947,391,jcyphers3's July 2008 mix,"electronic, pop, alternative rock",4202,Domino Dancing,Pet Shop Boys,0
+947,391,jcyphers3's July 2008 mix,"electronic, pop, alternative rock",4205,In The Evening,Led Zepplin,0
+947,391,jcyphers3's July 2008 mix,"electronic, pop, alternative rock",4207,Murder She Wrote,Chaka Demus & Pliers,0,voice,0.403876036406,0.596123993397,danceable,0.73995500803,0.26004499197,not_acoustic,0.215413212776,0.784586787224,not_aggressive,0.110696695745,0.889303326607,not_party,0.441629737616,0.558370292187,relaxed,0.907542467117,0.0924575105309,major,95.0917816162
+947,391,jcyphers3's July 2008 mix,"electronic, pop, alternative rock",4214,The Lovecats,The Cure,0,instrumental,0.999986469746,1.3550422409e-05,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,178.205657959
+947,391,jcyphers3's July 2008 mix,"electronic, pop, alternative rock",4216,Sensitivity,Ralph Tresvant,0
+947,391,jcyphers3's July 2008 mix,"electronic, pop, alternative rock",4217,Electric Feel (Album Version),MGMT,0

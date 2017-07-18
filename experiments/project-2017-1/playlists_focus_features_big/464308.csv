@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+687422,464308,Get Cut.,"focus, rap, workout",5246836,On Fire,Young Dro,1
+687422,464308,Get Cut.,"focus, rap, workout",5246845,The Realest ,Nifty,1
+687422,464308,Get Cut.,"focus, rap, workout",5246854,Focused ft. KiD CuDi,Wale,1
+687422,464308,Get Cut.,"focus, rap, workout",5246867,Fresh Leone (Flo Rida & Lil Wayne vs Mt Eden),DOSVEC,1
+687422,464308,Get Cut.,"focus, rap, workout",5246869,Make The Call,Camo & Krooked,1,instrumental,0.556750357151,0.443249642849,danceable,0.999999880791,1.00000008274e-07,not_acoustic,1.05043578003e-11,1,not_aggressive,3.00000096379e-14,1,not_party,0.300681918859,0.699318051338,relaxed,0.808817088604,0.191182911396,minor,136.022537231
+687422,464308,Get Cut.,"focus, rap, workout",5246877,Shooting Guns Ft. Kidd Kidd (Prod. By DJ Khalil),50 Cent,1
+687422,464308,Get Cut.,"focus, rap, workout",5246884,Purple Flowers (Prod. by ReLiX The Underdog) ft. Wiz Khalifa,Drake,1
+687422,464308,Get Cut.,"focus, rap, workout",5246899,OMG,MADDEN BROTHERS X MACHINE GUN KELLY,1
+687422,464308,Get Cut.,"focus, rap, workout",5246913,Touch The Sky (Carlos Serrano Mix),Kanye West & The XX,1
+687422,464308,Get Cut.,"focus, rap, workout",5246922,Sky Is The Limit,Lil' Wayne,1

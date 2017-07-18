@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+150117,193350,Bring the change,"rock, focus, change, alternative",1370606,Vagabond,Wolfmother,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370599,Can't Stop,Red Hot Chili Peppers,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370691,Closer to the Sun,Slightly Stoopid,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370653,Ooh la la,Faces,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370677,You Make My Dreams Come True  ,Hall & Oates                  ,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370649,Home,Edward Sharpe & The Magnetic Zeros,1
+150117,193350,Bring the change,"rock, focus, change, alternative",1370637,All Apologies,Nirvana,1,instrumental,0.999996900558,3.08247217617e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,116.523162842
+150117,193350,Bring the change,"rock, focus, change, alternative",1370659,Sleepyhead,Passion Pit,1

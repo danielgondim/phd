@@ -1,0 +1,5 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+457,408,Puffed Rice Cereal mix,"punk rock, trance, alternrock alt. rock",4243,"Harder, Better, Faster, Stronger",Daft Punk,0
+457,408,Puffed Rice Cereal mix,"punk rock, trance, alternrock alt. rock",4247,Building A Religion,Cake,0
+457,408,Puffed Rice Cereal mix,"punk rock, trance, alternrock alt. rock",4254,Lovesong,Snake River Conspiracy,0
+457,408,Puffed Rice Cereal mix,"punk rock, trance, alternrock alt. rock",4257,Diamonds and Guns,Transplants,0,instrumental,0.979757666588,0.0202423483133,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955899432302,0.90441006422,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,85.6820983887

@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+17,297,Awaiting a New Sun God,"new wave, post-punk, minimal synth",3423,They Said Tomorrow,Abecedarians,0
+17,297,Awaiting a New Sun God,"new wave, post-punk, minimal synth",3422,What Will You Say Tonight,Veil Veil Vanish,0
+17,297,Awaiting a New Sun God,"new wave, post-punk, minimal synth",3421,Voudou,Sleepmask,0
+17,297,Awaiting a New Sun God,"new wave, post-punk, minimal synth",3426,I Travel,Simple Minds,0
+17,297,Awaiting a New Sun God,"new wave, post-punk, minimal synth",3427,Nowa aleksandria,Siekiera,0,voice,0.0394675023854,0.960532486439,not_danceable,0.186279624701,0.813720405102,not_acoustic,0.097724609077,0.902275383472,aggressive,0.550639510155,0.449360489845,party,0.566406011581,0.433593988419,not_relaxed,0.116626217961,0.88337379694,minor,162.459014893
+17,297,Awaiting a New Sun God,"new wave, post-punk, minimal synth",3435,Spent Time,The Durutti Column,0
+17,297,Awaiting a New Sun God,"new wave, post-punk, minimal synth",3424,Postcards,The Names,0
+17,297,Awaiting a New Sun God,"new wave, post-punk, minimal synth",3425,Refuge Underneath,Martial Canterel,0,instrumental,0.980160713196,0.0198392905295,danceable,0.984419941902,0.0155800310895,not_acoustic,0.0302559100091,0.969744086266,not_aggressive,0.3296238482,0.670376121998,party,0.622385025024,0.377614974976,not_relaxed,0.259757608175,0.740242362022,minor,107.280670166

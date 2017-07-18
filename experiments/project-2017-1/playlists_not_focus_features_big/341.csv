@@ -1,0 +1,8 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3816,Universal Mind Control (Dirty),Common ft Pharrell,0
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3820,Say Goodnight,Reks,0,voice,0.463483989239,0.536516010761,danceable,0.996649324894,0.00335067417473,not_acoustic,0.0321095623076,0.967890441418,not_aggressive,0.126467779279,0.873532235622,party,0.81479537487,0.185204610229,not_relaxed,0.210618495941,0.789381504059,minor,95.069732666
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3825,Fried Chicken,Nas feat. Busta Rhymes,0,instrumental,0.977654457092,0.0223455652595,not_danceable,3.00000096379e-14,1,not_acoustic,0.0634952932596,0.936504721642,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,95.4266738892
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3826,Damn I'm Cold (featuring Lil' Wayne),Bun B,0
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3827,ROYAL FLUSH,OUTKAST FEAT. RAEKWON,0
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3831,Pain f. Keyshia Cole,The Game,0
+655,341,Mediaguide Underground Hip Hop Specialty (July 7-13),"hip hop, r&b",3835,"Get Busy Feat. Dice Raw, Peedi Crakk, & DJ Jazzy Jeff",The Roots,0

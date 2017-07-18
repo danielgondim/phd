@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+634810,603550,Slip Away,"dubstep, focus, study",6248285,Strangers (Shem Remix),Portishead,1
+634810,603550,Slip Away,"dubstep, focus, study",6248560,Go (Basik Remix) ,Delilah  ,1
+634810,603550,Slip Away,"dubstep, focus, study",6248854,Feel Good Inc ( Deleo Dubstep Remix ),Gorillaz,1,voice,0.101110972464,0.898889005184,danceable,0.994278788567,0.00572121609002,not_acoustic,0.00876170303673,0.991238296032,not_aggressive,0.169085562229,0.830914437771,party,0.541961252689,0.458038717508,not_relaxed,0.5,0.5,minor,138.434555054
+634810,603550,Slip Away,"dubstep, focus, study",6248176,I Know   ,Kastle  ,1
+634810,603550,Slip Away,"dubstep, focus, study",6248886,Crunch ,Datsik (Ft. Flux Pavillion)   ,1
+634810,603550,Slip Away,"dubstep, focus, study",6247735,Violent Dreams,Crystal Castles ,1,instrumental,0.552948117256,0.447051882744,danceable,0.890446662903,0.109553344548,not_acoustic,2.00729959943e-06,0.999997973442,not_aggressive,3.00000096379e-14,1,not_party,0.186851263046,0.813148736954,relaxed,0.957456707954,0.0425432808697,minor,113.922294617
+634810,603550,Slip Away,"dubstep, focus, study",6248622,Ritual Union (Maya Jane Coles Remix),Little Dragon,1
+634810,603550,Slip Away,"dubstep, focus, study",6247739,Isis,June Miller ,1
+634810,603550,Slip Away,"dubstep, focus, study",6248563,Blue Lights,Kubix   ,1
+634810,603550,Slip Away,"dubstep, focus, study",6248648,You've Got Me (Nhar Firefly Remix),Lee Burton   ,1

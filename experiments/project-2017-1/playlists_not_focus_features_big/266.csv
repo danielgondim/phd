@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+29,266,Summer Vibrations,summer,3049,Eloquence,Jason Falkner,0
+29,266,Summer Vibrations,summer,3050,Author Unknown,Jason Falkner,0,voice,0.0176505111158,0.982349514961,danceable,0.982499182224,0.017500821501,not_acoustic,0.0500844828784,0.949915528297,aggressive,0.616553425789,0.383446544409,party,0.658225595951,0.341774404049,not_relaxed,0.241223111749,0.758776903152,major,95.1223526001
+29,266,Summer Vibrations,summer,3051,Au Lait,Pat Metheny Group,0,instrumental,0.980008244514,0.019991742447,not_danceable,0.083663418889,0.916336596012,acoustic,0.992828369141,0.00717162387446,not_aggressive,0.0516066551208,0.948393344879,not_party,0.0089821415022,0.991017878056,relaxed,0.98897844553,0.0110215442255,major,111.63318634
+29,266,Summer Vibrations,summer,3052,Good Night,The Beatles,0
+29,266,Summer Vibrations,summer,3053,Grace,U2,0
+29,266,Summer Vibrations,summer,3054,Good Vibrations,Brian Wilson,0,instrumental,0.982507586479,0.0174924097955,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,142.556213379
+29,266,Summer Vibrations,summer,3055,Green Onions,Booker T. and the MGs,0
+29,266,Summer Vibrations,summer,3056,Green River,Creedence Clearwater Revival,0,instrumental,0.902407169342,0.0975928604603,not_danceable,0.293735861778,0.706264138222,not_acoustic,0.0160910449922,0.983908951283,aggressive,0.901518762112,0.0984812527895,party,0.792852699757,0.207147285342,not_relaxed,0.000826551404316,0.999173462391,minor,143.502990723
+29,266,Summer Vibrations,summer,3057,Guinnevere,"Crosby, Stills & Nash",0
+29,266,Summer Vibrations,summer,3058,Guys Like Me,Aimee Mann,0,voice,0.407480895519,0.592519104481,not_danceable,0.304489940405,0.695510029793,acoustic,0.515844583511,0.484155386686,not_aggressive,0.0142437331378,0.985756278038,not_party,0.0798199251294,0.920180082321,not_relaxed,0.315500259399,0.684499740601,major,126.418876648

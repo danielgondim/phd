@@ -1,0 +1,4 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+242,205,Testing 1 2 3  Is this thing on,,1544,You Got Yr. Cherry Bomb,Spoon,0
+242,205,Testing 1 2 3  Is this thing on,,158,The Ghost of You Lingers,Spoon,0
+242,205,Testing 1 2 3  Is this thing on,,2520,Lovely Allen,Holy Fuck,0

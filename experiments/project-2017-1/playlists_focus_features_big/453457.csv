@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+481567,453457,Tebowd,"electro house, progressive house, focus",5083700,Tornado,"Tiesto, Steve Aoki",1
+481567,453457,Tebowd,"electro house, progressive house, focus",5083685,Advanced - Tiesto Remix,"Marcel Woods, Tiesto",1
+481567,453457,Tebowd,"electro house, progressive house, focus",5083709,Shave It - Tommy Trash Remix,Zedd,1
+481567,453457,Tebowd,"electro house, progressive house, focus",5083695,Slumber -Tommy Trash Remix,"Steve Forte Rio, Lindsey Ray, Tommy Trash",1
+481567,453457,Tebowd,"electro house, progressive house, focus",5083705,The Champ - Extended Mix,Wolfgang Gartner,1
+481567,453457,Tebowd,"electro house, progressive house, focus",5083679,Levels,Avicii,1
+481567,453457,Tebowd,"electro house, progressive house, focus",5083688,Resurrection - Axwell's Recut Club Version,"Michael Calfan, Axwell",1,instrumental,0.858809888363,0.141190096736,danceable,0.99986410141,0.000135872833198,not_acoustic,0.0128408009186,0.987159192562,not_aggressive,0.0973884388804,0.902611553669,party,0.923895895481,0.0761041343212,relaxed,0.544868171215,0.455131858587,minor,128.010391235
+481567,453457,Tebowd,"electro house, progressive house, focus",5083691,Paradise - Fedde Le Grand Remix,"Coldplay, Fedde Le Grand",1
+481567,453457,Tebowd,"electro house, progressive house, focus",5083683,Titanium Feat. Sia - Alesso Remix,"David Guetta, Alesso",1
+481567,453457,Tebowd,"electro house, progressive house, focus",5083677,Lionheart,Afrojack,1

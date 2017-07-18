@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+11,200,frenetic,frenetic,2496,Oh My Golly!,The Pixies,0
+11,200,frenetic,frenetic,2495,Nature Without Man,Minutemen,0,instrumental,0.54138302803,0.458617001772,not_danceable,0.222067430615,0.777932584286,not_acoustic,0.0307253431529,0.969274640083,not_aggressive,0.399464637041,0.600535333157,not_party,0.331394433975,0.668605566025,not_relaxed,0.190021067858,0.809978961945,minor,74.139251709
+11,200,frenetic,frenetic,2465,Magic Toy Missing,Meat Puppets,0
+11,200,frenetic,frenetic,2487,5-4-3-2-1 Lisp Off,Modest Mouse,0
+11,200,frenetic,frenetic,2498,Rock Music,The Pixies,0
+11,200,frenetic,frenetic,2485,Nic Fit,Sonic Youth,0
+11,200,frenetic,frenetic,2477,Swy,Modest Mouse,0
+11,200,frenetic,frenetic,2497,Western Homes,Pavement,0,voice,0.0490334108472,0.950966596603,not_danceable,0.25495621562,0.745043814182,not_acoustic,0.0184799376875,0.981520056725,aggressive,0.558127880096,0.441872090101,party,0.636460781097,0.363539218903,not_relaxed,0.172605097294,0.827394902706,major,144.528961182
+11,200,frenetic,frenetic,2493,You're Not an Airplane,Guided by Voices,0,voice,0.00503066554666,0.994969308376,not_danceable,0.0499654896557,0.950034499168,acoustic,0.98670822382,0.0132917882875,not_aggressive,1.84834116226e-05,0.99998152256,not_party,0.00970933679491,0.990290641785,relaxed,0.973638117313,0.0263618566096,major,123.19392395

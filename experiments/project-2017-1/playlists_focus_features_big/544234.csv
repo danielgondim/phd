@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5845950,In My Time Of Dying.,frazy ford,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5845954,Brother,Little Birdy,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5845975,Blue Jeans,Lana Del Rey   ,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5845982,shelter,Birdy,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846065,Places You Have Come to Fear the Most,Dashboard Confessional,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846067,thats some dream,Good old war,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846069,The Funeral,Band of Horses,1
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846082,The High Road,Broken Bells,1,instrumental,0.999999940395,5.2736496059e-08,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,79.9858016968
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846099,Casey's Song,City and Colour,1,instrumental,0.999998807907,1.16580235954e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.116620123386,0.883379876614,not_aggressive,3.00000096379e-14,1,not_party,1.43584420584e-05,0.999985635281,relaxed,0.808817088604,0.191182896495,minor,119.318435669
+595819,544234,just LiSteN...,"acoustic, chill, focus, feel good",5846101,In My Veins,Andrew Belle,1

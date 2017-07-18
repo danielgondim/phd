@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+126697,221142,Feed your mind,"chill, electronic, focus",1764934,It Never Changes To Stop,The Books,1,instrumental,0.934540867805,0.0654591470957,not_danceable,0.0452282465994,0.954771757126,acoustic,0.656696379185,0.343303620815,not_aggressive,0.00945667084306,0.990543305874,not_party,0.082784101367,0.917215883732,relaxed,0.99469190836,0.00530808558688,major,127.850494385
+126697,221142,Feed your mind,"chill, electronic, focus",1764950,Sweet Love For Planet Earth,FUCK BUTTONS,1,instrumental,0.996966719627,0.00303326779976,danceable,0.950572490692,0.0494275353849,not_acoustic,0.00388811691664,0.996111869812,aggressive,0.648720860481,0.351279139519,party,0.814557611942,0.185442402959,not_relaxed,0.342598885298,0.657401144505,major,115.282188416
+126697,221142,Feed your mind,"chill, electronic, focus",1764939,Tale From Black,Tunng,1
+126697,221142,Feed your mind,"chill, electronic, focus",1764932,Jynweythek Ylow,Aphex Twin,1,instrumental,0.99998664856,1.33507119244e-05,not_danceable,0.0099113592878,0.990088641644,acoustic,0.975521206856,0.0244787894189,not_aggressive,0.0050980290398,0.994901955128,not_party,0.00164553942159,0.998354434967,relaxed,0.999987125397,1.28492292788e-05,minor,119.922355652
+126697,221142,Feed your mind,"chill, electronic, focus",1764947,Dayvan Cowboy,Boards of Canada,1
+126697,221142,Feed your mind,"chill, electronic, focus",1764940,Avril 14th,Aphex Twin,1
+126697,221142,Feed your mind,"chill, electronic, focus",1764952,Banshee Beat,Animal Collective,1
+126697,221142,Feed your mind,"chill, electronic, focus",1764948,"When The Catholic Girls Go Camping, The Nicotine Vampires Rule Supreme.",Giraffes? Giraffes!,1
+126697,221142,Feed your mind,"chill, electronic, focus",1764956,Joy Fantastic (Featuring Olivier Daysoul),Hudson Mohawke,1
+126697,221142,Feed your mind,"chill, electronic, focus",1764955,Here It Is & There It Goes,King Tut,1
+126697,221142,Feed your mind,"chill, electronic, focus",1764957,The Wizards Ascension,Nubbin,1
+126697,221142,Feed your mind,"chill, electronic, focus",1764958,Iamundernodisguise,School Of Seven Bells,1,instrumental,0.999999403954,6.01635804287e-07,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,92.4879150391
+126697,221142,Feed your mind,"chill, electronic, focus",1764961,Saeglopur,Sigur Rós,1

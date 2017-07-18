@@ -1,0 +1,14 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+14,197,Everything is Going to Be OK,,2461,Is There a Ghost,Band Of Horses,0,instrumental,0.999993622303,6.35523565506e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,137.481338501
+14,197,Everything is Going to Be OK,,2463,A Sentence Of Sorts In Kongsvinger,Of Montreal,0
+14,197,Everything is Going to Be OK,,2462,Dictionary,The go find,0,instrumental,0.974712967873,0.0252870041877,danceable,0.679515898228,0.32048407197,acoustic,0.5,0.5,not_aggressive,0.0218197330832,0.978180289268,not_party,0.239764407277,0.760235607624,relaxed,0.917504608631,0.0824953913689,major,129.943450928
+14,197,Everything is Going to Be OK,,2460,Way Out,Ellen Allien & Apparat,0
+14,197,Everything is Going to Be OK,,2456,Your Ex-Lover Is Dead,Stars,0,instrumental,1,1.94330027625e-08,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,152.345794678
+14,197,Everything is Going to Be OK,,2457,Deserter,Matthew Dear,0
+14,197,Everything is Going to Be OK,,2454,Breezin',Cornelius,0,instrumental,0.996805131435,0.00319486879744,danceable,0.966546595097,0.0334533974528,not_acoustic,0.0114022530615,0.988597750664,not_aggressive,4.32198499212e-10,1,not_party,0.0201899055392,0.979810118675,relaxed,0.808895885944,0.191104114056,major,141.995773315
+14,197,Everything is Going to Be OK,,2459,Ice Cream,Muscles,0
+14,197,Everything is Going to Be OK,,2453,Bizarre Love Triangle (Step Pettibone Extended Mix),New Order,0,voice,0.00341066648252,0.996589362621,danceable,0.919955849648,0.0800441578031,not_acoustic,0.0375062003732,0.962493777275,aggressive,0.739980757236,0.260019242764,party,0.936367452145,0.0636325255036,not_relaxed,0.0416920036077,0.958307981491,major,118.474815369
+14,197,Everything is Going to Be OK,,2451,Johnny Guitar,The Nice Boys,0
+14,197,Everything is Going to Be OK,,2455,On A String,Changes,0
+14,197,Everything is Going to Be OK,,2458,You! Me! Dancing!,los campesinos,0
+14,197,Everything is Going to Be OK,,2452,Always Love,Nada Surf,0

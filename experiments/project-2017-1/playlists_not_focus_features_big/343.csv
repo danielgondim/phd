@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3836,Living for the City,Roc C,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3837,Baby Snakes,Frank Zappa,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3838,Garbage,Aesop Rock,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3839,Look-Ka Py Py,The Meters,0,instrumental,0.950268805027,0.0497312173247,danceable,0.73349916935,0.26650083065,not_acoustic,0.180956676602,0.819043338299,not_aggressive,0.229620680213,0.770379304886,party,0.839067697525,0.160932317376,relaxed,0.871891856194,0.128108158708,major,172.265487671
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3840,Tobacco Road,Lou RAWLS,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3841,Vomitspit,MF Doom,0,instrumental,0.989293396473,0.0107065960765,not_danceable,3.00000096379e-14,1,not_acoustic,0.0161440055817,0.983856022358,not_aggressive,3.00000096379e-14,1,not_party,1.57678659889e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,93.2885818481
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3842,9MM,Butter 08,0
+451,343,soundtrack to my life today,"hip hop, rap, experimental pop rock",3843,Rebel Without a Pause,Public Enemy,0,instrumental,0.645738661289,0.354261338711,danceable,0.986929655075,0.0130703505129,not_acoustic,0.00754151353613,0.992458462715,aggressive,0.884038567543,0.115961402655,party,0.836219668388,0.163780346513,not_relaxed,0.00580524839461,0.994194746017,major,99.6196212769

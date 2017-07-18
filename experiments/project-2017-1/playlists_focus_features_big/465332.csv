@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+687422,465332,Get Focused.,"hip hop, workout, focus",5262621,Ambition (feat. Meek Mill & Rick Ross),Wale,1
+687422,465332,Get Focused.,"hip hop, workout, focus",5262629,Finally Here,Flo Rida,1,voice,0.358256816864,0.641743183136,danceable,0.999256908894,0.000743119278923,not_acoustic,0.0296547617763,0.970345258713,not_aggressive,0.16520537436,0.834794640541,party,0.813477277756,0.186522737145,not_relaxed,0.152261391282,0.847738623619,major,128.102600098
+687422,465332,Get Focused.,"hip hop, workout, focus",5262634,I Still Have a Soul,Epic Score,1
+687422,465332,Get Focused.,"hip hop, workout, focus",5262659,Who Gon Stop Me,Jay-Z & Kanye West,1,instrumental,0.999997854233,2.1606183509e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955876857042,0.904412329197,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,133.642745972
+687422,465332,Get Focused.,"hip hop, workout, focus",5262668,God's Gonna Cut You Down,Johnny Cash,1,instrumental,0.99999666214,3.34795618073e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.150399342179,0.849600672722,not_aggressive,3.00000096379e-14,1,not_party,1.57779850269e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,82.3100738525
+687422,465332,Get Focused.,"hip hop, workout, focus",5262703,HYFR (Hell Ya Fuckin' Right),Drake feat. Lil' Wayne,1
+687422,465332,Get Focused.,"hip hop, workout, focus",5262719,Look At Me Now,Ember Waves,1
+687422,465332,Get Focused.,"hip hop, workout, focus",5262749,Mr. Jones,Mike Jones,1
+687422,465332,Get Focused.,"hip hop, workout, focus",5262786,Hustle ,Birdman Ft. Gudda,1

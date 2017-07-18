@@ -1,0 +1,16 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3877,Feeling Good,Nina Simone,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3878,Black,Pearl Jam,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3879,Kiss of Life,Sade,0,voice,0.464079499245,0.535920500755,not_danceable,0.0416264608502,0.9583735466,acoustic,0.918683350086,0.0813166722655,not_aggressive,8.58551175043e-06,0.999991416931,not_party,0.0155275715515,0.984472453594,relaxed,0.990633487701,0.00936652999371,minor,97.0949630737
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3880,Who's Gonna Ride Your Wild Horses,U2,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3881,Everything She Wants (remix),Wham,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3882,Kissing You,Des'ree,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3883,Be Happy,Mary J. Blige,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3884,Into the Groove,Madonna,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3885,This Woman's Work,Maxwell,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3886,Tsunami,Res,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3887,Kid,The Pretenders,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3888,Hallelujah,Jeff Buckley,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3889,Here Comes the Sun,The Beatles,0
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3890,Waiting for That Day/You Can't Always Get What You Want,George Michael,0,voice,0.0134732220322,0.986526787281,danceable,0.731208562851,0.268791437149,not_acoustic,0.18851980567,0.811480164528,not_aggressive,0.0823499783874,0.917650043964,not_party,0.493609130383,0.506390869617,not_relaxed,0.32024872303,0.67975127697,major,86.2645645142
+611,349,Ms. Jackson's All-Time Favorite Songs,"jazz, rock, r&b",3891,Come on Home,Everything But the Girl,0

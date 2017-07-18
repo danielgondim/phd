@@ -1,0 +1,19 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285461,hello good morning feat T.I,Diddy Dirty Money,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285492,Heavy ft. Dizze Rascal,Chase and Status,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285485,Traktor (feat. L),Wretch 32,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285503,Fastlane,Bad Meets Evil,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285508,"Let's Go (Feat. Yelawolf, Twista, Busta Rhymes & Lil Jon)",Travis Barker,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285458,Get Up,50 Cent,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285497,X Gon Give It to Ya,DMX,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285464,Here Comes The Boom,Nelly,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285460,My Fucn House Ft. Young Jeezy And E-40,Snoop Dogg,1,voice,0.139454498887,0.860545516014,danceable,0.989640772343,0.0103592574596,not_acoustic,0.0604106597602,0.939589321613,not_aggressive,0.406914621592,0.593085408211,party,0.767580330372,0.232419684529,not_relaxed,0.0622625797987,0.9377374053,minor,163.327453613
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285466,Comin' In Hot,Hollywood Undead,1,instrumental,0.999999940395,5.76416709919e-08,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,95.9262313843
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285474,Who Gon Stop Me,Jay-Z and Kanye West,1,instrumental,0.999997854233,2.1606183509e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955876857042,0.904412329197,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,133.642745972
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285510,'Till I Collapse,Eminem,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285489,Remember the Name,Fort Minor,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285471,Hustlin' (Remix) (Feat. Jay-Z,Rick Ross,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285469,Heart Of A Champion (Feat. Lin,Nelly,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285463,Can't Tell Me Nothing,Kanye West,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285478,Hate Me Now (feat. Puff Daddy),Nas,1
+694611,466804,Total Nerve-Buster,"hip hop, rap, pump up, urban, focus",5285501,If I Can't,50 Cent,1,instrumental,0.999998748302,1.22943868064e-06,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,minor,94.0070724487

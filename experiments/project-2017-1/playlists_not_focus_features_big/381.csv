@@ -1,0 +1,6 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+799,381,kmtiszen's July 2008 mix,,145,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0
+799,381,kmtiszen's July 2008 mix,,1008,Chicago X 12,Rogue Wave,0
+799,381,kmtiszen's July 2008 mix,,3288,North Portland,Robert Glasper,0
+799,381,kmtiszen's July 2008 mix,,3283,Brooklyn Sometimes,Kurt Rosenwinkel,0
+799,381,kmtiszen's July 2008 mix,,3238,Omaha,Counting Crows,0,instrumental,0.677150011063,0.322849988937,not_danceable,3.00000096379e-14,1,not_acoustic,0.025461608544,0.974538385868,not_aggressive,3.00000096379e-14,1,not_party,1.57781887538e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,77.9856491089

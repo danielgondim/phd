@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+536544,392012,Eight of Pentacles.,"working hard, working it, focus, hammer away, minor arcana",4207121,If I Had A Hammer,"Peter, Paul and Mary",1
+536544,392012,Eight of Pentacles.,"working hard, working it, focus, hammer away, minor arcana",4207966,Coin Laundry,Lisa Mitchell,1
+536544,392012,Eight of Pentacles.,"working hard, working it, focus, hammer away, minor arcana",4207173,Beat It,Michael Jackson,1
+536544,392012,Eight of Pentacles.,"working hard, working it, focus, hammer away, minor arcana",4207006,Work It (Remix feat. 50 Cent),Missy Elliott,1,instrumental,0.644403755665,0.355596244335,danceable,0.971160829067,0.0288391895592,not_acoustic,0.145036697388,0.854963302612,not_aggressive,0.0327498614788,0.967250168324,party,0.852700054646,0.147299945354,relaxed,0.750551640987,0.249448359013,major,101.891601562
+536544,392012,Eight of Pentacles.,"working hard, working it, focus, hammer away, minor arcana",4207969,Nine to Five (JoolsMF Remix),Lady Sovereign,1
+536544,392012,Eight of Pentacles.,"working hard, working it, focus, hammer away, minor arcana",4207780,Can't Stop Me,Chip Tha Ripper Ft. Kid Cudi,1
+536544,392012,Eight of Pentacles.,"working hard, working it, focus, hammer away, minor arcana",4207877,Find A Way,Santogold ft. KiD CuDi,1
+536544,392012,Eight of Pentacles.,"working hard, working it, focus, hammer away, minor arcana",4209050,Slave To The Wage (I Can't Believe It's A Remix),Placebo,1

@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+11,167,parachute pants,,1972,Dreaming,Blondie,0
+11,167,parachute pants,,1952,This Is Pop,XTC,0
+11,167,parachute pants,,1945,Streets Of Your Town,The Go-Betweens,0,instrumental,0.995831489563,0.00416851788759,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,131.836761475
+11,167,parachute pants,,1944,A Forest,The Cure,0
+11,167,parachute pants,,1937,Nirvana,The Cult,0,instrumental,0.911543726921,0.0884562432766,not_danceable,0.188929826021,0.811070144176,not_acoustic,1.59874829819e-07,0.999999821186,aggressive,0.999867975712,0.000132029206725,party,0.827121376991,0.172878608108,not_relaxed,0.0558157041669,0.944184303284,major,129.831985474
+11,167,parachute pants,,2052,A Promise,Echo & the Bunnymen,0

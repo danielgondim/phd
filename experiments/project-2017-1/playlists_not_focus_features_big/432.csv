@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+1122,432,"GetRightMusic.com - ""I Put You On"" Vol.1","mixtape, hip hop",4358,14 - They're Everywhere (Produced by Koolade),Izza Kizza,0
+1122,432,"GetRightMusic.com - ""I Put You On"" Vol.1","mixtape, hip hop",4359,Told Me,Johnson&Jonson,0
+1122,432,"GetRightMusic.com - ""I Put You On"" Vol.1","mixtape, hip hop",4360,6. Jump f. Jesse Boykins III (prod The Milkman),Fresh Daily,0
+1122,432,"GetRightMusic.com - ""I Put You On"" Vol.1","mixtape, hip hop",4361,Day N Nite,KiD CuDi,0
+1122,432,"GetRightMusic.com - ""I Put You On"" Vol.1","mixtape, hip hop",4362,Whole Time f. Young Chris,Wale,0
+1122,432,"GetRightMusic.com - ""I Put You On"" Vol.1","mixtape, hip hop",4363,11.The Sun God Free (prod. by Hi Tek),Asher Roth,0,voice,0.00229618651792,0.997703790665,danceable,0.667488336563,0.332511693239,not_acoustic,0.0869034901261,0.913096487522,not_aggressive,0.0534149296582,0.946585059166,party,0.700488269329,0.299511730671,not_relaxed,0.406863212585,0.593136787415,minor,93.7493133545
+1122,432,"GetRightMusic.com - ""I Put You On"" Vol.1","mixtape, hip hop",4364,Keep Moving Feat. Fresh Daily - Getrightmusic.com,Mickey Factz,0
+1122,432,"GetRightMusic.com - ""I Put You On"" Vol.1","mixtape, hip hop",4365,Greater Love,Blu & Exile,0

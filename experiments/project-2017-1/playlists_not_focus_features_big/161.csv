@@ -1,0 +1,12 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+227,161,sonnys mix 1,"electronic, punk, house junk",891,Focus on Sight,Thievery Corporation,0,instrumental,0.913321256638,0.0866787433624,danceable,0.935393512249,0.0646064952016,not_acoustic,0.212571933866,0.787428081036,not_aggressive,0.00922784954309,0.990772128105,not_party,0.437471777201,0.562528192997,relaxed,0.512847781181,0.487152218819,minor,105.931167603
+227,161,sonnys mix 1,"electronic, punk, house junk",145,"New York, I Love You But You're Bringing Me Down",LCD Soundsystem,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1661,Glam Bucket,Underworld,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1481,03 By Your Side (Ben Watt Lazy Dog Remix) - Sade,Ben Watt,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1315,Summer In Paris,Dj Cam,0,instrumental,0.963795006275,0.0362049676478,danceable,0.83271074295,0.16728925705,acoustic,0.876220703125,0.123779274523,not_aggressive,0.0152519959956,0.984748005867,not_party,0.16172491014,0.838275074959,relaxed,0.878764510155,0.121235489845,minor,129.107528687
+227,161,sonnys mix 1,"electronic, punk, house junk",752,Bodysnatchers,Radiohead,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1474,Death Of A Disco Dancer,The Smiths,0,instrumental,0.995427668095,0.0045723519288,not_danceable,0.0254042204469,0.974595785141,not_acoustic,0.00455574225634,0.995444238186,aggressive,0.667249321938,0.33275064826,party,0.735466599464,0.264533400536,not_relaxed,0.113748341799,0.886251688004,minor,172.265014648
+227,161,sonnys mix 1,"electronic, punk, house junk",1558,Someone Great,LCD Soundsystem,0,instrumental,0.533156633377,0.466843336821,danceable,0.985771119595,0.0142288934439,not_acoustic,0.388297587633,0.611702442169,not_aggressive,0.0198746062815,0.980125367641,party,0.777454316616,0.222545668483,not_relaxed,0.485176533461,0.514823436737,major,113.006866455
+227,161,sonnys mix 1,"electronic, punk, house junk",1571,Rock To The Rhythm,DJ Dan,0
+227,161,sonnys mix 1,"electronic, punk, house junk",69,Going to California,Led Zeppelin,0
+227,161,sonnys mix 1,"electronic, punk, house junk",1545,Ceremony (New Order cover),Radiohead,0

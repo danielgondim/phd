@@ -1,0 +1,7 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+423,275,Late Night mix,,3191,The Crane Wife 3,The Decemberists,0
+423,275,Late Night mix,,3192,Shankill Butchers,The Decemberists,0
+423,275,Late Night mix,,3193,The Crane Wife 1 And 2,The Decemberists,0
+423,275,Late Night mix,,3194,PBS,Tycho,0,instrumental,0.80355733633,0.19644266367,danceable,0.890945136547,0.109054856002,not_acoustic,0.264526546001,0.735473453999,not_aggressive,0.00550578394905,0.994494199753,not_party,0.248893707991,0.751106321812,relaxed,0.68052482605,0.319475144148,minor,117.003295898
+423,275,Late Night mix,,3197,Iron Lion Zion,Bob Marley,0,voice,0.297913849354,0.702086150646,danceable,0.989548623562,0.0104513978586,not_acoustic,0.145049870014,0.854950129986,not_aggressive,0.481593310833,0.518406689167,party,0.839155375957,0.160844609141,relaxed,0.848056137562,0.151943862438,minor,143.703918457
+423,275,Late Night mix,,3198,Skate With Me,Dgenerate Nation,0

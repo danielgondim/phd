@@ -1,0 +1,13 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+287,235,Summer Selection,"electronic, jazz, rock",757,Well You Needn't  - Thelonius Monk,Thelonious Monk,0
+287,235,Summer Selection,"electronic, jazz, rock",758,Cuca's Blues,The Latin Playboys,0
+287,235,Summer Selection,"electronic, jazz, rock",766,Broasted Or Fried,Willie Bobo,0
+287,235,Summer Selection,"electronic, jazz, rock",378,Numb Dumb Dumb,Ascendant!,0
+287,235,Summer Selection,"electronic, jazz, rock",377,If Tears Were Balloons,Dada,0
+287,235,Summer Selection,"electronic, jazz, rock",752,Bodysnatchers,Radiohead,0
+287,235,Summer Selection,"electronic, jazz, rock",2367,On Your Way,The Album Leaf,0,instrumental,0.999999821186,1.67365129755e-07,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,172.265655518
+287,235,Summer Selection,"electronic, jazz, rock",2370,Boody Oil,Medeski Martin & Wood,0
+287,235,Summer Selection,"electronic, jazz, rock",2366,A Punchup at a Wedding,Radiohead,0
+287,235,Summer Selection,"electronic, jazz, rock",970,So What,Michel Petrucciani,0
+287,235,Summer Selection,"electronic, jazz, rock",2369,Run The VooDoo Down,Cassandra Wilson,0,voice,0.0273085106164,0.972691476345,danceable,0.949188947678,0.0508110374212,acoustic,0.734016597271,0.265983432531,not_aggressive,5.45004127162e-07,0.999999463558,not_party,0.204831004143,0.795168995857,relaxed,0.780597567558,0.219402417541,minor,75.8294448853
+287,235,Summer Selection,"electronic, jazz, rock",2667,Nancy,John Coltrane,0,instrumental,0.997143149376,0.00285686808638,not_danceable,0.0240533240139,0.97594666481,acoustic,0.948994517326,0.0510054752231,not_aggressive,0.00293375691399,0.997066259384,not_party,0.0233341064304,0.976665914059,relaxed,0.994246900082,0.00575309991837,major,132.489135742

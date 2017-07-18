@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+719564,529089,Keep calm & study,"study, relax, calm, focus",5736871,Sigh No More,Mumford and Sons,1
+719564,529089,Keep calm & study,"study, relax, calm, focus",5736879,After The Storm ,Mumford and Sons,1
+719564,529089,Keep calm & study,"study, relax, calm, focus",5736896,Hometown Glory,Adele,1,voice,0.0766226574779,0.923377335072,not_danceable,0.059668045491,0.940331935883,acoustic,0.801568448544,0.198431551456,not_aggressive,0.104356572032,0.895643413067,not_party,0.0338261127472,0.966173887253,relaxed,0.91066557169,0.0893344208598,minor,122.490615845
+719564,529089,Keep calm & study,"study, relax, calm, focus",5736903,You da one,Rihanna,1
+719564,529089,Keep calm & study,"study, relax, calm, focus",5736904,We Found Love,Rihanna ft. Calvin Harris,1
+719564,529089,Keep calm & study,"study, relax, calm, focus",5736924,Take Care,Drake Ft. Rihanna ,1
+719564,529089,Keep calm & study,"study, relax, calm, focus",5736925,The Motto,Drake Ft. Lil Wayne,1
+719564,529089,Keep calm & study,"study, relax, calm, focus",5736933,Set Fire To The Rain,Adele,1
+719564,529089,Keep calm & study,"study, relax, calm, focus",5736959,Home,Edward Sharpe & The Magnetic Zeros,1

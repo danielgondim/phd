@@ -1,0 +1,10 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+659,352,this one reminds me of my dad,"vintage, pop, rock",3984,"Papa's Got a Brand New Bag, Pt. 1",James Brown,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3844,Crystal Blue Persuasion,Tommy James & the Shondells,0,voice,0.000658656121232,0.999341368675,not_danceable,0.38286793232,0.61713206768,acoustic,0.88165640831,0.118343569338,not_aggressive,0.063656963408,0.93634301424,not_party,0.174095079303,0.825904905796,relaxed,0.885295331478,0.114704690874,major,99.282585144
+659,352,this one reminds me of my dad,"vintage, pop, rock",2901,The Song Remains The Same,Led Zeppelin,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3979,Billie Jean,Michael Jackson,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3980,Walk on the Wild Side,Lou Reed,0,voice,0.139441475272,0.860558509827,not_danceable,0.228301405907,0.771698594093,acoustic,0.67074662447,0.32925337553,not_aggressive,0.0305649358779,0.969435036182,not_party,0.113703534007,0.886296451092,relaxed,0.859407603741,0.140592381358,major,92.8148498535
+659,352,this one reminds me of my dad,"vintage, pop, rock",3982,Dreams,Fleetwood Mac,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3981,I'll Follow The Sun,The Beatles,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3985,Ring Of Fire,Johnny Cash,0
+659,352,this one reminds me of my dad,"vintage, pop, rock",3983,Beyond The Sea,Bobby Darin,0

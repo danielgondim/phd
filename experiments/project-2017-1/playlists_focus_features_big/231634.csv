@@ -1,0 +1,9 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920231,Coma,Buckethead,1
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920271,Digital Bath,Deftones,1
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920294,Won't Back Down,Fuel,1,voice,0.0794407203794,0.920559287071,not_danceable,0.112194634974,0.887805342674,not_acoustic,2.10346527751e-07,0.999999761581,aggressive,0.992748737335,0.00725126918405,party,0.882818996906,0.117181025445,not_relaxed,0.0726708248258,0.927329182625,minor,95.0218887329
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920309,Set It Off,Audioslave,1,instrumental,0.993293404579,0.00670659262687,not_danceable,3.00000096379e-14,1,not_acoustic,0.0955903604627,0.904409646988,not_aggressive,3.00000096379e-14,1,not_party,1.57784197654e-05,0.999984204769,relaxed,0.808817088604,0.191182896495,major,172.265350342
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920348,Place for my Head,Linkin Park,1
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920380,Find My Way,P.O.D.,1,voice,0.385046064854,0.614953935146,not_danceable,0.38291195035,0.617088079453,not_acoustic,0.0191545896232,0.98084539175,aggressive,0.875107944012,0.124892033637,party,0.636809408665,0.363190561533,not_relaxed,0.07639734447,0.923602640629,minor,80.9521713257
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920407,Blackest Eyes,Porcupine Tree,1
+168835,231634,In the Zone,"rock, focus, energy, deftones, buckethead",1920447,Let's Go,Speak No Evil,1

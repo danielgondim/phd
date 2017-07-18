@@ -1,0 +1,11 @@
+user_id,mix_id,mix_name,mix_tags,track_id,track_name,artist_name,focus,voice_instrumental_value,instrumental,voice,danceability_value,danceable,not_danceable,mood_acoustic_value,acoustic,not_acoustic,mood_aggressive_value,aggressive,not_aggressive,mood_party_value,party,not_party,mood_relaxed_value,relaxed,not_relaxed,tone,bpm
+256,437,Station Wagon Summer,70s,4412,This Is It w/ Michael Mcdonald,Kenny Loggins,0
+256,437,Station Wagon Summer,70s,4413,In The City,The Eagles,0,instrumental,0.64452958107,0.355470389128,danceable,0.801617383957,0.198382601142,not_acoustic,0.0829598233104,0.917040169239,not_aggressive,0.0171619001776,0.982838094234,not_party,0.228967577219,0.771032392979,not_relaxed,0.174581244588,0.825418770313,major,81.5974655151
+256,437,Station Wagon Summer,70s,4414,Summer Breeze,Seals & Crofts,0,voice,0.423221737146,0.576778292656,not_danceable,0.111988551915,0.888011455536,acoustic,0.825087487698,0.174912527204,not_aggressive,7.30598799237e-07,0.999999284744,not_party,0.0663799270988,0.933620095253,not_relaxed,0.358229547739,0.641770482063,minor,178.205551147
+256,437,Station Wagon Summer,70s,4415,Amy,Pure Prairie League,0
+256,437,Station Wagon Summer,70s,4416,For You,Manfred Mann's Earth Band,0
+256,437,Station Wagon Summer,70s,4417,Magic,Pilot,0
+256,437,Station Wagon Summer,70s,4418,Shooting Star,Bad Company,0,voice,0.0221223067492,0.977877676487,danceable,0.664892613888,0.335107386112,not_acoustic,0.0588138215244,0.941186189651,not_aggressive,0.254107266665,0.745892703533,not_party,0.433089494705,0.566910505295,not_relaxed,0.0220559611917,0.977944016457,major,85.3945388794
+256,437,Station Wagon Summer,70s,4419,Sky High,Jigsaw,0
+256,437,Station Wagon Summer,70s,4420,Stumblin' In,Suzi Quatro with Chris Norman,0
+256,437,Station Wagon Summer,70s,4421,Sweet Talkin' Woman,Electric Light Orchestra,0
